@@ -268,15 +268,24 @@ The vocabulary the lexicon adopts from the wider field and pins down for use her
 
 ### Agroenergy {#term-agroenergy}
 
-Energy infrastructure sited and designed to interact intentionally with agricultural or ecological land function. Umbrella term, not solar-specific.
+Energy infrastructure that occupies or interacts with agricultural land functioning and operation, whether or not the interaction was intended. The broadest umbrella in this lexicon, non-solar-specific, and carries no requirement of design intent or outcome.
 
 *Term collision, flagged deliberately.* Elsewhere "agroenergy" (and *agro-energy*) most often means agriculture-*derived* **bioenergy**: energy crops, crop residue, biogas, and biomass, meaning farmland as a fuel source. This lexicon repurposes the word for the converse: energy *infrastructure* placed on and integrated with agricultural land. The reuse is intentional but worth naming, so a reader arriving from the bioenergy literature is not misled. The infrastructure sense is live in the peer-reviewed literature: @stid2025 define agrisolar as the integration and co-management of solar photovoltaics, agriculture and ecosystem services **within agroenergy landscapes**.
 
 ### Agrisolar {#term-agrisolar}
 
-Agroenergy specific to photovoltaics. This lexicon uses it as a neutral umbrella across the [farming axis](farming-axis.qmd), including S3–S5 rather than only agricultural co-location. **Multi-use solar** is a related, narrower term covering agrivoltaics, rangevoltaics, and ecovoltaics [@merheb2025].
+They key tenet of this lexicon, agroenergy specific to solar photovoltaics (PV): Solar PV that occupies or interacts with agricultural land functioning and operation. A neutral umbrella across the whole [farming axis](farming-axis.qmd) (S1–S5), intent- and outcome-agnostic like agroenergy and including any subsequent form of agricultural [co-location](#term-colocation-integration).
+
+Agrisolar potential can be technically defined from siting and management alone, as one or more of:
+* **occupies:** an array whose footprint was predominantly agricultural land before installation
+* **adjacentTo:** an array sitting substantially within or adjacent to neighboring land that is currently agricultural
+* **managed:** an array containing land inside the footprint that is under active agricultural management
+
+An array meeting none, or that cannot be evaluated, is **noCurrent**. These record potential, not practice: attributing practice needs an array's direct contribution to a farm, which siting and management do not resolve alone.
 
 **Syn.:** multi-use solar (narrower: excludes S3–S5 without an ecological ground layer).
+
+**Source:** @stid2025 — [Sources](sources.qmd) SolarPower Europe (ADD CITE).
 
 ### Agrivoltaics {#term-agrivoltaics}
 
@@ -284,13 +293,15 @@ Crop or livestock production within the array footprint (S1–S2). Crop response
 
 *The idea is older than the word.* @goetzberger1982 proposed running solar conversion and plant cultivation on one field and worked the geometry out, collectors about two meters up and rows spaced at roughly three times their height, which left about two-thirds of open-field radiation on the ground. That was decades before anyone built one at scale. The word itself arrived with @dupraz2011, whose modeling of crops under partial shade also brought the [land equivalent ratio](#term-ler) into the field. Neither the term nor the metric belongs to this lexicon.
 
-**Syn.:** agrophotovoltaics (German); photovoltaic agriculture (Chinese); solar sharing (Japanese).
+**Syn.:** agrophotovoltaics (German); photovoltaic agriculture (Chinese); solar sharing (Japanese); agri-PV; PV agriculutre; aglectric.
+
+**Source:** [AFT Policy Reccommendations](https://farmland.org/files/aft_final_policy_recommendations_to_increase_agrivoltaic_development_definition_and_incentives_final-2.27.25.pdf); [SB 2931](https://www.congress.gov/bill/118th-congress/senate-bill/2931/text); [NLR](https://docs.nlr.gov/docs/fy22osti/83566.pdf)
 
 ### Rangevoltaics {#term-rangevoltaics}
 
 Grazing under and between panels. Its position turns on what the ground carried before: a flock on land that was already pasture is [S1](#term-s1), and the same flock on former cropland is [S2](#term-s2). The everyday name is **solar grazing**; the literature also uses *rangevoltaics* [@merheb2025]. Species and clearance must be matched to the racking, which in practice means sheep (§-@sec-siting-latitude). Shade is also a benefit that can be a requirement: Humane Farm Animal Care certification mandates shade where temperatures run consistently above 22 °C, which makes an array a compliance instrument as well as a pasture.
 
-**Syn.:** solar grazing.
+**Syn.:** solar grazing; cattelvoltaics.
 
 ### Ecovoltaics {#term-ecovoltaics}
 
@@ -299,6 +310,8 @@ Solar development that co-prioritizes ecosystem function with generation through
 ::: {.caution}
 **The definitional dispute.** AFT advances a production-based definition of dual use; critics argue it excludes ecosystem benefits and imposes a one-size-fits-all instrument on farmland protection. Both terms are defined precisely above, and both map to positions on the [farming axis](farming-axis.qmd#sec-positions), which locates the disagreement where it belongs, as a genuine conflict between agricultural production and restorative goals (§-@sec-conflicts) rather than as a misuse of words. This document describes that dispute; it does not adjudicate it.
 :::
+
+**Syn.:** [nature positive renewables](https://eeb.org/wp-content/uploads/2022/09/Summary_Nature-positive-renewable-energy_final.pdf).
 
 **Source:** @sturchio2023 — [Sources](sources.qmd).
 
