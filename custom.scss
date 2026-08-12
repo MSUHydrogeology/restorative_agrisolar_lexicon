@@ -121,16 +121,17 @@ figure img,
 
 // Diverging bands, one per sharing position. Text color is set explicitly so the
 // validated contrast holds even where the surrounding theme changes.
-.position-table tbody tr:nth-child(1) td { background-color: #7fb3d9; color: #2c2c2a; } // S1 sharing
-.position-table tbody tr:nth-child(2) td { background-color: #bfdaec; color: #2c2c2a; } // S2
-.position-table tbody tr:nth-child(3) td { background-color: #efeeea; color: #2c2c2a; } // S3 center
-.position-table tbody tr:nth-child(4) td { background-color: #d9cbe6; color: #2c2c2a; } // S4
-.position-table tbody tr:nth-child(5) td { background-color: #b69ed4; color: #2c2c2a; } // S5 sparing
+.position-table tbody tr:nth-child(1) td { background-color: #6ba6d1; color: #2c2c2a; } // S0 past sharing
+.position-table tbody tr:nth-child(2) td { background-color: #7fb3d9; color: #2c2c2a; } // S1 sharing
+.position-table tbody tr:nth-child(3) td { background-color: #bfdaec; color: #2c2c2a; } // S2
+.position-table tbody tr:nth-child(4) td { background-color: #efeeea; color: #2c2c2a; } // S3 center
+.position-table tbody tr:nth-child(5) td { background-color: #d9cbe6; color: #2c2c2a; } // S4
+.position-table tbody tr:nth-child(6) td { background-color: #b69ed4; color: #2c2c2a; } // S5 sparing
 
 // Links inside the banded cells need to stay legible against the tint.
 .position-table tbody td a { color: #1f4f75; }
-.position-table tbody tr:nth-child(4) td a,
-.position-table tbody tr:nth-child(5) td a { color: #4a2f6b; }
+.position-table tbody tr:nth-child(5) td a,
+.position-table tbody tr:nth-child(6) td a { color: #4a2f6b; }
 
 // ===== Restorative functions (§6.7) =====
 // One band per function, taking the colour that function already wears on the
