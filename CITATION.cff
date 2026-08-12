@@ -9,8 +9,8 @@ authors:
   - family-names: Thompson
     given-names: Aaron
     affiliation: Purdue University
-repository-code: "https://github.com/MSUHydrogeology/agrisolar_lexicon"
-url: "https://msuhydrogeology.github.io/agrisolar_lexicon"
+repository-code: "https://github.com/MSUHydrogeology/restorative_agrisolar_lexicon"
+url: "https://msuhydrogeology.github.io/restorative_agrisolar_lexicon"
 abstract: >-
   A shared design language for agrisolar photovoltaic landscapes, organized around a scale
   transect, a land sharing-sparing axis, and a set of competing design pressures.

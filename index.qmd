@@ -69,6 +69,6 @@ Two things here carry enough structure to need a chapter of their own, and only 
 ## Joining in {#sec-joining}
 
 Corrections, counterexamples, and proposed terms are welcome as issues or pull requests on
-[GitHub](https://github.com/MSUHydrogeology/agrisolar_lexicon). Especially useful: an archetype
+[GitHub](https://github.com/MSUHydrogeology/restorative_agrisolar_lexicon). Especially useful: an archetype
 that recurs in your region and is missing here, a term that lands badly with the people who have
 to use it, or a citation you can trace further than we have.

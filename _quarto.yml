@@ -11,8 +11,8 @@ book:
     - "Anthony Kendall"
     - "Aaron Thompson"
   date: last-modified
-  site-url: "https://msuhydrogeology.github.io/agrisolar_lexicon/"
-  repo-url: "https://github.com/MSUHydrogeology/agrisolar_lexicon"
+  site-url: "https://msuhydrogeology.github.io/restorative_agrisolar_lexicon/"
+  repo-url: "https://github.com/MSUHydrogeology/restorative_agrisolar_lexicon"
   repo-actions: [edit, issue]
   search: true
   page-navigation: true

@@ -2,7 +2,7 @@
 
 A shared design language for agrisolar photovoltaic landscapes.
 
-Published at <https://msuhydrogeology.github.io/agrisolar_lexicon/>
+Published at <https://msuhydrogeology.github.io/restorative_agrisolar_lexicon/>
 
 Built with [Quarto](https://quarto.org) as a book, rendered to a browsable HTML site and a
 downloadable PDF from a single source.
