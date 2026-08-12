@@ -184,7 +184,7 @@ Developed in [§-@sec-modes, Restoration Modes and Potential](restoration-modes.
 
 ### Restoration mode {#term-restoration-mode}
 
-Which [design lever](#term-design-levers) a design commits to carry the restorative work: the choice of ground, the array's geometry, how the array is run, who holds the asset, or what the parties signed. Each mode names a lever, so there are five modes for six levers. Scale has none, because deciding how big to build is not itself a way of doing restorative work, only what settles which ways stay available. The first three are done on the ground and shift along the transect as siting latitude rises and falls (§-@sec-siting-latitude). The last two are institutional and trade against each other: ownership-led is free at the farmstead and unavailable at utility scale, and contract-led runs the opposite way. Five modes:
+Which [design lever](#term-design-levers) a design commits to carry the restorative work: the choice of ground, the array's geometry, how the array is run, who holds the asset, or what the parties signed. Each mode names a lever, so there are five modes for six levers. Scale has none, because deciding how big to build is not itself a way of doing restorative work, only what settles which ways stay available. The first three are done physically and shift along the transect as siting latitude rises and falls (§-@sec-siting-latitude). The last two are institutional and trade against each other: ownership-led is free at the farmstead and unavailable at utility scale, and contract-led runs the opposite way. Five modes:
 
 - []{#term-siting-led}**Siting-led** — the restorative work is done by the choice of ground; requires the A2–A3 latitude to choose it.
 - []{#term-structure-led}**Structure-led** — array geometry does the work: clearance, row spacing, module transmissivity.
@@ -391,11 +391,11 @@ The ratio of module area to total ground area, which is the density of the array
 
 ### Module Technology {#term-module-technology}
 
-The panel itself as a [structure lever](design-levers.qmd#sec-lv-ground): *monofacial* vs *bifacial* (both faces generate); *vertical bifacial* (east–west, leaving the inter-row open to machinery, extending sharing to larger scale [@vaverkova2026]); *semitransparent / transmissivity-tuned* (passing some light to a crop below); and *spectrally selective* (transmitting the wavelengths plants use while harvesting the rest). Module choice sets how much light, and of what kind, reaches the [ground layer](#term-ground-layer).
+The panel itself as a [structure lever](design-levers.qmd#sec-lv-physical): *monofacial* vs *bifacial* (both faces generate); *vertical bifacial* (east–west, leaving the inter-row open to machinery, extending sharing to larger scale [@vaverkova2026]); *semitransparent / transmissivity-tuned* (passing some light to a crop below); and *spectrally selective* (transmitting the wavelengths plants use while harvesting the rest). Module choice sets how much light, and of what kind, reaches the [ground layer](#term-ground-layer).
 
 ### Tracking Schedule & Curtailment {#term-tracking-curtailment}
 
-Two [management levers](design-levers.qmd#sec-lv-ground). *Tracking schedule* is how a single- or dual-axis array is steered through the day, normally to maximize generation, but an ecovoltaic operation may orient panels partly for the light, water, or temperature reaching the ground [@knapp2024]. *Curtailment* is the deliberate reduction of output for grid, price, or ecological reasons. Both are decisions about how the array is *run*, the instrument of management-led restoration at A4–A5 (§-@sec-siting-latitude).
+Two [management levers](design-levers.qmd#sec-lv-physical). *Tracking schedule* is how a single- or dual-axis array is steered through the day, normally to maximize generation, but an ecovoltaic operation may orient panels partly for the light, water, or temperature reaching the ground [@knapp2024]. *Curtailment* is the deliberate reduction of output for grid, price, or ecological reasons. Both are decisions about how the array is *run*, the instrument of management-led restoration at A4–A5 (§-@sec-siting-latitude).
 
 ### Land Equivalent Ratio (LER) {#term-ler}
 

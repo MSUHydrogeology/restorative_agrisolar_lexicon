@@ -3,7 +3,7 @@
 <desc>Two panels over the same five zones. The upper panel holds the three physical levers. Structure starts highest at A1, where an array can be built to fit one particular yard, and falls to commodity racking at A5. Siting is low at A1, peaks at A3, and falls away by A5 as land assembly and the interconnection queue take the choice. Management is nearly nothing at A1 and rises to carry everything at A4 and A5. Structure and management cross at A3, siting peaks there, and ownership and contracts cross there too. The lower panel holds the two levers that act institutional. Ownership starts highest at A1, where the operator owns both the array and the animals under it and no agreement is needed, and falls to almost nothing at A5, where the owner is absentee. Contracts run the opposite way, close to nothing at A1 because there is no counterparty to write to, and the main instrument by A5. Both hand-offs happen at the same place, A3. Scale is the axis and has no curve of its own.</desc>
 <!-- Structure and management run darker here than the #97783f and #6f5730 they carry
      in chapter 1 and on the landing figure: #836836 and #4f3d1c. Same hues, same
-     family, each darkened proportionally. It spaces the three ground levers evenly
+     family, each darkened proportionally. It spaces the three physical levers evenly
      by value, at 150 / 106 / 63, which is what lets them be told apart on a pane
      where all three cross. A slider bank needs no such spread; a line chart does. -->
 <style>

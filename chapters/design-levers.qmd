@@ -17,7 +17,7 @@ Everything else in this document sits downstream of them. The [design pressures]
 | **Management** | the [ground layer](terminology.qmd#term-ground-layer) and how it is established · the mowing and grazing calendar · [stocking density](terminology.qmd#term-stocking-density) · [tracking and curtailment](terminology.qmd#term-tracking-curtailment) · construction sequencing and traffic lanes · the planted half of the edge: hedgerow, buffer, [screening](terminology.qmd#term-screening) | soil and carbon, habitat, most of the water balance |
 | **Ownership** | who holds the asset: owner-operator, landowner, developer, utility, cooperative, or shared · co-ownership or an equity stake in place of a rent | a share of generation revenue for the people on the ground |
 | **Contracts** | lease terms and duration · [offtake](terminology.qmd#term-offtake) structure · interconnection posture · the [community-benefit](terminology.qmd#term-community-benefit) instruments · easements · the [decommissioning](terminology.qmd#term-decommissioning) bond | the community function, and durability for everything above |
-: The six design levers, and the decisions inside each. Scale sets the frame. The three below it act on ground and are limited by how much of it there is; the two institutional levers are not. {#tbl-levers}
+: The six design levers, and the decisions inside each. Scale sets the frame. The three below it act physically and are limited by how much ground there is; the two institutional levers are not. {#tbl-levers}
 
 :::
 Two things that look like levers are not. What a project is *aiming at* is a goal rather than a decision about the project, which makes it the [restorative goals](terminology.qmd#term-restorative-goals) pressure; what the ordinance requires is not chosen by anybody building, which makes it [policy and permission](terminology.qmd#term-policy-permission). Both belong in §-@sec-pressures-ch, and a list that mixes a goal and a constraint in with actual choices is sorting three different kinds of thing under one heading.
@@ -30,7 +30,7 @@ Scale comes first because every other lever is bounded by it, and it earns a cha
 How much each of the other five can still deliver once scale has settled is the subject of §-@sec-modes.
 :::
 
-## The ground levers: siting, structure, and management {#sec-lv-ground}
+## The physical levers: siting, structure, and management {#sec-lv-physical}
 
 **Siting** is the choice of ground and the most powerful of the six where a designer still has it, though it settles a position on the [farming axis](farming-axis.qmd) only jointly, with structure and management (§-@sec-farming-axis). It is also the first of the six to disappear as scale grows. Placement decides whether a water-quality claim is even available, because the two routes want opposite ground: [avoided loading](terminology.qmd#term-fn-hydrologic) needs the impaired field itself, and interception needs ground between that field and the water [@schulte2017]. It decides whether a pollinator planting reaches anyone, since a forager works a radius of roughly 1.5 km and about 3,500 km² of US farmland sits inside that distance of existing and planned facilities [@walston2018]. And it is cheaper than the argument against it usually assumes: siting New York's entire 2050 build around biodiversity came to 0.17% above the least-cost case [@gallaher2026].
 

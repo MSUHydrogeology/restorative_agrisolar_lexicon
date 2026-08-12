@@ -41,7 +41,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="de"  x="90" y="235" text-anchor="middle">how much ground</text>
 <text class="dl"  x="90" y="251" text-anchor="middle">the frame itself</text>
 
-<!-- ============ the three ground levers ============ -->
+<!-- ============ the three physical levers ============ -->
 <use href="#lever" x="250" y="95"/>
 <rect x="245" y="160" width="10" height="35" rx="5" fill="#b8934a"/>
 <rect x="232" y="153" width="36" height="14" rx="3" fill="#ffffff" stroke="#b8934a" stroke-width="2"/>
