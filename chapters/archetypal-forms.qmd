@@ -30,6 +30,7 @@ The crowding at A3 is the [feasible wedge](farming-axis.qmd#sec-wedge) in practi
 ::: {.position-table}
 | Position | Forms that sit here |
 |---|---|
+| **S0 — Created agriculture** | [Brightfield](#arch-brightfield) where the ground layer is grazed |
 | **S1 — Primary agriculture** | [**Perennial Crop Canopy**](#arch-permanent-crop) · [Vegetable Agrivoltaics](#arch-vegetable) · [Solar Fencerows](#arch-vertical-bifacial) · [**Barnyard Shelter Solar**](#arch-barnyard) · [**Regenerative Solar Grazing**](#arch-grazing) on ground that was already pasture · [**Marginal Land Solar**](#arch-marginal) where stock stays on |
 | **S2 — Secondary agriculture** | [**Regenerative Solar Grazing**](#arch-grazing) on former cropland · [Pollinator Meadow Solar](#arch-community-solar) where hives are kept |
 | **S3 — Ordinary-land siting** | [Pollinator Meadow Solar](#arch-community-solar) · [Restored-Grassland Solar](#arch-native-grassland) · [Farm-Load Microgrid](#arch-microgrid) |
@@ -163,6 +164,6 @@ Vegetable [agrivoltaics](terminology.qmd#term-agrivoltaics) keeps shade-tolerant
 
 ### Brightfield {#arch-brightfield}
 
-[A3–A5](scale-transect.qmd#sec-zones) scale · **[S4](farming-axis.qmd#sec-positions)** farming · *[siting-led](restoration-modes.qmd#sec-siting-latitude)* restoration
+[A3–A5](scale-transect.qmd#sec-zones) scale · **[S4](farming-axis.qmd#sec-positions)**, or **[S0](farming-axis.qmd#sec-positions)** where the ground layer is grazed · *[siting-led](restoration-modes.qmd#sec-siting-latitude)* restoration
 
-A brightfield puts an array on reclaimed mine land, a closed landfill, or a brownfield [@hernandez2019], ground that is cheap because nothing else will take it and welcome because the neighbors have watched it sit idle. Remediation drives the engineering, constraining what foundations can go in and what the ground layer can be, and constrained sites give up some generation. It is the standing [S4-at-A5 exception](farming-axis.qmd#sec-wedge) (§-@sec-wedge), and whether enough such ground sits near enough to [interconnection](terminology.qmd#term-interconnection) to matter at regional scale is unresolved.
+A brightfield puts an array on reclaimed mine land, a closed landfill, or a brownfield [@hernandez2019], ground that is cheap because nothing else will take it and welcome because the neighbors have watched it sit idle. Where remediation leaves a ground layer a flock can work, the site reads [S0](farming-axis.qmd#sec-positions) rather than S4, because the array brought a use to ground that had none. Remediation drives the engineering, constraining what foundations can go in and what the ground layer can be, and constrained sites give up some generation. It is the standing [S4-at-A5 exception](farming-axis.qmd#sec-wedge) (§-@sec-wedge), and whether enough such ground sits near enough to [interconnection](terminology.qmd#term-interconnection) to matter at regional scale is unresolved.

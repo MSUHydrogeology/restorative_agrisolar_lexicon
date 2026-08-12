@@ -144,9 +144,13 @@ Developed in [§-@sec-farming-axis, The Farming Axis](farming-axis.qmd).
 
 ### Farming Axis {#term-farming-axis}
 
-The second, largely scale-independent dimension: whether the array shares land with agricultural production (**land sharing**), spares land by taking ground out of it (**land sparing**), or neither. The pair is borrowed from conservation ecology [@green2005; @phalan2011]; the short form *sharing–sparing* is used for the axis, the full form in prose. Five positions, centered on S3. The names run on two stems, because the axis changes character at its middle: where farming continues the position is named for the **agriculture** left on the ground, and where it has stopped the position is named for the ground the array was **sited** on. See [The Farming Axis](farming-axis.qmd).
+The second, largely scale-independent dimension: whether the array shares land with agricultural production (**land sharing**), spares land by taking ground out of it (**land sparing**), or neither. The pair is borrowed from conservation ecology [@green2005; @phalan2011]; the short form *sharing–sparing* is used for the axis, the full form in prose. Five positions, centered on S3, with a sixth past the sharing end for ground the array brings into agriculture rather than takes out of it. The names run on two stems, because the axis changes character at its middle: where farming continues the position is named for the **agriculture** left on the ground, and where it has stopped the position is named for the ground the array was **sited** on. See [The Farming Axis](farming-axis.qmd).
 
 *Borrowed, and turned.* In conservation ecology the sharing–sparing question asks how intensively to farm a landscape so that the remainder can be left to nature, argued at landscape scale against a fixed food target, with biodiversity the outcome that settles which way to go [@green2005; @phalan2011]. Three things change here. The thing being placed is a power plant rather than a farming regime, the unit is one project on one parcel, and the axis records what happened to production rather than scoring an outcome. That is why it has a middle: S3 is neither sharing nor sparing, and the ecology debate has no position for it.
+
+### S0 — Created agriculture {#term-s0}
+
+A farm takes something off ground that carried no agricultural use before the array: a capped landfill or a decommissioned industrial parcel grazed under panels, previously developed urban and peri-urban ground put back to stock. It is the only position recording a use that began rather than one kept, stepped down, or lost, which puts it past the sharing end and on the [starting a benefit](restoration-modes.qmd#sec-harm-benefit) side of the split rather than the harm-reduction side the other five share. Uncommon, and no claim about quality. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S1 — Primary agriculture {#term-s1}
 

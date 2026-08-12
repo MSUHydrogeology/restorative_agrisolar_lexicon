@@ -175,6 +175,8 @@ under **S**.
 
 ## S {.unnumbered}
 
+**S0 — Created agriculture** — a farm takes something off ground that carried no agricultural use before the array; the one position that records a use beginning rather than one displaced — [Terminology](terminology.qmd#term-s0) · [The positions](farming-axis.qmd#sec-positions)
+
 **S1 — Primary agriculture** — the agricultural use continues essentially as it was, with the array added over or between it — [Terminology](terminology.qmd#term-s1) · [The positions](farming-axis.qmd#sec-positions)
 
 **S2 — Secondary agriculture** — a farm still works the ground, at a lower value than it carried before; grazing on former cropland, forage, hay, hives — [Terminology](terminology.qmd#term-s2) · [The positions](farming-axis.qmd#sec-positions)
