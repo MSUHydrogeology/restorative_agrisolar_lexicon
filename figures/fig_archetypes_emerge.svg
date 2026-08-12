@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1106" height="392" viewBox="0 0 1106 392" role="img">
 <title>How an archetype emerges</title>
-<desc>A curve read like a potential-energy landscape. The vertical axis is design tension, highest at the top. The horizontal axis is the design pressures, where a position along it is one way the nine can come out, ordered by which lever the restorative work fell to. The curve has six low spots, each named for the form that sits in it and carrying that form's scale, siting, and restoration-mode code: barnyard shelter solar, vegetable agrivoltaics, regenerative solar grazing, marginal land solar, solar prairie strips, and retired-irrigation solar. Projects are drawn as balls resting at the bottom of each low spot, more of them in the deeper ones. A second dashed curve shows the same landscape where the region is arid: the retired-irrigation basin becomes much the deepest on the curve, vegetable agrivoltaics deepens because shade is worth more where it is hot and dry, and the prairie strips basin flattens almost away.</desc>
+<desc>A curve read like a potential-energy landscape. The vertical axis is design tension, highest at the top. The horizontal axis is the design pressures, where a position along it is one way the nine can come out, ordered by which lever the restorative work fell to. The curve has six low spots, each named for the form that sits in it and carrying that form's scale, siting, and restoration-mode code: barnyard shelter solar, perennial crop canopy, regenerative solar grazing, marginal land solar, solar prairie strips, and retired-irrigation solar. Projects are drawn as balls resting at the bottom of each low spot, more of them in the deeper ones. A second dashed curve shows the same landscape where the region is arid: the retired-irrigation basin becomes much the deepest on the curve, perennial crop canopy deepens because shade is worth more where it is hot and dry, and the prairie strips basin flattens almost away.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .hd{font-size:12px;font-weight:700;letter-spacing:.16em;fill:#6f6d66}
@@ -50,8 +50,8 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <circle cx="1000" cy="170.5" r="5" fill="#5f7fa8" stroke="#ffffff" stroke-width="1.2"/>
 <text class="fm" x="177" y="184">Barnyard Shelter Solar</text>
 <text class="cd" x="177" y="198">A1 · S1 · ownership-led</text>
-<text class="fm" x="338" y="184">Vegetable Agrivoltaics</text>
-<text class="cd" x="338" y="198">A2–A3 · S1 · structure-led</text>
+<text class="fm" x="338" y="184">Perennial Crop Canopy</text>
+<text class="cd" x="338" y="198">A2–A4 · S1 · structure-led</text>
 <text class="fm" x="499" y="228">Regenerative Solar Grazing</text>
 <text class="cd" x="499" y="242">A4–A5 · S1–S2 · management-led</text>
 <text class="fm" x="661" y="212">Marginal Land Solar</text>
