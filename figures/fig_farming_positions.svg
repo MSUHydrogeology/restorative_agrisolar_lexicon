@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1106" height="374" viewBox="0 0 1106 374" role="img">
 <title>The farming axis, drawn</title>
-<desc>Five panels side by side, one per position, all drawn at the same scale because the axis does not depend on how big a project is. S1 Primary agriculture: the use the ground already carried, continued under wide rows, with the crop still growing in the ground between and under them. S2 Secondary agriculture: ordinary rows over a forage ground layer with a flock grazing beneath. S3 Ordinary-land siting: the array takes the field outright and the ground under it carries nothing, while the farmstead and its crop go on beyond the fence. S4 Low-productivity siting: good cropland is left working and short ragged rows sit on the awkward remnant below it, among scrub and stone. S5 Impaired-land siting: the field above drains toward a watercourse below, and the array stands between them on perennial prairie. The ground tint diverges from a neutral center at S3, blue toward the sharing end and purple toward the sparing end, and the label bar beneath carries the same ramp.</desc>
+<desc>Six panels side by side, one per position, all drawn at the same scale because the axis does not depend on how big a project is. S0 Created agriculture: ground that was built on, its old foundations still showing through the sward, carrying a flock under the rows that no farm worked before. S1 Primary agriculture: the use the ground already carried, continued under wide rows. S2 Secondary agriculture: a farm still works it, at a lower value than before, as grazing. S3 Ordinary-land siting: an ordinary field taken, the farmstead beyond the fence still standing on the lease. S4 Low-productivity siting: the poor remnant taken and the good ground left working. S5 Impaired-land siting: ground carrying a burden, taken and planted against it. The tint runs deep blue at the sharing end through neutral at S3 to purple at the sparing end.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .hd{font-size:12px;font-weight:700;letter-spacing:.16em;fill:#6f6d66}
-.cd{font-size:25px;font-weight:700;fill:#ffffff}
-.nm{font-size:14px;font-weight:700;letter-spacing:.05em;fill:#ffffff}
-.ca{font-size:12.5px;letter-spacing:.02em}
-.ac{font-size:11.5px;letter-spacing:.02em}
+.cd{font-size:20px;font-weight:700;fill:#ffffff}
+.nm{font-size:12px;font-weight:700;letter-spacing:.04em;fill:#ffffff}
+.ca{font-size:10.5px;letter-spacing:0}
+.ac{font-size:10px;letter-spacing:0}
 .ca-b{fill:#dce8f1}.ac-b{fill:#a9c1d4}
 .ca-n{fill:#e7e5df}.ac-n{fill:#bcb8ae}
 .ca-p{fill:#e6dcf0}.ac-p{fill:#bda9d1}
@@ -47,11 +47,12 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
     <path d="M-6,0 q-1,-5 4,-6 q6,-1 7,6 z" fill="#cdc9bf" stroke="#a29d92" stroke-width="1" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
   </g>
 
-  <clipPath id="p0"><rect x="18" y="42" width="214" height="246"/></clipPath>
-  <clipPath id="p1"><rect x="232" y="42" width="214" height="246"/></clipPath>
-  <clipPath id="p2"><rect x="446" y="42" width="214" height="246"/></clipPath>
-  <clipPath id="p3"><rect x="660" y="42" width="214" height="246"/></clipPath>
-  <clipPath id="p4"><rect x="874" y="42" width="214" height="246"/></clipPath>
+  <clipPath id="p0"><rect x="18.00" y="42" width="178.33" height="246"/></clipPath>
+  <clipPath id="p1"><rect x="196.33" y="42" width="178.33" height="246"/></clipPath>
+  <clipPath id="p2"><rect x="374.67" y="42" width="178.33" height="246"/></clipPath>
+  <clipPath id="p3"><rect x="553.00" y="42" width="178.33" height="246"/></clipPath>
+  <clipPath id="p4"><rect x="731.33" y="42" width="178.33" height="246"/></clipPath>
+  <clipPath id="p5"><rect x="909.67" y="42" width="178.33" height="246"/></clipPath>
 </defs>
 
 <text class="hd" x="18" y="26">&#9664;</text>
@@ -62,8 +63,51 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="hd" x="1064" y="26" text-anchor="end">LAND SPARING</text>
 <text class="hd" x="1086" y="26" text-anchor="end">&#9654;</text>
 
-<!-- S1 - full sharing: the crop keeps the same ground -->
 <g clip-path="url(#p0)">
+<rect x="18.00" y="42" width="178.33" height="246" fill="#c6dcef"/>
+<g transform="translate(3.000,48.000) scale(0.833333)">
+<g fill="#cfcbc2" stroke="#a8a39a" stroke-width="1" vector-effect="non-scaling-stroke">
+  <rect x="36" y="55" width="25" height="19"/>
+  <rect x="63" y="63" width="15" height="11"/>
+  <rect x="145" y="57" width="29" height="17"/>
+  <rect x="177" y="65" width="14" height="9"/>
+</g>
+<g stroke="#a8a294" stroke-width="1"><path d="M18,74 h214"/></g>
+<use href="#pole" transform="translate(116,74) scale(0.85)"/>
+
+<!-- old hardstanding, showing through the sward that took it back -->
+<g fill="#cdc8be" stroke="#aca69b" stroke-width="0.9" vector-effect="non-scaling-stroke">
+  <path d="M22,150 h62 l-5,6 h-24 l-4,-3 h-34 z"/>
+  <path d="M146,196 h64 l-6,7 h-30 l-5,-3 h-30 z"/>
+  <path d="M30,259 h82 l-7,9 h-38 l-6,-4 h-38 z"/>
+</g>
+<use href="#stone" transform="translate(90,152) scale(0.8)"/>
+<use href="#stone" transform="translate(140,199) scale(0.85)"/>
+<use href="#stone" transform="translate(120,266) scale(1.05)"/>
+
+<use href="#row" transform="translate(17,112) scale(3.5,0.58)"/>
+<use href="#tuft" x="24" y="124"/><use href="#tuft" x="34" y="126"/><use href="#tuft" x="44" y="123"/><use href="#tuft" x="54" y="125"/><use href="#tuft" x="92" y="125"/><use href="#tuft" x="102" y="123"/><use href="#tuft" x="112" y="126"/><use href="#tuft" x="122" y="124"/><use href="#tuft" x="168" y="125"/><use href="#tuft" x="178" y="123"/><use href="#tuft" x="188" y="126"/><use href="#tuft" x="198" y="124"/>
+<use href="#row" transform="translate(17,160) scale(3.5,0.7)"/>
+<use href="#tuft" x="24" y="176"/><use href="#tuft" x="36" y="178"/><use href="#tuft" x="48" y="175"/><use href="#tuft" x="90" y="176"/><use href="#tuft" x="102" y="178"/><use href="#tuft" x="114" y="175"/><use href="#tuft" x="126" y="177"/><use href="#tuft" x="174" y="177"/><use href="#tuft" x="186" y="175"/><use href="#tuft" x="198" y="178"/>
+<use href="#row" transform="translate(17,218) scale(3.5,0.86)"/>
+<use href="#tuft" x="24" y="238"/><use href="#tuft" x="38" y="240"/><use href="#tuft" x="52" y="237"/><use href="#tuft" x="66" y="239"/><use href="#tuft" x="122" y="239"/><use href="#tuft" x="136" y="237"/><use href="#tuft" x="150" y="240"/><use href="#tuft" x="192" y="239"/><use href="#tuft" x="206" y="237"/>
+<use href="#tuft" x="26" y="254"/><use href="#tuft" x="42" y="256"/><use href="#tuft" x="58" y="253"/><use href="#tuft" x="140" y="255"/><use href="#tuft" x="156" y="253"/><use href="#tuft" x="172" y="256"/><use href="#tuft" x="188" y="254"/><use href="#tuft" x="204" y="256"/>
+<use href="#row" transform="translate(17,288) scale(3.5,1.06)"/>
+
+<use href="#sheep" transform="translate(64,207) scale(1.1)"/>
+<use href="#sheep" transform="translate(106,204) scale(1.05)"/>
+<use href="#sheep" transform="translate(154,208) scale(1.1)"/>
+<use href="#sheep" transform="translate(196,205) scale(1.05)"/>
+<use href="#sheep" transform="translate(52,283) scale(1.6)"/>
+<use href="#sheep" transform="translate(104,287) scale(1.65)"/>
+<use href="#sheep" transform="translate(158,282) scale(1.6)"/>
+<use href="#sheep" transform="translate(208,286) scale(1.6)"/>
+</g>
+</g>
+
+<g clip-path="url(#p1)">
+<rect x="196.33" y="42" width="178.33" height="246" fill="#d7e7f4"/>
+<g transform="translate(181.333,48.000) scale(0.833333)">
 <rect x="18" y="42" width="214" height="246" fill="#d7e7f4"/>
 <use href="#tree" transform="translate(36,72) scale(0.5)"/>
 <use href="#tree" transform="translate(50,70) scale(0.42)"/>
@@ -77,9 +121,11 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <g stroke="#87a04f" stroke-width="1.15"><path d="M14,275 v-23 M23,277 v-26 M32,276 v-25 M36,275 v-24 M45,277 v-23 M49,276 v-26 M58,275 v-25 M67,277 v-24 M71,276 v-23 M80,275 v-26 M84,277 v-25 M93,276 v-24 M102,275 v-23 M106,277 v-26 M115,276 v-25 M119,275 v-24 M128,277 v-23 M137,276 v-26 M141,275 v-25 M150,277 v-24 M154,276 v-23 M163,275 v-26 M172,277 v-25 M176,276 v-24 M185,275 v-23 M189,277 v-26 M198,276 v-25 M207,275 v-24 M211,277 v-23 M220,276 v-26 M224,275 v-25 M233,277 v-24"/></g>
 <use href="#row" transform="translate(17,288) scale(3.5,1.06)"/>
 </g>
+</g>
 
-<!-- S2 - functional sharing: a ground layer that is productive but subordinate -->
-<g clip-path="url(#p1)">
+<g clip-path="url(#p2)">
+<rect x="374.67" y="42" width="178.33" height="246" fill="#e4eff8"/>
+<g transform="translate(181.333,48.000) scale(0.833333)">
 <rect x="232" y="42" width="214" height="246" fill="#e4eff8"/>
 <use href="#tree" transform="translate(248,72) scale(0.48)"/>
 <use href="#tree" transform="translate(432,76) scale(0.56)"/>
@@ -100,9 +146,11 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <use href="#sheep" transform="translate(368,281) scale(1.5)"/>
 <use href="#sheep" transform="translate(420,285) scale(1.5)"/>
 </g>
+</g>
 
-<!-- S3 - ordinary-land siting: the field goes, the farm it pays for does not -->
-<g clip-path="url(#p2)">
+<g clip-path="url(#p3)">
+<rect x="553.00" y="42" width="178.33" height="246" fill="#eae7df"/>
+<g transform="translate(181.333,48.000) scale(0.833333)">
 <rect x="446" y="42" width="214" height="246" fill="#eae7df"/>
 <path d="M454,96 v-30 a7,7 0 0 1 14,0 v30 z" fill="#ffffff" stroke="#6b6b63" stroke-width="1.2" stroke-linejoin="round"/>
 <rect x="472" y="66" width="34" height="30" fill="#ffffff" stroke="#6b6b63" stroke-width="1.3"/>
@@ -122,9 +170,11 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <use href="#row" transform="translate(445,212) scale(3.5,0.9)"/>
 <use href="#row" transform="translate(445,264) scale(3.5,1.08)"/>
 </g>
+</g>
 
-<!-- S4 - idled-land sparing: the array takes the remnant, the good ground keeps farming -->
-<g clip-path="url(#p3)">
+<g clip-path="url(#p4)">
+<rect x="731.33" y="42" width="178.33" height="246" fill="#e9e0f3"/>
+<g transform="translate(181.333,48.000) scale(0.833333)">
 <rect x="660" y="42" width="214" height="246" fill="#e9e0f3"/>
 <use href="#house" transform="translate(684,62) scale(0.52)"/>
 <use href="#tree" transform="translate(704,64) scale(0.46)"/>
@@ -149,9 +199,11 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <use href="#stone" transform="translate(868,212) scale(0.95)"/>
 <use href="#stone" transform="translate(856,282) scale(1.15)"/>
 </g>
+</g>
 
-<!-- S5 - impaired-land retirement: standing between the field that leached and the water -->
-<g clip-path="url(#p4)">
+<g clip-path="url(#p5)">
+<rect x="909.67" y="42" width="178.33" height="246" fill="#e0d3ee"/>
+<g transform="translate(181.333,48.000) scale(0.833333)">
 <rect x="874" y="42" width="214" height="246" fill="#e0d3ee"/>
 <g stroke="#9c8f57" stroke-width="1.15"><path d="M874,61 v-5 M884,63 v-8 M894,62 v-7 M899,61 v-6 M909,63 v-5 M914,62 v-8 M924,61 v-7 M934,63 v-6 M939,62 v-5 M949,61 v-8 M954,63 v-7 M964,62 v-6 M974,61 v-5 M979,63 v-8 M989,62 v-7 M994,61 v-6 M1004,63 v-5 M1014,62 v-8 M1019,61 v-7 M1029,63 v-6 M1034,62 v-5 M1044,61 v-8 M1054,63 v-7 M1059,62 v-6 M1069,61 v-5 M1074,63 v-8 M1084,62 v-7"/></g>
 <g stroke="#9c8f57" stroke-width="1.15"><path d="M874,79 v-7 M885,81 v-10 M896,80 v-9 M902,79 v-8 M913,81 v-7 M919,80 v-10 M930,79 v-9 M941,81 v-8 M947,80 v-7 M958,79 v-10 M964,81 v-9 M975,80 v-8 M986,79 v-7 M992,81 v-10 M1003,80 v-9 M1009,79 v-8 M1020,81 v-7 M1031,80 v-10 M1037,79 v-9 M1048,81 v-8 M1054,80 v-7 M1065,79 v-10 M1076,81 v-9 M1082,80 v-8"/></g>
@@ -169,22 +221,25 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <path d="M872,290 L872,262 q30,-8 56,-2 q34,4 62,-5 q30,-8 60,-1 q22,4 40,-3 v32 z" fill="#8fb6cf" stroke="#6f97b2" stroke-width="1.1" stroke-linejoin="round"/>
 <circle cx="970" cy="271" r="2.8" fill="#efece4" stroke="#8a8378" stroke-width="1"/>
 </g>
+</g>
 
 <rect x="18" y="42" width="1070" height="246" fill="none" stroke="#d3d1c7" stroke-width="1"/>
-<g stroke="#ffffff" stroke-width="2.5" opacity="0.92"><path d="M232,42 v246 M446,42 v246 M660,42 v246 M874,42 v246"/></g>
-<g stroke="#b4b2a9" stroke-width="0.8"><path d="M232,42 v246 M446,42 v246 M660,42 v246 M874,42 v246"/></g>
+<g stroke="#ffffff" stroke-width="2.5" opacity="0.92"><path d="M196.33,42 v246 M374.67,42 v246 M553.00,42 v246 M731.33,42 v246 M909.67,42 v246"/></g>
+<g stroke="#b4b2a9" stroke-width="0.8"><path d="M196.33,42 v246 M374.67,42 v246 M553.00,42 v246 M731.33,42 v246 M909.67,42 v246"/></g>
 
-<rect x="18" y="288" width="214" height="80" fill="#1c4c73"/>
-<rect x="232" y="288" width="214" height="80" fill="#2f6b96"/>
-<rect x="446" y="288" width="214" height="80" fill="#6f6d66"/>
-<rect x="660" y="288" width="214" height="80" fill="#6a4a91"/>
-<rect x="874" y="288" width="214" height="80" fill="#46295f"/>
-<g stroke="#ffffff" stroke-width="1.5"><path d="M232,288 v80 M446,288 v80 M660,288 v80 M874,288 v80"/></g>
+<rect x="18.00" y="288" width="178.33" height="80" fill="#0d3452"/>
+<rect x="196.33" y="288" width="178.33" height="80" fill="#1c4c73"/>
+<rect x="374.67" y="288" width="178.33" height="80" fill="#2f6b96"/>
+<rect x="553.00" y="288" width="178.33" height="80" fill="#6f6d66"/>
+<rect x="731.33" y="288" width="178.33" height="80" fill="#6a4a91"/>
+<rect x="909.67" y="288" width="178.33" height="80" fill="#46295f"/>
+<g stroke="#ffffff" stroke-width="1.5"><path d="M196.33,288 v80 M374.67,288 v80 M553.00,288 v80 M731.33,288 v80 M909.67,288 v80"/></g>
 
-<text class="cd" x="31" y="337">S1</text><text class="nm" x="72" y="304">PRIMARY</text><text class="nm" x="72" y="320">AGRICULTURE</text><text class="ca ca-b" x="72" y="342">the prior use, continued</text><text class="ac ac-b" x="72" y="360">crops, vines, pasture</text>
-<text class="cd" x="245" y="337">S2</text><text class="nm" x="286" y="304">SECONDARY</text><text class="nm" x="286" y="320">AGRICULTURE</text><text class="ca ca-b" x="286" y="342">farmed, at a lower value</text><text class="ac ac-b" x="286" y="360">grazing, hay, hives</text>
-<text class="cd" x="459" y="337">S3</text><text class="nm" x="500" y="304">ORDINARY-LAND</text><text class="nm" x="500" y="320">SITING</text><text class="ca ca-n" x="500" y="342">an ordinary field, taken</text><text class="ac ac-n" x="500" y="360">the lease keeps the farm</text>
-<text class="cd" x="673" y="337">S4</text><text class="nm" x="714" y="304" textLength="150" lengthAdjust="spacing">LOW-PRODUCTIVITY</text><text class="nm" x="714" y="320">SITING</text><text class="ca ca-p" x="714" y="342">idled or underproducing</text><text class="ac ac-p" x="714" y="360">poor hay, brightfields</text>
-<text class="cd" x="887" y="337">S5</text><text class="nm" x="928" y="304">IMPAIRED-LAND</text><text class="nm" x="928" y="320">SITING</text><text class="ca ca-p" x="928" y="342">ground carrying a burden</text><text class="ac ac-p" x="928" y="360">prairie on retired fields</text>
+<text class="cd" x="31.00" y="337">S0</text><text class="nm" x="62.00" y="304">CREATED</text><text class="nm" x="62.00" y="320">AGRICULTURE</text><text class="ca ca-b" x="62.00" y="342">a use that was not there</text><text class="ac ac-b" x="62.00" y="360">grazing on made ground</text>
+<text class="cd" x="209.33" y="337">S1</text><text class="nm" x="240.33" y="304">PRIMARY</text><text class="nm" x="240.33" y="320">AGRICULTURE</text><text class="ca ca-b" x="240.33" y="342">the prior use, continued</text><text class="ac ac-b" x="240.33" y="360">crops, vines, pasture</text>
+<text class="cd" x="387.67" y="337">S2</text><text class="nm" x="418.67" y="304">SECONDARY</text><text class="nm" x="418.67" y="320">AGRICULTURE</text><text class="ca ca-b" x="418.67" y="342">farmed, at a lower value</text><text class="ac ac-b" x="418.67" y="360">grazing, hay, hives</text>
+<text class="cd" x="566.00" y="337">S3</text><text class="nm" x="597.00" y="304">ORDINARY-LAND</text><text class="nm" x="597.00" y="320">SITING</text><text class="ca ca-n" x="597.00" y="342">an ordinary field, taken</text><text class="ac ac-n" x="597.00" y="360">the lease keeps the farm</text>
+<text class="cd" x="744.33" y="337">S4</text><text class="nm" x="775.33" y="304" textLength="121" lengthAdjust="spacing">LOW-PRODUCTIVITY</text><text class="nm" x="775.33" y="320">SITING</text><text class="ca ca-p" x="775.33" y="342">idled or underproducing</text><text class="ac ac-p" x="775.33" y="360">poor hay, brightfields</text>
+<text class="cd" x="922.67" y="337">S5</text><text class="nm" x="953.67" y="304">IMPAIRED-LAND</text><text class="nm" x="953.67" y="320">SITING</text><text class="ca ca-p" x="953.67" y="342">ground carrying a burden</text><text class="ac ac-p" x="953.67" y="360">prairie on retired fields</text>
 
 </svg>

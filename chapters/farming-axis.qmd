@@ -6,7 +6,7 @@ From the road, one array looks much like another: same modules, same rows, same 
 
 Most public argument about solar on farmland is an argument about this axis, conducted without it [@moore2022]. About half of the ~3,000 km² (740,000 acres) of US ground-mounted solar was built on former cropland and about a third on agricultural grassland [@kruitwagen2021; @fujita2023], and globally croplands are the prior cover for roughly 59% of PV sites [@merheb2025]. Naming the position first clarifies what a project can claim, what it must still argue for, and which objections apply. The framing borrows the neutrality of conservation ecology's land-sharing and land-sparing debate [@green2005; @phalan2011]; it does not rank positions by definition. The closest existing scheme sorts solar landscapes by design ambition, as mixed-production, nature-based, or landscape-inclusive [@oudes2022]; this axis cuts across all three, because it asks only what happened to production.
 
-![**Farming Axis Positions.** What happened to the farming on the ground the array took, drawn five ways at a single scale. The tint runs blue at the sharing end through neutral at S3 to purple at the sparing end.](../figures/fig_farming_positions.svg){#fig-farming-positions}
+![**Farming Axis Positions.** What happened to the farming on the ground the array took, drawn six ways at a single scale. The tint runs blue at the sharing end through neutral at S3 to purple at the sparing end.](../figures/fig_farming_positions.svg){#fig-farming-positions}
 
 ## The positions {#sec-positions}
 
