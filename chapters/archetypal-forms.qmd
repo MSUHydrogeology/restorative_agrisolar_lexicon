@@ -96,7 +96,7 @@ Solar prairie strips pair a distribution-scale array, roughly one to five megawa
 
 What organizes the form is [restorative goals](terminology.qmd#term-restorative-goals), with community acceptance behind it, and what it gives up is a little generation, handed to the prairie. It also needs a place where clean water is actually paid for, since the strips cost acres and seed whether or not anyone values what they hold back. The logic does not carry to utility scale. Placement this precise is a middle-of-the-transect instrument, and at a few hundred acres the ground is chosen by the [substation](terminology.qmd#term-substation) and the land market instead.
 
-Minnesota has a built case in **Ramsey Renewable Station**, where 3.4 megawatts of solar and storage sit on a native [ground layer](terminology.qmd#term-ground-layer) that is the stormwater system itself: on that sandy soil, DOE's PV-SMaRT modeling found the planting absorbed the 2-, 10-, and 100-year design storms with no detention basins at all.
+Minnesota has a built case in **Ramsey Renewable Station**, where 3.4 megawatts of solar and storage sit on a native [ground layer](terminology.qmd#term-ground-layer) that is the stormwater system itself: on that sandy soil, DOE's PV-SMaRT modeling found the planting absorbed the 2-, 10-, and 100-year design storms with no detention basins at all. The sand did much of that work. On a tighter soil, or across a block large enough to drain to a few outlets, the same planting has a harder storm to absorb.
 
 ### Regenerative Solar Grazing {#arch-grazing}
 
