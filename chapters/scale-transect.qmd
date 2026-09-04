@@ -67,6 +67,7 @@ Of the six [design levers](design-levers.qmd), scale is the only one that does n
 
 [Siting latitude](terminology.qmd#term-siting-latitude) shows the mechanism plainly, because the decision is physical and somebody has to point at a piece of ground. What changes with scale is whose arm does the pointing.
 
+::: {.key-column}
 | Zone | What decides where it goes | Who actually chooses |
 |---|---|---|
 | **A1** | The yard, the herd, and the existing service drop | The operator, with almost no ground to choose among |
@@ -74,6 +75,7 @@ Of the six [design levers](design-levers.qmd), scale is the only one that does n
 | **A3** | Consistently low-yielding ground, where the water runs, buffer geometry | Developer and landowner, deliberately, together |
 | **A4–A5** | Contiguous acreage near a substation and a place in the queue, nudged at the edges by prime-farmland rules, likely opposition, and which communities benefit | The land market and the grid, filtered through policy veto points |
 : Who chooses the ground, by zone. {#tbl-who-chooses}
+:::
 
 Read the two columns against each other. At the farmstead the operator holds the whole decision and has almost nothing to decide, since one spot in the yard may be the only spot. At A3 a developer and a landowner walk the field together and can put the array on the wet depression or the corner that never yields. By A4 the middle column has filled with things nobody at the table controls, and the right column stops naming a person. The developer still signs the lease. The ground was chosen by whatever acreage could be assembled near a live queue position, and everything else in that row only trims the list.
 
