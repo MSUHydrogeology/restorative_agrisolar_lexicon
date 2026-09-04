@@ -340,6 +340,14 @@ main.content > h1.unnumbered:first-child { display: none; }
   width: 1%;
 }
 
+// Pandoc emits its own <colgroup> for most of these tables, one equal inline
+// width per column, and an inline style beats the rule above. Restating it on
+// the column is what makes the rule above actually take effect.
+.zone-table table col:first-child,
+.position-table table col:first-child {
+  width: 1% !important;
+}
+
 // One heading style for every table in the book, taken from the lever table in
 // chapter 1. Tables differ in what their rows mean and are coloured accordingly;
 // the header should not also vary, because a reader uses it to recognize that
