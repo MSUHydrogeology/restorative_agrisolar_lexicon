@@ -67,6 +67,7 @@ format:
     toc: true
     toc-depth: 2
     citeproc: true
+    font-paths: [fonts]
     template-partials:
       - typst/typst-show.typ
     filters:

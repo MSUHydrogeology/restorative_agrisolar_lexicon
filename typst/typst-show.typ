@@ -20,11 +20,17 @@
 )
 
 // Set before the book so it reaches the cover and contents too. Source Sans
-// is the website's face; the fallbacks cover a machine without it.
+// is the website's face, committed in fonts/ so every build finds it.
 #set text(
-  font: ("Source Sans 3", "Source Sans Pro", "Helvetica Neue", "Arial"),
+  font: "Source Sans 3",
   fill: lex.ink,
 )
+
+// Inter for everything that labels rather than reads: headings, the chapter
+// panels, running heads, table headers, caption labels, page tabs. Source Sans
+// stays the text face, matching the site.
+#let display = "Inter"
+#show heading: set text(font: display)
 
 // orange-book puts the page number in the running head; Quarto's page setup
 // adds a second one at the foot. Keep the head's.
@@ -75,7 +81,7 @@ $endif$
     let prev = query(heading.where(level: 1).before(here()))
     if prev.len() == 0 { return }
     let ch = prev.last()
-    set text(size: 8.5pt, weight: "semibold", tracking: 0.09em, fill: lex.muted)
+    set text(font: display, size: 8pt, weight: "semibold", tracking: 0.08em, fill: lex.muted)
     set par(justify: false)
     if ch.numbering != none {
       upper[Chapter #counter(heading).at(ch.location()).first()#h(0.6em)·#h(0.6em)#ch.body]
@@ -88,7 +94,7 @@ $endif$
   footer: context {
     let pg = counter(page).get().first()
     let tab = box(fill: lex.slate, inset: (x: 8pt, y: 4pt), radius: 1.5pt,
-      text(size: 8.5pt, weight: "semibold", fill: white, str(pg)))
+      text(font: display, size: 8pt, weight: "semibold", fill: white, str(pg)))
     if calc.odd(pg) { align(right, tab) } else { align(left, tab) }
   },
 )
@@ -133,7 +139,7 @@ $endif$
 #show heading.where(level: 1): it => {
   pagebreak(weak: true)
   block(width: 100%, fill: lex.slate, radius: 2pt, inset: (x: 20pt, top: 18pt, bottom: 16pt), below: 0.4in, {
-    set text(fill: white)
+    set text(fill: white, font: display)
     set par(justify: false, leading: 0.5em)
     if it.numbering != none {
       text(size: 10pt, weight: "semibold", tracking: 0.16em, fill: rgb("#c9d6e2"))[
@@ -176,7 +182,7 @@ $endif$
   // Sticky: a table's caption sits above it, and should not be left behind at
   // the foot of one page while the table starts on the next.
   block(width: 100%, inset: (top: 2pt), sticky: true)[
-    #text(weight: "semibold", fill: lex.slate)[#it.supplement #context it.counter.display(it.numbering)]#it.separator#it.body
+    #text(font: display, weight: "semibold", fill: lex.slate)[#it.supplement #context it.counter.display(it.numbering)]#it.separator#it.body
   ]
 }
 
@@ -239,7 +245,7 @@ $endif$
 #show table.cell.where(y: 0): it => {
   // Tracked capitals will not break mid-word on their own; a long header like
   // INTERCONNECTION in a narrow column ran into its neighbor.
-  set text(size: 0.8em, weight: "semibold", fill: lex.muted, tracking: 0.03em, hyphenate: true)
+  set text(font: display, size: 0.76em, weight: "semibold", fill: lex.muted, tracking: 0.03em, hyphenate: true)
   upper(it)
 }
 
