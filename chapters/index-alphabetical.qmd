@@ -58,7 +58,7 @@ under **S**.
 
 **Co-location** — panels and a land use share a parcel without functional interdependence; *cf.* integration — [Terminology](terminology.qmd#term-colocation-integration)
 
-**Community & economic function** — the socioeconomic restorative function: durable local income, livability, and whether the burdens and the benefits land on the same people, built for the host community; the outcomes footprint's Communities domain read as an outcome, distinct from the social-license pressure and community-benefit lever — [Terminology](terminology.qmd#term-fn-community) · [Community and economy](restorative-functions.qmd#sec-fn-community)
+**Community and economic function** — the socioeconomic restorative function: durable local income, livability, and whether the burdens and the benefits land on the same people, built for the host community; the outcomes footprint's Communities domain read as an outcome, distinct from the social-license pressure and community-benefit lever — [Terminology](terminology.qmd#term-fn-community) · [Community and economy](restorative-functions.qmd#sec-fn-community)
 
 **Community acceptance and benefit** — design pressure: secure and sustain community acceptance *and* community benefit — two forces that can come apart, held in one pressure — [Terminology](terminology.qmd#term-community-acceptance) · [The pressures](design-pressures.qmd#sec-pressures)
 
@@ -187,7 +187,7 @@ under **S**.
 
 **S5 — Impaired-land siting** — the array takes ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [Terminology](terminology.qmd#term-s5) · [The positions](farming-axis.qmd#sec-positions)
 
-**outcomes footprint** — a whole-project reading across four domains (Communities, Agriculture, Water, Ecology), each running from causing harm at the center, through avoiding harm, out to promoting benefit at the rim; the ring is a zero point, not a pass mark — [Terminology](terminology.qmd#term-scale-footprint) · [The outcomes footprint](restorative-functions.qmd#sec-scale)
+**Outcomes footprint** — a whole-project reading across four domains (Communities, Agriculture, Water, Ecology), each running from causing harm at the center, through avoiding harm, out to promoting benefit at the rim; the ring is a zero point, not a pass mark — [Terminology](terminology.qmd#term-scale-footprint) · [The outcomes footprint](restorative-functions.qmd#sec-scale)
 
 **Scale Transect** — a single gradient from farmstead to complex that most other terms are read against; defined by covarying bundles, not capacity — [Terminology](terminology.qmd#term-scale-transect) · [The Scale Transect](scale-transect.qmd)
 

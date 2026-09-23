@@ -26,11 +26,11 @@ Pressure: maximize energy per unit land. Pushes toward dense row spacing, optima
 
 ### Cost and financing {#term-cost-financing}
 
-Pressure: minimize what the project costs to build and what it costs to finance. The first pushes toward standard racking, low clearance, minimal ground preparation, and conventional geometry. The second is a different force with the same sign: transaction costs do not scale down, so a 2 MW project carries much the same paperwork as a 200 MW one, and a small offtaker is likelier to lack a credit rating. Held under one name because a design has to clear both, and a project that pencils on capex can still fail to raise the money. It is why the zone with the most design freedom has the least access to capital (§-@sec-community-scale). See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+Pressure: minimize what the project costs to build and what it costs to finance. The first pushes toward standard racking, low clearance, minimal ground preparation, and conventional geometry. The second is a different force pushing the same way. Deal costs do not shrink with the project, so a 2 MW project carries much the same paperwork as a 200 MW one, and a small buyer is more likely to lack a credit rating. They are held under one name because a design has to clear both, and a project whose construction budget works out can still fail to raise the money. It is why the zone with the most design freedom has the least access to capital (§-@sec-community-scale). See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
 
 ### Operations and maintenance {#term-operations-maintenance}
 
-Pressure: minimize management burden across a 25–40 year asset life. Pushes toward uniform, mowable or gravel ground cover, and can oppose [cost and financing](#term-cost-financing), since native seeding raises capex and lowers long-run opex. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+Pressure: minimize management burden across a 25–40 year asset life. Pushes toward uniform, mowable or gravel ground cover, and can work against [cost and financing](#term-cost-financing), since native seeding raises the upfront cost and lowers the long-run operating cost. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
 
 ### Agricultural production {#term-agricultural-production}
 
@@ -38,11 +38,11 @@ Pressure: keep working land working. Pushes toward high clearance, equipment acc
 
 ### Restorative goals {#term-restorative-goals}
 
-Pressure: make ecological, hydrological, and economic resilience a design objective co-equal with generation. The pressure this document exists to advance, and still a force among forces. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+Pressure: make ecological, hydrological, and economic resilience a design objective co-equal with generation. The pressure this lexicon exists to advance, and still just one force among nine. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
 
 ### Community acceptance and benefit {#term-community-acceptance}
 
-Pressure: secure and sustain community acceptance *and* community benefit. **Acceptance is about process**: who was asked, when, whether the answer could still change the design, and whether the people who live with the result trust how it was reached. **Benefit is about receipts**: who ends up with money, opportunity, resilience, or protection from a harm they would otherwise carry. Held under one name because a design has to advance both, and worth holding apart because they come apart in both directions — a project can pay a community it never consulted, and consult one thoroughly while leaving it nothing. Neither substitutes for the other, and paying first is not consent [@crawford2022; @ryder2023]. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
+Pressure: secure and sustain community acceptance *and* community benefit. **Acceptance is about process**: who was asked, when, whether the answer could still change the design, and whether the people who live with the result trust how it was reached. **Benefit is about receipts**: who ends up with money, opportunity, resilience, or protection from a harm they would otherwise carry. Held under one name because a design has to advance both, and worth holding apart because they come apart in both directions. A project can pay a community it never consulted, or consult one thoroughly and leave it nothing. Neither substitutes for the other, and paying first is not consent [@crawford2022; @ryder2023]. See [§-@sec-pressures](design-pressures.qmd#sec-pressures).
 
 ### Grid and market demands {#term-grid-market}
 
@@ -58,7 +58,7 @@ Pressure: minimize the residual footprint left after a 25–40 year asset life a
 
 ### Design levers {#term-design-levers}
 
-The six kinds of decision a project can actually make, and the only things anyone can change: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. Scale sets the frame; the three below it act on ground and are limited by how much of it there is; the last two are institutional and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-siting-latitude](restoration-modes.qmd#sec-siting-latitude) for the levers read against the transect.
+The six kinds of decision a project can actually make, and the only things anyone can change: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. Scale sets the frame. The three below it act physically and are limited by how much ground there is. The last two are institutional and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-siting-latitude](restoration-modes.qmd#sec-siting-latitude) for the levers read against the transect.
 
 *Borrowed, and turned.* The six levers are the lexicon's own; the reason for sorting them this way is borrowed twice over from architecture. @brand1994, after Frank Duffy, reads a building as layers of differing longevity and holds that a design works when the fast layers can move without tearing the slow ones, which is why management sits apart from structure here rather than inside it. @habraken2002 adds that every level has a decision-maker of its own, which is the ownership lever stated as design theory. Neither author was writing about land, and neither has anything corresponding to siting.
 
@@ -80,11 +80,11 @@ A restatement of the lexicon's indicative values for a particular region: capaci
 
 ### Design import {#term-design-import}
 
-The characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ, as when a shade benefit shown in the Southwest is assumed in the Midwest, a habitat specification calibrated on one establishment cost written into a contract for another. [Grid and market demands](#term-grid-market) is the usual vehicle, since a buyer's criterion travels further and faster than the evidence behind it. See [§-@sec-rg-consequences](design-pressures.qmd#sec-rg-consequences).
+The typical regional mistake: carrying a solution from the region where it was shown to work into one where the factors differ, For example, a shade benefit shown in the Southwest gets assumed in the Midwest, or a habitat specification worked out for one establishment cost gets written into a contract for another. [Grid and market demands](#term-grid-market) is the usual vehicle, since a buyer's requirement travels farther and faster than the evidence behind it. See [§-@sec-rg-consequences](design-pressures.qmd#sec-rg-consequences).
 
 ### Diffuse fraction {#term-diffuse-fraction}
 
-The share of irradiance arriving as diffuse rather than direct-beam light. Cloud collapses the beam component while diffuse holds up, so humid and cloudy regions run a higher diffuse fraction of light, which is non-directional, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§-@sec-rg-factors](design-pressures.qmd#sec-rg-resource).
+The share of irradiance arriving as diffuse rather than direct-beam light. Clouds block direct sun but still let scattered light through, so humid and cloudy regions get a larger share of diffuse light. That light comes from every direction, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§-@sec-rg-factors](design-pressures.qmd#sec-rg-resource).
 
 ## Scale {#sec-terms-scale}
 
@@ -92,7 +92,7 @@ Developed in [§-@sec-transect, The Scale Transect](scale-transect.qmd).
 
 ### Scale Transect {#term-scale-transect}
 
-A single gradient from farmstead (A1) to complex (A5) that most other terms are read against, defined by covarying attribute bundles rather than capacity thresholds. The zones are named for the size of the development rather than for the land unit it sits on, so that no zone name is outgrown by the array it describes. See [The Scale Transect](scale-transect.qmd).
+A single gradient from farmstead (A1) to complex (A5) that most other terms are read against, defined by sets of attributes that change together rather than by capacity cutoffs. The zones are named for the size of the development rather than for the land unit it sits on, so that no zone name is outgrown by the array it describes. See [The Scale Transect](scale-transect.qmd).
 
 *Borrowed, and turned.* The device is the rural-to-urban Transect of the New Urbanism [@dpz2014], which is where the lexicon takes its name and its method of calibration points. One thing changes in the borrowing, and it matters: that transect is a gradient across the ground, a line you could walk from wilderness to urban core, while this one is a gradient of project size. Two A2 projects can sit a mile apart, and an A5 can surround an A1.
 
@@ -122,11 +122,11 @@ Arrays mounted on buildings, and by extension on carports and canopies, which ta
 
 ### Siting latitude {#term-siting-latitude}
 
-The designer's freedom over where the array goes. What governs it migrates from opportunistic placement to land assembly and grid topology up the transect, and it peaks at A2–A3, bounded by the parcel at A1 and by the land market at A5. The constraint that makes the feasible region a [wedge](#term-feasible-wedge). See [the five modes](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-siting-latitude for which one dominates at each zone.
+The designer's freedom over where the array goes. Moving up the transect, what controls it shifts from putting the array wherever it fits to assembling land and finding a grid connection. It peaks at A2–A3, limited by the parcel at A1 and by the land market at A5. The constraint that makes the feasible region a [wedge](#term-feasible-wedge). See [the five modes](restoration-modes.qmd#sec-lv-mode) for the modes against the levers, and §-@sec-siting-latitude for which one dominates at each zone.
 
 ### Stocking density {#term-stocking-density}
 
-Instantaneous animals per unit area at a moment; diverges from carrying capacity with forage growth, utilization, and climate. A grazing design variable to calibrate, not a fixed rate. See [§-@sec-zones](scale-transect.qmd#sec-grazing).
+The number of animals on a given area at one moment. It drifts apart from carrying capacity as forage grows, gets eaten, and responds to weather. A grazing design variable to calibrate, not a fixed rate. See [§-@sec-zones](scale-transect.qmd#sec-grazing).
 
 ### Carrying capacity {#term-carrying-capacity}
 
@@ -144,13 +144,13 @@ Developed in [§-@sec-farming-axis, The Farming Axis](farming-axis.qmd).
 
 ### Farming Axis {#term-farming-axis}
 
-The second, largely scale-independent dimension: whether the array shares land with agricultural production (**land sharing**), spares land by taking ground out of it (**land sparing**), or neither. The pair is borrowed from conservation ecology [@green2005; @phalan2011]; the short form *sharing–sparing* is used for the axis, the full form in prose. Five positions, centered on S3, with a sixth past the sharing end for ground the array brings into agriculture rather than takes out of it. The names run on two stems, because the axis changes character at its middle: where farming continues the position is named for the **agriculture** left on the ground, and where it has stopped the position is named for the ground the array was **sited** on. See [The Farming Axis](farming-axis.qmd).
+The second, largely scale-independent dimension: whether the array shares land with agricultural production (**land sharing**), spares land by taking ground out of it (**land sparing**), or neither. The pair is borrowed from conservation ecology [@green2005; @phalan2011]; the short form *sharing–sparing* is used for the axis, the full form in prose. Five positions, centered on S3, with a sixth past the sharing end for ground the array brings into agriculture rather than takes out of it. The position names follow two patterns, because the axis changes character at its middle: where farming continues the position is named for the **agriculture** left on the ground, and where it has stopped the position is named for the ground the array was **sited** on. See [The Farming Axis](farming-axis.qmd).
 
 *Borrowed, and turned.* In conservation ecology the sharing–sparing question asks how intensively to farm a landscape so that the remainder can be left to nature, argued at landscape scale against a fixed food target, with biodiversity the outcome that settles which way to go [@green2005; @phalan2011]. Three things change here. The thing being placed is a power plant rather than a farming regime, the unit is one project on one parcel, and the axis records what happened to production rather than scoring an outcome. That is why it has a middle: S3 is neither sharing nor sparing, and the ecology debate has no position for it.
 
 ### S0 — Created agriculture {#term-s0}
 
-A farm takes something off ground that carried no agricultural use before the array: a capped landfill or a decommissioned industrial parcel grazed under panels, previously developed urban and peri-urban ground put back to stock. It is the only position recording a use that began rather than one kept, stepped down, or lost, which puts it past the sharing end and on the [starting a benefit](restoration-modes.qmd#sec-harm-benefit) side of the split rather than the harm-reduction side the other five share. Uncommon, and no claim about quality. See [§-@sec-positions](farming-axis.qmd#sec-positions).
+A farm takes something off ground that carried no agricultural use before the array: a capped landfill or a decommissioned industrial parcel grazed under panels, previously developed urban and peri-urban ground put back to stock. It is the only position that records a use beginning rather than one kept, stepped down, or lost. That puts it past the sharing end, and on the [starting a benefit](restoration-modes.qmd#sec-harm-benefit) side of the split rather than the harm-reduction side the other five share. Uncommon, and no claim about quality. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S1 — Primary agriculture {#term-s1}
 
@@ -162,11 +162,11 @@ The ground still carries an agricultural use, but a lesser one than it carried b
 
 ### S3 — Ordinary-land siting {#term-s3}
 
-Neither sharing nor sparing: the array takes ordinary productive ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic before it is biophysical. Where the rent reaches a non-farming owner and the operation ends, the site is [bare conversion](#term-bare-conversion) instead. The center of the axis, and where most projects sit. See [§-@sec-positions](farming-axis.qmd#sec-positions).
+Neither sharing nor sparing: the array takes ordinary productive ground outright and the revenue sustains the farm enterprise holding it, so the restoration is about people and money before it is about soil and water. Where the rent reaches a non-farming owner and the operation ends, the site is [bare conversion](#term-bare-conversion) instead. The center of the axis, and where most projects sit. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S4 — Low-productivity siting {#term-s4}
 
-The array takes ground that was already idle, marginal, or chronically low-yielding, so nothing in production was displaced to build it. The name records the ground taken, which can be checked on site. The benefit — that productive land elsewhere went unbuilt — is a [landscape claim](#term-displaced-benefit) and is carried by the definition rather than by the name, because it cannot be read at the site. See [§-@sec-positions](farming-axis.qmd#sec-positions).
+The array takes ground that was already idle, marginal, or chronically low-yielding, so nothing in production was displaced to build it. The name records the ground taken, which can be checked on site. The benefit, that productive land elsewhere went unbuilt, is a [landscape claim](#term-displaced-benefit). It is carried by the definition rather than the name, because it cannot be seen at the site. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S5 — Impaired-land siting {#term-s5}
 
@@ -206,7 +206,7 @@ Developed in [§-@sec-functions, Restorative Functions](restorative-functions.qm
 
 ### Restorative function {#term-restorative-function}
 
-A restorative capacity a project can be designed to deliver, obtainable to varying degrees from many structural positions at once, the columns laid over the archetypes as rows (§-@sec-functions). Two are biophysical, one agricultural, and one socioeconomic. See [Restorative Functions](restorative-functions.qmd).
+A restorative capacity a project can be designed to deliver, reachable to varying degrees from many positions at once (§-@sec-functions). Two are biophysical, one agricultural, and one socioeconomic. See [Restorative Functions](restorative-functions.qmd).
 
 *Not ecosystem services renamed.* An ecologist will read the four as the Millennium Assessment's categories in new clothes, and the overlap is real, but the sorting principle is different: services are grouped by what an ecosystem supplies, and these by what a design can be built to deliver. One of the four is socioeconomic, food production sits on the [farming axis](#term-farming-axis) instead of among the functions, and a function here is an objective a project is held to rather than an account of what a place already does. Service classifications are plural and built for the purpose at hand [@costanza2008]; this is one more of them.
 
@@ -220,7 +220,7 @@ What can live on the ground and what can move through it. Habitat is built from 
 
 ### Connectivity {#term-connectivity}
 
-Whether organisms can move into, through, and out of a site, as against whether the site can feed them once they arrive. It is designed at four scales at once: inside the array by fencing, roads, and mown strips; at the edge by whether the planting meets an existing corridor; across a landscape by the choice between a few large arrays and many small ones; and at regional range by whether a fleet of sites falls within dispersal distance of one another. Connectivity is a property of the arrangement rather than of any one patch, and the scale on which it matters is set by the disperser, so a connectivity claim means little until it names the taxon. See [§-@sec-fn-biodiversity](restorative-functions.qmd#sec-fn-biodiversity).
+Whether organisms can move into, through, and out of a site, as against whether the site can feed them once they arrive. It is designed at four scales at once: inside the array by fencing, roads, and mown strips; at the edge by whether the planting meets an existing corridor; across a landscape by the choice between a few large arrays and many small ones; and at regional range by whether a fleet of sites falls within dispersal distance of one another. Connectivity is a property of the arrangement rather than of any one patch, and the distance that matters is set by the animal doing the moving, so a connectivity claim means little until it names the animals it is for. See [§-@sec-fn-biodiversity](restorative-functions.qmd#sec-fn-biodiversity).
 
 *Borrowed unchanged, and it collides.* Landscape ecology's term, meaning the degree to which a landscape helps or hinders movement among resource patches, defined by the organism doing the moving rather than by the map [@taylor1993]. The lexicon takes that sense whole, including the demand that a claim name its species. What it declines is the structural reading in which connectivity is adjacency measured off a drawing, because a hedgerow can run unbroken on the plan and stop at a stock fence. On the electrical side of the same project the word means the connection to the grid, which is [interconnection](#term-interconnection) here.
 
@@ -230,25 +230,25 @@ Whether organisms can move into, through, and out of a site, as against whether 
 
 What the array does *for* farming, on its own ground and on the fields around it: pollination and pest regulation carried by the ground layer beyond the fence, forage and stock shelter under the panels, and the lease revenue that keeps the operation running. Not the [farming axis](#term-farming-axis) restated, which records whether production continues in the footprint rather than what the project gives farming. Its [benefit delivery](#term-benefit-delivery) splits: the soil half stays in place, while the service to farming travels along living things, which makes that half the most dependent on what surrounds the site. See [§-@sec-fn-agricultural](restorative-functions.qmd#sec-fn-agricultural).
 
-### Community & economic function {#term-fn-community}
+### Community and economic function {#term-fn-community}
 
-The one socioeconomic function: the durable local income, the livability, and the question of whether the burdens and the benefits land on the same people, the [outcomes footprint's](#term-scale-footprint) Communities domain read as an outcome, and distinct from the [social-license](#term-community-acceptance) pressure and [community-benefit](#term-community-benefit) lever that aim at it. Only legible once the recipients are named separately. See [§-@sec-fn-community](restorative-functions.qmd#sec-fn-community).
+The one function about people rather than land: lasting local income, whether people can live alongside the array, and whether the costs and the benefits land on the same people. It is the [outcomes footprint's](#term-scale-footprint) Communities domain read as an outcome, and it is distinct from the [community-acceptance](#term-community-acceptance) pressure and the [community-benefit](#term-community-benefit) lever that both aim at it. It can only be judged once the people receiving it are named separately. See [§-@sec-fn-community](restorative-functions.qmd#sec-fn-community).
 
 ### Benefit delivery {#term-benefit-delivery}
 
 How a function's benefit reaches whoever receives it. The useful question is not how far it goes but **which route it takes**, since nearly every function reaches from the panel to the region along some path. Three routes. **In place**, where provider and beneficiary are the same ground. **Along a connection**, where the benefit travels a network: water carries runoff, sediment, and recharge downslope; living things carry pollination, pest regulation, and dispersal; institutions carry lease, tax, and subscription along tenure, contract, and jurisdiction. And **[by preservation](#term-displaced-benefit)**, where nothing moves and the benefit is ground elsewhere that stayed as it was. The route decides who can verify a claim and who captures it. See [§-@sec-benefit-range](restorative-functions.qmd#sec-benefit-range).
 
-**Prior names.** The distinction is borrowed, not coined. @hernandez2019 call an outcome that overlaps the generation site *sympatric* and one spatially separated from it *disjunct*, and assign each a *serviceshed*, the largest ecological scale at which it contributes goods and services. This lexicon splits the disjunct side into bands and adds delivery by preservation, which a service-based scheme cannot express.
+**Prior names.** The distinction is borrowed, not coined. @hernandez2019 call an outcome that overlaps the generation site *sympatric* and one spatially separated from it *disjunct*, and assign each a *serviceshed*, the largest ecological scale at which it contributes goods and services. This lexicon sorts the disjunct side by route rather than by distance, and adds delivery by preservation, which a service-based scheme cannot express.
 
 ### Delivery by preservation {#term-displaced-benefit}
 
-The mode in which a benefit consists of ground nearby remaining as it was. It is what [land sparing](#term-s4) delivers. It is proximate, because a developer assembling acreage near a substation chooses among parcels within a fairly narrow radius, so the ground spared is realistically ground in the same county. What it is not is observed: the claim rests on a counterfactual, and it is tested against the local land market and the sites genuinely in play rather than against an unbounded alternative. See [§-@sec-benefit-range](restorative-functions.qmd#sec-benefit-range).
+The kind of delivery in which the benefit is ground nearby that stayed as it was. It is what [land sparing](#term-s4) delivers. It stays close to home, because a developer assembling acreage near a substation chooses among parcels within a fairly small radius, so the ground spared is realistically in the same county. What it cannot be is observed. The claim rests on what would otherwise have happened, so it is tested against the local land market and the sites that were genuinely in play, not against every imaginable alternative. See [§-@sec-benefit-range](restorative-functions.qmd#sec-benefit-range).
 
 ### Co-benefit {#term-cobenefit}
 
-The field's usual word for what this lexicon calls a [restorative function](#term-restorative-function). Recorded here because it is what practitioners will say, and used here only to describe how others frame the same ground. The term carries acknowledged definitional ambivalence, and its grammar demotes what it names, since a *co-*benefit arrives alongside the real objective [@mayrhofer2016]. This document argues these capacities are objectives, so it does not adopt the word. *Cf.* **techno-ecological synergy**, the literature's own attempt at a framing that does not subordinate them [@hernandez2019].
+The field's usual word for what this lexicon calls a [restorative function](#term-restorative-function). Recorded here because it is what practitioners will say, and used here only to describe how others frame the same ground. The term's meaning is admittedly unsettled, and the word itself demotes what it names, since a *co-*benefit comes along with the real goal [@mayrhofer2016]. This lexicon argues that these are goals in their own right, so it does not use the word. *Cf.* **techno-ecological synergy**, the literature's own attempt at a framing that does not subordinate them [@hernandez2019].
 
-### outcomes footprint {#term-scale-footprint}
+### Outcomes footprint {#term-scale-footprint}
 
 A whole-project reading across four domains, Communities, Agriculture, Water, and Ecology, each running from causing harm at the center, through avoiding harm, out to promoting benefit at the rim, so a larger shape is a better project (§-@sec-harm-benefit). Evaluative by design, but the ring where harm ends is a zero point rather than a pass mark. See [Restorative Functions](restorative-functions.qmd#sec-scale).
 
@@ -278,7 +278,7 @@ Energy infrastructure that occupies or interacts with agricultural land function
 
 ### Agrisolar {#term-agrisolar}
 
-They key tenet of this lexicon, agroenergy specific to solar photovoltaics (PV): Solar PV that occupies or interacts with agricultural land functioning and operation. A neutral umbrella across the whole [farming axis](farming-axis.qmd) (S1–S5), intent- and outcome-agnostic like agroenergy and including any subsequent form of agricultural [co-location](#term-colocation-integration).
+The central term of this lexicon: agroenergy specific to solar photovoltaics (PV), meaning solar PV that occupies or interacts with how agricultural land functions and is farmed. A neutral umbrella across the whole [farming axis](farming-axis.qmd) (S0–S5) that, like agroenergy, makes no assumption about intent or outcome, and includes any later form of agricultural [co-location](#term-colocation-integration).
 
 Agrisolar potential can be technically defined from siting and management alone, as one or more of:
 * **occupies:** an array whose footprint was predominantly agricultural land before installation
@@ -297,22 +297,22 @@ Crop or livestock production within the array footprint (S1–S2). Crop response
 
 *The idea is older than the word.* @goetzberger1982 proposed running solar conversion and plant cultivation on one field and worked the geometry out, collectors about two meters up and rows spaced at roughly three times their height, which left about two-thirds of open-field radiation on the ground. That was decades before anyone built one at scale. The word itself arrived with @dupraz2011, whose modeling of crops under partial shade also brought the [land equivalent ratio](#term-ler) into the field. Neither the term nor the metric belongs to this lexicon.
 
-**Syn.:** agrophotovoltaics (German); photovoltaic agriculture (Chinese); solar sharing (Japanese); agri-PV; PV agriculutre; aglectric.
+**Syn.:** agrophotovoltaics (German); photovoltaic agriculture (Chinese); solar sharing (Japanese); agri-PV; PV agriculture; aglectric.
 
-**Source:** [AFT Policy Reccommendations](https://farmland.org/files/aft_final_policy_recommendations_to_increase_agrivoltaic_development_definition_and_incentives_final-2.27.25.pdf); [SB 2931](https://www.congress.gov/bill/118th-congress/senate-bill/2931/text); [NLR](https://docs.nlr.gov/docs/fy22osti/83566.pdf)
+**Source:** [AFT Policy Recommendations](https://farmland.org/files/aft_final_policy_recommendations_to_increase_agrivoltaic_development_definition_and_incentives_final-2.27.25.pdf); [SB 2931](https://www.congress.gov/bill/118th-congress/senate-bill/2931/text); [NLR](https://docs.nlr.gov/docs/fy22osti/83566.pdf)
 
 ### Rangevoltaics {#term-rangevoltaics}
 
 Grazing under and between panels. Its position turns on what the ground carried before: a flock on land that was already pasture is [S1](#term-s1), and the same flock on former cropland is [S2](#term-s2). The everyday name is **solar grazing**; the literature also uses *rangevoltaics* [@merheb2025]. Species and clearance must be matched to the racking, which in practice means sheep (§-@sec-siting-latitude). Shade is also a benefit that can be a requirement: Humane Farm Animal Care certification mandates shade where temperatures run consistently above 22 °C, which makes an array a compliance instrument as well as a pasture.
 
-**Syn.:** solar grazing; cattelvoltaics.
+**Syn.:** solar grazing; cattlevoltaics.
 
 ### Ecovoltaics {#term-ecovoltaics}
 
 Solar development that co-prioritizes ecosystem function with generation through siting, layout, ground-layer design, operations, and a viable business model [@sturchio2023; @tolgyesi2023]. This lexicon treats its ecological ground layer as a [restorative function](restorative-functions.qmd), not an axis position. The framework favors repair of disturbed ground over conversion of intact native ecosystems [@sturchio2025croplands].
 
 ::: {.caution}
-**The definitional dispute.** AFT advances a production-based definition of dual use; critics argue it excludes ecosystem benefits and imposes a one-size-fits-all instrument on farmland protection. Both terms are defined precisely above, and both map to positions on the [farming axis](farming-axis.qmd#sec-positions), which locates the disagreement where it belongs, as a genuine conflict between agricultural production and restorative goals (§-@sec-conflicts) rather than as a misuse of words. This document describes that dispute; it does not adjudicate it.
+**The definitional dispute.** AFT advances a production-based definition of dual use; critics argue it excludes ecosystem benefits and imposes a one-size-fits-all instrument on farmland protection. Both terms are defined precisely above, and both map to positions on the [farming axis](farming-axis.qmd#sec-positions), which locates the disagreement where it belongs, as a genuine conflict between agricultural production and restorative goals (§-@sec-conflicts) rather than as a misuse of words. This lexicon describes that dispute; it does not settle it.
 :::
 
 **Syn.:** [nature positive renewables](https://eeb.org/wp-content/uploads/2022/09/Summary_Nature-positive-renewable-energy_final.pdf).
@@ -337,7 +337,7 @@ The pair that makes [agrisolar](#term-agrisolar) the superset and [agrivoltaics]
 
 **Integration** — the two share the same ground and the same light: panel height set by livestock clearance, row spacing by forage light requirements, tracking schedule by photosynthetic timing. @stid2025 call this *vertical* or *coincident* co-location — agrivoltaics proper.
 
-Read against the axis, that is the whole set relation in one line: **integration is [S1–S2](farming-axis.qmd#sec-positions); co-location without integration is S3 and below.** Agrivoltaics is the integrated subset of agrisolar, which is why this document needs the wider word.
+Read against the axis, that is the whole set relation in one line: **integration is [S1–S2](farming-axis.qmd#sec-positions); co-location without integration is S3 and below.** Agrivoltaics is the integrated subset of agrisolar, which is why this lexicon needs the wider word.
 
 Integration is also the line a design crosses to be restorative in the structural sense rather than in name only, though S3 is the reminder that a project can restore an enterprise without integrating anything.
 
@@ -345,15 +345,15 @@ Integration is also the line a design crosses to be restorative in the structura
 
 ### Footprint vs. Influence Zone {#term-footprint-influence}
 
-**Footprint**: land physically occupied by racking, panels, access infrastructure. **Influence Zone**: the larger, typically asymmetric area whose hydrology, microclimate, soil, wildlife movement, or visual presence (viewshed) is measurably affected. The solar-siting literature already splits *footprint* the same way, into the **array/direct footprint** (panels and racking) versus the **facility/fenceline footprint** (the whole permitted parcel), and the ecovoltaic siting research makes the distinction matter: several small sites carry higher aggregate edge-to-area ratio than fewer large ones, amplifying both inward effects (pesticide drift) and outward ones (pollination, pest control). **Fragmentation geometry is a first-order design variable.**
+**Footprint**: land physically occupied by racking, panels, access infrastructure. **Influence Zone**: the larger, typically asymmetric area whose hydrology, microclimate, soil, wildlife movement, or visual presence (viewshed) is measurably affected. The solar-siting literature already splits *footprint* the same way, into the **array/direct footprint** (panels and racking) versus the **facility/fenceline footprint** (the whole permitted parcel), and the ecovoltaic siting research makes the distinction matter: several small sites have more edge for their total area than fewer large ones, which strengthens both what comes in across the edge (pesticide drift) and what goes out (pollination, pest control). **How a project is broken up across the landscape is one of the most important choices in its design.**
 
-The zone can also act through *economics* rather than through hydrology or sightlines. @stid2025 document intentional fallowing of irrigated cropland **adjacent to** arrays, 968 ha across 58 utility-scale installations in California's Central Valley, about 27% of those arrays' own area, apparently funded by array revenue, and call the practice **solar fallowing** where the aim is reducing water use. The array changes what happens on ground it never occupies.
+The zone can also act through *economics* rather than through hydrology or sightlines. @stid2025 document irrigated cropland deliberately left fallow **next to** arrays: 968 ha across 58 utility-scale installations in California's Central Valley, about 27% of those arrays' own area, apparently paid for by array revenue. They call the practice **solar fallowing** where the aim is to reduce water use. The array changes what happens on ground it never occupies.
 
 Neither sense should be confused with the [outcomes footprint](restorative-functions.qmd#sec-scale), which is not an area at all but a reading of a project across Communities, Agriculture, Water, and Ecology (§-@sec-functions).
 
 ### Screening {#term-screening}
 
-The management of the array's outward visual presence: perimeter setbacks, vegetative buffers (hedgerows, tree/shrub belts), earthen berms, fencing treatment, and glint/glare control. It acts on the *visual* portion of the [Influence Zone](#term-footprint-influence). Screening is dual-function, since the same vegetative buffer that buys [community acceptance](design-pressures.qmd#sec-pressures) can carry habitat and connectivity value, so it is pushed by both community acceptance and restorative goals, while costing generation (edge shade), land, and sometimes agricultural production; its habitat value is greatest where the surrounding landscape is otherwise bare of hedgerows. Descriptive only: the lexicon names the lever, not a required buffer width, berm height, or setback.
+The management of the array's outward visual presence: perimeter setbacks, vegetative buffers (hedgerows, tree/shrub belts), earthen berms, fencing treatment, and glint/glare control. It acts on the *visual* portion of the [Influence Zone](#term-footprint-influence). Screening does two jobs. The same planted buffer that wins [community acceptance](design-pressures.qmd#sec-pressures) can also carry habitat and connectivity, so both community acceptance and restorative goals push for it, while it costs generation (edge shade), land, and sometimes agricultural production. Its habitat value is greatest where the surrounding landscape has few other hedgerows. Descriptive only: the lexicon names the lever, not a required buffer width, berm height, or setback.
 
 ### Setback {#term-setback}
 
@@ -361,19 +361,19 @@ The ground held open between the array and whatever it is measured from: the pro
 
 ### Viewshed {#term-viewshed}
 
-The ground from which the array can be seen. It is the part of the [influence zone](#term-footprint-influence) that reaches people rather than water, soil, or wildlife, and the only part of a project's influence a neighbor meets directly, which is why it carries more of the [community acceptance](design-pressures.qmd#sec-pressures) argument than its physical extent suggests. It is what [screening](#term-screening) acts on.
+The ground from which the array can be seen. It is the part of the [influence zone](#term-footprint-influence) that reaches people rather than water, soil, or wildlife, and the only part of a project's influence a neighbor meets directly. That is why it carries more of the [community acceptance](design-pressures.qmd#sec-pressures) argument than its physical size would suggest. It is what [screening](#term-screening) acts on.
 
 ### Community Benefit {#term-community-benefit}
 
-The instruments through which a project returns value to its host community: community-benefit or host-community agreements (CBA / HCA), payments in lieu of taxes (PILOT) and tax revenue, good-neighbor / abutter payments, community-solar subscription, local hiring, co-ownership or locally-owned models, and decommissioning bonds as a community-protection instrument. These instruments are the receipts half of the [community acceptance and benefit](#term-community-acceptance) pressure, whose entry sets out why the process half cannot be bought, so the [community acceptance](design-pressures.qmd#sec-pressures) pressure holds both as forces in tension rather than treating a check as consent.
+The instruments through which a project returns value to its host community: community-benefit or host-community agreements (CBA / HCA), payments in lieu of taxes (PILOT) and tax revenue, good-neighbor / abutter payments, community-solar subscription, local hiring, co-ownership or locally-owned models, and decommissioning bonds as a community-protection instrument. These tools are the receipts half of the [community acceptance and benefit](#term-community-acceptance) pressure. That entry explains why the process half cannot be bought, which is why the [community acceptance](design-pressures.qmd#sec-pressures) pressure holds the two in tension rather than treating a check as consent.
 
 ### Microclimate {#term-microclimate}
 
-The array's reshaping of the near-surface energy balance: shade lowers daytime soil and canopy temperature and the vapor-pressure deficit under the panels, while longwave sheltering lifts nighttime minima, so the microenvironment swings less far across the day [@sturchio2023; @pinos2026; @barrongafford2019]. It is a **mechanism rather than a [function](#term-restorative-function)**, and the lexicon stopped listing it as one because its results are already counted elsewhere: retained moisture is the water function, thermal refuge is ecology, and relief for a shade-tolerant crop, shelter for stock, and shade for the people working there are agriculture. Its sign flips with climate and crop, and it is carried by the [structure](#term-design-levers) lever throughout. See [§-@sec-functions](restorative-functions.qmd#sec-functions).
+The array's reshaping of the near-surface energy balance: shade lowers daytime soil and plant temperatures and the vapor-pressure deficit under the panels, while the panels hold in heat and keep nights warmer, so conditions underneath swing less across the day [@sturchio2023; @pinos2026; @barrongafford2019]. It is a **mechanism rather than a [function](#term-restorative-function)**. The lexicon stopped listing it as a function because its results are already counted elsewhere: retained moisture is the water function, thermal refuge is ecology, and relief for a shade-tolerant crop, shelter for stock, and shade for the people working there are agriculture. Its sign flips with climate and crop, and it is carried by the [structure](#term-design-levers) lever throughout. See [§-@sec-functions](restorative-functions.qmd#sec-functions).
 
 ### Ground Layer {#term-ground-layer}
 
-Whatever occupies the surface beneath and between panels. Primary carrier of restorative function. The solar and agronomic literatures also call this the **understory** or the **ground cover** / **vegetation layer**; "ground layer" is used here because it stays neutral about whether that surface is planted, grazed, gravelled, or bare.
+Whatever occupies the surface beneath and between panels. Primary carrier of restorative function. The solar and agronomic literatures also call this the **understory** or the **ground cover** / **vegetation layer**; "ground layer" is used here because it stays neutral about whether that surface is planted, grazed, graveled, or bare.
 
 **Syn.:** understory; ground cover; vegetation layer.
 
@@ -385,13 +385,13 @@ The low-value ground that [low-productivity siting](farming-axis.qmd#sec-positio
 
 *(borrowed)* — The three-dimensional volume between modules and between modules and ground. Names the thing that "panel height" and "row spacing" only hint at, and treats it as habitat and working room rather than leftover gap.
 
-*One word, two spaces.* To an agronomist, a soil scientist, or a hydrologist, pore space is the void fraction of the soil, and this document argues about soil on nearly every page. Toledo and Scognamiglio lifted the word up out of the ground and gave it to the volume between and under the modules [@toledo2021], and the lexicon keeps it there. Where both senses are live on one site, the compaction question belongs to the space below the surface and the habitat question to the space above it.
+*One word, two spaces.* To an agronomist, a soil scientist, or a hydrologist, pore space is the void fraction of the soil, and this lexicon argues about soil on nearly every page. Toledo and Scognamiglio lifted the word up out of the ground and gave it to the volume between and under the modules [@toledo2021], and the lexicon keeps it there. Where both senses are live on one site, the compaction question belongs to the space below the surface and the habitat question to the space above it.
 
 **Source:** @toledo2021 — [Sources](sources.qmd). Toledo & Scognamiglio's "descriptive model towards a sustainable landscape vision" is a direct predecessor to this lexicon's own describe-the-landscape stance, reading array geometry through landscape-ecology's patch–matrix–corridor lens rather than as a yield problem alone.
 
 ### Ground Coverage Ratio (GCR) {#term-gcr}
 
-The ratio of module area to total ground area, which is the density of the array. High GCR packs more capacity per acre and pushes with energy yield and cost and financing; low GCR opens the [pore space](#term-pore-space) and inter-row that agrivoltaics and a working ground layer need. GCR is the single number behind much of the row-geometry ↔ ground-layer coupling (§-@sec-siting-latitude).
+The ratio of module area to total ground area, which is the density of the array. High GCR packs more capacity per acre and pushes with energy yield and cost and financing; low GCR opens up the [pore space](#term-pore-space) and the space between rows that agrivoltaics and a working ground layer need. GCR is the single number behind much of the link between row layout and the ground layer (§-@sec-siting-latitude).
 
 ### Module Technology {#term-module-technology}
 
@@ -403,7 +403,7 @@ Two [management levers](design-levers.qmd#sec-lv-physical). *Tracking schedule* 
 
 ### Land Equivalent Ratio (LER) {#term-ler}
 
-The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It captures *production* co-yield well but is silent on ecological, hydrologic, and community function, and it handles the non-production ground layers of [S3–S5](farming-axis.qmd#sec-positions) poorly and has no term for the [restorative functions](restorative-functions.qmd) or for the [outcomes footprint](restorative-functions.qmd#sec-scale) domains beyond food and energy. Its blind spots are given alongside it because it is the metric most likely to be taken as the measure of success by default. No single success metric is endorsed here (§-@sec-scale).
+The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It measures combined *production* well but says nothing about ecological, hydrologic, or community function. It handles the non-production ground layers of [S3–S5](farming-axis.qmd#sec-positions) poorly, and it has no term for the [restorative functions](restorative-functions.qmd) or for the [outcomes footprint](restorative-functions.qmd#sec-scale) domains beyond food and energy. Its blind spots are given alongside it because it is the metric most likely to be taken as the measure of success by default. No single success metric is endorsed here (§-@sec-scale).
 
 *Borrowed twice, and the blind spots came from the first borrowing.* LER was defined for intercropping, to say how much sole-crop land two species grown together would otherwise have needed [@mead1980]. @dupraz2011 carried it into agrivoltaics by treating electricity as the second crop. Both moves keep the founding assumption, that the two outputs are yields, comparable per unit of the same ground. That is what fails at [S3–S5](farming-axis.qmd#sec-positions), where the second output is habitat, infiltration, or a lease payment, and it is why the metric's silences are structural rather than an oversight anyone can patch.
 
@@ -413,7 +413,7 @@ The end-of-life questions a 25–40-year asset raises: *decommissioning* (removi
 
 ## The trade's vocabulary {#sec-terms-trade}
 
-Terms the lexicon uses but does not own. They come from the solar industry, from utility practice, and from the USDA soil survey, and they are given here in the sense a developer or a county planner would use them, so that a reader meeting one in these pages is not sent elsewhere to find out what it means.
+Terms the lexicon uses but does not own. They come from the solar industry, from utility practice, and from the USDA soil survey. They are given here in the sense a developer or a county planner would use them, so that a reader meeting one in these pages does not have to look elsewhere to find out what it means.
 
 ### Interconnection {#term-interconnection}
 
