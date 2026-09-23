@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="912" height="578" viewBox="14 38 912 578" role="img">
 <title>How the design language fits together</title>
 <desc>Top row: nine design pressures, drawn as the four-wedge disc from the pressures chapter, push on a bank of six levers. Three pressures push toward restoration, three push away, and three go either way. The levers are scale, siting, structure, management, ownership, and contracts, and each carries the color of the restoration mode it produces. Scale is neutral because it produces no mode. Bottom row: what a lever setting produces. A position on the scale transect from A1 to A5, a position on the farming axis from S1 to S5, the restoration modes the setting leaves active, and the restorative functions, read as a footprint across Communities, Agriculture, Water, and Ecology that runs from causing harm at the center out to promoting benefit at the rim.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.eb{font-size:11px;font-weight:700;fill:#8a8880;letter-spacing:.07em}
+.eb{font-size:12.5px;font-weight:700;fill:#7a7973;letter-spacing:.07em}
 .nm{font-size:12px;font-weight:600;fill:#2c2c2a}
-.ot{font-size:13px;font-weight:600;fill:#2c2c2a}
-.cd{font-size:11.5px;font-weight:600;fill:#2c2c2a}
-.cw{font-size:11px;font-weight:600;fill:#ffffff}
-.pl{font-size:11px;font-weight:600}
-.sc{font-size:9.5px;fill:#75736c}
+.ot{font-size:14px;font-weight:600;fill:#2c2c2a}
+.cd{font-size:13px;font-weight:600;fill:#2c2c2a}
+.cw{font-size:12.5px;font-weight:600;fill:#ffffff}
+.pl{font-size:12.5px;font-weight:600}
+.dm{font-size:12.5px;font-weight:700}
 </style>
 <defs><marker id="mt" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#35887a"/></marker><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#6f6d66"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#b5643a"/></marker><marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1.5 L9,5 L0,8.5 z" fill="#c2beb4"/></marker><marker id="o" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,1.5 L9,5 L0,8.5 z" fill="#a8a49a"/></marker></defs>
 <text class="eb" x="30" y="60">A · NINE DESIGN PRESSURES</text>
@@ -31,9 +31,9 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line x1="41.7" y1="215.1" x2="110.1" y2="203.0" stroke="#b5643a" stroke-width="2.6" stroke-linecap="round" marker-end="url(#ma)"/>
 <line x1="54.7" y1="141.0" x2="114.9" y2="175.8" stroke="#b5643a" stroke-width="2.6" stroke-linecap="round" marker-end="url(#ma)"/>
 <circle cx="150" cy="196" r="24" fill="#ffffff" stroke="#c9c6bc" stroke-width="1"/>
-<text class="pl" x="150" y="82" text-anchor="middle" fill="#6f6d66">either way</text>
-<text class="pl" x="238" y="279" text-anchor="start" fill="#35887a">toward restoration</text>
-<text class="pl" x="62" y="279" text-anchor="end" fill="#b5643a">away</text>
+<text class="pl" x="150" y="84" text-anchor="middle" fill="#6f6d66">either way</text>
+<text class="pl" x="236" y="291" text-anchor="start" fill="#35887a"><tspan x="236">toward</tspan><tspan x="236" dy="15">restoration</tspan></text>
+<text class="pl" x="64" y="291" text-anchor="end" fill="#b5643a">away</text>
 <rect x="360" y="76" width="552" height="256" rx="12" fill="#faf9f6" stroke="#e2e0d8"/>
 <text class="eb" x="360" y="60">B · SIX DESIGN LEVERS</text>
 <rect x="402" y="110" width="8" height="190" rx="4" fill="#eceae3"/>
@@ -63,7 +63,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line x1="298" y1="150" x2="342" y2="150" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
 <line x1="298" y1="196" x2="342" y2="196" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
 <line x1="298" y1="242" x2="342" y2="242" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
-<line x1="470.0" y1="344" x2="318.0" y2="390" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
+<path d="M470,340 V362 H150 V384" fill="none" stroke="#a8a49a" stroke-width="2.4" stroke-linejoin="round" marker-end="url(#o)"/>
 <text class="eb" x="30" y="406">C · SCALE AND FARMING POSITION</text>
 <text class="eb" x="360" y="406">D · RESTORATION MODES, FUNCTIONS, AND OUTCOMES</text>
 <text class="ot" x="30" y="442">scale transect position</text>
@@ -90,26 +90,34 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="cd" x="235.0" y="562" text-anchor="middle">S5</text>
 <line x1="262" y1="512" x2="332" y2="512" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
 <text class="ot" x="360" y="442">restoration modes</text>
-<rect x="360" y="456" width="168" height="20" rx="5" fill="#b8934a"/>
-<text class="cw" x="444" y="470" text-anchor="middle">siting-led</text>
-<rect x="360" y="482" width="168" height="20" rx="5" fill="#97783f"/>
-<text class="cw" x="444" y="496" text-anchor="middle">structure-led</text>
-<rect x="360" y="508" width="168" height="20" rx="5" fill="#6f5730"/>
-<text class="cw" x="444" y="522" text-anchor="middle">management-led</text>
-<rect x="360" y="534" width="168" height="20" rx="5" fill="#4a6d8c"/>
-<text class="cw" x="444" y="548" text-anchor="middle">ownership-led</text>
-<rect x="360" y="560" width="168" height="20" rx="5" fill="#33506b"/>
-<text class="cw" x="444" y="574" text-anchor="middle">contract-led</text>
+<rect x="360" y="455" width="168" height="22" rx="5" fill="#b8934a"/>
+<text class="cw" x="444" y="470.5" text-anchor="middle">siting-led</text>
+<rect x="360" y="481" width="168" height="22" rx="5" fill="#97783f"/>
+<text class="cw" x="444" y="496.5" text-anchor="middle">structure-led</text>
+<rect x="360" y="507" width="168" height="22" rx="5" fill="#6f5730"/>
+<text class="cw" x="444" y="522.5" text-anchor="middle">management-led</text>
+<rect x="360" y="533" width="168" height="22" rx="5" fill="#4a6d8c"/>
+<text class="cw" x="444" y="548.5" text-anchor="middle">ownership-led</text>
+<rect x="360" y="559" width="168" height="22" rx="5" fill="#33506b"/>
+<text class="cw" x="444" y="574.5" text-anchor="middle">contract-led</text>
 <text class="ot" x="716" y="442" text-anchor="middle">restorative functions</text>
-<circle cx="716" cy="530" r="76" fill="#f6f5f1" stroke="#d3d1c7" stroke-width="1"/>
-<circle cx="716" cy="530" r="44" fill="none" stroke="#b4b2a9" stroke-width="1.2" stroke-dasharray="4 3"/>
-<line x1="716" y1="530" x2="769.7" y2="476.3" stroke="#e2e0d8" stroke-width="1"/>
-<line x1="716" y1="530" x2="769.7" y2="583.7" stroke="#e2e0d8" stroke-width="1"/>
-<line x1="716" y1="530" x2="662.3" y2="583.7" stroke="#e2e0d8" stroke-width="1"/>
-<line x1="716" y1="530" x2="662.3" y2="476.3" stroke="#e2e0d8" stroke-width="1"/>
-<polygon points="755.8,490.2 748.2,562.2 671.9,574.1 688.1,502.1" fill="#639922" fill-opacity="0.28" stroke="#639922" stroke-width="2"/>
-<text class="sc" x="782" y="467" text-anchor="start">Communities</text>
-<text class="sc" x="782" y="599" text-anchor="start">Agriculture</text>
-<text class="sc" x="650" y="599" text-anchor="end">Water</text>
-<text class="sc" x="650" y="467" text-anchor="end">Ecology</text>
+<!-- the same four quadrants, colours, and neutral polygon as fig_outcomes_footprint.svg -->
+<path d="M716,530 L640,530 A76,76 0 0 1 716,454 Z" fill="#639922" fill-opacity="0.08"/>
+<path d="M716,530 L716,454 A76,76 0 0 1 792,530 Z" fill="#2f7f70" fill-opacity="0.08"/>
+<path d="M716,530 L792,530 A76,76 0 0 1 716,606 Z" fill="#a8894f" fill-opacity="0.08"/>
+<path d="M716,530 L716,606 A76,76 0 0 1 640,530 Z" fill="#4f86a8" fill-opacity="0.08"/>
+<g stroke="#ffffff" stroke-width="2"><line x1="640" y1="530" x2="792" y2="530"/><line x1="716" y1="454" x2="716" y2="606"/></g>
+<circle cx="716" cy="530" r="76" fill="none" stroke="#d3d1c7" stroke-width="1.2"/>
+<circle cx="716" cy="530" r="23" fill="none" stroke="#e2e0d8" stroke-width="1"/>
+<circle cx="716" cy="530" r="44" fill="none" stroke="#9c988e" stroke-width="1.3" stroke-dasharray="4 3"/>
+<g stroke="#e2e0d8" stroke-width="1"><line x1="716" y1="530" x2="662.3" y2="476.3"/><line x1="716" y1="530" x2="769.7" y2="476.3"/><line x1="716" y1="530" x2="769.7" y2="583.7"/><line x1="716" y1="530" x2="662.3" y2="583.7"/></g>
+<polygon points="755.8,490.2 748.2,562.2 671.9,574.1 688.1,502.1" fill="#6f6d66" fill-opacity="0.16" stroke="#6f6d66" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="755.8" cy="490.2" r="3" fill="#6f6d66"/>
+<circle cx="748.2" cy="562.2" r="3" fill="#6f6d66"/>
+<circle cx="671.9" cy="574.1" r="3" fill="#6f6d66"/>
+<circle cx="688.1" cy="502.1" r="3" fill="#6f6d66"/>
+<text class="dm" x="654" y="464" text-anchor="end" fill="#639922">Ecology</text>
+<text class="dm" x="778" y="464" text-anchor="start" fill="#2f7f70">Communities</text>
+<text class="dm" x="778" y="606" text-anchor="start" fill="#a8894f">Agriculture</text>
+<text class="dm" x="654" y="606" text-anchor="end" fill="#4f86a8">Water</text>
 </svg>

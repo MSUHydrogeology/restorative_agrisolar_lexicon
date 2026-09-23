@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="364" viewBox="0 0 760 364" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="354" viewBox="0 0 760 354" role="img">
 <title>The four restorative functions, how the work is done, and which route the benefit travels</title>
 <desc>A row for each of the four restorative functions. The middle column gives the restoration mode, meaning which design lever carried the work. The right-hand columns give the route the benefit travels rather than how far it goes: in place, along water, along living things, or along institutions, meaning tenure, contract, and jurisdiction. Water is delivered in place as soil moisture and along water to the field below and the basin beyond. Ecology is delivered in place as habitat and along living things, at foraging range and then at dispersal range. Agriculture and soils is delivered in place as forage, shelter, and the soil itself, along living things as pollination and pest regulation, and along institutions through the lease, with the exception that carbon leaves by air to everywhere and no one in particular. Community and economy is delivered mostly along institutions, and partly in place through local hiring and construction spend. No function is delivered along every route, and none is confined to one distance.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .nm{font-size:14px;font-weight:600;fill:#3d3d3a}
-.hd{font-size:10.5px;font-weight:700;letter-spacing:.05em;fill:#6f6a5e}
-.sub{font-size:10px;fill:#6f6a5e}
-.fn{font-size:11.5px;fill:#7a7973}
-.md{font-size:11px;fill:#5f5e5a}
+.hd{font-size:11.5px;font-weight:700;letter-spacing:.05em;fill:#6f6a5e}
+.sub{font-size:10.5px;fill:#6f6a5e}
+.ann{font-size:11px;fill:#6f6a5e}
+.fn{font-size:12px;fill:#6f6d66}
+.md{font-size:12px;fill:#5f5e5a}
 .on{stroke:#cfccc3;stroke-width:1;fill:#ffffff}
 </style>
 <rect x="16" y="6" width="728" height="48" fill="#efede8"/>
@@ -25,7 +26,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="md" x="236" y="97">management-led</text>
 <rect fill="#4f86a8" x="400" y="75" width="78" height="22" rx="3"/>
 <rect fill="#4f86a8" x="488" y="75" width="78" height="22" rx="3"/>
-<text class="sub" x="527" y="110" text-anchor="middle">field below, then basin</text>
+<text class="ann" x="527" y="110" text-anchor="middle">field below, then basin</text>
 <rect class="on" stroke-dasharray="3 2" x="576" y="75" width="78" height="22" rx="3"/>
 <rect class="on" stroke-dasharray="3 2" x="664" y="75" width="78" height="22" rx="3"/>
 
@@ -35,28 +36,28 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <rect fill="#639922" x="400" y="137" width="78" height="22" rx="3"/>
 <rect class="on" stroke-dasharray="3 2" x="488" y="137" width="78" height="22" rx="3"/>
 <rect fill="#639922" x="576" y="137" width="78" height="22" rx="3"/>
-<text class="sub" x="615" y="172" text-anchor="middle">foraging, then dispersal</text>
+<text class="ann" x="615" y="172" text-anchor="middle">foraging, then dispersal</text>
 <rect class="on" stroke-dasharray="3 2" x="664" y="137" width="78" height="22" rx="3"/>
 
 <text class="nm" x="16" y="214">Agriculture and soils</text>
-<text class="md" x="236" y="201">structure-led at build,</text>
+<text class="md" x="236" y="199">structure-led at build,</text>
 <text class="md" x="236" y="214">then siting- and</text>
-<text class="md" x="236" y="227">management-led</text>
+<text class="md" x="236" y="229">management-led</text>
 <rect fill="#a8894f" x="400" y="199" width="78" height="22" rx="3"/>
-<text class="sub" x="439" y="234" text-anchor="middle">carbon leaves by air</text>
+<text class="ann" x="439" y="234" text-anchor="middle">carbon leaves by air</text>
 <rect class="on" stroke-dasharray="3 2" x="488" y="199" width="78" height="22" rx="3"/>
 <rect fill="#a8894f" x="576" y="199" width="78" height="22" rx="3"/>
 <rect fill="#a8894f" x="664" y="199" width="78" height="22" rx="3"/>
-<text class="sub" x="703" y="234" text-anchor="middle">the lease</text>
+<text class="ann" x="703" y="234" text-anchor="middle">the lease</text>
 
 <text class="nm" x="16" y="276">Community and economy</text>
 <text class="md" x="236" y="276">contract-led</text>
 <rect fill="#2f7f70" x="400" y="261" width="78" height="22" rx="3"/>
-<text class="sub" x="439" y="296" text-anchor="middle">hiring and spend</text>
+<text class="ann" x="439" y="296" text-anchor="middle">hiring and spend</text>
 <rect class="on" stroke-dasharray="3 2" x="488" y="261" width="78" height="22" rx="3"/>
 <rect class="on" stroke-dasharray="3 2" x="576" y="261" width="78" height="22" rx="3"/>
 <rect fill="#2f7f70" x="664" y="261" width="78" height="22" rx="3"/>
-<text class="sub" x="703" y="296" text-anchor="middle">tenure and tax</text>
+<text class="ann" x="703" y="296" text-anchor="middle">tenure and tax</text>
 
 <line x1="16" y1="318" x2="744" y2="318" stroke="#d3d1c7" stroke-width="1"/>
 <rect x="16" y="328" width="18" height="12" rx="2" fill="#5f5e5a"/><text class="fn" x="40" y="338">travels this way</text>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="Helvetica, Arial, sans-serif" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" role="img">
 <title>Regenerative Solar Grazing</title>
 <desc>Section through a utility-scale array, drawn at five SVG units to the meter so that twelve rows fit and the array runs off both edges of the frame. The panels sit low, which is what limits the stock to sheep, and a contracted flock grazes the forage beneath under a planned rotation set by fences and water points. Sunlight falls from the upper left and the rows throw spaced bands of shade. Held cover builds a thick, dark topsoil and deeper roots than a row crop. Its outcomes footprint sits at the right: Water furthest out, Ecology and Agriculture mid-scale, Communities pulled in toward the center.</desc>
 
@@ -28,7 +28,7 @@
 
 <rect y="14" width="820" height="254" rx="10" fill="#ffffff" stroke="#e6e1d6"/>
 
-<text x="26" y="32" fill="#777" font-size="11">A4–A5 scale · S1–S2 farming · management-led restoration</text>
+<text x="26" y="32" fill="#6f6d66" font-size="12.5">A4–A5 scale · S1–S2 farming · management-led restoration</text>
 
 <!-- sun: fixed position and 45 degree rays in every archetype card -->
 <g stroke="#c08a12" stroke-linecap="round">
@@ -131,35 +131,42 @@
 </g>
 <rect x="392" y="195" width="14" height="5" rx="1.5" fill="#2b7fb0" fill-opacity="0.3" stroke="#6b6b63" stroke-width="1.1"/>
 
-<text x="160" y="150" fill="#8a7f6a" font-size="11" font-style="italic" text-anchor="middle">clearance this low sets the stock: sheep, not cattle</text>
-<text x="420" y="150" fill="#6a7a52" font-size="11" font-style="italic" text-anchor="middle">carbon builds under held cover</text>
+<text x="26" y="150" fill="#8a7f6a" font-size="12" font-style="italic" text-anchor="start">clearance this low sets the stock: sheep, not cattle</text>
+<text x="545" y="150" fill="#6a7a52" font-size="12" font-style="italic" text-anchor="end">carbon builds under held cover</text>
 
 <!-- bar scale -->
 <g stroke="#8a7f6a" stroke-width="1.2" fill="none">
   <path d="M26,258 h100"/><path d="M26,254 v8"/><path d="M126,254 v8"/>
 </g>
-<text x="133" y="261.5" fill="#8a7f6a" font-size="9.5">20 m</text>
+<text x="133" y="261.5" fill="#8a7f6a" font-size="11">20 m</text>
 
-<!-- ================= outcomes footprint ================= -->
-<polygon points="690,132 708,150 690,168 672,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
-<polygon points="690,114 726,150 690,186 654,150" fill="none" stroke="#8a8880" stroke-width="1.4" stroke-dasharray="4 3"/>
-<polygon points="690,96 744,150 690,204 636,150" fill="none" stroke="#e6e1d6" stroke-width="1"/>
-<line x1="690" y1="150" x2="690" y2="96" stroke="#d8d2c4" stroke-width="1"/>
-<line x1="690" y1="150" x2="744" y2="150" stroke="#d8d2c4" stroke-width="1"/>
-<line x1="690" y1="150" x2="690" y2="204" stroke="#d8d2c4" stroke-width="1"/>
-<line x1="690" y1="150" x2="636" y2="150" stroke="#d8d2c4" stroke-width="1"/>
-
-<text x="690" y="85" fill="#6f4a9c" font-size="10.5" font-weight="600" text-anchor="middle">Communities</text>
-<text x="752" y="150" fill="#3f8f36" font-size="10.5" font-weight="600" text-anchor="start" dominant-baseline="middle">Agriculture</text>
-<text x="690" y="218" fill="#c08a12" font-size="10.5" font-weight="600" text-anchor="middle">Ecology</text>
-<text x="628" y="150" fill="#2b7fb0" font-size="10.5" font-weight="600" text-anchor="end" dominant-baseline="middle">Water</text>
-
-<polygon points="690,116 728,150 690,187.8 646,150" fill="#3b6ea5" fill-opacity="0.18" stroke="#3b6ea5" stroke-width="1.8"/>
-<circle cx="690" cy="116" r="2.2" fill="#2c5580"/>
-<circle cx="728" cy="150" r="2.2" fill="#2c5580"/>
-<circle cx="690" cy="187.8" r="2.2" fill="#2c5580"/>
-<circle cx="646" cy="150" r="2.2" fill="#2c5580"/>
-
-<text x="690" y="234" fill="#7a7973" font-size="9.5" font-style="italic" text-anchor="middle">benefit at the rim, harm at the center</text>
-<text x="690" y="246" fill="#8a8880" font-size="9" font-style="italic" text-anchor="middle">dashed ring: no harm either way</text>
+<!-- ================= outcomes footprint =================
+     Same four domains, quadrants, and colors as the full footprint in
+     fig_outcomes_footprint.svg: Ecology upper left, Communities upper right,
+     Agriculture lower right, Water lower left. Rim is benefit, center harm. -->
+<path d="M668,140 L614,140 A54,54 0 0 1 668,86 Z" fill="#639922" fill-opacity="0.08"/>
+<path d="M668,140 L668,86 A54,54 0 0 1 722,140 Z" fill="#2f7f70" fill-opacity="0.08"/>
+<path d="M668,140 L722,140 A54,54 0 0 1 668,194 Z" fill="#a8894f" fill-opacity="0.08"/>
+<path d="M668,140 L668,194 A54,54 0 0 1 614,140 Z" fill="#4f86a8" fill-opacity="0.08"/>
+<g stroke="#ffffff" stroke-width="1.6"><line x1="614" y1="140" x2="722" y2="140"/><line x1="668" y1="86" x2="668" y2="194"/></g>
+<circle cx="668" cy="140" r="54" fill="none" stroke="#d3d1c7" stroke-width="1.1"/>
+<circle cx="668" cy="140" r="18" fill="none" stroke="#e2e0d8" stroke-width="1"/>
+<circle cx="668" cy="140" r="36" fill="none" stroke="#9c988e" stroke-width="1.3" stroke-dasharray="4 3"/>
+<g stroke="#e2e0d8" stroke-width="1">
+  <line x1="668" y1="140" x2="629.8" y2="101.8"/>
+  <line x1="668" y1="140" x2="706.2" y2="101.8"/>
+  <line x1="668" y1="140" x2="706.2" y2="178.2"/>
+  <line x1="668" y1="140" x2="629.8" y2="178.2"/>
+</g>
+<polygon points="641.3,113.3 692.0,116.0 694.9,166.9 636.9,171.1" fill="#6f6d66" fill-opacity="0.16" stroke="#6f6d66" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="641.3" cy="113.3" r="2.6" fill="#6f6d66"/>
+<circle cx="692.0" cy="116.0" r="2.6" fill="#6f6d66"/>
+<circle cx="694.9" cy="166.9" r="2.6" fill="#6f6d66"/>
+<circle cx="636.9" cy="171.1" r="2.6" fill="#6f6d66"/>
+<text x="620" y="96" fill="#639922" font-size="12.5" font-weight="700" text-anchor="end">Ecology</text>
+<text x="716" y="96" fill="#2f7f70" font-size="12.5" font-weight="700" text-anchor="start">Communities</text>
+<text x="716" y="194" fill="#a8894f" font-size="12.5" font-weight="700" text-anchor="start">Agriculture</text>
+<text x="620" y="194" fill="#4f86a8" font-size="12.5" font-weight="700" text-anchor="end">Water</text>
+<text x="668" y="236" fill="#6f6d66" font-size="12" font-style="italic" text-anchor="middle">benefit at the rim, harm at the center</text>
+<text x="668" y="250" fill="#7a7973" font-size="12" font-style="italic" text-anchor="middle">dashed ring: no harm either way</text>
 </svg>

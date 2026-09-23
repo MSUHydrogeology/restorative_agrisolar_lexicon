@@ -1,10 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1106" height="696" viewBox="0 0 1106 696" role="img">
 <title>Where the spatial vocabulary lives</title>
-<desc>Two panels. Above, a parcel in plan: a block of array rows labelled the footprint, spanning two holdings whose shared boundary is labelled land assembly; a hedgerow along the near edge labelled screening, running out to a woodlot labelled connectivity; a larger and lopsided dashed outline reaching past the parcel toward a watercourse, labelled the influence zone; a hatched patch of poor ground in one corner labelled marginal land; and a line from the array to a substation off the parcel, labelled interconnection. Below, five rows of one array in section standing on a ground layer over soil, with a dashed original ground surface beneath labelled mass grading, and labels for the clearance under the lowest panel edge, the flock under the first row, the spacing between rows, the tracking that turns the second, the ground the third covers, the pore space the fourth leaves beneath it, the racking that carries them, and a fifth row standing vertically to show module technology.</desc>
+<desc>Two panels. Above, a parcel in plan: a block of array rows labeled the footprint, spanning two holdings whose shared boundary is labeled land assembly; a hedgerow along the near edge labeled screening, running out to a woodlot labeled connectivity; a larger and lopsided dashed outline reaching past the parcel toward a watercourse, labeled the influence zone; a hatched patch of poor ground in one corner labeled marginal land; and a line from the array to a substation off the parcel, labeled interconnection. Below, five rows of one array in section standing on a ground layer over soil, with a dashed original ground surface beneath labeled mass grading, and labels for the clearance under the lowest panel edge, the flock under the first row, the spacing between rows, the tracking that turns the second, the ground the third covers, the pore space the fourth leaves beneath it, the racking that carries them, and a fifth row standing vertically to show module technology.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.hd{font-size:12px;font-weight:700;letter-spacing:.16em;fill:#6f6d66}
-.tt{font-size:12.5px;font-weight:600;fill:#3d3d3a}
+.hd{font-size:14px;font-weight:700;letter-spacing:.14em;fill:#6f6d66}
+.tt{font-size:14.5px;font-weight:600;fill:#3d3d3a;paint-order:stroke;stroke:#f0eee8;stroke-width:4px;stroke-linejoin:round}
+/* each label is haloed in the color it sits on, so a line passing behind it breaks cleanly */
+.p1{stroke:#eae7dd}.p2{stroke:#e6e2d6}.vs{stroke:#d9d1bb}.sky{stroke:#e4eff7}.soil{stroke:#e2ddd0}
 .ld{fill:none;stroke:#a9a396;stroke-width:1}
 .dim{fill:none;stroke:#8a8880;stroke-width:1}
 </style>
@@ -29,8 +31,8 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
   <clipPath id="pb"><rect x="18" y="392" width="1070" height="298"/></clipPath>
 </defs>
 
-<text class="hd" x="18" y="26">PARCEL SCALE &#183; PLAN</text>
-<path d="M242,21 H1088" stroke="#d3d1c7" stroke-width="1"/>
+<text class="hd" x="18" y="27">PARCEL SCALE &#183; PLAN</text>
+<path d="M272,21 H1088" stroke="#d3d1c7" stroke-width="1"/>
 <g clip-path="url(#pa)">
 <rect x="18" y="42" width="1070" height="302" fill="#f0eee8"/>
 <rect x="92" y="84" width="508" height="236" fill="#eae7dd" stroke="#b3ac9b" stroke-width="1.2"/>
@@ -55,24 +57,23 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 </g>
 <rect x="18" y="42" width="1070" height="302" fill="none" stroke="#d3d1c7" stroke-width="1"/>
 <path class="ld" d="M326,128 L338,132"/>
-<text class="tt" x="320" y="132" text-anchor="end">Screening</text>
-<text class="tt" x="452" y="114" text-anchor="middle">Viewshed</text>
-<path class="ld" d="M918,132 L918,152"/>
-<text class="tt" x="918" y="166" text-anchor="middle">Connectivity</text>
-<text class="tt" x="566" y="288" text-anchor="middle">Footprint</text>
-<text class="tt" x="392" y="292" text-anchor="start">Setback</text>
+<text class="tt p1" x="321" y="133" text-anchor="end">Screening</text>
+<text class="tt vs" x="452" y="116" text-anchor="middle">Viewshed</text>
+<text class="tt" x="927" y="59" text-anchor="middle">Connectivity</text>
+<text class="tt p1" x="560" y="289" text-anchor="middle">Footprint</text>
+<text class="tt p1" x="390" y="296" text-anchor="start">Setback</text>
 <path class="ld" d="M600,92 L600,74"/>
 <text class="tt" x="600" y="68" text-anchor="middle">Land assembly</text>
-<path class="ld" d="M332,124 L302,110"/>
-<text class="tt" x="296" y="114" text-anchor="end">Influence zone</text>
+<path class="ld" d="M268,164 L278,180"/>
+<text class="tt p1" x="266" y="160" text-anchor="end">Influence zone</text>
 <path class="ld" d="M196,224 L196,204"/>
-<text class="tt" x="196" y="198" text-anchor="middle">Marginal land</text>
+<text class="tt p1" x="190" y="199" text-anchor="middle">Marginal land</text>
 <path class="ld" d="M880,206 L880,228"/>
-<text class="tt" x="880" y="242" text-anchor="middle">Interconnection</text>
-<text class="tt" x="1033" y="242" text-anchor="middle">Substation</text>
+<text class="tt p2" x="880" y="244" text-anchor="middle">Interconnection</text>
+<text class="tt" x="1033" y="244" text-anchor="middle">Substation</text>
 
-<text class="hd" x="18" y="376">ARRAY SCALE &#183; SECTION</text>
-<path d="M262,371 H1088" stroke="#d3d1c7" stroke-width="1"/>
+<text class="hd" x="18" y="377">ARRAY SCALE &#183; SECTION</text>
+<path d="M294,371 H1088" stroke="#d3d1c7" stroke-width="1"/>
 <g clip-path="url(#pb)">
 <rect x="18" y="392" width="1070" height="298" fill="#f0eee8"/>
 <rect x="18" y="392" width="1070" height="204" fill="#e4eff7"/>
@@ -109,7 +110,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <rect x="18" y="392" width="1070" height="298" fill="none" stroke="#d3d1c7" stroke-width="1"/>
 <path class="dim" d="M118,596 V554" marker-start="url(#al)" marker-end="url(#ar)"/>
 <path class="ld" d="M118,554 H144"/>
-<text class="tt" x="108" y="578" text-anchor="end">Clearance</text>
+<text class="tt sky" x="108" y="580" text-anchor="end">Clearance</text>
 <path class="dim" d="M180,652 H375" marker-start="url(#al)" marker-end="url(#ar)"/>
 <g class="ld"><path d="M180,600 V652"/><path d="M375,600 V652"/></g>
 <text class="tt" x="277" y="670" text-anchor="middle">Row spacing</text>
@@ -118,18 +119,18 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <g class="ld"><path d="M534,604 V652"/><path d="M606,604 V652"/><path d="M729,604 V652"/></g>
 <text class="tt" x="631" y="670" text-anchor="middle">Ground coverage ratio</text>
 <path class="ld" d="M246,576 L232,586"/>
-<text class="tt" x="252" y="580" text-anchor="start">Stocking density</text>
+<text class="tt sky" x="252" y="566" text-anchor="start"><tspan x="252">Stocking</tspan><tspan x="252" dy="16">density</tspan></text>
 <path class="ld" d="M375,488 L375,476"/>
-<text class="tt" x="375" y="470" text-anchor="middle">Tracking and curtailment</text>
+<text class="tt sky" x="375" y="470" text-anchor="middle">Tracking and curtailment</text>
 <path class="ld" d="M960,500 L960,476"/>
-<text class="tt" x="960" y="470" text-anchor="middle">Module technology</text>
+<text class="tt sky" x="960" y="470" text-anchor="middle">Module technology</text>
 <path class="ld" d="M719,576 L745,566"/>
-<text class="tt" x="713" y="580" text-anchor="end">Pore space</text>
+<text class="tt sky" x="713" y="581" text-anchor="end">Pore space</text>
 <path class="ld" d="M387,560 L378,560"/>
-<text class="tt" x="393" y="564" text-anchor="start">Racking</text>
+<text class="tt sky" x="393" y="565" text-anchor="start">Racking</text>
 <path class="ld" d="M1044,500 L1018,592"/>
-<text class="tt" x="1068" y="496" text-anchor="end">Ground layer</text>
+<text class="tt sky" x="1076" y="495" text-anchor="end">Ground layer</text>
 <path class="ld" d="M56,616 L84,612"/>
-<text class="tt" x="48" y="628" text-anchor="start">Mass grading</text>
+<text class="tt soil" x="48" y="629" text-anchor="start">Mass grading</text>
 
 </svg>

@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1106" height="374" viewBox="0 0 1106 374" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1106" height="392" viewBox="0 0 1106 392" role="img">
 <title>The farming axis, drawn</title>
 <desc>Six panels side by side, one per position, all drawn at the same scale because the axis does not depend on how big a project is. S0 Created agriculture: ground that was built on, its old foundations still showing through the sward, carrying a flock under the rows that no farm worked before. S1 Primary agriculture: the use the ground already carried, continued under wide rows. S2 Secondary agriculture: a farm still works it, at a lower value than before, as grazing. S3 Ordinary-land siting: an ordinary field taken, the farmstead beyond the fence still standing on the lease. S4 Low-productivity siting: the poor remnant taken and the good ground left working. S5 Impaired-land siting: ground carrying a burden, taken and planted against it. The tint runs deep blue at the sharing end through neutral at S3 to purple at the sparing end.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.hd{font-size:12px;font-weight:700;letter-spacing:.16em;fill:#6f6d66}
-.cd{font-size:20px;font-weight:700;fill:#ffffff}
-.nm{font-size:12px;font-weight:700;letter-spacing:.04em;fill:#ffffff}
-.ca{font-size:10.5px;letter-spacing:0}
-.ac{font-size:10px;letter-spacing:0}
-.ca-b{fill:#dce8f1}.ac-b{fill:#a9c1d4}
-.ca-n{fill:#e7e5df}.ac-n{fill:#bcb8ae}
-.ca-p{fill:#e6dcf0}.ac-p{fill:#bda9d1}
+.hd{font-size:14px;font-weight:700;letter-spacing:.14em;fill:#6f6d66}
+.cd{font-size:21px;font-weight:700;fill:#ffffff}
+.nm{font-size:13px;font-weight:700;letter-spacing:.02em;fill:#ffffff}
+.ca{font-size:12.5px}
+.ac{font-size:12px}
+.ca-b{fill:#f1f6fa}.ac-b{fill:#c9dbe8}.ac-b2{fill:#e3ecf3}
+.ca-n{fill:#f2f1ec}.ac-n{fill:#dcdad2}
+.ca-p{fill:#eee8f5}.ac-p{fill:#ddd3ea}
 </style>
 
 <defs>
@@ -55,13 +55,13 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
   <clipPath id="p5"><rect x="909.67" y="42" width="178.33" height="246"/></clipPath>
 </defs>
 
-<text class="hd" x="18" y="26">&#9664;</text>
-<text class="hd" x="40" y="26">LAND SHARING</text>
-<g stroke="#b4b2a9" stroke-width="1.2"><path d="M190,15 v11 M220,15 v11 M250,15 v11 M280,15 v11 M310,15 v11 M340,15 v11 M370,15 v11 M400,15 v11 M430,15 v11"/></g>
-<text class="hd" x="553" y="26" text-anchor="middle">FARMING AXIS</text>
-<g stroke="#b4b2a9" stroke-width="1.2"><path d="M655,15 v11 M685,15 v11 M715,15 v11 M745,15 v11 M775,15 v11 M805,15 v11 M835,15 v11 M865,15 v11 M895,15 v11"/></g>
-<text class="hd" x="1064" y="26" text-anchor="end">LAND SPARING</text>
-<text class="hd" x="1086" y="26" text-anchor="end">&#9654;</text>
+<text class="hd" x="18" y="27">&#9664;</text>
+<text class="hd" x="40" y="27">LAND SHARING</text>
+<g stroke="#b4b2a9" stroke-width="1.2"><path d="M220,15 v11 M250,15 v11 M280,15 v11 M310,15 v11 M340,15 v11 M370,15 v11 M400,15 v11 M430,15 v11"/></g>
+<text class="hd" x="553" y="27" text-anchor="middle">FARMING AXIS</text>
+<g stroke="#b4b2a9" stroke-width="1.2"><path d="M655,15 v11 M685,15 v11 M715,15 v11 M745,15 v11 M775,15 v11 M805,15 v11 M835,15 v11 M865,15 v11"/></g>
+<text class="hd" x="1064" y="27" text-anchor="end">LAND SPARING</text>
+<text class="hd" x="1086" y="27" text-anchor="end">&#9654;</text>
 
 <g clip-path="url(#p0)">
 <rect x="18.00" y="42" width="178.33" height="246" fill="#c6dcef"/>
@@ -227,19 +227,23 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <g stroke="#ffffff" stroke-width="2.5" opacity="0.92"><path d="M196.33,42 v246 M374.67,42 v246 M553.00,42 v246 M731.33,42 v246 M909.67,42 v246"/></g>
 <g stroke="#b4b2a9" stroke-width="0.8"><path d="M196.33,42 v246 M374.67,42 v246 M553.00,42 v246 M731.33,42 v246 M909.67,42 v246"/></g>
 
-<rect x="18.00" y="288" width="178.33" height="80" fill="#0d3452"/>
-<rect x="196.33" y="288" width="178.33" height="80" fill="#1c4c73"/>
-<rect x="374.67" y="288" width="178.33" height="80" fill="#2f6b96"/>
-<rect x="553.00" y="288" width="178.33" height="80" fill="#6f6d66"/>
-<rect x="731.33" y="288" width="178.33" height="80" fill="#6a4a91"/>
-<rect x="909.67" y="288" width="178.33" height="80" fill="#46295f"/>
-<g stroke="#ffffff" stroke-width="1.5"><path d="M196.33,288 v80 M374.67,288 v80 M553.00,288 v80 M731.33,288 v80 M909.67,288 v80"/></g>
+<!-- ============ the label bar ============
+     Code on its own line, then the two-line name, then the definition and the
+     examples, all on one left edge. LOW-PRODUCTIVITY needs nearly the full panel
+     width, so nothing can sit beside it. -->
+<rect x="18.00" y="288" width="178.33" height="102" fill="#0d3452"/>
+<rect x="196.33" y="288" width="178.33" height="102" fill="#1c4c73"/>
+<rect x="374.67" y="288" width="178.33" height="102" fill="#2f6b96"/>
+<rect x="553.00" y="288" width="178.33" height="102" fill="#5f5e5a"/>
+<rect x="731.33" y="288" width="178.33" height="102" fill="#6a4a91"/>
+<rect x="909.67" y="288" width="178.33" height="102" fill="#46295f"/>
+<g stroke="#ffffff" stroke-width="1.5"><path d="M196.33,288 v102 M374.67,288 v102 M553.00,288 v102 M731.33,288 v102 M909.67,288 v102"/></g>
 
-<text class="cd" x="31.00" y="337">S0</text><text class="nm" x="62.00" y="304">CREATED</text><text class="nm" x="62.00" y="320">AGRICULTURE</text><text class="ca ca-b" x="62.00" y="342">a use that was not there</text><text class="ac ac-b" x="62.00" y="360">grazing on made ground</text>
-<text class="cd" x="209.33" y="337">S1</text><text class="nm" x="240.33" y="304">PRIMARY</text><text class="nm" x="240.33" y="320">AGRICULTURE</text><text class="ca ca-b" x="240.33" y="342">the prior use, continued</text><text class="ac ac-b" x="240.33" y="360">crops, vines, pasture</text>
-<text class="cd" x="387.67" y="337">S2</text><text class="nm" x="418.67" y="304">SECONDARY</text><text class="nm" x="418.67" y="320">AGRICULTURE</text><text class="ca ca-b" x="418.67" y="342">farmed, at a lower value</text><text class="ac ac-b" x="418.67" y="360">grazing, hay, hives</text>
-<text class="cd" x="566.00" y="337">S3</text><text class="nm" x="597.00" y="304">ORDINARY-LAND</text><text class="nm" x="597.00" y="320">SITING</text><text class="ca ca-n" x="597.00" y="342">an ordinary field, taken</text><text class="ac ac-n" x="597.00" y="360">the lease keeps the farm</text>
-<text class="cd" x="744.33" y="337">S4</text><text class="nm" x="775.33" y="304" textLength="121" lengthAdjust="spacing">LOW-PRODUCTIVITY</text><text class="nm" x="775.33" y="320">SITING</text><text class="ca ca-p" x="775.33" y="342">idled or underproducing</text><text class="ac ac-p" x="775.33" y="360">poor hay, brightfields</text>
-<text class="cd" x="922.67" y="337">S5</text><text class="nm" x="953.67" y="304">IMPAIRED-LAND</text><text class="nm" x="953.67" y="320">SITING</text><text class="ca ca-p" x="953.67" y="342">ground carrying a burden</text><text class="ac ac-p" x="953.67" y="360">prairie on retired fields</text>
+<text class="cd" x="29.00" y="312">S0</text><text class="nm" x="29.00" y="330">CREATED</text><text class="nm" x="29.00" y="345">AGRICULTURE</text><text class="ca ca-b" x="29.00" y="364">a use that was not there</text><text class="ac ac-b" x="29.00" y="380">grazing on made ground</text>
+<text class="cd" x="207.33" y="312">S1</text><text class="nm" x="207.33" y="330">PRIMARY</text><text class="nm" x="207.33" y="345">AGRICULTURE</text><text class="ca ca-b" x="207.33" y="364">the prior use, continued</text><text class="ac ac-b" x="207.33" y="380">crops, vines, pasture</text>
+<text class="cd" x="385.67" y="312">S2</text><text class="nm" x="385.67" y="330">SECONDARY</text><text class="nm" x="385.67" y="345">AGRICULTURE</text><text class="ca ca-b" x="385.67" y="364">farmed, at a lower value</text><text class="ac ac-b2" x="385.67" y="380">grazing, hay, hives</text>
+<text class="cd" x="564.00" y="312">S3</text><text class="nm" x="564.00" y="330">ORDINARY-LAND</text><text class="nm" x="564.00" y="345">SITING</text><text class="ca ca-n" x="564.00" y="364">an ordinary field, taken</text><text class="ac ac-n" x="564.00" y="380">the lease keeps the farm</text>
+<text class="cd" x="742.33" y="312">S4</text><text class="nm" x="742.33" y="330">LOW-PRODUCTIVITY</text><text class="nm" x="742.33" y="345">SITING</text><text class="ca ca-p" x="742.33" y="364">idled or underproducing</text><text class="ac ac-p" x="742.33" y="380">poor hay, brightfields</text>
+<text class="cd" x="920.67" y="312">S5</text><text class="nm" x="920.67" y="330">IMPAIRED-LAND</text><text class="nm" x="920.67" y="345">SITING</text><text class="ca ca-p" x="920.67" y="364">ground carrying a burden</text><text class="ac ac-p" x="920.67" y="380">prairie on retired fields</text>
 
 </svg>

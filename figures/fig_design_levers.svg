@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="276" viewBox="0 0 880 276" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img">
 <title>The six design levers</title>
 <desc>Six levers standing in a bank, drawn as faders on a rail. Scale sits alone at the left behind a rule, in gray, because it produces no restoration mode of its own and sets the frame the others work inside. Siting, structure and management follow as a group, in three deepening shades of tan and brown, bracketed as the levers that act on the ground and are bounded by how much ground there is. Ownership and contracts follow behind a second rule, in two shades of blue, bracketed as institutional levers that are not bounded by ground. Under each lever is what it decides and what it can deliver. The handles sit at different heights, because a lever is something set rather than a fixed label. The particular settings are arbitrary and describe no project.</desc>
 
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-.nm{font-size:11px;font-weight:700;letter-spacing:.07em;fill:#3d3d3a}
-.nm0{font-size:11px;font-weight:700;letter-spacing:.07em;fill:#6f6d66}
-.de{font-size:9.5px;fill:#5f5e5a}
-.dl{font-size:9.5px;font-style:italic;fill:#8a8880}
-.br{font-size:9.5px;font-weight:700;letter-spacing:.06em;fill:#8a8880}
+.nm{font-size:13px;font-weight:700;letter-spacing:.06em;fill:#3d3d3a}
+.nm0{font-size:13px;font-weight:700;letter-spacing:.06em;fill:#6f6d66}
+.de{font-size:12px;fill:#5f5e5a}
+.dl{font-size:12px;font-style:italic;fill:#7a7973}
+.br{font-size:11.5px;font-weight:700;letter-spacing:.06em;fill:#8a8880}
 </style>
 
 <defs>
@@ -19,62 +19,62 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 </defs>
 
 <!-- ============ brackets naming the three groups ============ -->
-<text class="br" x="90" y="30" text-anchor="middle">SETS THE FRAME</text>
-<path d="M62,40 v6 h56 v-6" fill="none" stroke="#d3d1c7" stroke-width="1.2"/>
+<text class="br" x="82" y="30" text-anchor="middle">SETS THE FRAME</text>
+<path d="M52,38 v6 h60 v-6" fill="none" stroke="#d3d1c7" stroke-width="1.2"/>
 
-<text class="br" x="370" y="30" text-anchor="middle">ACT ON THE GROUND · BOUNDED BY SCALE</text>
-<path d="M222,40 v6 h296 v-6" fill="none" stroke="#d3d1c7" stroke-width="1.2"/>
+<text class="br" x="372" y="30" text-anchor="middle">ACT ON THE GROUND · BOUNDED BY SCALE</text>
+<path d="M206,38 v6 h332 v-6" fill="none" stroke="#d3d1c7" stroke-width="1.2"/>
 
-<text class="br" x="725" y="30" text-anchor="middle">INSTITUTIONAL · NOT BOUNDED</text>
-<path d="M637,40 v6 h176 v-6" fill="none" stroke="#d3d1c7" stroke-width="1.2"/>
+<text class="br" x="745" y="30" text-anchor="middle">INSTITUTIONAL · NOT BOUNDED</text>
+<path d="M650,38 v6 h190 v-6" fill="none" stroke="#d3d1c7" stroke-width="1.2"/>
 
 <!-- ============ the rail, and the rules that separate the three groups ============ -->
-<line x1="40" y1="195" x2="840" y2="195" stroke="#b4b2a9" stroke-width="1.6"/>
-<line x1="160" y1="58" x2="160" y2="195" stroke="#e0ddd4" stroke-width="1.2"/>
-<line x1="578" y1="58" x2="578" y2="195" stroke="#e0ddd4" stroke-width="1.2"/>
+<line x1="30" y1="170" x2="850" y2="170" stroke="#b4b2a9" stroke-width="1.6"/>
+<line x1="160" y1="56" x2="160" y2="170" stroke="#e0ddd4" stroke-width="1.2"/>
+<line x1="594" y1="56" x2="594" y2="170" stroke="#e0ddd4" stroke-width="1.2"/>
 
 <!-- ============ SCALE — gray, because it produces no mode of its own ============ -->
-<use href="#lever" x="90" y="95"/>
-<rect x="85" y="130" width="10" height="65" rx="5" fill="#6f6d66"/>
-<rect x="72" y="123" width="36" height="14" rx="3" fill="#ffffff" stroke="#6f6d66" stroke-width="2"/>
-<text class="nm0" x="90" y="218" text-anchor="middle">SCALE</text>
-<text class="de"  x="90" y="235" text-anchor="middle">how much ground</text>
-<text class="dl"  x="90" y="251" text-anchor="middle">the frame itself</text>
+<use href="#lever" x="82" y="70"/>
+<rect x="77" y="105" width="10" height="65" rx="5" fill="#6f6d66"/>
+<rect x="64" y="98" width="36" height="14" rx="3" fill="#ffffff" stroke="#6f6d66" stroke-width="2"/>
+<text class="nm0" x="82" y="194" text-anchor="middle">SCALE</text>
+<text class="de" x="82" y="213" text-anchor="middle">how much ground</text>
+<text class="dl" x="82" y="231" text-anchor="middle">the frame itself</text>
 
 <!-- ============ the three physical levers ============ -->
-<use href="#lever" x="250" y="95"/>
-<rect x="245" y="160" width="10" height="35" rx="5" fill="#b8934a"/>
-<rect x="232" y="153" width="36" height="14" rx="3" fill="#ffffff" stroke="#b8934a" stroke-width="2"/>
-<text class="nm" x="250" y="218" text-anchor="middle">SITING</text>
-<text class="de" x="250" y="235" text-anchor="middle">which ground</text>
-<text class="dl" x="250" y="251" text-anchor="middle">water, habitat</text>
+<use href="#lever" x="238" y="70"/>
+<rect x="233" y="135" width="10" height="35" rx="5" fill="#b8934a"/>
+<rect x="220" y="128" width="36" height="14" rx="3" fill="#ffffff" stroke="#b8934a" stroke-width="2"/>
+<text class="nm" x="238" y="194" text-anchor="middle">SITING</text>
+<text class="de" x="238" y="213" text-anchor="middle">which ground</text>
+<text class="dl" x="238" y="231" text-anchor="middle">water, habitat</text>
 
-<use href="#lever" x="370" y="95"/>
-<rect x="365" y="143" width="10" height="52" rx="5" fill="#97783f"/>
-<rect x="352" y="136" width="36" height="14" rx="3" fill="#ffffff" stroke="#97783f" stroke-width="2"/>
-<text class="nm" x="370" y="218" text-anchor="middle">STRUCTURE</text>
-<text class="de" x="370" y="235" text-anchor="middle">what gets built</text>
-<text class="dl" x="370" y="251" text-anchor="middle">microclimate, light</text>
+<use href="#lever" x="372" y="70"/>
+<rect x="367" y="118" width="10" height="52" rx="5" fill="#97783f"/>
+<rect x="354" y="111" width="36" height="14" rx="3" fill="#ffffff" stroke="#97783f" stroke-width="2"/>
+<text class="nm" x="372" y="194" text-anchor="middle">STRUCTURE</text>
+<text class="de" x="372" y="213" text-anchor="middle">what gets built</text>
+<text class="dl" x="372" y="231" text-anchor="middle">microclimate, light</text>
 
-<use href="#lever" x="490" y="95"/>
-<rect x="485" y="171" width="10" height="24" rx="5" fill="#6f5730"/>
-<rect x="472" y="164" width="36" height="14" rx="3" fill="#ffffff" stroke="#6f5730" stroke-width="2"/>
-<text class="nm" x="490" y="218" text-anchor="middle">MANAGEMENT</text>
-<text class="de" x="490" y="235" text-anchor="middle">what grows there</text>
-<text class="dl" x="490" y="251" text-anchor="middle">soil, habitat, water</text>
+<use href="#lever" x="506" y="70"/>
+<rect x="501" y="146" width="10" height="24" rx="5" fill="#6f5730"/>
+<rect x="488" y="139" width="36" height="14" rx="3" fill="#ffffff" stroke="#6f5730" stroke-width="2"/>
+<text class="nm" x="506" y="194" text-anchor="middle">MANAGEMENT</text>
+<text class="de" x="506" y="213" text-anchor="middle">what grows there</text>
+<text class="dl" x="506" y="231" text-anchor="middle">soil, habitat, water</text>
 
 <!-- ============ the two institutional levers ============ -->
-<use href="#lever" x="665" y="95"/>
-<rect x="660" y="152" width="10" height="43" rx="5" fill="#4a6d8c"/>
-<rect x="647" y="145" width="36" height="14" rx="3" fill="#ffffff" stroke="#4a6d8c" stroke-width="2"/>
-<text class="nm" x="665" y="218" text-anchor="middle">OWNERSHIP</text>
-<text class="de" x="665" y="235" text-anchor="middle">who holds it</text>
-<text class="dl" x="665" y="251" text-anchor="middle">a share of revenue</text>
+<use href="#lever" x="682" y="70"/>
+<rect x="677" y="127" width="10" height="43" rx="5" fill="#4a6d8c"/>
+<rect x="664" y="120" width="36" height="14" rx="3" fill="#ffffff" stroke="#4a6d8c" stroke-width="2"/>
+<text class="nm" x="682" y="194" text-anchor="middle">OWNERSHIP</text>
+<text class="de" x="682" y="213" text-anchor="middle">who holds it</text>
+<text class="dl" x="682" y="231" text-anchor="middle">a share of revenue</text>
 
-<use href="#lever" x="785" y="95"/>
-<rect x="780" y="136" width="10" height="59" rx="5" fill="#33506b"/>
-<rect x="767" y="129" width="36" height="14" rx="3" fill="#ffffff" stroke="#33506b" stroke-width="2"/>
-<text class="nm" x="785" y="218" text-anchor="middle">CONTRACTS</text>
-<text class="de" x="785" y="235" text-anchor="middle">what was signed</text>
-<text class="dl" x="785" y="251" text-anchor="middle">durability</text>
+<use href="#lever" x="808" y="70"/>
+<rect x="803" y="111" width="10" height="59" rx="5" fill="#33506b"/>
+<rect x="790" y="104" width="36" height="14" rx="3" fill="#ffffff" stroke="#33506b" stroke-width="2"/>
+<text class="nm" x="808" y="194" text-anchor="middle">CONTRACTS</text>
+<text class="de" x="808" y="213" text-anchor="middle">what was signed</text>
+<text class="dl" x="808" y="231" text-anchor="middle">durability</text>
 </svg>

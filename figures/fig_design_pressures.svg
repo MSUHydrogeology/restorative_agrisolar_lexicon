@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="600" viewBox="0 0 760 600" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="562" viewBox="0 36 760 562" role="img">
 <title>Nine design pressures converging on one site, grouped by which way they push on restoration</title>
-<desc>Nine design pressures drawn as arrows converging on a central disc labelled one site's resolution. The disc is divided into four wedges. A teal wedge on the right holds the three pressures that push toward restoration: community acceptance and benefit, restorative goals, and end-of-life responsibility. A terracotta wedge on the left holds the three that push away: energy yield, build cost and operations and maintenance. Two gray wedges hold the three that go both ways: agricultural production and grid and market demands at the top, and policy and permission alone at the bottom. Because gray sits at both boundaries between the colored wedges, the toward and away groups never touch. Arrows are evenly spaced forty degrees apart and all the same length; the figure claims a direction, not a magnitude.</desc>
+<desc>Nine design pressures drawn as arrows converging on a central disc labeled one site's resolution. The disc is divided into four wedges. A teal wedge on the right holds the three pressures that push toward restoration: community acceptance and benefit, restorative goals, and end-of-life responsibility. A terracotta wedge on the left holds the three that push away: energy yield, cost and financing, and operations and maintenance. Two gray wedges hold the three that go both ways: agricultural production and grid and market demands at the top, and policy and permission alone at the bottom. Because gray sits at both boundaries between the colored wedges, the toward and away groups never touch. Arrows are evenly spaced forty degrees apart and all the same length; the figure claims a direction, not a magnitude.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .nm{font-size:13px;font-weight:600;fill:#3d3d3a}
@@ -57,12 +57,12 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="ct" x="380" y="312" text-anchor="middle">resolution</text>
 
 <!-- the tension as a three-segment axis: away | both ways | toward -->
-<text class="lg" x="293" y="558" text-anchor="middle" fill="#b5643a">pushes away</text>
+<text class="lg" x="268" y="558" text-anchor="middle" fill="#b5643a">pushes away</text>
 <text class="lg" x="380" y="558" text-anchor="middle" fill="#6f6d66">both ways</text>
-<text class="lg" x="467" y="558" text-anchor="middle" fill="#35887a">pushes toward</text>
-<polygon points="228,574 248,565 248,583" fill="#b5643a"/>
-<rect x="248" y="569" width="90" height="10" fill="#b5643a"/>
+<text class="lg" x="492" y="558" text-anchor="middle" fill="#35887a">pushes toward</text>
+<polygon points="198,574 218,565 218,583" fill="#b5643a"/>
+<rect x="218" y="569" width="120" height="10" fill="#b5643a"/>
 <rect x="346" y="569" width="68" height="10" fill="#6f6d66"/>
-<rect x="422" y="569" width="90" height="10" fill="#35887a"/>
-<polygon points="532,574 512,565 512,583" fill="#35887a"/>
+<rect x="422" y="569" width="120" height="10" fill="#35887a"/>
+<polygon points="562,574 542,565 542,583" fill="#35887a"/>
 </svg>
