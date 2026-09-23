@@ -93,6 +93,33 @@ correct, and says nothing a reader can picture. Four more rules for that:
   *apparatus*. Say what happens in the reader's own vocabulary. Not "the axis gates the functions"
   but "the axis decides which functions a site can deliver."
 
+A plain-language pass over the whole book turned up the same problems in chapter after chapter,
+and added these:
+
+- **Keep sentences short enough to read aloud.** Around twenty words on average; anything past
+  thirty-five that is not a list should be split. When a sentence carries a long list, put the verb
+  first. "As projects grow, a lot shifts at once: A, B, and C" reads; "A, B, and C all shift as
+  projects grow" makes the reader hold the whole list before learning what it is for.
+- **Gloss a defined term; do not swap it for a near-synonym.** "Calibration points" means named
+  places to stand, not boxes, and "reference sizes" quietly says boxes. Keep the lexicon's word and
+  explain it in plain words beside it.
+- **Do not use a defined word in its everyday sense nearby.** *Mode*, *position*, *function*,
+  *axis*, and *pressure* all have fixed meanings here. "The one mode that is counterfactual" reads
+  as a claim about restoration modes, and "gains on one axis" as a claim about the farming axis.
+- **The software rule holds for every trade.** Finance, construction, and research methods have
+  their own shorthand that one audience reads and the rest cannot: *capex*, *hurdle rate*, *value
+  engineering*, *offtaker*, *confound*, *adders*. Say what happens. Gloss an acronym (GHI, PPA,
+  PILOT, SGMA) once, where it first appears.
+- **"This lexicon," not "this document,"** and name the chapter meant. "The figures in this
+  chapter," written about another chapter's section, sends a reader to the wrong place.
+- **"You" sparingly, as idiom rather than address.** "Where you draw the line decides what counts"
+  is ordinary English. The lexicon does not talk to its reader.
+- **When a named set changes size, search for its count.** Adding S0 left "five positions",
+  "S1–S5", "every position", and "the two agricultural positions" wrong in six places across four
+  chapters. Search link text too: a renamed term survives in the words of the links pointing at it.
+- **Say which way a percentage runs.** \$2.19 against \$1.38 is 59% more or 37% less, and "a
+  penalty of 37%" is neither.
+
 A rough check for the first rule, run from the repository root:
 
 ```bash
@@ -101,6 +128,12 @@ grep -n '—' chapters/*.qmd index.qmd | grep -vE ':[0-9]+:\s*([|*#-]|[0-9]+\.)'
 
 Expect false positives on glossary openers and table captions, which are structural and fine. An
 em-dash inside a running paragraph is not.
+
+US English includes the forms that slip through most often. A second check:
+
+```bash
+grep -rnoE "judgement|metre|plough|travell|gravell|colour|behaviour|centre|organis[^m]" chapters/*.qmd index.qmd
+```
 
 ## Contributing
 
