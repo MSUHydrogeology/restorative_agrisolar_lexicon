@@ -61,16 +61,13 @@ format:
     number-sections: true
     number-depth: 2
     link-external-newwindow: true
-  pdf:
-    documentclass: scrreprt
-    pdf-engine: xelatex
+  typst:
     number-sections: true
     number-depth: 2
     toc: true
-    toc-depth: 3
-    # The running-example boxes are the only tip callouts in the book. Recolor them
-    # blue-violet to match the website; set at the start of the document so Quarto's own
-    # definition of the callout colors comes first and this one wins.
-    include-in-header:
-      text: |
-        \AtBeginDocument{\definecolor{quarto-callout-tip-color}{HTML}{4F5B93}\definecolor{quarto-callout-tip-color-frame}{HTML}{4F5B93}}
+    toc-depth: 2
+    citeproc: true
+    template-partials:
+      - typst/typst-show.typ
+    filters:
+      - filters/typst-lexicon.lua
