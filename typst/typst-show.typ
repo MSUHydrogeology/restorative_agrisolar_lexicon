@@ -4,7 +4,8 @@
 //
 // This is a Pandoc template partial: dollar signs are template syntax.
 
-#import "@preview/orange-book:0.7.1": book, part, chapter, appendices
+#import "@preview/orange-book:0.7.1": book, chapter, appendices
+#import "@preview/orange-book:0.7.1" as ob
 
 // The lever palette is the book's spine: slate for the institutional levers,
 // bronze for the physical ones. The rest are the site's table and box colors.
@@ -107,6 +108,52 @@ $endif$
     if it.body.at("text", default: none) == title { pagebreak(weak: true) } else { it }
   }
   body
+}
+
+// ---- parts ------------------------------------------------------------------
+// orange-book's part page, less its rule that a part opens on a right-hand
+// page, which left a blank page whenever the chapter before ended on one. Its
+// small contents numbered the unnumbered chapters (Sources came out "10.5"),
+// so the page lists the part's chapters itself.
+#let part(title) = {
+  pagebreak(weak: true)
+  ob.part-change.update(true)
+  ob.part-state.update(title)
+  ob.part-counter.step()
+  context ob.part-location.update(here())
+  [#metadata(none)<lexicon-part>]
+  context {
+    let main-color = ob.main-color-state.get()
+    set par(justify: false)
+    place(block(width: 100%, height: 100%, outset: (x: 3cm, bottom: 2.5cm, top: 3cm), fill: main-color.lighten(70%)))
+    place(top + right, text(font: display, fill: black, size: ob.large-text, weight: "bold", box(width: 60%, title)))
+    place(top + left, text(fill: main-color, size: ob.part-font-size-state.get(), weight: "bold", ob.part-counter.display("I")))
+    // This part's chapters: every chapter up to the next part, or to the
+    // appendices after the last one.
+    let next = query(selector(<lexicon-part>).after(here())).filter(m => m.location() != here())
+    let chapters = query(if next.len() > 0 {
+      selector(heading.where(level: 1)).after(here()).before(next.first().location())
+    } else {
+      selector(heading.where(level: 1)).after(here())
+    })
+    let listed = ()
+    for h in chapters {
+      if h.body.at("text", default: none) == "Appendices" { break }
+      listed.push(h)
+    }
+    align(bottom + right, block(width: 9.5cm, {
+      set text(font: display, size: 11pt)
+      set align(left)
+      line(length: 100%, stroke: 0.6pt + main-color)
+      v(0.4em)
+      grid(columns: (2em, 1fr, auto), row-gutter: 0.75em, column-gutter: 0.8em,
+        ..listed.map(h => (
+          if h.numbering != none { text(fill: main-color, weight: "bold", numbering("1", ..counter(heading).at(h.location()))) },
+          link(h.location(), text(fill: lex.ink, weight: "semibold", h.body)),
+          text(fill: lex.muted, str(h.location().page())),
+        )).flatten())
+    }))
+  }
 }
 
 // ---- numbering and figures ------------------------------------------------
@@ -257,4 +304,20 @@ $endif$
     if y == 0 { lex.head-fill } else { rgb(bands.at(calc.rem(y - 1, bands.len()))) }
   })
   body
+}
+
+// ---- callouts ---------------------------------------------------------------
+// Quarto's callouts in the site's box idiom: a colored rule down the left edge
+// and a tinted title band. The running example (Rabbit Hills) is the book's
+// only tip callout, and takes the blue-violet it has on the site so it reads as
+// one thread through the primer.
+#let callout(body: [], title: "Callout", background_color: rgb("#dddddd"), icon: none, icon_color: black, body_background_color: white) = {
+  let tip = background_color == rgb("#ccf1e3")
+  let bar = if tip { rgb("#4f5b93") } else { icon_color }
+  let band = if tip { rgb("#eceef6") } else { background_color.lighten(40%) }
+  block(width: 100%, breakable: true, stroke: (left: 3pt + bar), radius: (right: 2pt), above: 1.2em, below: 1.2em, clip: true, {
+    block(width: 100%, fill: band, inset: (x: 12pt, y: 7pt), below: 0pt, sticky: true,
+      text(font: display, size: 0.9em, weight: "bold", fill: if tip { rgb("#333b6b") } else { lex.ink }, title))
+    if body != [] { block(width: 100%, fill: lex.wash, inset: (x: 12pt, y: 9pt), above: 0pt, body) }
+  })
 }
