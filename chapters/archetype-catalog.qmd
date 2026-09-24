@@ -77,13 +77,13 @@ Minnesota has a built example in **Ramsey Renewable Station**, where 3.4 megawat
 
 ### Regenerative Solar Grazing {#arch-grazing}
 
-[A4–A5](scale-transect.qmd#sec-zones) scale · **[S1–S2](farming-axis.qmd#sec-positions)** farming · *[management-led](restoration-modes.qmd#sec-lv-mode)* restoration
+[A2–A5](scale-transect.qmd#sec-zones) scale · **[S1–S2](farming-axis.qmd#sec-positions)** farming · *[management-led](restoration-modes.qmd#sec-lv-mode)* restoration
 
 Drawn in section in @fig-arch-grazing, with its outcomes footprint.
 
-Regenerative [solar grazing](terminology.qmd#term-rangevoltaics) moves a flock through a planned rotation under a [utility-scale](terminology.qmd#term-utility-scale) array of 5 megawatts and up, covering anywhere from tens of acres to several thousand, connected to the grid at high voltage. The ground layer is managed pasture or forage. The fence and gate lines lay out the grazing paddocks, and the clearance and water points decide what kind of stock can work underneath, which in practice means sheep. The flock is usually hired in, a [contracted service](terminology.qmd#term-contract-grazing) rather than the farm's own animals. Rotation keeps the vegetation down, cycles nutrients, holds ground cover, and can build soil carbon under a well-managed native understory [@krasner2025].
+Regenerative [solar grazing](terminology.qmd#term-rangevoltaics) moves a flock through a planned rotation under an array of anything from a few hundred kilowatts on a few acres to a [utility-scale](terminology.qmd#term-utility-scale) project covering several thousand. The ground layer is managed pasture or forage. The fence and gate lines lay out the grazing paddocks, and the clearance and water points decide what kind of stock can work underneath, which in practice means sheep. In the commercial zone the flock is usually the landowner's own. From the community zone up it is more often hired in, a [contracted service](terminology.qmd#term-contract-grazing) rather than the farm's own animals. Rotation keeps the vegetation down, cycles nutrients, holds ground cover, and can build soil carbon under a well-managed native understory [@krasner2025].
 
-The pressures that shape it are [energy yield](terminology.qmd#term-energy-yield) and operations and maintenance. What it gives up is the farm's own agricultural production, since the grazing is a kind of tenancy on the array's ground, not the farm's own operation. Two calendars have to be fitted together: the power plant wants the grass kept low on its schedule, and the shepherd moves the stock on the flock's. Grazing can cost about the same as mowing [@mccall2023], and that is the level to plan around. A site budgeted on the expectation of saving money will come up short.
+The pressures that shape it are [energy yield](terminology.qmd#term-energy-yield) and operations and maintenance. Where the flock is hired in, what it gives up is the farm's own agricultural production, since the grazing is a kind of tenancy on the array's ground, not the farm's own operation. Two calendars have to be fitted together: the power plant wants the grass kept low on its schedule, and the shepherd moves the stock on the flock's. Grazing can cost about the same as mowing [@mccall2023], and that is the level to plan around. A site budgeted on the expectation of saving money will come up short.
 
 One built case runs across Minnesota, where Aurora Solar's 150 megawatts of generation sit on sixteen sites whose grounds are kept by thousands of contracted sheep grazing a low pollinator understory.
 
@@ -110,7 +110,7 @@ So “solar grazing” on its own names three different practices, and which one
 
 - **Aurora Solar**, sixteen sites across Minnesota (described above).
 - **Silicon Ranch and White Oak Pastures**, Georgia. Under Silicon Ranch's Regenerative Energy program, White Oak Pastures runs planned rotational grazing of sheep, and now cattle, across about 2,400 acres of solar farms ([Silicon Ranch](https://www.siliconranch.com/regenerative-energy-agrivoltaics/)).
-- **Rabbit Hills Solar Farm**, Corvallis, Oregon, the primer's running example. Lambs under the panels gained weight as fast as lambs in open pasture [@andrew2021]. At 1.4 megawatts it is smaller than the form usually runs.
+- **Rabbit Hills Solar Farm**, Corvallis, Oregon, the primer's running example. Lambs under the panels gained weight as fast as lambs in open pasture [@andrew2021]. At 1.4 megawatts on six acres it sits in the community zone, and the flock is the university's own.
 
 ### Retired-Irrigation Solar {#arch-water}
 

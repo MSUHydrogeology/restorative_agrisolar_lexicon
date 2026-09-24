@@ -12,6 +12,7 @@ Every archetype carries a code that combines three earlier chapters: its zone on
 | Form | Scale | Farming axis | Restoration mode | A built example |
 |:--|:--|:--|:--|:--|
 | [**Barnyard Shelter Solar**](archetype-catalog.qmd#arch-barnyard) | A1 | S1 | ownership-led | Morris dairy, Minnesota |
+| [**Regenerative Solar Grazing**](archetype-catalog.qmd#arch-grazing) | A2–A5 | S1–S2 | management-led | Aurora Solar, Minnesota |
 | [**Perennial Crop Canopy**](archetype-catalog.qmd#arch-permanent-crop) | A2–A4 | S1 | structure-led | Babberich raspberries, Netherlands |
 | [Solar Fencerows](archetype-catalog.qmd#arch-vertical-bifacial) | A2–A4 | S1 | structure-led | Donaueschingen-Aasen, Germany |
 | [Vegetable Agrivoltaics](archetype-catalog.qmd#arch-vegetable) | A2–A3 | S1 | structure-led | Jack's Solar Garden, Colorado |
@@ -21,7 +22,6 @@ Every archetype carries a code that combines three earlier chapters: its zone on
 | [Pollinator Meadow Solar](archetype-catalog.qmd#arch-community-solar) | A3 | S3, or S2 where hives are kept | management-led | SolarWise garden, Minnesota |
 | [Farm-Load Microgrid](archetype-catalog.qmd#arch-microgrid) | A3–A4 | S3–S4 | siting-led | Producers Rice Mill, Arkansas |
 | [Brightfield](archetype-catalog.qmd#arch-brightfield) | A3–A5 | S4, or S0 where the ground layer is grazed | siting-led | Shrewsbury landfill, Massachusetts |
-| [**Regenerative Solar Grazing**](archetype-catalog.qmd#arch-grazing) | A4–A5 | S1–S2 | management-led | Aurora Solar, Minnesota |
 | [Restored-Grassland Solar](archetype-catalog.qmd#arch-native-grassland) | A4–A5 | S3 | management-led | Enel sites, southern Minnesota |
 | [**Retired-Irrigation Solar**](archetype-catalog.qmd#arch-water) | A4–A5 | S5 | contract-led | Westlands, California |
 : The thirteen archetypes, their codes, and one built example of each, from the smallest zone each reaches to the largest. The six featured below are in bold. The Archetype Catalog describes all thirteen, with further examples and sources. {#tbl-forms}
@@ -29,7 +29,7 @@ Every archetype carries a code that combines three earlier chapters: its zone on
 
 ![**Where the archetypes sit.** Each form is drawn across the zones it recurs at, in the row of its farming-axis position, and colored by its restoration mode. Filled bars are the six featured forms, outlined bars the seven sketched ones, and dashed bars a position a form takes only in some cases. Hatched cells are combinations that rarely get built; a clear cell with no bar is possible, with no recurring form yet.](../figures/fig_archetype_map.svg){#fig-archetype-map}
 
-The map carries four readings. The primary-agriculture row runs the whole transect, because keeping a pasture under panels takes nothing but putting the array where the stock already were. The hatching shows where sparing is rare: at the small end, where an acre or two spares almost nothing, and for low-productivity siting at A5, where brightfields alone reach. A clear cell is still possible even without a bar. Created agriculture happens at every size, from a grazed landfill under a utility array to a garden kept with hives inside a small civic one. Nine of the thirteen forms reach A3, more than any other zone. And read from left to right, the colors move from ownership and structure through siting to management and contracts. That is Chapter 5's claim drawn form by form: restoration changes tools as projects grow.
+The map carries four readings. The primary-agriculture row runs the whole transect, because keeping a pasture under panels takes nothing but putting the array where the stock already were. The hatching shows where sparing is rare: at the small end, where an acre or two spares almost nothing, and for low-productivity siting at A5, where brightfields alone reach. A clear cell is still possible even without a bar. Created agriculture happens at every size, from a grazed landfill under a utility array to a garden kept with hives inside a small civic one. Ten of the thirteen forms reach A3, more than any other zone. And read from left to right, the colors move from ownership and structure through siting to management and contracts. That is Chapter 5's claim drawn form by form: restoration changes tools as projects grow.
 
 ## Six featured archetypes {#sec-featured}
 
@@ -69,11 +69,11 @@ A distribution-scale array of one to five megawatts is paired with deep-rooted p
 
 ### Regenerative Solar Grazing
 
-[A4–A5](scale-transect.qmd#sec-zones) scale · **[S1–S2](farming-axis.qmd#sec-positions)** farming · *[management-led](restoration-modes.qmd#sec-lv-mode)* restoration
+[A2–A5](scale-transect.qmd#sec-zones) scale · **[S1–S2](farming-axis.qmd#sec-positions)** farming · *[management-led](restoration-modes.qmd#sec-lv-mode)* restoration
 
-![Regenerative solar grazing in section. Water reaches furthest, on held cover and year-round roots, while Communities is pulled just inside the ring, because the agriculture here is a tenancy rather than the farm's own operation. Clearance is the quiet constraint: panels this low settle the question of stock as sheep.](../figures/fig_arch_grazing.svg){#fig-arch-grazing}
+![Regenerative solar grazing in section. Water reaches furthest, on held cover and year-round roots, while Communities is pulled just inside the ring, because at the scale drawn the agriculture is a tenancy rather than the farm's own operation. Clearance is the quiet constraint: panels this low settle the question of stock as sheep.](../figures/fig_arch_grazing.svg){#fig-arch-grazing}
 
-A flock moves through a planned rotation under a utility-scale array of five megawatts and up. Clearance and water points decide the stock, which in practice means sheep, and the flock is usually hired in rather than the farm's own. Two calendars have to fit together, since the power plant wants the grass kept low on its schedule and the shepherd moves the flock on the flock's. Grazing costs about what mowing does [@mccall2023], so a budget built on saving money will come up short. Aurora Solar's 150 megawatts across sixteen Minnesota sites are kept by thousands of contracted sheep. [Full entry →](archetype-catalog.qmd#arch-grazing)
+A flock moves through a planned rotation under an array of anything from a few acres to several thousand. Clearance and water points decide the stock, which in practice means sheep. In the commercial zone the flock is usually the landowner's own, and from the community zone up it is more often hired in. Two calendars have to fit together, since the power plant wants the grass kept low on its schedule and the shepherd moves the flock on the flock's. Grazing costs about what mowing does [@mccall2023], so a budget built on saving money will come up short. Aurora Solar's 150 megawatts across sixteen Minnesota sites are kept by thousands of contracted sheep. [Full entry →](archetype-catalog.qmd#arch-grazing)
 
 ### Retired-Irrigation Solar
 
@@ -84,7 +84,7 @@ A flock moves through a planned rotation under a utility-scale array of five meg
 Irrigated fields above an overdrawn aquifer come out of production under a large array, commonly 50 megawatts and up, and the panels need no water. Choosing the ground takes the fields out of farming, but only retiring the water right keeps the water in the aquifer, and a water right lives on paper. That is what makes the form contract-led. Where the metering and the rules are loose, the farming stops and the saving never arrives [@zwickle2021]. Westlands Solar Park in California's San Joaquin Valley is part of a plan to convert up to about 136,000 acres under the state's groundwater law [@stid2022]. [Full entry →](archetype-catalog.qmd#arch-water)
 
 ::: {.callout-tip .running-example icon=false title="At Rabbit Hills"}
-The primer's thread ends in a full description: `A3 scale · S1 farming · management-led restoration`. Each part of that code came from a different chapter. The scale transect placed it in the community zone. The farming axis placed it at S1, because the sheep pasture is still a sheep pasture. And its restoration mode names what does the work: a flock kept on the ground. Among the archetypes it is Regenerative Solar Grazing, at a smaller size than the form usually runs.
+The primer's thread ends in a full description: `A3 scale · S1 farming · management-led restoration`. Each part of that code came from a different chapter. The scale transect placed it in the community zone. The farming axis placed it at S1, because the sheep pasture is still a sheep pasture. And its restoration mode names what does the work: a flock kept on the ground. Among the archetypes it is Regenerative Solar Grazing, with the university's own flock doing the grazing.
 :::
 
 **Go deeper:** every archetype in full, including the seven sketched forms, in the [Archetype Catalog](archetype-catalog.qmd) · [archetype](terminology.qmd#term-archetype) and [design tension](terminology.qmd#term-design-tension) in the Terminology.
