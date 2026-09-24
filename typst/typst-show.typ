@@ -235,11 +235,12 @@ $endif$
 
 // ---- the site's boxes ---------------------------------------------------
 // A tinted panel with a colored rule down its left edge: green for a how-to,
-// neutral for a worked example, amber for a caution.
+// neutral for a worked example, blue-gray for evidence, amber for a caution.
 #let lexicon-box-styles = (
   "how-to": (fill: rgb("#f6f9f1"), bar: rgb("#639922")),
   "example": (fill: lex.wash, bar: rgb("#a9a698")),
   "caution": (fill: rgb("#faf6ee"), bar: rgb("#b5843a")),
+  "evidence": (fill: rgb("#f4f6f8"), bar: rgb("#8fa9bd")),
   "draft-note": (fill: lex.wash, bar: rgb("#d3d1c7")),
 )
 

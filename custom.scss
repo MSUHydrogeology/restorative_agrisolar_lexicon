@@ -391,7 +391,7 @@ main.content .quarto-float-tbl figcaption {
 // ===== The running example =====
 // The running example (Rabbit Hills) runs through every primer chapter in the same
 // titled callout, in a blue-violet used nowhere else, so it reads as one thread and
-// is never mistaken for the other example boxes. The PDF gets the same color from include-in-header in _quarto.yml.
+// is never mistaken for the other example boxes. The PDF gets the same color from the callout rule in typst/typst-show.typ.
 .callout.running-example {
   border-left-color: #4f5b93 !important;
 }

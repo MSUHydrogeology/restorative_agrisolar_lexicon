@@ -58,7 +58,7 @@ end
 -- 3. Styled boxes and banded tables. Quarto hands Typst a bare block and
 -- drops the class, so tag each one with the kind the site styles it as.
 local BOXES = { ["how-to"] = true, example = true, caution = true,
-                welcome = true, ["draft-note"] = true }
+                welcome = true, ["draft-note"] = true, evidence = true }
 local TABLES = { ["zone-table"] = true, ["position-table"] = true,
                  ["function-table"] = true, ["lever-table"] = true,
                  ["region-table"] = true, ["pressure-table"] = true,
