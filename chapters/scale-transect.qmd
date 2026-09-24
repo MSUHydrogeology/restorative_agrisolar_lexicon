@@ -1,84 +1,44 @@
 # The Scale Transect {#sec-transect}
 
-Somebody chose five megawatts rather than eighty. It was decided early, on grounds of [interconnection](terminology.qmd#term-interconnection) and capital, probably before anyone walked the ground. And it set the limits on every choice the design had left: how much ground there was to choose from, what hardware was affordable, who would manage the vegetation, and who would end up owning the array. That decision is **scale**, the first of the six [design levers](design-levers.qmd). It is how much ground the project takes, and it is the lever most often mistaken for a fact about a site rather than something a person decided.
+Somebody chose five megawatts rather than eighty. It was decided early, on grounds of [interconnection](terminology.qmd#term-interconnection) and capital, probably before anyone walked the ground, and it set the limits on every choice the design had left. That decision is **scale**, the first of the six levers. It is how large the array is, and so how much ground it takes, and it is the lever most often mistaken for a fact about a site rather than something a person decided.
 
-Scale gets a chapter because so much changes along with it. As projects get bigger, a lot shifts at once: how the array connects to the grid, who makes the decisions, what it takes to get a permit, how the [ground layer](terminology.qmd#term-ground-layer) is managed, and how much freedom there is to choose the site ([siting latitude](restoration-modes.qmd#sec-siting-latitude)). They shift together closely enough that knowing where a project sits on the range tells you a great deal about it at once. That range is the **[scale transect](terminology.qmd#term-scale-transect)**, and A0 through A5 are named points along it.
+Scale gets a chapter because so much changes along with it. As projects get bigger, a lot shifts at once:
+
+- **how the array connects to the grid:** behind the meter, then the local distribution line, then transmission
+- **who decides:** one landowner, then several parties at a table, then a utility with a place in the interconnection queue
+- **what it takes to permit:** allowed by right, then site plan review, then full environmental review
+- **who manages the ground:** existing farm labor, then crews hired for the site, then an outside contractor
+- **where the money comes from:** the owner's pocket, then tax equity and a power contract, then project finance
+
+They shift together closely enough that knowing where a project sits on the range tells you a great deal about it at once. That range is the **[scale transect](terminology.qmd#term-scale-transect)**.
 
 ![**Scale Transect Zones.** A0 through A5, one panel each, from a barn roof to rows running to the horizon. Each panel is at its own scale: what grows across the set is the array's share of the frame and what else is still in view.](../figures/fig_scale_transect.svg){#fig-scale-transect}
 
 ## Five zones on one gradient {#sec-zones}
 
-A 30-kilowatt barn array and a 300-megawatt [complex](terminology.qmd#term-a5) are both solar on farmland, but they differ in who decides, how they are financed, how they connect to the grid, how their ground is managed, and what that ground can do. So **scale** is treated here as a transect: a range along which many things change together, rather than a set of size bins. Capacity is a useful hint, not the definition. The zones below are calibration points on that range, in the sense urban planning's rural-to-urban transect uses the term: named places to stand, not boxes with walls. The [pressures](terminology.qmd#term-design-pressures) shift gradually along it. A 4 MW project and a 6 MW project differ by less than their labels suggest, and a project near a boundary should be read as sitting near a boundary. The things that change together are:
-
-- **How it connects to the grid**: behind the meter → distribution → transmission
-- **Who decides**: one landowner → several parties at a table → a utility with a place in the interconnection queue
-- **What it takes to permit**: allowed by right → site plan review → full environmental review
-- **Who manages the ground**: existing farm labor → purpose-built for the site → an outside contractor
-- **Where the money comes from**: the owner's pocket → tax equity and a power contract → project finance
-- **Who has to be talked to**: the neighbors → the township → a regional process
-- **[Siting latitude](restoration-modes.qmd#sec-siting-latitude)**: opportunistic → strategic → decided by what land could be assembled near a [substation](terminology.qmd#term-substation)
-
-The physical effects under the panels change with geometry and scale too. Cooler soil and better moisture retention show up more consistently than changes in air temperature, which vary from site to site [@zhang2025].
+The zones are calibration points on that range, in the sense urban planning's rural-to-urban transect uses the term: named places to stand, not boxes with walls. A 4 MW project and a 6 MW project differ by less than their labels suggest, and a project near a boundary should be read as sitting near one.
 
 ::: {.zone-table}
 | Zone | Indicative capacity | Indicative footprint | Interconnection | Decision unit | Ground-layer management |
 |---|---|---|---|---|---|
 | **A1 — Farmstead** | <100 kW | under ~1 acre | Behind-the-meter, net metered | Single owner-operator | Existing farm labor and equipment |
 | **A2 — Commercial** | 100 kW–1 MW | ~0.5–8 acres | Behind-meter to distribution | Landowner, possibly one lease counterparty | Existing equipment, modest adaptation |
-| **A3 — Community** | 1–5 MW | ~6–30 acres | Distribution; community solar, mid-market PPA | Multi-party: landowner, developer, offtaker, tax equity | Purpose-built: dedicated mowing, contract grazing, seeded establishment |
+| **A3 — Community** | 1–5 MW | ~6–30 acres | Distribution; community solar, mid-market power contract | Multi-party: landowner, developer, power buyer, tax equity | Purpose-built: dedicated mowing, contract grazing, seeded establishment |
 | **A4 — Utility** | 5–50 MW | ~30–300 acres | Distribution to sub-transmission; queue position matters | Developer-led, institutional capital | Contract enterprise: commercial graziers, habitat contracts |
-| **A5 — Complex** | 50 MW+ | ~300 acres to 10,000+ | Transmission; merchant or utility PPA | Utility/IPP, multi-jurisdiction | Contract enterprise at ranch scale; multi-site rotation logistics |
-: The five zones, and the attributes that move together along them. A PPA is a power purchase agreement, the contract that sells the array's output; an IPP is an independent power producer. {#tbl-zones}
+| **A5 — Complex** | 50 MW+ | ~300 acres to 10,000+ | Transmission; merchant or utility power contract | Utility or independent power producer, several jurisdictions | Contract enterprise at ranch scale; rotation across sites |
+: The five zones, and the attributes that move together along them. The bands fit the US Midwest and should be redrawn elsewhere. {#tbl-zones}
 :::
 
-Capacity is how a project is filed. Acreage is how the people living with it experience it. [Trackers](terminology.qmd#term-tracking-curtailment) and the extra [clearance](terminology.qmd#term-clearance) of [agrivoltaic](terminology.qmd#term-agrivoltaics) layouts use more land per megawatt than densely packed arrays, so **when the two numbers disagree, acreage is the better guide** [@gallaher2026; @sturchio2025croplands].
+Capacity is how a project is filed. Acreage is how the people living with it experience it, and **when the two numbers disagree, acreage is the better guide**, because trackers and the extra [clearance](terminology.qmd#term-clearance) of agrivoltaic layouts use more land per megawatt [@gallaher2026]. Arrays on buildings are **[A0 — Rooftop](terminology.qmd#term-a0)**. They take no ground, so they sit at the starting point of the range rather than on it. At the other end, A5 has no upper limit.
 
-**Where the acreage numbers come from, and how long they will hold.** The [footprints](terminology.qmd#term-footprint-influence) above assume 5.5 acres per megawatt (AC) for fixed-tilt panels and 6.3 for single-axis trackers, which is what Berkeley Lab measures for operating systems under 20 MW. Once setbacks, access roads, and the grid connection are counted, the whole site runs nearer 6 to 8 acres per megawatt, and wide-row agrivoltaic layouts roughly double that. These are 2020s numbers, and they have been falling for a decade as panels improve, so treat the acreage as a conversion to redo rather than a constant. A later edition of this table should show smaller footprints for the same megawatts. There is a limit, though. A commercial silicon panel converts a little over a fifth of the light that reaches it, against a physical ceiling of about a third for that kind of cell, so today's panels have come roughly two-thirds of the way. Newer tandem cells can beat that ceiling, which makes the limit soft, but it is not endless. Land use per megawatt will keep improving for a while and then stop.
+## Scale decides who holds the other levers {#sec-master-lever}
 
-Arrays mounted on buildings are **[A0 — Rooftop](terminology.qmd#term-a0)**. They have no ground to choose, manage, share, or spare, so they sit at the starting point of the range rather than on it. At the other end, A5 has no upper limit. Its usual situation is a site fixed by whatever land could be pieced together ([land assembly](terminology.qmd#term-land-assembly)), with any restoration carried by management (§-@sec-siting-latitude).
+Choosing five megawatts over eighty plants nothing and commits no one to anything. What it does is decide which of the other five levers a designer can still reach by the time the layout is drawn. **Scale is the master lever because it is settled before anyone reaches for the others**, and very little later in a project wins back what it closed off.
 
-A4 covers a wide range, and it probably contains a break of its own, near 20 to 25 MW. **That break is about who decides, not about land.** It is roughly where several states move siting decisions from local boards to a state office, with New York the clearest case. Below that size a township still decides, and a design argument can be made to people who live there. Above it, the decision moves to a different room with a different audience. The lexicon has not split A4 at that line yet, because unlike the 5 MW boundary it rests on one factor rather than several changing together. Still, a project between 20 and 25 MW should be expected to behave like the zone above it rather than the one below.
+The ground itself shows how. At the farmstead the operator holds the whole decision and has almost nothing to choose among, since one spot in the yard may be the only spot. At A3 a developer and a landowner can walk the field together and put the array on the wet low spot that never yields. By A4 the ground is chosen by whatever acreage could be assembled near a substation with a place in the queue (§-@sec-siting-latitude). The other levers travel the same way. Racking at A1 is whatever a local installer can find for one yard, and at A5 it is a catalog item bought by the megawatt. Ownership moves furthest: one person at the farmstead, and an investor, a landowner, and a township by A5. Every lever survives the trip. None stays in the same hands.
 
-The bands in the table fit the US Midwest and should be redrawn elsewhere. Not every zone exists in every region.
-
-:::: {#sec-grazing .example}
-**A worked example: grazing across the transect.** Sheep grazing keeps the same name from the [farmstead](terminology.qmd#term-a1) to the complex, and stops being the same job about twice along the way. Following one practice across the zones shows what the transect is actually measuring, because nothing about the animal changes and almost everything about the arrangement does.
-
-The choice of animal is made before the scale question arises. Sheep fit standard [racking](terminology.qmd#term-racking), goats climb it and chew wiring, and cattle and horses need more clearance than a standard array leaves them [@merheb2025], so in practice it is sheep or it is mowing.
-
-| Zone | Who grazes | Typical figures | The design problem |
-|:--|:--|:--|:--|
-| **A1–A2** | the farm's own flock | ~3 ewes/acre in New York and Michigan experience [@hartman2026]; 4–20 sheep/acre in rotational trials at Cornell | matching stocking to the forage and the weather in front of you, rather than to a published rate |
-| **A3** | a contracted grazier | ~$300–500/acre/yr for vegetation management | building a site that works for someone who does not live on it and visits on a schedule |
-| **A4–A5** | a logistics enterprise | mowing medians across 54 utility-scale sites: $113/acre/yr at sheep-grazed sites, $121 at native-vegetation, $203 at turfgrass; herbicide $293 on gravel [@mccall2023] | water, gates, hauling, and rotating a flock between parcels that do not touch each other |
-: Solar grazing across the transect. {#tbl-grazing}
-
-Two terms come apart here and are worth keeping apart. **[Stocking density](terminology.qmd#term-stocking-density)** is how many animals are on the ground at one moment, and **[carrying capacity](terminology.qmd#term-carrying-capacity)** is what the forage will feed across a season. Growth, utilization, and weather all move one without moving the other, which is why the A1–A2 figures above are a range rather than a rate.
-
-Getting a planting established is the cost that catches people out. Task for task, native and pollinator-friendly covers cost *less* to maintain than turfgrass. Yet total vegetation upkeep came out slightly *higher*, because the first three to five years take more separate trips across the site [@mccall2023]. [Restorative](terminology.qmd#term-restorative) ground cover is expensive to establish and holds its own on cost once it is. Anyone arguing for it on savings alone should expect to meet an operator holding the establishment invoices.
-
-So “solar grazing” on its own names three different practices, and which one a person means is usually settled by the size of the project they last worked on.
-::::
-
-
-## Scale modulates the other five levers {#sec-master-lever}
-
-Of the six [design levers](design-levers.qmd), scale is the only one that does no restorative work of its own. Choosing five megawatts over eighty plants nothing and commits no one to anything. What it does is decide which of the other five levers a designer can still reach by the time the layout is drawn. **Scale is the master lever because it is settled before anyone reaches for the others**, and very little that happens later in a project wins back what it closed off.
-
-[Siting latitude](terminology.qmd#term-siting-latitude) shows the mechanism plainly, because the decision is physical and somebody has to point at a piece of ground. What changes with scale is whose arm does the pointing.
-
-::: {.key-column}
-| Zone | What decides where it goes | Who actually chooses |
-|---|---|---|
-| **A1** | The yard, the herd, and the existing service drop | The operator, with almost no ground to choose among |
-| **A2** | Spare corners, awkward field ends, ground already sitting idle | The operator |
-| **A3** | Consistently low-yielding ground, where the water runs, buffer geometry | Developer and landowner, deliberately, together |
-| **A4–A5** | Contiguous acreage near a substation and a place in the queue, nudged at the edges by prime-farmland rules, likely opposition, and which communities benefit | The land market and the grid, with state and local rules able to veto the result |
-: Who chooses the ground, by zone. {#tbl-who-chooses}
+::: {.callout-tip .running-example icon=false title="At Rabbit Hills"}
+Its 1.4 megawatts on about six acres put Rabbit Hills in A3, the community zone, at the small end of the zone's acreage. At that size the array fits on a single pasture that one landowner already managed, and the university could go on grazing it with its own flock.
 :::
 
-Read the two columns against each other. At the farmstead the operator holds the whole decision and has almost nothing to decide, since one spot in the yard may be the only spot. At A3 a developer and a landowner walk the field together and can put the array on the wet depression or the corner that never yields. By A4 the middle column has filled with things nobody at the table controls, and the right column stops naming a person. The developer still signs the lease. The ground was chosen by whatever acreage could be assembled near a live queue position, and everything else in that row only trims the list.
-
-The other levers travel the same way, less visibly. Racking at A1 is whatever a local installer can find for one particular yard. At A5 it is a catalog item bought by the megawatt. The structural decision has passed from a person standing in the yard to a purchasing schedule. Ownership moves furthest: at the farmstead the party deciding and the party living with the decision are one person, and by A5 they are an investor, a landowner, and a township. Every lever survives the trip. None stays in the same hands.
-
-What those levers can still deliver once scale has decided who holds them is a separate question, and §-@sec-modes takes it up. The point here is that the capacity number on a term sheet has already answered part of it. A project filed at 80 MW gave away its choice of ground before the first site visit. One filed at 3 MW kept that choice, and will pay more per watt for it.
+**Go deeper:** the zone entries [A0](terminology.qmd#term-a0) to [A5](terminology.qmd#term-a5) in the Terminology · where the acreage numbers come from, the possible break inside A4, and grazing across the transect, in [In Depth](in-depth.qmd#sec-deep-transect) and the [Archetype Catalog](archetype-catalog.qmd#sec-grazing).

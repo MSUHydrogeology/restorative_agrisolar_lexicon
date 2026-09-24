@@ -1,0 +1,643 @@
+# In Depth (staging) {#sec-in-depth}
+
+::: {.caution}
+**This chapter is a staging area, not a finished chapter.** It holds, unedited, the previous versions of the landing page and the seven scheme chapters, as they stood before the primer replaced them. The primer condenses them; the Archetype Catalog now holds the archetype write-ups. Each section here is waiting for a decision: keep it and move it into the Terminology entry it belongs to, trim it, or cut it. Cross-references inside it point to the new chapters.
+:::
+
+## From the landing page {#sec-deep-landing}
+
+::: {.draft-note}
+**Working draft, circulated for comment.** Some citations are
+[not yet verified](sources.qmd) and are marked where they appear, and the
+[evidence base](evidence-and-needs.qmd) says what is established, what is
+inferred, and what nobody has measured.
+:::
+
+::: {.welcome}
+Solar and farming want the same flat, open, well-drained ground. An array can sit on pollinator habitat or on gravel. It can slow the water leaving a field or send it somewhere new, shade a flock, end the pumping on an irrigated field, or keep a farm in business. Which of those happens is a design decision.
+
+[**Agrisolar**](terminology.qmd#term-agrisolar) is any solar on farmland or among it, including arrays that keep a farm producing or bring farming to ground that never had it, whether or not anything grows under the panels. [**Agrivoltaics**](terminology.qmd#term-agrivoltaics) is the narrower case, where crops or livestock share the ground inside the fence. Growing crops directly under panels makes up less than two percent of what has actually been built, yet it gets a large share of the research attention [@stid2022; @macknick2022]. This lexicon is mostly about the other ninety-eight percent, and it tries to describe them just as precisely.
+
+Where you draw the line decides what counts. Most accounting stops at the fence, the tops of the panels, and a meter into the soil. This lexicon draws the line around the farm and the community hosting the array instead, so the lease that keeps a farm solvent, the water leaving the field, and the habitat next door all count.
+
+[**Restorative agrisolar design**](terminology.qmd#term-restorative) is the idea that a solar project's goals should include the soil, the water, the wildlife, and the neighbors, alongside the power it makes. This lexicon gives that idea words precise enough to test on a real site.
+:::
+
+### A shared language
+
+Put a [solar grazier](terminology.qmd#term-rangevoltaics), a township planner, a hydrologist, and a developer on the same eighty acres and you will get four descriptions that barely overlap. This lexicon is for the people deciding what an array will do to a farm and a place.
+
+Those decisions are being made right now, and mostly without good information. Townships write ordinances with no comparable projects to learn from, developers and neighbors talk past each other, and several states have taken permitting decisions away from the communities that host the arrays [@susskind2022; @bessette2024]. Shared words will not settle those arguments. They can help people figure out what they are actually arguing about.
+
+Nothing here is finished, and that is the point. Agrisolar is not yet a profession. It has no accreditation, no standard of care, and no agreed name for most of what it does. This lexicon tries to offer language precise enough for a profession to grow around. That is why the [terminology](terminology.qmd), the [evidence base](evidence-and-needs.qmd), and the [sources](sources.qmd) are full chapters rather than appendices. They are where a reader can trace a term, dispute a claim, or improve the work, and [Joining in](../index.qmd#sec-joining) says how.
+
+None of this is hypothetical. Around 15,000 ground-mounted arrays already cover some 3,000 km² of the United States. Roughly half of that ground was cropland before the panels went up, and another third was pasture or other farm grassland [@stid2022; @sturchio2025croplands]. A net-zero grid by 2050 could put solar on 60,000–90,000 km², about 1% of the lower 48 [@larson2021]. Most of that will be farmland too.
+
+### How the language works
+
+The lexicon is built around five questions. Each one has a chapter, so a reader who needs only one of them can start there.
+
+| | The question | Where it is answered |
+|---|:--|:--|
+| **1** | What can this project actually change? | [Design Levers](design-levers.qmd) — six decisions, and nothing else |
+| **2** | Who wants what from it, and who is going to lose? | [Design Pressures](design-pressures.qmd) — nine forces, with advocates |
+| **3** | How much ground does it take? | [The Scale Transect](scale-transect.qmd) — a barn roof to ten thousand acres |
+| **4** | What happens to the farming on that ground? | [The Farming Axis](farming-axis.qmd) — carried on, cut back, ended, or begun |
+| **5** | What gets better, and who receives it? | [Restoration Modes](restoration-modes.qmd) and [Restorative Functions](restorative-functions.qmd) |
+: The five questions, and the chapter that answers each. The terms in this lexicon exist to answer these questions.
+
+Almost every decision in a solar project falls into one of six groups, which this lexicon calls the [design levers](design-levers.qmd): scale, siting, structure, management, ownership, and contracts. Everything else is built on them. Competing interests, the [design pressures](terminology.qmd#term-design-pressures), push on how each lever gets set. Once the levers are set, any project can be described three ways: how big it is, what happened to the farming on its ground (its place on the [farming axis](terminology.qmd#term-farming-axis)), and which lever did the restorative work (its [restoration mode](terminology.qmd#term-restoration-mode)). Together, those decide what the ground actually ends up doing, which this lexicon calls its [functions](terminology.qmd#term-restorative-function).
+
+
+Of the nine pressures, three push toward restoration, three push against it, and which way the last three push depends on the site, the buyer, or the county (@fig-design-pressures). Each pushes harder in some regions than in others, which is why a California project and an Iowa project end up setting the same six levers differently. When the same combination of choices keeps turning up on real ground, this lexicon calls it an [archetype](archetypal-forms.qmd): an array sized to run the milking parlor, say, or one built on a field that has stopped being irrigated.
+
+Two ideas get chapters of their own. The first is **scale**, laid out as the [scale transect](scale-transect.qmd): five reference points along the range of project sizes, from a farmstead array to a regional complex. Size gets a chapter because so much changes with it at once, including how the array connects to the grid ([interconnection](terminology.qmd#term-interconnection)), who makes the decisions, and how the ground gets looked after. Scale does no restorative work by itself, which is why it has no color in the figure. What it decides is how much room the other five levers have.
+
+The second is the [farming axis](farming-axis.qmd), which is not a lever at all. It records what happened to the [farming](terminology.qmd#term-agricultural-production) on the ground the array took, and it comes out of **siting, structure, and management** together. Where farming carries on, the question is whether it is the same farming as before or something less, and that depends on what was built and what is grown. Where farming stopped, the question is what the ground was like beforehand, and that depends on where the array went. Where an array brings farming to ground that never had any, the project gets a position of its own.
+
+:::  {.staged}
+**This lexicon argues for an aim and leaves the dimensions to the site.** It takes a clear position on what agrisolar is *for*. It does not say how high to raise the panels ([clearance](terminology.qmd#term-clearance)) or how far apart to set the rows ([row spacing](terminology.qmd#term-row-spacing)), because the same choices that restore ground in one region can wear it down in another. [Regionality](design-pressures.qmd#sec-regionality) takes that up in detail.
+:::
+
+### Chapter contents
+
+| Chapter | What it holds |
+|:--|:--|
+| [Design Levers](design-levers.qmd) | the six decisions a project can actually make, three physical and two institutional, with scale setting the frame for all of them |
+| [Design Pressures](design-pressures.qmd) | the nine forces arguing over how those decisions get made, where they collide, and how their weights shift by region |
+| [The Scale Transect](scale-transect.qmd) | A1 to A5, farmstead to complex, and how much of every other lever survives at each size |
+| [The Farming Axis](farming-axis.qmd) | S0 to S5, what happened to agricultural production on the ground the array took, and which positions each scale allows |
+| [Restoration Modes and Potential](restoration-modes.qmd) | which lever is made to carry the restorative work, how much each can still do at each size, why the community scale stands out, and the two different kinds of work called restoration |
+| [Restorative Functions](restorative-functions.qmd) | the four functions a design can be aimed at, the eight outcomes they carry, and which route each benefit travels to whoever receives it |
+| [Archetypal Forms](archetypal-forms.qmd) | recurring settings of the levers that already exist on real ground, six worked through and seven sketched, from barnyard shelter to solar prairie strips |
+| [Terminology](terminology.qmd) | every defined term, grouped by subject, with an [A–Z index](index-alphabetical.qmd) alongside |
+| [Evidence Base and Research Needs](evidence-and-needs.qmd) | how well each claim is evidenced, stated once rather than hedged everywhere, and the measurements that would settle what is still inferred |
+| [Sources](sources.qmd) | every claim traced, split into what has been verified and what still needs tracing |
+: The document end to end. The chapters build on each other, and each one also stands alone. {#tbl-contents}
+
+### Joining in
+
+Corrections, counterexamples, and proposed terms are welcome as issues or pull requests on
+[GitHub](https://github.com/MSUHydrogeology/restorative_agrisolar_lexicon). Especially useful: an archetype
+that recurs in your region and is missing here, a term that lands badly with the people who have
+to use it, or a citation you can trace further than we have.
+
+
+## From Design Levers {#sec-deep-levers}
+
+A solar project is a long list of decisions, and almost all of them fall into six groups. How much ground to take. Which ground. What to build on it. What grows there and how the place is run. Who owns it. What everyone signs. These are the **[design levers](terminology.qmd#term-design-levers)**, and they are the only things anyone can actually change.
+
+Everything else in this lexicon follows from these six. The [design pressures](design-pressures.qmd) are the forces arguing over how each lever gets set, and the [restorative functions](restorative-functions.qmd) are what the settings produce.
+
+Two of the chapters after this one need a word of explanation, because they are different kinds of thing. [Scale](scale-transect.qmd) gets a chapter because that one lever shapes so much else, and it is laid out as five reference points along the range of project sizes, from a farmstead array to a regional complex. The [farming axis](farming-axis.qmd) gets a chapter because it is not a lever at all. It is what siting, structure, and management produce together, recorded as six positions that describe what happened to the farming on the ground the array took. Most public argument about solar on farmland is really an argument about the farming axis. The other five levers are worked through here.
+
+
+### The levers
+
+::: {.lever-table}
+| Lever | What it decides | What it can deliver |
+|:--|:--|:--|
+| **Scale** | how much ground the project takes · the capacity it is filed at, and the [zone](scale-transect.qmd#sec-zones) that follows · [interconnection](terminology.qmd#term-interconnection) posture, from [behind-the-meter](terminology.qmd#term-behind-the-meter) to transmission · whether to build once or phase several arrays | the transect position, and how much of every other lever is left |
+| **Siting** | which ground the array takes, and where on the parcel · whether it stands upslope or downslope of the problem it might fix · how near it is to the fields it might serve · whether a landscape carries a few large arrays or many small ones | water quality, habitat context, service to nearby fields |
+| **Structure** | mounting type and [clearance](terminology.qmd#term-clearance) · [row spacing](terminology.qmd#term-row-spacing) and [ground coverage](terminology.qmd#term-gcr) · [pore space](terminology.qmd#term-pore-space) · [module technology](terminology.qmd#term-module-technology) · grading and site works · the built half of the edge: setback, berm, wall, fence line | microclimate, room to farm, light to the ground layer |
+| **Management** | the [ground layer](terminology.qmd#term-ground-layer) and how it is established · the mowing and grazing calendar · [stocking density](terminology.qmd#term-stocking-density) · [tracking and curtailment](terminology.qmd#term-tracking-curtailment) · construction sequencing and traffic lanes · the planted half of the edge: hedgerow, buffer, [screening](terminology.qmd#term-screening) | soil and carbon, habitat, most of the water balance |
+| **Ownership** | who holds the asset: owner-operator, landowner, developer, utility, cooperative, or shared · co-ownership or an equity stake in place of a rent | a share of generation revenue for the people on the ground |
+| **Contracts** | lease terms and duration · [offtake](terminology.qmd#term-offtake) structure · interconnection posture · the [community-benefit](terminology.qmd#term-community-benefit) instruments · easements · the [decommissioning](terminology.qmd#term-decommissioning) bond | the community function, and durability for everything above |
+: The six design levers and the decisions inside each. Scale sets the frame. The three below it are physical and limited by how much ground there is. The two institutional levers are not.
+
+:::
+Two things look like levers and are not. What a project is *aiming at* is a goal, not a decision about the project itself, so it counts as a pressure: [restorative goals](terminology.qmd#term-restorative-goals). What the ordinance requires is not chosen by anyone building the project, so it is a pressure too: [policy and permission](terminology.qmd#term-policy-permission). Both are covered in §-@sec-pressures-ch. Mixing goals and rules into a list of actual choices puts three different kinds of thing under one heading.
+
+::: {.callout-note}
+### Scale limits every other lever
+
+Scale comes first because it limits every other lever, and it gets a chapter of its own (§-@sec-transect). It does no restorative work by itself. No field gets repaired and no flock gets fed because a project is 40 acres instead of 400. For some people scale is a choice, and for others it is a given. A farmer with one parcel and a distribution line at the road has very little say over it, while a developer assembling acreage near a [substation](terminology.qmd#term-substation) has a great deal. Both are choosing, and only one of them knows it.
+
+How much each of the other five levers can still deliver once the size is settled is the subject of §-@sec-modes.
+:::
+
+### The physical levers: siting, structure, and management
+
+**Siting** is the choice of ground. Where a designer still has that choice, it is the most powerful of the six levers, though it decides a project's place on the [farming axis](farming-axis.qmd) only together with structure and management (§-@sec-farming-axis). It is also the first lever to disappear as projects get bigger. Where an array goes decides whether it can help water quality at all, because the two ways of doing that need opposite ground. [Avoided loading](terminology.qmd#term-fn-hydrologic) needs the field that is leaking the nutrients, while interception needs the ground between that field and the water [@schulte2017]. Placement also decides whether a pollinator planting helps anyone. A pollinator forages within roughly 1.5 km, and about 3,500 km² of US farmland lies within that distance of existing and planned solar [@walston2018]. And good siting costs less than people tend to assume: planning all of New York's 2050 solar build around biodiversity came to just 0.17% more than the least-cost plan [@gallaher2026].
+
+**Structure** is the hardware and how it is laid out. It controls the [microclimate](terminology.qmd#term-microclimate) under the panels entirely. The shade, the lower vapor-pressure deficit (less drying stress on plants), and the warmer nights all come from the geometry, not from anything growing. Those effects show up in the water, ecology, and agriculture functions rather than as a function of their own (§-@sec-functions). Row spacing is not purely a structural decision, because crops differ in how much shade they will accept in exchange for relief from heat. The spacing and the ground layer are really one decision made by two parties [@weselek2019]. Structure also decides how much earth gets moved. That is the least visible choice of all and one of the most important, because a [racking](terminology.qmd#term-racking) system chosen on cost can set a site's soil carbon for thirty years before anyone picks a seed mix (§-@sec-fn-agricultural).
+
+**Management** is what grows underneath and how the place is run, from the first day of construction to the last year of the lease. It carries the soil and its carbon, most of the habitat, and most of the water balance. It also starts earlier than people expect. The order of construction, and whether crews keep to set traffic lanes, decide how much of the original soil survives to be managed at all. Management is the only lever that can still be changed after the array is built, and that cuts both ways. A planting that was right in year one can be wiped out in year four by a contractor doing exactly what the maintenance schedule says [@blaydes2022].
+
+The edge of a site is split between structure and management on purpose. A berm, a wall, or a fence is built. A hedgerow is planted, and has to be kept. The two fail differently: the berm will still be standing in year twenty whether or not anyone looked after it, and the hedgerow will not. A project that promises to screen the view with plantings alone has promised something that comes with a maintenance bill.
+
+Scale does not limit these three equally. As a project grows, siting narrows and management widens, and the two trade places at A3 (§-@sec-siting-latitude).
+
+### The institutional levers: ownership and contracts
+
+**Ownership** is who holds the asset. It settles who gets to make the other decisions and who keeps what the array earns. An owner-operator, a cooperative, and a utility want different things, and the difference shows up on the [ground layer](terminology.qmd#term-ground-layer), not only in the books. [Barnyard shelter solar](archetype-catalog.qmd#arch-barnyard) is the clearest small-scale example. It is [restorative](terminology.qmd#term-restorative) because the person who owns the array also owns the animals under it, so no agreement was needed to line their interests up.
+
+Ownership also changes more than any other lever as projects get bigger, and it changes in only one direction. At the [farmstead](terminology.qmd#term-a1), the array belongs to the farmer. At the [commercial](terminology.qmd#term-a2) and [community](terminology.qmd#term-a3) sizes, it belongs to the landowner, or to a community-solar arrangement with many small owners. At A4 and A5, it belongs to developer capital and then to a utility or an independent power producer, and the person on the ground holds only a lease.
+
+The money from selling the power moves with ownership, and that money is the largest thing an [agrisolar](terminology.qmd#term-agrisolar) project creates. A lease pays for the use of the ground. It is not a share of what the array sells. So a landowner earning three to four times what the crop used to return per acre [@sturchio2025croplands] is still being paid for land, not for electricity. **Whether a project is restorative depends partly on who owns it, and a generous lease does not settle that question.**
+
+That is why co-ownership, a community-solar subscription, or an equity stake in place of rent count as restorative tools and not just goodwill. Each one keeps part of the power revenue with the people hosting the array. Ownership produces no [restorative function](terminology.qmd#term-restorative-function) of its own. What it decides is who benefits from the functions the other levers produce, which is why the [community and economic function](terminology.qmd#term-fn-community) is most at risk when the owners live far away and strongest when ownership is local or shared.
+
+**Contracts** are what the parties actually signed. This lever carries the [community and economic function](restorative-functions.qmd#sec-fn-community) almost single-handedly, and it is also what makes the other five last. The clearest published example works through contracts alone: solar lease income can pay for a conservation practice that federal biofuel policy had made too expensive to keep [@sturchio2025croplands]. No ground was chosen and no hardware was changed. The restoration happened in a contract, and contracts are the lever most often left on the table.
+
+Contracts matter this much because the levers are fixed at very different times. Scale and siting are settled once. Structure is fixed on the day the array is built. Ownership changes hands over decades and contracts over years, while management can change next season. Stewart @brand1994, following Frank Duffy, describes a building as a set of layers that last different lengths of time, and argues that a design works when the fast layers can move without tearing the slow ones. @habraken2002 adds that each layer has its own decision-maker. Here management is the fast layer, and so the fragile one. It lasts only as long as somebody is paying for it and somebody else is checking on it, and both of those are contract questions. Choosing a seed mix is a management decision. Whether that planting survives to year twenty is a lease question.
+
+Designed landscapes fail this way all the time. The Landscape Architecture Foundation reports that parts of many projects fail within a year or two, because the maintenance crew had no say during design and the designer's job ended at the final walkthrough [@douglas2015]. A solar project can be sited perfectly, built correctly, and planted well, and still be gravel in fifteen years, because the levers that would have kept it planted were treated as paperwork instead of design.
+
+Which of the six levers a project relies on to do its restorative work is called its [restoration mode](terminology.qmd#term-restoration-mode). That choice matters enough to get a chapter of its own (§-@sec-modes).
+
+
+## From Design Pressures {#sec-deep-pressures}
+
+The developer, neighbor, farmer, buyer, and county do not want the same thing from a solar project. The developer needs a simple rectangle it can build at the price it bid. The farmer needs clearance for a tractor and a lease that runs as long as the array. The neighbor wants a screen along the road, the buyer wants the credits its scorecard counts, and the county wants the tax revenue and its own setbacks observed. Every project settles those claims one way or another, mostly without anyone saying so out loud. The seed mix quietly turns into turf grass, or the permit stalls. This lexicon calls these competing claims the **pressures**: nine forces, each pushing in its own direction and each with someone arguing for it. Naming them turns a vague standoff into a disagreement people can actually have, and shows who ends up carrying whatever the design could not settle.
+
+
+### The pressures
+
+Nine forces act on every site. Three push toward restoration, three push against it, and which way the remaining three push depends on the site, the buyer, or the county. Restorative goals is the pressure this lexicon exists to advance, but it is still one force among nine, not a score to judge a project by. The third column of the table is the one worth arguing about, because that is where a project's [restorative](terminology.qmd#term-restorative) claim is won or lost. Two pressures can even push the same way and still collide, which is why the argument over [reversibility](terminology.qmd#term-decommissioning) in §-@sec-conflicts is the hardest one.
+
+::: {.pressure-table}
+| Pressure | What it asks for | Push on restoration |
+|:--|:--|:--|
+| **Restorative goals** | Wider rows, mixed ground cover, a plan covering all thirty years, and choices made for the sake of what grows underneath [@hernandez2019] | **Toward.** The one this document argues for. It still loses to the other eight most of the time |
+| **Community acceptance and benefit** | Two things, and a design needs both. *Process*: engagement early enough that the answer can still change the design. *Receipts*: [what the project pays back](terminology.qmd#term-community-benefit), such as tax revenue, agreements, subscriptions, local hiring, or part-ownership | **Toward,** mostly. A township that gets a real say usually asks for more than a check. It can also ask for mown grass and a taller fence. And paying people without asking them first buys resentment, not consent [@crawford2022; @ryder2023] |
+| **End-of-life responsibility** | Removable foundations, less digging, funded [decommissioning](terminology.qmd#term-decommissioning), ground that can go back to what it was | **Toward.** Every trench and every graded acre is soil somebody has to rebuild later. The cheapest decommissioning is the one designed on day one, and the bond is what keeps the cost off the county |
+| **Agricultural production** | Clearance for a tractor, room to turn at the end of a row, something worth growing underneath, and a contract the farmer can work within for the project's whole life | **Both.** It is why there are sheep under the panels. It is also why there is no prairie under them: ground that has to grow something salable cannot also be left alone |
+| **Grid and market demands** | Whatever the buyer and the grid require: the power contract, the renewable-energy credits, the tax benefits, an interconnection the queue will actually deliver | **Both.** When a buyer's scorecard rewards pollinator habitat, habitat gets planted on a thousand sites at once. When that scorecard was written for a different climate, the wrong seed mix is in the contract for twenty years |
+| **Policy and permission** | Whatever the rules require before the project can happen at all: the permitting path, prime-farmland and setback rules, state programs, and the subsidies that decide what pays | **Both.** In California, groundwater law pays a grower to retire irrigated ground. In Iowa, the ethanol mandate pays a grower to keep planting it. Same pressure, opposite instruction, and the state line decides |
+| **Operations and maintenance** | Cover that is simple to mow, or gravel that does not grow at all, for twenty-five to forty years | **Away, then toward.** Somebody mows that ground for the next thirty years. Gravel never needs mowing, which is how gravel wins. Natives cost more for three years and less every year after, so which way this pushes depends on how far ahead the owner is looking |
+| **Energy yield** | Panels packed close, tilted and turned to follow the sun, mounted low, covering the whole field | **Away.** This is why the standard array looks the way it does: low, tight, edge to edge. Not always opposed, though. Plants under the panels hold the dust down and keep the modules cool, and cool modules make more power [@merheb2025] |
+| **Cost and financing** | Standard racking, low mounting, no special site preparation, simple rectangles instead of awkward shapes · a project big enough, and an offtaker sound enough, to raise the money against | **Away,** twice over. Anything unusual costs more and somebody will ask why it is worth it. And the paperwork does not scale down, so the middle of the transect pays a premium per watt for reasons that have nothing to do with how it was built. Sometimes the answer is cheap: siting New York's entire 2050 build around biodiversity came to 0.17% more than the cheapest version [@gallaher2026] |
+: The nine pressures and the direction each one pushes. Read the third column as a direction rather than a verdict on anyone advocating it, since every one of the nine has someone arguing for it in good faith.
+:::
+
+A site nobody will [finance](terminology.qmd#term-cost-financing) does not get built, and none of the nine can simply be argued away.
+
+### Where the pressures collide
+
+Whatever a design leaves unresolved is its **[design tension](terminology.qmd#term-design-tension)**. No combination of [lever](design-levers.qmd) settings brings it to zero, because the nine pressures cannot all be satisfied at once and the project still has to get built. What varies is how much tension is left, and who is left carrying it. A design can be quiet because the pressures genuinely made room for each other, or quiet because one side gave up and went home. The combinations that leave the least tension are the ones that get built again and again, and those are the [archetypal forms](archetypal-forms.qmd).
+
+**[Agricultural production](terminology.qmd#term-agricultural-production) vs. restorative goals.** Should the ground under the panels grow food, or habitat? This is the argument between the American Farmland Trust and the advocates of [ecovoltaics](terminology.qmd#term-ecovoltaics). Requiring crops rules out pollinator plantings, and choosing habitat gives up the case for protecting farmland. Both sides are defending something real, so dismissing either one as a misuse of words settles nothing.
+
+**[Operations and maintenance](terminology.qmd#term-operations-maintenance) vs. everything.** Gravel and herbicide are easy to maintain, and a diverse perennial planting is not. The maintenance bill decides the fate of many restorative designs.
+
+**Grid and market demands vs. [restorative goals](terminology.qmd#term-restorative-goals).** Buyers and their scorecards can spread good [ground-layer](terminology.qmd#term-ground-layer) practice quickly. But a rule written far away can also lock a poor local fit into a contract for its whole term [@epri2021].
+
+**[Energy yield](terminology.qmd#term-energy-yield) vs. restorative goals.** Panel height ([clearance](terminology.qmd#term-clearance)), row spacing, and how much shade a crop can take all affect each other. But plants under the panels can also cool them, keep dust down, and cut how often the panels need washing, so these two pressures sometimes push the same way [@merheb2025].
+
+**Cost and financing vs. operations and maintenance.** These two are often mistaken for one pressure. They split over what to plant, how high to mount the panels, and how equipment gets in, because what is cheap to build is often expensive to keep.
+
+**[End-of-life responsibility](terminology.qmd#term-end-of-life) vs. restorative goals.** This is the hard one, because both pressures push toward restoration and they still collide. Established habitat and rebuilt soil take years to create, and they do not come out cleanly when the array does. A project designed to disappear without a trace and a project designed to heal the ground are not always the same project.
+
+**[Community acceptance and benefit](terminology.qmd#term-community-acceptance) vs. cost and financing.** Community benefit costs money, and money is no substitute for a fair process. The cost is worth calculating rather than assuming. Planning New York's solar around biodiversity came to only 0.17% more than the least-cost plan, though protecting farmland involved other tradeoffs [@gallaher2026].
+
+### The same pressures, weighted by place
+
+The same nine pressures act on every site, but they carry different weight in every region. Shade that relieves a water-stressed crop in Arizona can cut corn yields in Ohio, and [retiring irrigated ground](terminology.qmd#term-s5) above a depleted aquifer has no equivalent in a county where the crops run on rain. The vocabulary travels between regions, but the weights do not. That is why this lexicon argues for an aim and leaves the dimensions to the site.
+
+#### Six factors that shift the weights {#sec-rg-factors}
+
+::: {.region-table}
+| Factor | What it changes |
+|:--|:--|
+| []{#sec-rg-resource}**Resource: sun and cloud** | Cloudier regions get more of their light as scattered, [diffuse](terminology.qmd#term-diffuse-fraction) light, which reaches under and between the panels more easily than direct sun, so a [ground layer](terminology.qmd#term-ground-layer) has more to work with. Strong direct sun makes [tracking](terminology.qmd#term-tracking-curtailment) worth more, and makes high clearance and wide rows cost more in lost power |
+| **Grid operator** | The [grid market](terminology.qmd#term-grid-market) often decides how big a project will be before the land does. Long waits to connect and forced cutbacks in output make each extra megawatt worth less, which eases the push to pack panels tightly. Where there is no community-solar program, projects skip the middle sizes entirely, and with them the range where the most design choices stay open |
+| **Aridity** | Flips the value of shade. In dry, sunny places, crops can trade some light for relief from heat and drought. In humid, temperate places they lose yield with nothing to show for it. Across 367 paired observations, the turning point sits near 30 °C air temperature [@merheb2025]. [Water work](terminology.qmd#term-fn-hydrologic) shifts from cutting water use to catching runoff |
+| **Latitude** | Sets the sun angle, and with it the tilt, the row spacing, and the [ground coverage](terminology.qmd#term-gcr). Northern arrays space their rows wider, which gives the ground layer more light and uses more land; southern arrays pack tighter. The resulting gaps between rows ([pore space](terminology.qmd#term-pore-space)) are why [vertical bifacial](terminology.qmd#term-module-technology) panels over working cropland (S1) suit some parts of the country better than others |
+| **Cropping system** | Decides whether keeping a crop under the panels is realistic at all. Leafy greens, root vegetables, and many forage grasses tolerate moderate shade. Corn and other warm-season (C4) grains do not, and neither do many fruiting crops, so a corn and soybean region relies on grazing and leases rather than on growing crops under the panels |
+| **Irrigation** | Makes [impaired-land siting](terminology.qmd#term-s5) possible where a district pumps more than its aquifer can sustain, because taking fields out of irrigation saves water and solar makes that pay. Rain-fed regions have no irrigation to retire, so their water work is catching runoff instead |
+: The six regional factors and what each one changes. The vocabulary travels between regions; the weights do not. {#tbl-regional-factors}
+:::
+
+#### A worked calibration: the United States {#sec-rg-us}
+
+:::: {.example}
+The table below is one [calibration](terminology.qmd#term-regional-calibration) of these factors, offered as a worked example rather than a finding. The regions loosely follow the USDA resource regions and are named so they are easy to recognize. GHI (global horizontal irradiance) is the total sunlight reaching flat ground, and the market column names the regional grid operators, such as CAISO in California and MISO and PJM across the Midwest and East. The last column is where the factors, taken together, tend to push each region.
+
+::: {.region-table}
+| Region | Resource & light | Water | Cropping | Market | Tends toward |
+|---|---|---|---|---|---|
+| **Desert Southwest** | Highest GHI, low diffuse, strong beam | Arid; groundwater-limited | Irrigated specialty, rangeland | CAISO / WECC, large-scale | Shade as a benefit; cropping continues under the panels where irrigated horticulture persists, and irrigation is retired where water is the binding constraint |
+| **Central Valley & irrigated West** | High GHI | Arid, and governed under SGMA, California's groundwater law | High-value specialty, heavily irrigated | CAISO, strong offtake | Retiring irrigated ground at scale; [retired-irrigation solar](archetype-catalog.qmd#arch-water) |
+| **High Plains** | High GHI, high latitude spread | Ogallala overdraft; declining wells | Grain, cotton, beef | SPP / ERCOT, curtailment risk | Retiring irrigated ground where the aquifer binds; grazing on the large arrays |
+| **Corn Belt** | Moderate GHI, moderate diffuse | Rain-fed; runoff and nutrient export | C4 grain, soybean | MISO / PJM, deep queues | Leases and grazing; hydrologic function as interception, via [prairie strips](archetype-catalog.qmd#arch-prairie-strips) and pollinator ground layers |
+| **Great Lakes & Northeast** | Lowest GHI, highest diffuse fraction | Humid; drainage, not scarcity | Dairy, forage, vegetables | Community-solar programs, so mid-sized projects are real | Crops and stock kept on the ground at small and community scale; [vegetable agrivoltaics](archetype-catalog.qmd#arch-vegetable), [barnyard shelter](archetype-catalog.qmd#arch-barnyard) |
+| **Southeast** | Moderate-to-high GHI, humid and cloudy | Humid; rainfall intensity | Row crop, pasture, poultry | Largely non-ISO, utility-led | Grazing at scale, and leases with managed ground layers |
+: One regional calibration of the United States, offered as a worked example rather than a finding. Read each row as a starting hypothesis: a region doing something its profile says it should not is the most useful contribution this chapter can receive. {#tbl-us-calibration}
+:::
+
+Read each row as a starting hypothesis, not an assignment. Counterexamples are worth reporting.
+::::
+
+#### What follows {#sec-rg-consequences}
+
+The pressures stay the same from place to place, but their weights do not, so designs should differ when the sunlight, the grid, the crops, or the water differ. The typical mistake is [copying a solution from another region](terminology.qmd#term-design-import), often through a buyer's [standard requirement](terminology.qmd#term-grid-market) that has traveled farther than the evidence behind it.
+
+What an array replaces also depends on the region, and that changes what an argument for sparing land even means. Nationally, most US solar has gone onto cropland. In New York it has not: of the [utility-scale](terminology.qmd#term-utility-scale) solar built there so far, 48% replaced pasture and hay, 38% replaced cultivated crops, and 11% replaced forest [@gallaher2026]. That puts clearing forest and losing grassland bird habitat at the center of a conversation that in Iowa would be about row crops and fertilizer runoff. A position on the farming axis means the same thing from state to state. What the array displaced does not.
+
+This is why the lexicon prescribes an [aim rather than dimensions](../index.qmd#sec-aim-not-dimensions). Calibrations for other regions are especially welcome. The zone sizes here are typical for the US Midwest, and a region with different sizes, missing zones, or a different limiting factor adds to the lexicon.
+
+
+## From The Scale Transect {#sec-deep-transect}
+
+Somebody chose five megawatts rather than eighty. It was decided early, on grounds of [interconnection](terminology.qmd#term-interconnection) and capital, probably before anyone walked the ground. And it set the limits on every choice the design had left: how much ground there was to choose from, what hardware was affordable, who would manage the vegetation, and who would end up owning the array. That decision is **scale**, the first of the six [design levers](design-levers.qmd). It is how much ground the project takes, and it is the lever most often mistaken for a fact about a site rather than something a person decided.
+
+Scale gets a chapter because so much changes along with it. As projects get bigger, a lot shifts at once: how the array connects to the grid, who makes the decisions, what it takes to get a permit, how the [ground layer](terminology.qmd#term-ground-layer) is managed, and how much freedom there is to choose the site ([siting latitude](restoration-modes.qmd#sec-siting-latitude)). They shift together closely enough that knowing where a project sits on the range tells you a great deal about it at once. That range is the **[scale transect](terminology.qmd#term-scale-transect)**, and A0 through A5 are named points along it.
+
+
+### Five zones on one gradient
+
+A 30-kilowatt barn array and a 300-megawatt [complex](terminology.qmd#term-a5) are both solar on farmland, but they differ in who decides, how they are financed, how they connect to the grid, how their ground is managed, and what that ground can do. So **scale** is treated here as a transect: a range along which many things change together, rather than a set of size bins. Capacity is a useful hint, not the definition. The zones below are calibration points on that range, in the sense urban planning's rural-to-urban transect uses the term: named places to stand, not boxes with walls. The [pressures](terminology.qmd#term-design-pressures) shift gradually along it. A 4 MW project and a 6 MW project differ by less than their labels suggest, and a project near a boundary should be read as sitting near a boundary. The things that change together are:
+
+- **How it connects to the grid**: behind the meter → distribution → transmission
+- **Who decides**: one landowner → several parties at a table → a utility with a place in the interconnection queue
+- **What it takes to permit**: allowed by right → site plan review → full environmental review
+- **Who manages the ground**: existing farm labor → purpose-built for the site → an outside contractor
+- **Where the money comes from**: the owner's pocket → tax equity and a power contract → project finance
+- **Who has to be talked to**: the neighbors → the township → a regional process
+- **[Siting latitude](restoration-modes.qmd#sec-siting-latitude)**: opportunistic → strategic → decided by what land could be assembled near a [substation](terminology.qmd#term-substation)
+
+The physical effects under the panels change with geometry and scale too. Cooler soil and better moisture retention show up more consistently than changes in air temperature, which vary from site to site [@zhang2025].
+
+::: {.zone-table}
+| Zone | Indicative capacity | Indicative footprint | Interconnection | Decision unit | Ground-layer management |
+|---|---|---|---|---|---|
+| **A1 — Farmstead** | <100 kW | under ~1 acre | Behind-the-meter, net metered | Single owner-operator | Existing farm labor and equipment |
+| **A2 — Commercial** | 100 kW–1 MW | ~0.5–8 acres | Behind-meter to distribution | Landowner, possibly one lease counterparty | Existing equipment, modest adaptation |
+| **A3 — Community** | 1–5 MW | ~6–30 acres | Distribution; community solar, mid-market PPA | Multi-party: landowner, developer, offtaker, tax equity | Purpose-built: dedicated mowing, contract grazing, seeded establishment |
+| **A4 — Utility** | 5–50 MW | ~30–300 acres | Distribution to sub-transmission; queue position matters | Developer-led, institutional capital | Contract enterprise: commercial graziers, habitat contracts |
+| **A5 — Complex** | 50 MW+ | ~300 acres to 10,000+ | Transmission; merchant or utility PPA | Utility/IPP, multi-jurisdiction | Contract enterprise at ranch scale; multi-site rotation logistics |
+: The five zones, and the attributes that move together along them. A PPA is a power purchase agreement, the contract that sells the array's output; an IPP is an independent power producer.
+:::
+
+Capacity is how a project is filed. Acreage is how the people living with it experience it. [Trackers](terminology.qmd#term-tracking-curtailment) and the extra [clearance](terminology.qmd#term-clearance) of [agrivoltaic](terminology.qmd#term-agrivoltaics) layouts use more land per megawatt than densely packed arrays, so **when the two numbers disagree, acreage is the better guide** [@gallaher2026; @sturchio2025croplands].
+
+**Where the acreage numbers come from, and how long they will hold.** The [footprints](terminology.qmd#term-footprint-influence) above assume 5.5 acres per megawatt (AC) for fixed-tilt panels and 6.3 for single-axis trackers, which is what Berkeley Lab measures for operating systems under 20 MW. Once setbacks, access roads, and the grid connection are counted, the whole site runs nearer 6 to 8 acres per megawatt, and wide-row agrivoltaic layouts roughly double that. These are 2020s numbers, and they have been falling for a decade as panels improve, so treat the acreage as a conversion to redo rather than a constant. A later edition of this table should show smaller footprints for the same megawatts. There is a limit, though. A commercial silicon panel converts a little over a fifth of the light that reaches it, against a physical ceiling of about a third for that kind of cell, so today's panels have come roughly two-thirds of the way. Newer tandem cells can beat that ceiling, which makes the limit soft, but it is not endless. Land use per megawatt will keep improving for a while and then stop.
+
+Arrays mounted on buildings are **[A0 — Rooftop](terminology.qmd#term-a0)**. They have no ground to choose, manage, share, or spare, so they sit at the starting point of the range rather than on it. At the other end, A5 has no upper limit. Its usual situation is a site fixed by whatever land could be pieced together ([land assembly](terminology.qmd#term-land-assembly)), with any restoration carried by management (§-@sec-siting-latitude).
+
+A4 covers a wide range, and it probably contains a break of its own, near 20 to 25 MW. **That break is about who decides, not about land.** It is roughly where several states move siting decisions from local boards to a state office, with New York the clearest case. Below that size a township still decides, and a design argument can be made to people who live there. Above it, the decision moves to a different room with a different audience. The lexicon has not split A4 at that line yet, because unlike the 5 MW boundary it rests on one factor rather than several changing together. Still, a project between 20 and 25 MW should be expected to behave like the zone above it rather than the one below.
+
+The bands in the table fit the US Midwest and should be redrawn elsewhere. Not every zone exists in every region.
+
+
+
+
+### Scale modulates the other five levers
+
+Of the six [design levers](design-levers.qmd), scale is the only one that does no restorative work of its own. Choosing five megawatts over eighty plants nothing and commits no one to anything. What it does is decide which of the other five levers a designer can still reach by the time the layout is drawn. **Scale is the master lever because it is settled before anyone reaches for the others**, and very little that happens later in a project wins back what it closed off.
+
+[Siting latitude](terminology.qmd#term-siting-latitude) shows the mechanism plainly, because the decision is physical and somebody has to point at a piece of ground. What changes with scale is whose arm does the pointing.
+
+::: {.key-column}
+| Zone | What decides where it goes | Who actually chooses |
+|---|---|---|
+| **A1** | The yard, the herd, and the existing service drop | The operator, with almost no ground to choose among |
+| **A2** | Spare corners, awkward field ends, ground already sitting idle | The operator |
+| **A3** | Consistently low-yielding ground, where the water runs, buffer geometry | Developer and landowner, deliberately, together |
+| **A4–A5** | Contiguous acreage near a substation and a place in the queue, nudged at the edges by prime-farmland rules, likely opposition, and which communities benefit | The land market and the grid, with state and local rules able to veto the result |
+: Who chooses the ground, by zone. {#tbl-who-chooses}
+:::
+
+Read the two columns against each other. At the farmstead the operator holds the whole decision and has almost nothing to decide, since one spot in the yard may be the only spot. At A3 a developer and a landowner walk the field together and can put the array on the wet depression or the corner that never yields. By A4 the middle column has filled with things nobody at the table controls, and the right column stops naming a person. The developer still signs the lease. The ground was chosen by whatever acreage could be assembled near a live queue position, and everything else in that row only trims the list.
+
+The other levers travel the same way, less visibly. Racking at A1 is whatever a local installer can find for one particular yard. At A5 it is a catalog item bought by the megawatt. The structural decision has passed from a person standing in the yard to a purchasing schedule. Ownership moves furthest: at the farmstead the party deciding and the party living with the decision are one person, and by A5 they are an investor, a landowner, and a township. Every lever survives the trip. None stays in the same hands.
+
+What those levers can still deliver once scale has decided who holds them is a separate question, and §-@sec-modes takes it up. The point here is that the capacity number on a term sheet has already answered part of it. A project filed at 80 MW gave away its choice of ground before the first site visit. One filed at 3 MW kept that choice, and will pay more per watt for it.
+
+
+## From The Farming Axis {#sec-deep-axis}
+
+From the road, one array looks much like another: same panels, same rows, same fence. The differences are underneath and beside it. Is a farm still taking anything off that ground, and what was the ground doing before the array arrived? The farming axis asks one question: **what happened to [agricultural production](terminology.qmd#term-agricultural-production) on this ground?** Almost every ground-mounted project sits at one of five positions, S1 through S5. They run from **land sharing**, where farming continues on the ground under the array, to **land sparing**, where the array's ground comes out of farming so that other ground can be left alone. A sixth position, **S0**, sits beyond the sharing end, for a case the other five cannot describe: ground that was never farmed before the array and is farmed under it. The axis is largely independent of [scale](scale-transect.qmd). Scale says what was available. The position says what happened.
+
+The two halves of the axis are decided by different levers, which is why the position names follow two patterns. Where farming has stopped, the position simply depends on which ground the array took: ordinary, idle, or impaired. That is a siting decision, so those three positions are named for the ground. Where farming continues, siting has almost nothing to do with it. A flood-prone corner that was rough pasture and still carries the farm's sheep is S1. The same corner left to grow wild under the panels is S4, on exactly the same ground. **What separates them is what is grown and who takes it**, so the sharing positions are named for the farming that survives, not for where anyone put the array.
+
+Most public argument about solar on farmland is really an argument about this axis, carried on without anyone naming it [@moore2022]. About half of the ~3,000 km² (740,000 acres) of US ground-mounted solar was built on former cropland, and about a third on pasture and other farm grassland [@kruitwagen2021; @fujita2023]. Worldwide, cropland was the previous use for roughly 59% of solar sites [@merheb2025]. Naming a project's position first makes clear what it can claim, what it still has to argue for, and which objections actually apply to it. The framing borrows its neutrality from the land-sharing and land-sparing debate in conservation ecology [@green2005; @phalan2011], and it does not rank the positions against each other. The closest existing scheme sorts solar landscapes by how ambitious their design is, as mixed-production, nature-based, or landscape-inclusive [@oudes2022]. This axis cuts across all three, because it asks only what happened to farming.
+
+
+### The positions
+
+S1 and S2 are judged against what the ground did before, not against what the array needs. **S1** is the same use carried on, essentially unchanged, with the array added to it. That is [agrivoltaics](terminology.qmd#term-agrivoltaics) in the strict sense: a vineyard still a vineyard, a pasture still a pasture, a row crop still farmed between the rows. **S2** is farming carried on at a lower value than the ground had before. In practice that usually means [solar grazing](terminology.qmd#term-rangevoltaics) on former cropland, and it also covers a sown cover cut for forage or hay, or kept for hives. So the same flock can land in different positions on different ground. Sheep on land that was already pasture are S1, and sheep on land that was growing corn are S2, because one use continued and the other stepped down.
+
+Ordinary-land siting, S3, is the center of the axis and where most projects sit. Growing crops directly under panels is still a small share of US installations [@stid2022; @macknick2022]. **At S3, restoration is about people and money before it is about soil and water.** Farming stops inside the [footprint](terminology.qmd#term-footprint-influence), but the lease keeps the farm business going. Where the rent goes to an owner who does not farm and the farm operation ends, the site is a **[bare conversion](terminology.qmd#term-bare-conversion)**, the baseline that is not restorative at all. Landowner and tenant have to be judged separately here (§-@sec-fn-community) [@stid2025].
+
+S4 and S5 both take ground out of farming, and they differ in [where the benefit goes](terminology.qmd#term-benefit-delivery). S4 spares other land that the array did not take. S5 does its good on the ground it took, and downstream of it. That is why only one of them can be checked on the spot. **S5's benefit lands on the ground under the array. S4's lands on ground the array never touched.** Both names still describe the ground the array was built on, since that is what a visitor can see, and they leave the sparing claim to the definition. To qualify for S5, the ground has to carry a measurable burden: chronically low yields, heavy runoff, nutrients or pesticides washing off, or irrigation that pumps more than the aquifer can supply. Ground placed where it can catch such a burden coming from elsewhere qualifies for the same reason. Prairie plantings on poorly drained cropland show the difference [@schulte2017].
+
+One case sits outside all five, and it runs the other way. The five positions all record something kept or lost: a use carried on, a use stepped down, or a use ended, each judged against what the ground carried before the array. Ground that was built on, paved, filled, or otherwise never farmed has nothing to lose, so an array that puts a flock on it is not keeping a use or reducing one. It is starting one. That is **S0 — created agriculture**. It sits beyond the sharing end, because the sharing end means farming on the ground the array occupies, and S0 has more of that than the ground had before. A capped landfill grazed under panels, a closed industrial site carrying sheep, and previously developed ground in or near a town put back to grazing all count as S0. Like S1 and S2, it is named for the farming rather than the ground, since what defines it is the use that started. It is uncommon, and naming it says nothing about quality. A new use is not automatically a good one, and the position records the direction, not the value.
+
+::: {.position-table}
+| Position | The ground beforehand | Production afterward | Typical ground layer | Where the benefit lands |
+|---|---|---|---|---|
+| **S0 — Created agriculture** | Developed, built, or otherwise carrying no agricultural use | Begins where there was none | Usually grazed; whatever a farm can take something off | On the same ground, and on whoever farms it |
+| **S1 — Primary agriculture** | The use it already carried | Continues essentially unchanged | The crop, the vines, or the pasture itself | On the same ground |
+| **S2 — Secondary agriculture** | Usually cropland; any ground whose use is stepped down rather than continued | Continues, at a lower value than before | Grazed, cut for forage or hay, or worked for hives | On the same ground, and on the farm working it |
+| **S3 — Ordinary-land siting** | Ordinary productive ground | Stops inside the footprint | Whatever is maintained; often mown | On the farm enterprise, through the lease |
+| **S4 — Low-productivity siting** | Already idle, marginal, or chronically low-yielding | Had already stopped before the array arrived | Often left to naturalize | On productive land elsewhere that went unbuilt |
+| **S5 — Impaired-land siting** | Carrying a measurable off-site burden | Stops, and the burden stops with it | Perennial cover chosen against the burden | On the ground taken, and downstream of it |
+: The six positions, and what changes across them. Read left to right, the first two columns settle the position and the last two say what follows from it.
+:::
+
+::: {.example}
+**Corn-ethanol land: the large American S5 case.** It reverses the usual objection. About 12 million hectares of US cropland, an area the size of New York State, already grows energy rather than food. One hectare of [utility-scale](terminology.qmd#term-utility-scale) array matches the energy of roughly 31 hectares of corn grown for ethanol, so converting 3.2% of that acreage would replace all of its energy and take utility-scale solar from 3.9% to 13% of US supply. Retiring the nutrient-exporting fraction under perennial vegetation would remove an estimated 54.8 million kg of nitrogen and 26.3 million kg of phosphorus from annual application [@sturchio2025croplands].
+
+The substitution is imperfect, because electrons and a fuel additive serve different end uses. But the land arithmetic is not close: this is not food land lost to energy, it is energy land used about thirty times better.
+:::
+
+A position records a fact about the ground, not the quality of the project. Pollinator habitat, prairie, and native grassland are [restorative functions](restorative-functions.qmd), not positions. The same planting can turn up anywhere from S1 to S5, since a grazed array on former pasture can carry a pollinator understory just as easily as a retired field can. What decides the position is whether a farm takes something off the ground. A sown meadow with beehives on it is farming, because honey and colonies leave the site and are sold, so it sits at S2 alongside a flock. The same meadow without hives is a [ground layer](terminology.qmd#term-ground-layer) doing ecological work on land that has stopped farming, which puts it at S3 or below.
+
+::: {.how-to}
+**Placing a site.** Each site gets exactly one position, and two questions, asked in order, settle which. Both are questions about the ground, not the lease.
+
+1. **Is a farm still taking something off this ground?** Name the farm and name what it takes. If the use is essentially the one the ground carried before, the site is **S1**. If a farm still works it but at a lower value than before, the site is **S2**. If the ground carried no agricultural use at all before the array, the site is **S0**, because there was no use to keep and none to step down from. Two things do not count. Rent is not production. It comes out of the contract, not out of the ground, so a site whose only output is a lease payment is S3. Vegetation that is only mown is not production either, because nothing leaves and no farm takes anything.
+2. **If nothing is taken, what was the ground before the array?** Ordinary productive land gives **S3**, ground already idle, marginal, or chronically low-yielding gives **S4**, and ground carrying a measurable off-site burden gives **S5**.
+
+A flood-prone corner that was already rough pasture and still carries the farm's sheep is S1, because the use it had is the use it kept. The same corner cropped before the array and grazed after it is S2, because a farm still works it at a lower value than before. Left to naturalize under the panels, with nothing taken off it, it is S4. S3 asks one further question: does the farm enterprise survive the conversion? If not, it is bare conversion.
+:::
+
+Sparing is still a claim about the wider landscape. S4 only helps if [the land it leaves untaken](terminology.qmd#term-displaced-benefit) was genuinely the alternative, and if the array did not simply move onto something else worth keeping. New York shows how that can go wrong. Siting the state's 2050 solar build to protect farmland spares roughly 80% of the farmland a least-cost build would take, but it opens up more than 41,000 hectares of forest in the process. The least-cost plan, for its part, lands mostly on pasture and hay, and nearly half of that overlaps grassland bird habitat [@gallaher2026]. The array has to go somewhere, and a position read at the site alone will not say where. S4 also covers very different sites, from field remnants to [brownfields](terminology.qmd#term-marginal-land), and their contamination and permitting constraints still belong in the site description. Arrays on buildings are [A0](scale-transect.qmd#sec-zones) and have no position at all.
+
+Read down S1 through S5, and each answers the same kind of question: what was given up, and by whom. None of them says what the ground goes on to do afterward. That is a second kind of [restorative](terminology.qmd#term-restorative) work, taken up in §-@sec-harm-benefit.
+
+### Scale and position interact to determine feasibility
+
+Scale narrows which positions are available, through [siting latitude](restoration-modes.qmd#sec-siting-latitude), but only at one end. Farming carries on under panels at every size. At [A1](scale-transect.qmd#sec-zones) it is the farmer's own yard, and at [A5](scale-transect.qmd#sec-zones) it is a hired flock on ground that was already pasture, which is why the sharing edge of the *feasible wedge* runs flat across the whole transect. What is scarce at the small end is sparing. S4 and S5 are possible there, but they spare almost nothing, because the acreage is too small to matter. So the wedge opens downward from A1 to A3 and stays open. The one combination that really does thin out toward the large end is **S4**. A developer piecing together one large block near a substation ([land assembly](terminology.qmd#term-land-assembly)) cannot collect scattered remnants, so qualifying ground gets harder to find as projects grow. S5 does not thin out the same way, because a problem like aquifer depletion can cover a whole region, and an irrigation district can be assembled as easily as any other large block of ground.
+
+
+Grazing and ordinary-land siting form the backbone of the wedge. Grazing is what keeps the sharing edge open at the large end, and it does that because of what the ground was used for before, not because of any special layout. A flock on ground that was already pasture is S1, and the same flock on former cropland is S2. What stays genuinely rare is *growing crops* at utility scale, where the tall clearances and wide rows are hard to justify on cost. [Vertical bifacial](terminology.qmd#term-module-technology) arrays are the documented case [@vaverkova2026]. The figure's other two exceptions are greenhouse solar at small scale and previously disturbed land at S4. [Permanent crops](archetype-catalog.qmd#arch-permanent-crop) are another possible exception on the sharing side. A vineyard or orchard already grows its rows at height, and the crop can live with a [clearance](terminology.qmd#term-clearance) that corn cannot, so a fifty-acre block under a canopy is a primary-agriculture project of about seventeen megawatts. The exception is about geometry, not cost. The structure still costs 1.8 to 2.7 times a conventional ground mount, and a trellis holds vines, not [trackers](terminology.qmd#term-tracking-curtailment). Native grassland remains a [restorative function](restorative-functions.qmd), not a position [@walston2025; @krasner2025].
+
+Reaching S1 by *growing crops* depends on climate and crop in a way that reaching it by keeping a pasture does not. It works best for shade-tolerant crops in hot, dry places, and results are mixed to negative for staple grains in temperate or humid places [@barrongafford2019; @weselek2019; @merheb2025].
+
+The American Farmland Trust defines [dual use](terminology.qmd#term-dual-use) by production, so its definition requires S1 or S2. Critics include advocates of [ecovoltaics](terminology.qmd#term-ecovoltaics), whose ecological ground layers count as functions at S3 and below [@hernandez2019]. This lexicon describes that dispute rather than settling it.
+
+
+## From Restoration Modes and Potential {#sec-deep-modes}
+
+A developer promises native grass under the panels and a flock to keep it down. Whether that promise is worth anything depends on which decision is carrying it. The grass could be there for any of five reasons. The array went on the part of the field where the water already runs. The rows were spaced wide enough to let light reach the ground. A grazier was hired to seed it and bring the animals. The farmer owns both the array and the ewes. Or the lease requires it for thirty years. The grass is the same in all five. What differs is who has to keep doing something, and what anyone could look at in year twenty to find out whether it held.
+
+A project does not just happen to turn out [restorative](terminology.qmd#term-restorative). Somebody decides which of those levers will carry the work, and commits the design to it early enough that the decision survives the last round of cost cutting. That choice is the project's [**restoration mode**](terminology.qmd#term-restoration-mode), and it is the third way this lexicon describes a project. [Scale](scale-transect.qmd) says what was available. The [farming axis](farming-axis.qmd) says what happened to farming. The mode says which lever actually did the restoring, and of the three, it is the only one a designer chooses outright.
+
+One thing to clear up first, because many readers already use the word differently. In a solar lease or a siting filing, *site restoration* means a [decommissioning](terminology.qmd#term-decommissioning) obligation: what the developer owes the ground when the lease ends. A restoration mode is not that. It is a choice made during design about which lever will carry the restorative work while the array operates, and it is settled decades before anyone reads the decommissioning clause.
+
+Each of the six [design levers](design-levers.qmd) matters somewhere on the transect, but none keeps the same reach at every size, and some run out entirely at one end. That does not mean projects simply lose freedom as they grow. The three physical levers trade places with each other along the transect. The two institutional levers run in opposite directions. And scale is not a line on the chart at all: it is the axis the other five are read against.
+
+
+### The five modes
+
+Five of the six [design levers](design-levers.qmd) can be made to carry the work.
+
+- **[Siting-led](terminology.qmd#term-siting-led)** — put the array where the ground itself does the work. [Solar prairie strips](archetype-catalog.qmd#arch-prairie-strips) are the case: the planting goes where the runoff already goes.
+- **[Structure-led](terminology.qmd#term-structure-led)** — build the geometry to do it: clearance, [row spacing](terminology.qmd#term-row-spacing), how much light the modules let through. [Perennial crop canopy](archetype-catalog.qmd#arch-permanent-crop) is the case: the panels ride above a planting whose life matches the array's.
+- **[Management-led](terminology.qmd#term-management-led)** — accept the site as given, and put the ground cover, the grazing plan, and the yearly calendar to work. [Regenerative solar grazing](archetype-catalog.qmd#arch-grazing) is the case.
+- **[Ownership-led](terminology.qmd#term-ownership-led)** — arrange the ownership so that no agreement is needed, because nobody's interests were ever opposed. [Barnyard shelter](archetype-catalog.qmd#arch-barnyard) is the case: the person who owns the array owns the animals standing under it.
+- **[Contract-led](terminology.qmd#term-contract-led)** — write it into the lease, the ordinance, or the benefit agreement rather than into anything on the site. The [community and economic function](restorative-functions.qmd#sec-fn-community) runs on this one. [Retired-irrigation solar](archetype-catalog.qmd#arch-water) is the case: siting the array retires the field, but only the water right, retired on paper, retires the pumping.
+
+The mode also decides how a restorative claim can be checked. A siting-led claim is checked against a map, and a structure-led claim against a drawing. A management-led claim is checked against a maintenance schedule somebody has to keep for thirty years. A contract-led claim is checked against a document anyone can read. An ownership-led claim is checked against the deed and the operating agreement, which makes it the easiest of the five.
+
+The last two share a panel of their own in @fig-siting-latitude, and they are best read together. **Ownership-led and contract-led are the same problem at two sizes.** An owner-operator needs nothing written down, because the person deciding and the person living with the decision are the same. A utility in another state needs everything written down, because they are not. By A4 and A5 the owner is developer capital or a utility, and the money from selling the power has gone with them.
+
+So the shared interest that ownership provides for free at the [farmstead](terminology.qmd#term-a1) has to be built, clause by clause, as projects get bigger. At A1 there is hardly a contract to write, because there is nobody on the other side. Around A3 the tools arrive: a [PILOT](terminology.qmd#term-community-benefit) (payment in lieu of taxes), a community-solar subscription, a community-benefit agreement. By A5, the lease term, the maintenance obligation, and the benefit agreement are the only reach left. **Contract-led restoration is what a project needs once ownership-led restoration is no longer available.**
+
+### Scale controls restoration potential from each mode
+
+The sixth lever, scale, is missing from that list, and the reason is worth stating plainly. **Scale is not a restoration mode. It controls all the others.** Choosing to build five megawatts rather than eighty does no restorative work by itself. What it does is decide which of the five modes stay open to the design, because how much reach a lever keeps at a given size decides whether it can carry the work at all.
+
+That may turn out to be wrong. If the benefits that spill past the fence grow with an array's perimeter rather than its area, then several mid-sized arrays do ecological work that one large array of the same capacity does not (§-@sec-community-scale). In that case, choosing to build many smaller arrays *is* restorative work, and scale would earn a mode after all.
+
+The transect is hardest on **[siting latitude](terminology.qmd#term-siting-latitude)**, the freedom to choose where the array goes. What is still open to a design, and what has already been decided for it, both change as projects get bigger.
+
+::: {.zone-table}
+| Zone | Restorative siting options | Key constraints |
+|---|---|---|
+| **A1** | The yard and the paddock the stock already use | The property line, and the existing service drop |
+| **A2** | Spare corners, awkward field ends, ground already sitting idle | The operator's own holding, and nothing beyond it |
+| **A3** | Consistently low-yielding ground, where the water runs, buffer geometry | Parcel size, and what the distribution line will take |
+| **A4–A5** | Little beyond the edges: setbacks, buffer planting, and what grows under the array | Contiguous acreage near a substation, a place in the queue, prime-farmland rules, and likely opposition |
+: Siting latitude along the transect. What a design can still choose about where the array goes, and what has already decided it.
+
+:::
+
+At A2 and A3, that freedom is the strongest tool a design has, so the work there is **[siting-led](terminology.qmd#term-siting-led)**. The planting goes where the runoff already goes, and the array goes on the part of the field that never yielded well. At A1 there is almost nothing to choose from, and by A4 and A5 the ground has been chosen by other forces entirely.
+
+Structure runs the opposite way. It is strongest where siting is weakest, which is what makes the farmstead **[structure-led](terminology.qmd#term-structure-led)**. At A1, an array is built to fit one particular yard, at the [clearance](terminology.qmd#term-clearance) the herd needs, from whatever the local installer can find, because nothing about it has to be repeated anywhere else. At the commercial and community sizes, the layout is built around a crop. By A4 and A5, [racking](terminology.qmd#term-racking) is a commodity bought by the megawatt, and the structural decision that still matters most is how much earth the system forces anyone to move.
+
+Management comes into its own last. It barely exists at A1, where the work is done by hand alongside everything else on the farm. At A4 and A5 it carries everything, because seeding and grazing are hired-out businesses with their own line in the budget. That is what leaves the large end **[management-led](terminology.qmd#term-management-led)**. At utility scale, restorative practice is mostly about ground cover and grazing, while at the commercial and community sizes it is mostly about placement [@macknick2022; @boggis2020].
+
+Both hand-offs happen in the same zone. Among the physical levers, structure gives way to management. Among the institutional ones, ownership gives way to contracts. And siting latitude is at its widest right above both crossings, though of the three curves it is the least well established. **That makes A3 the only zone where every restorative tool is available at once**, which is a stronger claim than saying A3 has the most freedom to choose the site (§-@sec-community-scale). Below A3, a project restores by choosing its ground, by how it is built, and by who owns it. Above A3, it restores by how the place is run and by what the parties signed.
+
+Read quickly, those curves seem to say that restoration is only for small projects. **Restoration does not fall away as projects grow. It changes tools.** A developer who reads the curves the quick way will scale back the ambition, when what needed to change was the lever. A 200 MW project has no real choice about the ground it sits on. It can still decide what grows there for thirty years, who owns the array, and what the lease requires anyone to do.
+
+The forces that choose the ground at the large end can be named. Across US [utility-scale](terminology.qmd#term-utility-scale) projects, sites tend to be close to roads, transmission lines, and [substations](terminology.qmd#term-substation), in more populated areas, on land without forest, and on flatter ground [@wu2026siting]. None of those is something restoration cares about. A parcel gets picked because a substation is close and the slope is gentle. Whether it was leaking nitrate or had a wet low spot comes into the decision late, if at all. That is what *assembly-driven* siting means, and it is why siting-led restoration works in the middle of the transect and runs out at the large end.
+
+The economics point the same way. Undeveloped land, and prime farmland above all, is the cheapest kind to build on, while contaminated land costs 14 to 33% more [@owusuobeng2025]. The ground a restorative argument most wants to use is the ground a cost model most wants to avoid. That gap widens as projects grow, because a developer assembling several hundred acres in one block has fewer parcels to choose from and less patience for paying extra on any of them. [Brightfields](archetype-catalog.qmd#arch-brightfield) do get built. What keeps them from spreading is that extra cost, together with how little such ground there is, not any problem with a particular site.
+
+
+### The Community Scale (A3) Stands Out
+
+Both hand-offs falling in one zone is the design argument for A3, and @fig-siting-latitude is where it is drawn. There is a second argument for the zone, and it decides whether restorative [agrisolar](terminology.qmd#term-agrisolar) matters beyond the field it stands in.
+
+::: {.callout-note}
+### A3 is where local restoration can add up to a global number
+
+Restorative work happens at the scale of a wet corner, a contour band, a flock. Those are effects measured in acres, and they accrue to a watershed, a flyway, a county. None of them lands in a single national account the way a megawatt does. Energy is the opposite. One megawatt is as good as another, and the climate arithmetic only cares about the total. The community scale is the one place those two facts meet, because a project small enough for a developer and a landowner to walk the ground together is also a project that can be built thousands of times over. Every one of those builds restores its own ground locally, and the fleet adds to a number that shows up in a national energy account.
+
+Nothing else on the transect does both. A farmstead array restores its own yard and will never total to anything nationally; a [complex](terminology.qmd#term-a5) reaches the number and has already given up the choice of ground. The middle is the only zone where the restorative case and the energy case are the same case, and that is why this lexicon keeps coming back to it.
+:::
+
+A parcel of forty or eighty acres is big enough for real management: someone is hired to seed it, a grazier turns up with a flock, and upkeep gets its own line in the budget. It is also still small enough to place with care. A typical Midwestern crop field runs forty to eighty acres, so an A3 array fits inside one or two of them, which means it also fits inside one owner's decision.
+
+The zone tops out near 5 MW because of an assumption, and the assumption is worth saying out loud. A restorative community-scale array takes **at most about a third of its parcel**, which on a forty- to eighty-acre field comes to roughly 2 to 4 MW. Policy lands on the same line independently: Massachusetts, Minnesota, New York, and Maryland all set caps at 5 MW, and Berkeley Lab splits its national data there. **A lot rests on that one-third assumption, and it has not been tested** (§-@sec-rn-counterexamples). It applies only where farming stops, at [S3 through S5](farming-axis.qmd#sec-positions). Under [primary agriculture](farming-axis.qmd#sec-positions), covering ground is not the same as taking it: an array spanning a vineyard covers the whole parcel and takes none of it.
+
+The zone takes its name from what the industry already calls this size, **community-scale solar**, and the phrase has at least four meanings worth separating. It can mean solar sized to a community's own electricity use rather than to a wholesale market. It can mean solar built where communities already are, on the local distribution grid. It can mean solar whose benefits are set up to reach a community, through subscriptions, tax revenue, or local ownership. And it can mean solar that makes a community more resilient, since many small arrays fail differently than one large plant. The restorative case is a fifth meaning, and it is the one this lexicon makes.
+
+The capacity at stake is not a rounding error. NREL estimates the technical potential for [community solar](terminology.qmd#term-community-solar) at 967 GW (AC) even with cautious siting assumptions. That is about sixty percent of the 1,600 GW that DOE's Solar Futures Study says the country will need by 2050 [@ardani2021]. The middle sizes are not wasteful of land either: plants between 1 and 20 MW used 5.9 acres per megawatt, against 7.2 for plants above 20 MW. Much of this size range never shows up in the headline national numbers at all, because standard utility-scale studies keep only large unbroken blocks of land, which amounts to leaving out any site of 1.2 MW or less.
+
+At A3, the limit is money, not land. The closest published figures are for projects just above the zone. In 2024, projects between 5 and 20 MW cost \$2.19 per watt (AC), against \$1.38 for projects above 250 MW, so the smaller projects paid about 59% more. The logic of fixed costs suggests the gap is even bigger below 5 MW, where nobody reports it. The reason is that the paperwork does not shrink with the project. A 2 MW project needs much the same letter of intent, construction contract (the EPC agreement), and power purchase agreement as a 200 MW one, and its buyer is more likely to lack a credit rating. So the zone with the most design freedom has the hardest time raising money, which is why A3 is under-built compared with what it could do. That is a finance problem, not a judgment on the zone.
+
+
+Where the restoration lands comes down to geometry, and the pollinator evidence comes from arrays in this size range. At two Minnesota sites near the top of the range, bees visited soybeans fifteen meters outside the fence at roughly two and a half times the rate seen farther into the field. The effect faded out somewhere between half a kilometer and a kilometer and a half [@walston2018; @walston2024]. A [benefit delivered at that range](terminology.qmd#term-benefit-delivery) grows with an array's perimeter and how close it sits to fields, not with its area. That is a geometric argument for many mid-sized arrays over a few large ones, and ecological research has asked that question without yet answering it [@tolgyesi2023].
+
+
+### Reducing harm and promoting benefit
+
+Restoration covers two jobs that have less to do with each other than the word suggests.
+
+**Stopping a harm** ends something the ground was doing to somewhere else. Retire a field that was sending nitrate down its tile line and the nitrate stops; take a wet corner out of the rotation and the tillage stops with it. What gets claimed is a year that never happened, the one where the corn went in again, and the claim is capped by however much damage was already running. Ground that was not leaching cannot stop leaching.
+
+**Starting a benefit** puts something on the ground that was not there before: native grass where there was bare fallow, roots deep enough to hold a hard rain where the crop was corn, shade the flock never had. Anyone can drive out in July and see whether it took, and the ceiling is whatever the site can grow. Permitting has ranked the work this way for decades: avoid and minimize harm first, then repair what is left. Restorative design ranks doing less harm a rung below putting something back [@reed2007].
+
+The positions on the [farming axis](farming-axis.qmd#sec-positions) from S1 to S5 each answer a question about harm. Is a farm still taking something off the ground, and is it the same use as before (S1) or a lesser one (S2)? Did the farm business survive losing the field (S3)? Was the ground already idle (S4)? Was it carrying a burden worth ending (S5)? **None of those five says anything about what the ground goes on to do.** A project can sit at S5, the strongest answer the axis has, and still run gravel and herbicide under the panels for thirty years, while an ordinary S3 conversion delivers all four [restorative functions](restorative-functions.qmd). Describing a project takes both readings. The one position outside that pattern is [S0](farming-axis.qmd#sec-positions), which records a use that began rather than one that was lost, so it belongs with starting a benefit rather than stopping a harm.
+
+The two jobs often want different ground, which water shows plainly (§-@sec-fn-hydrologic). To stop the nitrogen at its source the array goes on the field that was leaking, because the cropping stops with it. To catch what is already moving it goes on the flow path below, which may sit on somebody else's farm. Same objective, opposite pieces of ground.
+
+
+## From Restorative Functions and Outcomes {#sec-deep-functions}
+
+Two solar farms in the same county, the same size, the same panels, the same crop ground underneath. Under one, gravel and a herbicide schedule; under the other, a planting rooted deep enough to hold a summer storm where it falls.
+
+Nothing about the land separates them. A project's size (§-@sec-transect) and what happened to the farming on it (§-@sec-farming-axis) set the outer limits of what is possible there. But what the ground ends up doing depends on how the design settled its competing pressures (§-@sec-pressures-ch), and above all on whether anyone was still pushing for restoration when the cheaper option was on the table.
+
+So being [*restorative*](terminology.qmd#term-restorative) is not a property of a piece of ground. It is something a design produces, and on most sites it can be produced or held back. The **restorative functions** are the four things a design can aim at.
+
+- **Water** (§-@sec-fn-hydrologic) — what soaks in, what runs off, and what the runoff carries with it
+- **Ecology** (§-@sec-fn-biodiversity) — what can live there, and what can move through
+- **Agriculture and soils** (§-@sec-fn-agricultural) — what farming gets from it, and what the ground underneath is made of
+- **Community and economy** (§-@sec-fn-community) — what the people hosting it actually get
+
+
+Read the figure by route, not by distance. Two things are missing from it. Carbon leaves by air, to everywhere and no one in particular, so the drawing has nowhere to put it. Land sparing is missing for a different reason: nothing travels at all, because its benefit is ground somewhere else that stayed as it was (§-@sec-benefit-range).
+
+Microclimate is not on the list, though it used to be. The shade is real, and it is among the best-documented things an array does: daytime soil and plant temperatures fall, nights stay warmer, and the air under the panels is less drying (a lower vapor-pressure deficit) [@sturchio2023; @pinos2026; @barrongafford2019]. But shade is a mechanism, not an outcome, and its results are already counted elsewhere. Moisture held in the soil belongs to the water function. A cool refuge for what lives under the panels belongs to ecology. Relief for a shade-tolerant crop, shelter for stock, and shade for the people working there belong to agriculture. Listing microclimate separately counted the same shade twice. So the lexicon keeps [microclimate modification](terminology.qmd#term-microclimate) as a term for the mechanism and drops it as a function.
+
+A function is not a position on the [farming axis](terminology.qmd#term-farming-axis). A project has one position, which records what happened to [agricultural production](terminology.qmd#term-agricultural-production) on its ground. It can deliver several functions at once, and the same function turns up at many positions. Pollinator habitat can be had under grazing (S1 or S2, depending on what the ground carried before), on ordinary converted ground (S3), and on spared or retired ground (S4 and S5) alike. Position only limits the functions where the ground is tilled every year, which rules out the ones that need an undisturbed [ground layer](terminology.qmd#term-ground-layer). Even then, that is a fact about tillage, not about the position, since S1 also covers pastures and orchards that are never plowed. Three ideas stay separate here. A [pressure](terminology.qmd#term-design-pressures) is a force pushing on the design, a [lever](terminology.qmd#term-design-levers) is something the design does about it, and a function is the result of the two. Treat the four functions as a palette rather than a scorecard, since no project delivers all of them and some work against each other.
+
+A project needs two kinds of accounting. The [farming axis](farming-axis.qmd#sec-positions) is mostly a record of [harm reduced](restorative-functions.qmd#sec-harm-benefit), since almost every position on it answers a question about what was lost. The functions are where benefits get promoted. The water function does both at once, and shows what the difference costs. **Avoided loading** needs the field that was leaking, while **interception** needs the ground below it, so a single goal can send a designer to opposite ends of the same farm. The two are checked differently, too. A benefit can be visited and looked at, while an avoided harm has to be argued against what would otherwise have happened. Neither ranks above the other, and on ground that was doing real damage, ending that damage is the bigger result.
+
+**A note on "co-benefits."** The field usually calls these [co-benefits](terminology.qmd#term-cobenefit), and the word itself demotes them: a *co-*benefit is something that comes along with the real goal [@mayrhofer2016]. This lexicon names the functions as goals in their own right.
+
+### Water
+
+An array changes what happens to rain before it leaves, and what the water carries when it goes.
+
+**Quantity** is the site's water balance. Panels catch rain and concentrate it along their drip lines while sheltering the ground beneath. Shade cuts evaporation and plant water use, so the soil generally stays moister, and the ground cover and grading decide how much water soaks in. At large scale, the bigger effect is on the water *budget* rather than the balance. Where solar replaces irrigated cropland, it ends that field's irrigation and eases the strain on an aquifer across a whole management area [@stid2022; @stid2025]. That only holds where groundwater rules keep the saved water from being pumped somewhere else [@zwickle2021].
+
+**Quality** can be improved two ways, and they need opposite ground. **Avoided loading** stops the problem at its source, by putting the array on ground that was leaking nutrients, so the fertilizer and pesticide programs stop along with the cropping. On corn-ethanol acreage with documented nutrient losses, retiring that ground under unfertilized perennial cover would mean an estimated 54.8 million kg less nitrogen and 26.3 million kg less phosphorus applied each year [@sturchio2025croplands]. **Interception** deals with what is already moving, by setting perennial vegetation where runoff passes so it catches sediment, nutrients, and the pesticides carried on that sediment. That is the documented job of prairie strips in corn and soybean fields [@schulte2017]. Avoided loading needs the problem field itself, and competes with farming it. Interception needs the ground below that field, and works whether or not the field ever changes. Which one is available depends on placement, not management, so water is the function that [siting latitude](terminology.qmd#term-siting-latitude) buys the most of.
+
+A creek below a twenty-acre array runs on water from several thousand acres, and twenty acres of changed cover does not show up in it. The same twenty acres draining one hollow does. That ratio is what the STRIPS work measured: a tenth of a field, planted where the water leaves it, held back more than 90% of the soil that used to go with it [@schulte2017]. So what a watershed notices is not the size of the array but how much of the ground draining past it the array sits on. A small project can matter more than a large one built somewhere the water is already diluted.
+
+Size changes the shape of the flow as well. A few rows shed along their drip lines and the water leaves the way it always did, spread along the whole field edge. Put two thousand acres inside one fence and the same water arrives at a handful of culverts, in less time and in a smaller place. [Ramsey Renewable Station](archetype-catalog.qmd#arch-prairie-strips) absorbed the 100-year storm on sand at 3.4 megawatts. The same seed mix on tight soil, draining a bigger block to fewer outlets, is a harder storm to hold.
+
+Water travels, so its benefits do. Moisture held in the soil stays **in place**. Slowed runoff and trapped sediment reach the field, the road, and the ditch just below before they reach anything farther away, which makes that the nearest and easiest form of this function to check. And irrigation that has been retired is felt across a whole basin. Direction decides all of it. Ground upslope of a problem can fix it, and identical ground downslope cannot.
+
+
+### Ecology
+
+Two halves: what can live on the ground, and what can reach it.
+
+**Habitat** is built from the ground layer up. Flowering plants supply nectar and pollen, and the height and spread of the vegetation supply nesting sites, cover, and enough variety that many species can share one site. Panel shade shifts the timing, delaying bloom and producing more flowers late in the season [@graham2021], and the shelter underneath gives animals a cool place to wait out a heat wave. The seed mix sets the ceiling, but *timing* decides what actually happens. Mowing or grazing during nesting or bloom destroys the very resource the planting was meant to provide, which makes the maintenance calendar a design lever in its own right [@blaydes2022].
+
+**[Connectivity](terminology.qmd#term-connectivity)** is the other half, and it is made or broken at four scales at once. Inside the array, the links are broken by things nobody thinks of as habitat design: access roads, gravel pads, mown strips, and a perimeter fence whose mesh decides which animals can get through. At the edge, what matters is whether the planting meets something already connected. A site that joins a fencerow or a streamside strip is part of a network, while the same seed mix fenced in the middle of row crops is an island. Across a landscape, many small arrays can act as stepping stones if they are close enough for animals to move between them, while a few large ones offer more interior and less edge. Which works better depends on the species, not on a general rule. Across a whole region, a fleet of arrays with compatible seed mixes and calendars is a network on paper. Whether it works as one in practice has not been measured (§-@sec-evidence-needs).
+
+The corridor experiments are what make this more than an analogy. Patches of habitat linked by corridors exchange more individuals and gather more species over time than isolated patches of the same size. Butterflies were the study animal, because their movement can be watched directly (Haddad and colleagues, Savannah River Site corridor experiments; *trace before citing*). Two lessons carry over. Connectivity belongs to the arrangement, not to any one patch, so it cannot be claimed from a seed mix. And the distance that matters is set by the animal doing the moving. A bee foraging within 1.5 km, a butterfly crossing open ground, and a grassland bird holding a territory are three different design problems, so a connectivity claim means little until it names the animals it is for.
+
+Both halves travel by way of living things. About 3,500 km² of US farmland lies within 1.5 km of existing and planned [utility-scale](terminology.qmd#term-utility-scale) solar, roughly a pollinator's foraging distance [@walston2018], and pollinators from solar sites have been recorded in neighboring soybean fields [@walston2024]. Farther out along the same route, the benefit shows up as a bird population rather than a single parcel [@walston2025].
+
+
+### Agriculture and soils
+
+The same ground does two things at once, and the same decisions govern both: what the farm gets out of the array, and what the soil under it is made of.
+
+This function is not the farming axis under another name. The axis records whether farming continues on the ground the array occupies. This function asks what the array does *for* farming, and the two answers can differ. A project that has stopped all farming inside its own fence can still be the reason the field next door gets pollinated, and the reason the host farm is still in business.
+
+Where the array sits in the landscape matters more for this function than for any other, because a planting can only reach the fields within a pollinator's range. And the order of bloom matters more than the amount, since a planting only helps a crop if it is flowering when that crop needs it.
+
+Where permanent, lightly disturbed cover replaces tilled row crops, roots stay in the ground all year, traffic and tillage stop, and soil carbon and soil structure build back. That is the ordinary benefit of perennial cover, happening under and between the panels.
+
+Construction cuts the other way, and it can cut deep. Grading strips off the shallow topsoil that holds most of the carbon. Trenching and heavy traffic compact what is left, and compacted ground holds back the roots that would rebuild it. So a site can begin its thirty years in debt rather than at zero. How big that debt is depends on how much earth had to be moved, which makes a [racking](terminology.qmd#term-racking) choice a soil decision made years before anybody picks a seed mix. A mounting system that can follow the slope leaves the ground roughly as it found it, and one that needs a flat surface means [mass grading](terminology.qmd#term-mass-grading). After that, how the cover is established, how it is grazed, and the [stocking density](terminology.qmd#term-stocking-density) carry the rebuilding. That rebuilding is slow and adds up over years, so it only happens if careful management keeps going the whole time.
+
+The two halves reach people differently. Soil stays where it is, so that half is delivered **in place**, and whoever holds the ground keeps more of it than of anything else here. The service to farming travels. Pollination and pest control go out by way of living things to the fields within a pollinator's range, and the lease that keeps the farm running arrives by way of institutions. Carbon is the exception. It leaves by air, benefiting everyone and no one in particular, so it needs a market or a policy behind it before it is worth anything to the person holding the land.
+
+
+### Community and economy
+
+This is the one function that is not about the land. The others ask what the ground can provide. This one asks what the people hosting the project get. It is the result that the [community-acceptance pressure](design-pressures.qmd#sec-pressures) and the [community-benefit lever](terminology.qmd#term-community-benefit) both aim at, not another name for either. It covers three things: lasting local income and tax revenue, whether people can live alongside the array and had a real say in it, and whether the costs and the benefits land on the same people.
+
+A project pays back in several forms at once: lease and royalty income, tax revenue and payments in lieu of taxes (PILOT), wages during construction and upkeep, savings for subscribers, and, where ownership is set up for it, an equity stake rather than just rent. The sums are not small. Landowners leasing cropland to solar earn three to four times what most crops return per acre [@sturchio2025croplands], and where farming continues alongside the array, the reported gains run higher still [@merheb2025]. The effects reach past the balance sheet. Federal biofuel policy has made conservation payments the less profitable choice across much of the same acreage, so solar income can make a conservation practice affordable when it was not before [@sturchio2025croplands]. Whether people can live with a project, and whether it treats them fairly, depends less on the size of the payment than on how the decisions were made. That is where benefit and acceptance come apart, and where a check without a fair process looks like a bribe.
+
+::: {.how-to}
+**Name the recipients separately.** "The community" is not one party, and a benefit to one can be a loss to another.
+
+- **Landowner** — lease and royalty income; the party a land payment reaches first, and often the only one it reaches.
+- **Tenant farmer** — frequently the party who *loses*. Nearly 40% of Central Valley agricultural land is rented, and the leading analysis of [agrisolar](terminology.qmd#term-agrisolar) economics there assumes returns reach landowning farmers, naming that as one of its own limitations [@stid2025]. This is the sharpest misalignment in the set, and the one a lease-income argument most often hides.
+- **Neighboring residents** — bear [viewshed](terminology.qmd#term-viewshed), construction traffic, and glare, usually without a payment.
+- **Local government** — PILOT and tax base, against service and road costs.
+- **Tribal nations and communities of place** — treaty rights, cultural landscapes, and consultation standing that do not reduce to a payment.
+- **Workers, subscribers, and ratepayers** — wages that may or may not be local, and savings that may accrue in another county entirely.
+
+A project can score well on one of these and badly on the rest. Naming them is what keeps "community benefit" from collapsing into "somebody was paid."
+:::
+
+This function travels almost entirely by way of institutions: who owns what, who signed what, and which government collects what. That is why the list above does more work than any radius would. Part of it is genuinely local, since construction spending lands in the nearest town that can supply the work. But the money that matters most moves along channels drawn for reasons that have nothing to do with distance.
+
+
+### Where benefits are delivered
+
+A function is produced in one place and used in another. Ecosystem-service research treats that gap as its central spatial problem, since the area providing a service and the area benefiting from it have to be mapped separately [@syrbe2012]. Solar research has drawn the same line. @hernandez2019 sort a facility's outcomes into **sympatric** ones, which overlap the site, and **disjunct** ones, which land somewhere else, and give each a **serviceshed**, the area it serves.
+
+What this lexicon adds is that the useful question is **not how far a benefit goes but which route it takes**. Nearly every function here reaches from the panel out to the region along some path, so sorting them by distance works badly. Sorting them by route works well, because the route decides who can check a claim and who receives the benefit.
+
+**In place.** The ground that provides the benefit is the ground that receives it: soil carbon, soil moisture, forage and shelter under the panels. This is the easiest kind of benefit to measure, and the easiest to overclaim from, since it says nothing about anywhere else.
+
+**Along a connection.** Everything that leaves the site leaves by some kind of network, and three networks carry almost all of it. **Water** carries runoff, sediment, nutrients, and recharge downslope, to the field just below and on to the ditch, the creek, and the aquifer. **Living things** carry pollination, pest control, and the spread of plants and animals, first within foraging range and then farther. **Institutions** carry lease payments, taxes, subscriptions, and easements, by way of ownership, contracts, and government boundaries. The first two follow the lay of the land and the third does not, but all three behave the same way in the one respect that matters: the benefit goes where the network goes, not where a circle drawn around the site would put it. A creek can carry sediment past a neighbor who gains nothing, and a lease can carry money to a county that never sees the array.
+
+**By preservation.** [Land sparing](farming-axis.qmd#sec-positions) delivers nothing that moves at all. Its benefit is ground somewhere else that stayed as it was, which makes it the one kind of delivery that has to be argued from what would otherwise have happened, rather than observed. It is still local, since a developer assembling acreage near a [substation](terminology.qmd#term-substation) chooses among parcels within a fairly small radius, so the ground a project spares is realistically in the same county. That gives the claim somewhere to be checked: against the local land market, and the sites that were genuinely in play.
+
+One case runs backwards. Demonstration sites, field days, and school visits deliver value by bringing people *to* the array rather than sending anything out from it, which is much of what [Jack's Solar Garden](archetype-catalog.qmd#arch-vegetable) produces. It is among the easiest things to design for and the most often left to chance.
+
+::: {.how-to}
+**What naming the route settles.** It answers three questions that are easy to mix up.
+
+1. **Who can verify it.** In-place claims are measured on site. Connected claims need a gauge, a survey, or a document somewhere else, and preservation claims need the local land market and a credible account of what would otherwise have been built.
+2. **Who captures it.** A landowner captures in-place benefit and can be paid for it. Benefits carried by water or living things go to people who have no contract with the project, so they need a policy, a market, or a watershed authority behind them to amount to more than goodwill.
+3. **Which objection it answers.** A neighbor objecting to the view is describing something delivered at the fence line, and a developer answering with a carbon figure is describing something delivered everywhere and to no one. Both can be true, and neither is a reply to the other.
+:::
+
+### Evaluating outcomes
+
+Each of the four functions has two outcomes, and together those eight are what a project can be judged on. Naming them separately matters because they move independently. An array can hold water on the site and still compact the soil under it, or pay a landowner well and give the neighbors nothing.
+
+::: {.function-table}
+| Function | Outcomes |
+|:--|:--|
+| **Water** | quantity, meaning what soaks in and what leaves · quality, meaning what the water carries with it |
+| **Ecology** | diversity, meaning what can live there · connectivity, meaning what can move through |
+| **Agriculture and soils** | food production, meaning what the ground still grows · soil quality, meaning what it is made of |
+| **Community and economy** | financial security, meaning durable local income · livability, meaning whether people can live alongside it and had a real say |
+: The eight outcomes, two to a function.
+:::
+
+Each outcome is measured on the same scale, from causing harm at one end to promoting benefit at the other, with a point in between where the project leaves that outcome no worse than it found it. @fig-outcomes-footprint plots all eight at once. **The middle ring is a zero point, not a pass mark.** It marks where harm turns into benefit. Nothing here says how far past it a project ought to go, and the lexicon leaves that question open on purpose.
+
+The shape drawn there is a worked example, not a measurement. It belongs to a project that gives up food production for better soil and more ecological diversity, which is the trade a retired or heavily planted site makes. Reading a project this way does two things a single verdict cannot. It shows the trade-off, because a project that gains on one outcome and loses on another has a shape rather than a score. And it shows who is owed an explanation, because an outcome that falls inside the ring is a commitment the design did not keep.
+
+
+## From Archetypal Forms {#sec-deep-archetypes}
+
+Certain designs keep turning up. A farmer's flock under panels, a prairie strip in a wet draw, a retired irrigated field: the same few arrangements appear on ground that has nothing else in common. They recur because the [pressures](terminology.qmd#term-design-pressures) bearing on a project are never evenly matched. [Cost and financing](design-pressures.qmd#sec-pressures) and [energy yield](design-pressures.qmd#sec-pressures) push hardest nearly everywhere, and where nothing pushes back the result is the same array anywhere in the country. Where something does push back, and keeps pushing through permitting and every round of cost cutting, the design settles into a shape that answers it. An [**archetype**](terminology.qmd#term-archetype) is one of those settled shapes. Nobody sets out to build one. The shape is what the pressures leave behind once they have finished arguing, and it is named after the fact, by people counting how often it turns up.
+
+Scale and [farming axis position](terminology.qmd#term-farming-axis) decide which pressures can win. A farmer who owns the herd, the array, and the labor can put [agricultural production](terminology.qmd#term-agricultural-production) ahead of generation, because the array is sized to the milking parlor and no investor is waiting on a minimum return. At five hundred acres there is nobody left to make that argument, so restoration has to come from how the ground is run instead. This is also why an archetype can disappear. When the policy or the market that let a pressure win is taken away, the shape stops being built. Archetypes sort projects by how their pressures were settled, while [schemes that sort by hardware](terminology.qmd#term-overhead-interspace) sort them by what was built, and the two can be read side by side.
+
+Where the site is changes which answers come cheap, because [a region weights the pressures differently](design-pressures.qmd#sec-regionality). In the irrigated West, groundwater law now meters and enforces the water shortage, so retiring fields above an overdrawn aquifer is the most ready-made restorative shape in the region. The same dry climate makes shade valuable enough to pay for the extra steel a crop canopy needs. Solar prairie strips deal with runoff from rain-fed Iowa cropland, so where rain is scarce and the water comes from a pump, that form all but disappears.
+
+Six featured archetypes each come with a documented project, ordered from [farmstead](terminology.qmd#term-a1) to [complex](terminology.qmd#term-a5), and seven more are sketched briefly. The figure below arranges them differently, left to right by which lever did the restorative work, running from ownership through structure, management, and siting to contracts. That is the closest thing the six have to a natural order.
+
+
+### Archetypes across scale and position
+
+Every archetype below carries a short code under its name. It gives the archetype's [zone](scale-transect.qmd#sec-zones) on the scale transect, its [position](farming-axis.qmd#sec-positions) on the farming axis, and its [restoration mode](terminology.qmd#term-restoration-mode), meaning whether the restorative work is carried by the choice of ground, the array's geometry, how the site is run, who owns it, or what the contracts say. So `A1 scale · S1 farming · ownership-led restoration` describes a farmstead array on ground the farm's own animals keep using, made restorative by who owns it. The two tables sort the same forms by each of those in turn, with **featured archetypes in bold** and [the others](archetype-catalog.qmd#sec-further-types) in plain text. Arrays on buildings take no ground at all and sit at [A0](scale-transect.qmd#sec-zones), off both tables.
+
+::: {.zone-table}
+| Zone | Forms that recur here |
+|---|---|
+| **A1 — Farmstead** | [**Barnyard Shelter Solar**](archetype-catalog.qmd#arch-barnyard) |
+| **A2 — Commercial** | [**Perennial Crop Canopy**](archetype-catalog.qmd#arch-permanent-crop) · [Vegetable Agrivoltaics](archetype-catalog.qmd#arch-vegetable) · [**Marginal Land Solar**](archetype-catalog.qmd#arch-marginal) · [Solar Fencerows](archetype-catalog.qmd#arch-vertical-bifacial) · [Pivot-Corner Recharge](archetype-catalog.qmd#arch-recharge) |
+| **A3 — Community** | [**Perennial Crop Canopy**](archetype-catalog.qmd#arch-permanent-crop) · [**Solar Prairie Strips**](archetype-catalog.qmd#arch-prairie-strips) · [Vegetable Agrivoltaics](archetype-catalog.qmd#arch-vegetable) · [**Marginal Land Solar**](archetype-catalog.qmd#arch-marginal) · [Pollinator Meadow Solar](archetype-catalog.qmd#arch-community-solar) · [Solar Fencerows](archetype-catalog.qmd#arch-vertical-bifacial) · [Pivot-Corner Recharge](archetype-catalog.qmd#arch-recharge) · [Farm-Load Microgrid](archetype-catalog.qmd#arch-microgrid) · [Brightfield](archetype-catalog.qmd#arch-brightfield) |
+| **A4 — Utility** | [**Perennial Crop Canopy**](archetype-catalog.qmd#arch-permanent-crop) · [**Regenerative Solar Grazing**](archetype-catalog.qmd#arch-grazing) · [**Retired-Irrigation Solar**](archetype-catalog.qmd#arch-water) · [Restored-Grassland Solar](archetype-catalog.qmd#arch-native-grassland) · [Solar Fencerows](archetype-catalog.qmd#arch-vertical-bifacial) · [Farm-Load Microgrid](archetype-catalog.qmd#arch-microgrid) · [Brightfield](archetype-catalog.qmd#arch-brightfield) |
+| **A5 — Complex** | [**Regenerative Solar Grazing**](archetype-catalog.qmd#arch-grazing) · [**Retired-Irrigation Solar**](archetype-catalog.qmd#arch-water) · [Restored-Grassland Solar](archetype-catalog.qmd#arch-native-grassland) · [Brightfield](archetype-catalog.qmd#arch-brightfield) |
+: Which forms recur at each zone. Bold entries are the six developed in full below; the rest are sketched. {#tbl-forms-by-zone}
+:::
+
+The crowding at A3 is the [feasible wedge](farming-axis.qmd#sec-wedge) showing up in practice. At that size, a project is big enough that management matters and small enough to site with care ([§-@sec-community-scale](restoration-modes.qmd#sec-community-scale)), so more forms are open there than anywhere else on the [transect](terminology.qmd#term-scale-transect). Every form listed has been built at that size, but climate, soil, water, market, and neighbors still decide whether it fits a particular site.
+
+::: {.position-table}
+| Position | Forms that sit here |
+|---|---|
+| **S0 — Created agriculture** | [Brightfield](archetype-catalog.qmd#arch-brightfield) where the ground layer is grazed |
+| **S1 — Primary agriculture** | [**Perennial Crop Canopy**](archetype-catalog.qmd#arch-permanent-crop) · [Vegetable Agrivoltaics](archetype-catalog.qmd#arch-vegetable) · [Solar Fencerows](archetype-catalog.qmd#arch-vertical-bifacial) · [**Barnyard Shelter Solar**](archetype-catalog.qmd#arch-barnyard) · [**Regenerative Solar Grazing**](archetype-catalog.qmd#arch-grazing) on ground that was already pasture · [**Marginal Land Solar**](archetype-catalog.qmd#arch-marginal) where stock stays on |
+| **S2 — Secondary agriculture** | [**Regenerative Solar Grazing**](archetype-catalog.qmd#arch-grazing) on former cropland · [Pollinator Meadow Solar](archetype-catalog.qmd#arch-community-solar) where hives are kept |
+| **S3 — Ordinary-land siting** | [Pollinator Meadow Solar](archetype-catalog.qmd#arch-community-solar) · [Restored-Grassland Solar](archetype-catalog.qmd#arch-native-grassland) · [Farm-Load Microgrid](archetype-catalog.qmd#arch-microgrid) |
+| **S4 — Low-productivity siting** | [**Marginal Land Solar**](archetype-catalog.qmd#arch-marginal) · [Pivot-Corner Recharge](archetype-catalog.qmd#arch-recharge) · [Brightfield](archetype-catalog.qmd#arch-brightfield) · [Farm-Load Microgrid](archetype-catalog.qmd#arch-microgrid) |
+| **S5 — Impaired-land siting** | [**Solar Prairie Strips**](archetype-catalog.qmd#arch-prairie-strips) · [**Retired-Irrigation Solar**](archetype-catalog.qmd#arch-water) |
+: The same forms arranged by what happened to agricultural production, rather than by size. A form appearing at more than one position is one whose ground layer can be run more than one way, or one whose position turns on what the ground carried before it. {#tbl-forms-by-position}
+:::
+
+The sharing side of the table is wider than it looks, for two different reasons. Keeping a *crop* under panels takes geometry that costs money, which is why only three forms manage it. Keeping a *pasture* takes nothing but the decision to put the array where the stock already were, which is why grazing reaches the largest sizes without leaving the sharing side at all. On the sparing side, siting does the work. Grazing is the one form that reaches utility scale without giving up a productive ground layer, and that is most of why it is the most common [restorative](terminology.qmd#term-restorative) practice on large arrays.

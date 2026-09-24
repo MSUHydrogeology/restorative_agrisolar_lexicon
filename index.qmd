@@ -17,58 +17,43 @@ Where you draw the line decides what counts. Most accounting stops at the fence,
 [**Restorative agrisolar design**](chapters/terminology.qmd#term-restorative) is the idea that a solar project's goals should include the soil, the water, the wildlife, and the neighbors, alongside the power it makes. This lexicon gives that idea words precise enough to test on a real site.
 :::
 
+::: {.callout-tip .running-example icon=false title="Rabbit Hills Solar Farm: one array, all the way through"}
+On the Oregon State University campus in Corvallis, 1.4 megawatts of solar stand on six acres of what was a non-irrigated sheep pasture, and the university's sheep still graze it. Two peer-reviewed studies have measured what the array did. Through a dry summer the ground under the panels stayed wetter than the open pasture, and lambs raised there grew as fast as lambs in the open [@adeh2018; @andrew2021]. Each chapter of the primer places Rabbit Hills on its own scheme, in a box like this one, so that by the last chapter the array has a full description. It illustrates the vocabulary, and it is not an audit of the project.
+:::
+
 ## A shared language
 
-Put a [solar grazier](chapters/terminology.qmd#term-rangevoltaics), a township planner, a hydrologist, and a developer on the same eighty acres and you will get four descriptions that barely overlap. This lexicon is for the people deciding what an array will do to a farm and a place.
-
-Those decisions are being made right now, and mostly without good information. Townships write ordinances with no comparable projects to learn from, developers and neighbors talk past each other, and several states have taken permitting decisions away from the communities that host the arrays [@susskind2022; @bessette2024]. Shared words will not settle those arguments. They can help people figure out what they are actually arguing about.
-
-Nothing here is finished, and that is the point. Agrisolar is not yet a profession. It has no accreditation, no standard of care, and no agreed name for most of what it does. This lexicon tries to offer language precise enough for a profession to grow around. That is why the [terminology](chapters/terminology.qmd), the [evidence base](chapters/evidence-and-needs.qmd), and the [sources](chapters/sources.qmd) are full chapters rather than appendices. They are where a reader can trace a term, dispute a claim, or improve the work, and [Joining in](#sec-joining) says how.
+Put a [solar grazier](chapters/terminology.qmd#term-rangevoltaics), a township planner, a hydrologist, and a developer on the same eighty acres and you will get four descriptions that barely overlap. Those descriptions are being argued over right now, mostly without good information. Townships write ordinances with no comparable projects to learn from, and several states have taken permitting decisions away from the communities that host the arrays [@susskind2022; @bessette2024]. Shared words will not settle those arguments. They can help people find out what they are actually arguing about.
 
 None of this is hypothetical. Around 15,000 ground-mounted arrays already cover some 3,000 km² of the United States. Roughly half of that ground was cropland before the panels went up, and another third was pasture or other farm grassland [@stid2022; @sturchio2025croplands]. A net-zero grid by 2050 could put solar on 60,000–90,000 km², about 1% of the lower 48 [@larson2021]. Most of that will be farmland too.
 
-## How the language works
+## How to read this lexicon
 
-The lexicon is built around five questions. Each one has a chapter, so a reader who needs only one of them can start there.
+The lexicon comes in two parts. **Part I, the primer, is meant to be read straight through, in about half an hour.** Its seven chapters each answer one question, and each is built the same way: the answer in the first paragraph, one figure, one table naming every member of the scheme, and Rabbit Hills placed on it. Part II is looked up rather than read. It holds the [terminology](chapters/terminology.qmd), the full [archetype catalog](chapters/archetype-catalog.qmd), the [evidence base](chapters/evidence-and-needs.qmd), and the [sources](chapters/sources.qmd).
 
-| | The question | Where it is answered |
+| | The question | The chapter that answers it |
 |---|:--|:--|
-| **1** | What can this project actually change? | [Design Levers](chapters/design-levers.qmd) — six decisions, and nothing else |
-| **2** | Who wants what from it, and who is going to lose? | [Design Pressures](chapters/design-pressures.qmd) — nine forces, with advocates |
-| **3** | How much ground does it take? | [The Scale Transect](chapters/scale-transect.qmd) — a barn roof to ten thousand acres |
-| **4** | What happens to the farming on that ground? | [The Farming Axis](chapters/farming-axis.qmd) — carried on, cut back, ended, or begun |
-| **5** | What gets better, and who receives it? | [Restoration Modes](chapters/restoration-modes.qmd) and [Restorative Functions](chapters/restorative-functions.qmd) |
-: The five questions, and the chapter that answers each. The terms in this lexicon exist to answer these questions. {#tbl-questions}
+| **1** | What choices do designers have for shaping the array? | [Design Levers](chapters/design-levers.qmd): six kinds of choice |
+| **2** | What forces push on the array's design? | [Design Pressures](chapters/design-pressures.qmd): nine forces, each with advocates |
+| **3** | How large is the array? | [The Scale Transect](chapters/scale-transect.qmd): a barn roof to ten thousand acres |
+| **4** | What happens to farming on the ground the array takes? | [The Farming Axis](chapters/farming-axis.qmd): carried on, cut back, ended, or begun |
+| **5** | What are the paths toward restoration? | [Restoration Modes](chapters/restoration-modes.qmd): five paths, each carried by a lever |
+| **6** | How does the array affect the landscape? | [Restorative Functions](chapters/restorative-functions.qmd): four functions, eight outcomes |
+| **7** | What does the practice look like on real ground? | [Archetypal Forms](chapters/archetypal-forms.qmd): thirteen recurring designs |
+: The seven questions of the primer, and the chapter that answers each. {#tbl-questions}
 
-Almost every decision in a solar project falls into one of six groups, which this lexicon calls the [design levers](chapters/design-levers.qmd): scale, siting, structure, management, ownership, and contracts. Everything else is built on them. Competing interests, the [design pressures](chapters/terminology.qmd#term-design-pressures), push on how each lever gets set. Once the levers are set, any project can be described three ways: how big it is, what happened to the farming on its ground (its place on the [farming axis](chapters/terminology.qmd#term-farming-axis)), and which lever did the restorative work (its [restoration mode](chapters/terminology.qmd#term-restoration-mode)). Together, those decide what the ground actually ends up doing, which this lexicon calls its [functions](chapters/terminology.qmd#term-restorative-function).
+The schemes fit together in one direction. The six [design levers](chapters/design-levers.qmd) are the choices designers have for shaping an array, and nine [design pressures](chapters/design-pressures.qmd) push on how each one gets set. Once the levers are set, any project can be described three ways: how big it is, what happened to the farming on its ground, and which path it took toward restoration. Those settings decide how the array affects the landscape around it, through its [restorative functions](chapters/restorative-functions.qmd). The designs that keep turning up on real ground are the [archetypes](chapters/archetypal-forms.qmd).
 
 ![How the pieces fit. **Top row:** the nine design pressures, grouped by which way they push, acting on the six levers. Five of the levers are colored by the [restoration mode](chapters/restoration-modes.qmd) each can carry. **Bottom row:** what a set of choices produces: a place on the scale transect and on the farming axis, the restoration modes the project relies on, and a footprint across the four kinds of outcome.](figures/fig_language_structure.svg){#fig-language-structure}
 
-Of the nine pressures, three push toward restoration, three push against it, and which way the last three push depends on the site, the buyer, or the county (@fig-design-pressures). Each pushes harder in some regions than in others, which is why a California project and an Iowa project end up setting the same six levers differently. When the same combination of choices keeps turning up on real ground, this lexicon calls it an [archetype](chapters/archetypal-forms.qmd): an array sized to run the milking parlor, say, or one built on a field that has stopped being irrigated.
 
-Two ideas get chapters of their own. The first is **scale**, laid out as the [scale transect](chapters/scale-transect.qmd): five reference points along the range of project sizes, from a farmstead array to a regional complex. Size gets a chapter because so much changes with it at once, including how the array connects to the grid ([interconnection](chapters/terminology.qmd#term-interconnection)), who makes the decisions, and how the ground gets looked after. Scale does no restorative work by itself, which is why it has no color in the figure. What it decides is how much room the other five levers have.
-
-The second is the [farming axis](chapters/farming-axis.qmd), which is not a lever at all. It records what happened to the [farming](chapters/terminology.qmd#term-agricultural-production) on the ground the array took, and it comes out of **siting, structure, and management** together. Where farming carries on, the question is whether it is the same farming as before or something less, and that depends on what was built and what is grown. Where farming stopped, the question is what the ground was like beforehand, and that depends on where the array went. Where an array brings farming to ground that never had any, the project gets a position of its own.
-
-:::  {#sec-aim-not-dimensions}
-**This lexicon argues for an aim and leaves the dimensions to the site.** It takes a clear position on what agrisolar is *for*. It does not say how high to raise the panels ([clearance](chapters/terminology.qmd#term-clearance)) or how far apart to set the rows ([row spacing](chapters/terminology.qmd#term-row-spacing)), because the same choices that restore ground in one region can wear it down in another. [Regionality](chapters/design-pressures.qmd#sec-regionality) takes that up in detail.
+::: {#sec-aim-not-dimensions}
+**This lexicon argues for an aim and leaves the dimensions to the site.** It takes a clear position on what agrisolar is *for*. It does not say how high to raise the panels or how far apart to set the rows, because the same choices that restore ground in one region can wear it down in another.
 :::
 
-## Chapter contents
+## How sure we are
 
-| Chapter | What it holds |
-|:--|:--|
-| [Design Levers](chapters/design-levers.qmd) | the six decisions a project can actually make, three physical and two institutional, with scale setting the frame for all of them |
-| [Design Pressures](chapters/design-pressures.qmd) | the nine forces arguing over how those decisions get made, where they collide, and how their weights shift by region |
-| [The Scale Transect](chapters/scale-transect.qmd) | A1 to A5, farmstead to complex, and how much of every other lever survives at each size |
-| [The Farming Axis](chapters/farming-axis.qmd) | S0 to S5, what happened to agricultural production on the ground the array took, and which positions each scale allows |
-| [Restoration Modes and Potential](chapters/restoration-modes.qmd) | which lever is made to carry the restorative work, how much each can still do at each size, why the community scale stands out, and the two different kinds of work called restoration |
-| [Restorative Functions](chapters/restorative-functions.qmd) | the four functions a design can be aimed at, the eight outcomes they carry, and which route each benefit travels to whoever receives it |
-| [Archetypal Forms](chapters/archetypal-forms.qmd) | recurring settings of the levers that already exist on real ground, six worked through and seven sketched, from barnyard shelter to solar prairie strips |
-| [Terminology](chapters/terminology.qmd) | every defined term, grouped by subject, with an [A–Z index](chapters/index-alphabetical.qmd) alongside |
-| [Evidence Base and Research Needs](chapters/evidence-and-needs.qmd) | how well each claim is evidenced, stated once rather than hedged everywhere, and the measurements that would settle what is still inferred |
-| [Sources](chapters/sources.qmd) | every claim traced, split into what has been verified and what still needs tracing |
-: The document end to end. The chapters build on each other, and each one also stands alone. {#tbl-contents}
+The claims in this lexicon rest on evidence of very different strength. Grassland birds are more abundant on planted solar sites than on the farmland around them, and that is known because people counted them [@walston2025]. That a seeded ground layer keeps sediment out of the creek below is the prairie-strip result from corn and soybean fields [@schulte2017], carried over onto ground nobody has sampled under an array. The sentences making those two claims look alike. The [evidence base](chapters/evidence-and-needs.qmd) says once which is which, so the chapters do not hedge every sentence. The largest open questions are whether several mid-sized arrays do more than one large one, how much soil construction costs a site, and whether a restorative planting outlasts routine maintenance.
 
 ## Joining in {#sec-joining}
 

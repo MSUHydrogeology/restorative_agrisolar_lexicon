@@ -58,7 +58,7 @@ Pressure: minimize the residual footprint left after a 25–40 year asset life a
 
 ### Design levers {#term-design-levers}
 
-The six kinds of decision a project can actually make, and the only things anyone can change: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. Scale sets the frame. The three below it act physically and are limited by how much ground there is. The last two are institutional and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-siting-latitude](restoration-modes.qmd#sec-siting-latitude) for the levers read against the transect.
+The six kinds of choice designers have for shaping an array: **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. Scale sets the frame. The three below it act physically and are limited by how much ground there is. The last two are institutional and are not. Which lever carried the restorative work is the [restoration mode](#term-restoration-mode). See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-siting-latitude](restoration-modes.qmd#sec-siting-latitude) for the levers read against the transect.
 
 *Borrowed, and turned.* The six levers are the lexicon's own; the reason for sorting them this way is borrowed twice over from architecture. @brand1994, after Frank Duffy, reads a building as layers of differing longevity and holds that a design works when the fast layers can move without tearing the slow ones, which is why management sits apart from structure here rather than inside it. @habraken2002 adds that every level has a decision-maker of its own, which is the ownership lever stated as design theory. Neither author was writing about land, and neither has anything corresponding to siting.
 
@@ -72,19 +72,19 @@ The claim that the [design pressures](#term-design-pressures) resolve differentl
 
 ### Regional factors {#term-regional-factors}
 
-The six spatial factors the lexicon reads a region by: the **resource** (sun and cloud, including diffuse fraction), the **grid operator** (queue, curtailment, and the state programs that decide whether A3 exists), **aridity** (which flips the sign of the shade effect), **latitude** (which sets tilt, row spacing, and the inter-row light budget), the **cropping system** (which decides whether sharing is conceivable), and **irrigation** (which makes retirement at scale available or unavailable). See [§-@sec-rg-factors](design-pressures.qmd#sec-rg-factors).
+The six spatial factors the lexicon reads a region by: the **resource** (sun and cloud, including diffuse fraction), the **grid operator** (queue, curtailment, and the state programs that decide whether A3 exists), **aridity** (which flips the sign of the shade effect), **latitude** (which sets tilt, row spacing, and the inter-row light budget), the **cropping system** (which decides whether sharing is conceivable), and **irrigation** (which makes retirement at scale available or unavailable). See [§-@sec-rg-factors](in-depth.qmd#sec-rg-factors).
 
 ### Regional calibration {#term-regional-calibration}
 
-A restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open. The US calibration in §-@sec-rg-us is one such, not the general case; calibrations from other regions are additions rather than corrections. See [§-@sec-rg-us](design-pressures.qmd#sec-rg-us).
+A restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open. The US calibration in §-@sec-rg-us is one such, not the general case; calibrations from other regions are additions rather than corrections. See [§-@sec-rg-us](in-depth.qmd#sec-rg-us).
 
 ### Design import {#term-design-import}
 
-The typical regional mistake: carrying a solution from the region where it was shown to work into one where the factors differ, For example, a shade benefit shown in the Southwest gets assumed in the Midwest, or a habitat specification worked out for one establishment cost gets written into a contract for another. [Grid and market demands](#term-grid-market) is the usual vehicle, since a buyer's requirement travels farther and faster than the evidence behind it. See [§-@sec-rg-consequences](design-pressures.qmd#sec-rg-consequences).
+The typical regional mistake: carrying a solution from the region where it was shown to work into one where the factors differ, For example, a shade benefit shown in the Southwest gets assumed in the Midwest, or a habitat specification worked out for one establishment cost gets written into a contract for another. [Grid and market demands](#term-grid-market) is the usual vehicle, since a buyer's requirement travels farther and faster than the evidence behind it. See [§-@sec-rg-consequences](in-depth.qmd#sec-rg-consequences).
 
 ### Diffuse fraction {#term-diffuse-fraction}
 
-The share of irradiance arriving as diffuse rather than direct-beam light. Clouds block direct sun but still let scattered light through, so humid and cloudy regions get a larger share of diffuse light. That light comes from every direction, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§-@sec-rg-factors](design-pressures.qmd#sec-rg-resource).
+The share of irradiance arriving as diffuse rather than direct-beam light. Clouds block direct sun but still let scattered light through, so humid and cloudy regions get a larger share of diffuse light. That light comes from every direction, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§-@sec-rg-factors](in-depth.qmd#sec-rg-resource).
 
 ## Scale {#sec-terms-scale}
 
@@ -126,17 +126,17 @@ The designer's freedom over where the array goes. Moving up the transect, what c
 
 ### Stocking density {#term-stocking-density}
 
-The number of animals on a given area at one moment. It drifts apart from carrying capacity as forage grows, gets eaten, and responds to weather. A grazing design variable to calibrate, not a fixed rate. See [§-@sec-zones](scale-transect.qmd#sec-grazing).
+The number of animals on a given area at one moment. It drifts apart from carrying capacity as forage grows, gets eaten, and responds to weather. A grazing design variable to calibrate, not a fixed rate. See [§-@sec-zones](archetype-catalog.qmd#sec-grazing).
 
 ### Carrying capacity {#term-carrying-capacity}
 
-The season-long forage the land sustains over time, distinct from instantaneous [stocking density](#term-stocking-density). See [§-@sec-zones](scale-transect.qmd#sec-grazing).
+The season-long forage the land sustains over time, distinct from instantaneous [stocking density](#term-stocking-density). See [§-@sec-zones](archetype-catalog.qmd#sec-grazing).
 
 *Borrowed, and worth placing.* This is range science's carrying capacity: a stocking target set by the forage a management unit grew this season and by what the manager is trying to achieve with it, so it moves from year to year and can be argued about. It is not population ecology's *K*, the level a population settles at when nobody is managing it, which is what a reader coming to the same site from a habitat plan will assume. Both senses can turn up in one project file, so a number is worth labeling.
 
 ### Contract grazing {#term-contract-grazing}
 
-Grazing delivered as a contracted vegetation-management service by a party who does not live on site; appears at A3 and scales up into a logistics enterprise. See [§-@sec-zones](scale-transect.qmd#sec-grazing).
+Grazing delivered as a contracted vegetation-management service by a party who does not live on site; appears at A3 and scales up into a logistics enterprise. See [§-@sec-zones](archetype-catalog.qmd#sec-grazing).
 
 ## The farming axis {#sec-terms-sharing}
 
@@ -150,7 +150,7 @@ The second, largely scale-independent dimension: whether the array shares land w
 
 ### S0 — Created agriculture {#term-s0}
 
-A farm takes something off ground that carried no agricultural use before the array: a capped landfill or a decommissioned industrial parcel grazed under panels, previously developed urban and peri-urban ground put back to stock. It is the only position that records a use beginning rather than one kept, stepped down, or lost. That puts it past the sharing end, and on the [starting a benefit](restoration-modes.qmd#sec-harm-benefit) side of the split rather than the harm-reduction side the other five share. Uncommon, and no claim about quality. See [§-@sec-positions](farming-axis.qmd#sec-positions).
+A farm takes something off ground that carried no agricultural use before the array: a capped landfill or a decommissioned industrial parcel grazed under panels, previously developed urban and peri-urban ground put back to stock. It is the only position that records a use beginning rather than one kept, stepped down, or lost. That puts it past the sharing end, and on the [starting a benefit](restorative-functions.qmd#sec-harm-benefit) side of the split rather than the harm-reduction side the other five share. Uncommon, and no claim about quality. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S1 — Primary agriculture {#term-s1}
 
