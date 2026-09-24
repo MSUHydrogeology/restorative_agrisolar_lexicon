@@ -7,8 +7,6 @@
 inferred, and what nobody has measured.
 :::
 
-![Rabbit Hills Solar Farm in Corvallis, Oregon, the array this primer follows through every chapter. The pasture between the rows is grazed by the university's sheep, and the instruments belong to the study that measured it. Photo from @adeh2018, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).](figures/photo_rabbit_hills.jpg){fig-alt="A grassy aisle runs between two long rows of solar panels mounted on steel posts, with a weather mast in the middle distance and oak trees and a hill beyond."}
-
 ::: {.welcome}
 Solar and farming want the same flat, open, well-drained ground. An array can sit on pollinator habitat or on gravel. It can slow the water leaving a field or send it somewhere new, shade a flock, end the pumping on an irrigated field, or keep a farm in business. Which of those happens is a design decision.
 
@@ -20,6 +18,8 @@ Where you draw the line decides what counts. Most accounting stops at the fence,
 :::
 
 ::: {.callout-tip .running-example icon=false title="Rabbit Hills Solar Farm: A Restorative Agrisolar Example"}
+![The pasture between the rows, grazed by the university's sheep. The instruments belong to the study that measured it. Photo from @adeh2018, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).](figures/photo_rabbit_hills.jpg){fig-alt="A grassy aisle runs between two long rows of solar panels mounted on steel posts, with a weather mast in the middle distance and oak trees and a hill beyond."}
+
 On the Oregon State University campus in Corvallis, 1.4 megawatts of solar stand on six acres of what was a non-irrigated sheep pasture, and the university's sheep still graze it. Two peer-reviewed studies have measured what the array did. Through a dry summer the ground under the panels stayed wetter than the open pasture, and lambs raised there grew as fast as lambs in the open [@adeh2018; @andrew2021]. Each chapter of the primer places Rabbit Hills on its own scheme, in a box like this one, so that by the last chapter the array has a full description. It illustrates the vocabulary, and it is not an audit of the project.
 :::
 
