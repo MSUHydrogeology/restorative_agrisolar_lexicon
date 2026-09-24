@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="922" height="800" viewBox="0 0 922 800" role="img">
+<title>Where the archetypes sit, and which lever does their work</title>
+<desc>A grid with the five ground-taking zones of the scale transect across the top, A1 Farmstead to A5 Complex, and the six farming-axis positions down the side, S0 Created agriculture at the top through S5 Impaired-land siting at the bottom. Each of the thirteen archetypes is drawn as a bar spanning the zones it recurs at, in the row of its farming-axis position, colored by its restoration mode. Filled bars are the six featured archetypes, outlined bars the seven sketched ones, and dashed bars a position a form takes only in some cases. The primary-agriculture row runs from A1 to A5, carried at the small end by barnyard shelter and crop canopies and at the large end by grazing. Hatched cells mark combinations that rarely get built: sparing at A1, and impaired-land siting at A2, where the acreage spares almost nothing, and low-productivity siting at A5, where scattered remnants will not assemble and only brightfields reach. Every clear cell is possible, including created agriculture at any size. Nine of the thirteen forms reach A3. Read left to right, the colors shift from ownership and structure at the small end, through siting in the middle, to management and contracts at the large end.</desc>
+<style>
+text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.zc{font-size:13px;font-weight:700;fill:#2c2c2a}.zn{font-size:12px;fill:#3d3d3a}
+.rc{font-size:15px;font-weight:700}.rn{font-size:11.5px;fill:#5f5e5a}
+.bl{font-size:12px;font-weight:600}.bd{font-size:12px;font-style:italic;fill:#4a4944}
+.lg{font-size:12px;fill:#3d3d3a}.lk{font-size:11.5px;fill:#5f5e5a}
+</style>
+<rect x="170" y="16" width="142" height="30" rx="5" fill="#EAF3DE" stroke="#c9c6bc" stroke-width="0.5"/>
+<text x="241.0" y="36" text-anchor="middle"><tspan class="zc">A1</tspan><tspan class="zn" dx="6">Farmstead</tspan></text>
+<rect x="320" y="16" width="142" height="30" rx="5" fill="#DCEBC8" stroke="#c9c6bc" stroke-width="0.5"/>
+<text x="391.0" y="36" text-anchor="middle"><tspan class="zc">A2</tspan><tspan class="zn" dx="6">Commercial</tspan></text>
+<rect x="470" y="16" width="142" height="30" rx="5" fill="#C0DD97" stroke="#c9c6bc" stroke-width="0.5"/>
+<text x="541.0" y="36" text-anchor="middle"><tspan class="zc">A3</tspan><tspan class="zn" dx="6">Community</tspan></text>
+<rect x="620" y="16" width="142" height="30" rx="5" fill="#AED483" stroke="#c9c6bc" stroke-width="0.5"/>
+<text x="691.0" y="36" text-anchor="middle"><tspan class="zc">A4</tspan><tspan class="zn" dx="6">Utility</tspan></text>
+<rect x="770" y="16" width="142" height="30" rx="5" fill="#97C459" stroke="#c9c6bc" stroke-width="0.5"/>
+<text x="841.0" y="36" text-anchor="middle"><tspan class="zc">A5</tspan><tspan class="zn" dx="6">Complex</tspan></text>
+<text class="rn" x="10" y="36">scale transect →</text>
+<rect x="0" y="62" width="922" height="58" fill="#6ba6d1" fill-opacity="0.22"/>
+<text class="rc" x="10" y="89" fill="#0d3452">S0</text>
+<text class="rn" x="10" y="105">Created agriculture</text>
+<rect x="0" y="120" width="922" height="184" fill="#7fb3d9" fill-opacity="0.22"/>
+<text class="rc" x="10" y="210" fill="#1c4c73">S1</text>
+<text class="rn" x="10" y="226">Primary agriculture</text>
+<rect x="0" y="304" width="922" height="58" fill="#bfdaec" fill-opacity="0.22"/>
+<text class="rc" x="10" y="331" fill="#2f6b96">S2</text>
+<text class="rn" x="10" y="347">Secondary agriculture</text>
+<rect x="0" y="362" width="922" height="100" fill="#efeeea" fill-opacity="0.22"/>
+<text class="rc" x="10" y="410" fill="#5f5e5a">S3</text>
+<text class="rn" x="10" y="426">Ordinary-land siting</text>
+<rect x="0" y="462" width="922" height="184" fill="#d9cbe6" fill-opacity="0.22"/>
+<text class="rc" x="10" y="552" fill="#6a4a91">S4</text>
+<text class="rn" x="10" y="568">Low-productivity siting</text>
+<rect x="0" y="646" width="922" height="58" fill="#b69ed4" fill-opacity="0.22"/>
+<text class="rc" x="10" y="673" fill="#46295f">S5</text>
+<text class="rn" x="10" y="689">Impaired-land siting</text>
+<defs><pattern id="rare" width="7" height="7" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="7" stroke="#8f8d84" stroke-width="1"/></pattern></defs>
+<!-- hatched: combinations that rarely get built. Every clear cell is possible, with or without a recurring form. -->
+<rect x="166" y="462" width="150" height="184" fill="url(#rare)" opacity="0.55"/>
+<rect x="766" y="462" width="150" height="184" fill="url(#rare)" opacity="0.55"/>
+<rect x="166" y="646" width="150" height="58" fill="url(#rare)" opacity="0.55"/>
+<rect x="316" y="646" width="150" height="58" fill="url(#rare)" opacity="0.55"/>
+<g stroke="#ffffff" stroke-width="2"><path d="M0,120 H922"/><path d="M0,304 H922"/><path d="M0,362 H922"/><path d="M0,462 H922"/><path d="M0,646 H922"/></g>
+<g stroke="#ffffff" stroke-width="2"><path d="M166,62 V704"/><path d="M316,62 V704"/><path d="M466,62 V704"/><path d="M616,62 V704"/><path d="M766,62 V704"/></g>
+<rect x="472" y="75.0" width="438" height="32" rx="3.5" fill="#ffffff" fill-opacity="0.6" stroke="#b8934a" stroke-width="1.6" stroke-dasharray="5 3"/>
+<text class="bd" x="691.0" y="95.2" text-anchor="middle" fill="#4a4944">Brightfield, where the ground layer is grazed</text>
+<rect x="171" y="132.0" width="140" height="34" rx="4" fill="#4a6d8c"/>
+<text class="bl" x="241.0" y="146.4" text-anchor="middle" fill="#ffffff" style="font-size:11.5px"><tspan x="241.0">Barnyard</tspan><tspan x="241.0" dy="13">Shelter Solar</tspan></text>
+<rect x="321" y="132.0" width="440" height="34" rx="4" fill="#836836"/>
+<text class="bl" x="541.0" y="153.2" text-anchor="middle" fill="#ffffff">Perennial Crop Canopy</text>
+<rect x="321" y="174.0" width="440" height="34" rx="4" fill="#ffffff"/>
+<rect x="322" y="175.0" width="438" height="32" rx="3.5" fill="#836836" fill-opacity="0.14" stroke="#836836" stroke-width="2"/>
+<text class="bl" x="541.0" y="195.2" text-anchor="middle" fill="#2c2c2a">Solar Fencerows</text>
+<rect x="321" y="216.0" width="290" height="34" rx="4" fill="#ffffff"/>
+<rect x="322" y="217.0" width="288" height="32" rx="3.5" fill="#836836" fill-opacity="0.14" stroke="#836836" stroke-width="2"/>
+<text class="bl" x="466.0" y="237.2" text-anchor="middle" fill="#2c2c2a">Vegetable Agrivoltaics</text>
+<rect x="621" y="216.0" width="290" height="34" rx="4" fill="#4f3d1c"/>
+<text class="bl" x="766.0" y="237.2" text-anchor="middle" fill="#ffffff">Regenerative Solar Grazing</text>
+<rect x="322" y="259.0" width="288" height="32" rx="3.5" fill="#ffffff" fill-opacity="0.6" stroke="#b8934a" stroke-width="1.6" stroke-dasharray="5 3"/>
+<text class="bd" x="466.0" y="279.2" text-anchor="middle" fill="#4a4944">Marginal Land Solar, where stock stays on</text>
+<rect x="472" y="317.0" width="138" height="32" rx="3.5" fill="#ffffff" fill-opacity="0.6" stroke="#4f3d1c" stroke-width="1.6" stroke-dasharray="5 3"/>
+<text class="bd" x="541.0" y="330.4" text-anchor="middle" fill="#4a4944" style="font-size:11.5px"><tspan x="541.0">Pollinator Meadow,</tspan><tspan x="541.0" dy="13">where hives are kept</tspan></text>
+<rect x="621" y="316.0" width="290" height="34" rx="4" fill="#4f3d1c"/>
+<text class="bl" x="766.0" y="337.2" text-anchor="middle" fill="#ffffff">Regenerative Solar Grazing</text>
+<rect x="471" y="374.0" width="140" height="34" rx="4" fill="#ffffff"/>
+<rect x="472" y="375.0" width="138" height="32" rx="3.5" fill="#4f3d1c" fill-opacity="0.14" stroke="#4f3d1c" stroke-width="2"/>
+<text class="bl" x="541.0" y="388.4" text-anchor="middle" fill="#2c2c2a" style="font-size:11.5px"><tspan x="541.0">Pollinator</tspan><tspan x="541.0" dy="13">Meadow Solar</tspan></text>
+<rect x="621" y="374.0" width="290" height="34" rx="4" fill="#ffffff"/>
+<rect x="622" y="375.0" width="288" height="32" rx="3.5" fill="#4f3d1c" fill-opacity="0.14" stroke="#4f3d1c" stroke-width="2"/>
+<text class="bl" x="766.0" y="395.2" text-anchor="middle" fill="#2c2c2a">Restored-Grassland Solar</text>
+<rect x="471" y="416.0" width="290" height="34" rx="4" fill="#ffffff"/>
+<rect x="472" y="417.0" width="288" height="32" rx="3.5" fill="#b8934a" fill-opacity="0.14" stroke="#b8934a" stroke-width="2"/>
+<text class="bl" x="616.0" y="437.2" text-anchor="middle" fill="#2c2c2a">Farm-Load Microgrid</text>
+<rect x="321" y="474.0" width="290" height="34" rx="4" fill="#b8934a"/>
+<text class="bl" x="466.0" y="495.2" text-anchor="middle" fill="#2c2c2a">Marginal Land Solar</text>
+<rect x="321" y="516.0" width="290" height="34" rx="4" fill="#ffffff"/>
+<rect x="322" y="517.0" width="288" height="32" rx="3.5" fill="#b8934a" fill-opacity="0.14" stroke="#b8934a" stroke-width="2"/>
+<text class="bl" x="466.0" y="537.2" text-anchor="middle" fill="#2c2c2a">Pivot-Corner Recharge</text>
+<rect x="471" y="558.0" width="290" height="34" rx="4" fill="#ffffff"/>
+<rect x="472" y="559.0" width="288" height="32" rx="3.5" fill="#b8934a" fill-opacity="0.14" stroke="#b8934a" stroke-width="2"/>
+<text class="bl" x="616.0" y="579.2" text-anchor="middle" fill="#2c2c2a">Farm-Load Microgrid</text>
+<rect x="471" y="600.0" width="440" height="34" rx="4" fill="#ffffff"/>
+<rect x="472" y="601.0" width="438" height="32" rx="3.5" fill="#b8934a" fill-opacity="0.14" stroke="#b8934a" stroke-width="2"/>
+<text class="bl" x="691.0" y="621.2" text-anchor="middle" fill="#2c2c2a">Brightfield</text>
+<rect x="471" y="658.0" width="140" height="34" rx="4" fill="#b8934a"/>
+<text class="bl" x="541.0" y="672.4" text-anchor="middle" fill="#2c2c2a" style="font-size:11.5px"><tspan x="541.0">Solar Prairie</tspan><tspan x="541.0" dy="13">Strips</tspan></text>
+<rect x="621" y="658.0" width="290" height="34" rx="4" fill="#33506b"/>
+<text class="bl" x="766.0" y="679.2" text-anchor="middle" fill="#ffffff">Retired-Irrigation Solar</text>
+<text class="lk" x="10" y="738">restoration mode</text>
+<rect x="128" y="726" width="22" height="14" rx="3" fill="#b8934a"/><text class="lg" x="156" y="738">siting-led</text>
+<rect x="236" y="726" width="22" height="14" rx="3" fill="#836836"/><text class="lg" x="264" y="738">structure-led</text>
+<rect x="362" y="726" width="22" height="14" rx="3" fill="#4f3d1c"/><text class="lg" x="390" y="738">management-led</text>
+<rect x="506" y="726" width="22" height="14" rx="3" fill="#4a6d8c"/><text class="lg" x="534" y="738">ownership-led</text>
+<rect x="642" y="726" width="22" height="14" rx="3" fill="#33506b"/><text class="lg" x="670" y="738">contract-led</text>
+<text class="lk" x="10" y="764">filled: featured archetype · outlined: sketched · dashed: a position the form takes only in some cases</text>
+<rect x="10" y="776" width="22" height="14" fill="url(#rare)" opacity="0.8" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="lk" x="38" y="788">hatched: rarely built. A clear cell with no bar is possible, with no recurring form yet.</text>
+</svg>

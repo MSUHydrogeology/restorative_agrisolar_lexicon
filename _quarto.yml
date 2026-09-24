@@ -19,18 +19,26 @@ book:
   sidebar:
     style: docked
     collapse-level: 1
+  # Part I is read straight through; Part II is looked up. In Depth is a staging
+  # area holding the pre-primer chapters until each section is kept, trimmed, or cut.
   chapters:
     - index.qmd
-    - chapters/design-levers.qmd
-    - chapters/design-pressures.qmd
-    - chapters/scale-transect.qmd
-    - chapters/farming-axis.qmd
-    - chapters/restoration-modes.qmd
-    - chapters/restorative-functions.qmd
-    - chapters/archetypal-forms.qmd
-    - chapters/terminology.qmd
-    - chapters/evidence-and-needs.qmd
-    - chapters/sources.qmd
+    - part: "Primer"
+      chapters:
+        - chapters/design-levers.qmd
+        - chapters/design-pressures.qmd
+        - chapters/scale-transect.qmd
+        - chapters/farming-axis.qmd
+        - chapters/restoration-modes.qmd
+        - chapters/restorative-functions.qmd
+        - chapters/archetypal-forms.qmd
+    - part: "Lexicon"
+      chapters:
+        - chapters/terminology.qmd
+        - chapters/archetype-catalog.qmd
+        - chapters/evidence-and-needs.qmd
+        - chapters/sources.qmd
+        - chapters/in-depth.qmd
   appendices:
     - chapters/index-alphabetical.qmd
   downloads: [pdf]
@@ -60,3 +68,9 @@ format:
     number-depth: 2
     toc: true
     toc-depth: 3
+    # The running-example boxes are the only tip callouts in the book. Recolor them
+    # blue-violet to match the website; set at the start of the document so Quarto's own
+    # definition of the callout colors comes first and this one wins.
+    include-in-header:
+      text: |
+        \AtBeginDocument{\definecolor{quarto-callout-tip-color}{HTML}{4F5B93}\definecolor{quarto-callout-tip-color-frame}{HTML}{4F5B93}}

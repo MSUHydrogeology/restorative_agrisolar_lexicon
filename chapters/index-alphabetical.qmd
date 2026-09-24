@@ -50,7 +50,7 @@ under **S**.
 
 ## C {.unnumbered}
 
-**Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [Terminology](terminology.qmd#term-carrying-capacity) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
+**Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [Terminology](terminology.qmd#term-carrying-capacity) · [Worked example: grazing](archetype-catalog.qmd#sec-grazing)
 
 **Coexistence** — retired as a position name; *see* S3 — Ordinary-land siting, the center of the farming axis, neither sharing nor sparing — [Terminology](terminology.qmd#term-s3) · [The positions](farming-axis.qmd#sec-positions)
 
@@ -66,7 +66,7 @@ under **S**.
 
 **Connectivity** — whether organisms can move into, through, and out of a site; designed at four scales, from fencing and mown strips to whether a regional fleet falls within dispersal distance — [Terminology](terminology.qmd#term-connectivity) · [Ecology](restorative-functions.qmd#sec-fn-biodiversity)
 
-**Contract grazing** — grazing delivered as a contracted vegetation-management service by a party who does not live on site — [Terminology](terminology.qmd#term-contract-grazing) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
+**Contract grazing** — grazing delivered as a contracted vegetation-management service by a party who does not live on site — [Terminology](terminology.qmd#term-contract-grazing) · [Worked example: grazing](archetype-catalog.qmd#sec-grazing)
 
 **Contract-led** — restoration mode: the work is done in the lease, the ordinance, or the benefit agreement rather than anywhere on the site; the mode the community and economic function runs on — [Terminology](terminology.qmd#term-contract-led) · [Community and economy](restorative-functions.qmd#sec-fn-community)
 
@@ -77,15 +77,15 @@ under **S**.
 
 **Delivery by preservation** — the mode in which nothing moves and the benefit is ground nearby that stayed as it was; proximate, because development pressure is local, but counterfactual rather than observed — [Terminology](terminology.qmd#term-displaced-benefit) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
 
-**Design import** — the characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ; grid and market demands is the usual vehicle — [Terminology](terminology.qmd#term-design-import) · [What follows](design-pressures.qmd#sec-rg-consequences)
+**Design import** — the characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ; grid and market demands is the usual vehicle — [Terminology](terminology.qmd#term-design-import) · [What follows](in-depth.qmd#sec-rg-consequences)
 
-**Design levers** — the six kinds of decision a project can make, and the only things anyone can change: scale, siting, structure, management, ownership, contracts — [Terminology](terminology.qmd#term-design-levers) · [Design Levers](design-levers.qmd)
+**Design levers** — the six kinds of choice designers have for shaping an array: scale, siting, structure, management, ownership, contracts — [Terminology](terminology.qmd#term-design-levers) · [Design Levers](design-levers.qmd)
 
 **Design pressures** — the competing forces every site must resolve; unlike axes they have direction, conflict, and advocates — [Terminology](terminology.qmd#term-design-pressures) · [Design Pressures](design-pressures.qmd)
 
 **Design tension** — what a resolution of the design pressures leaves unresolved; never nil, so the question is how much remains and who carries it, and the settings that leave least are the ones that recur — [Terminology](terminology.qmd#term-design-tension) · [Where the pressures collide](design-pressures.qmd#sec-conflicts)
 
-**Diffuse fraction** — the share of irradiance arriving as diffuse rather than direct-beam light; higher under cloud, non-directional, and most of what a ground layer lives on — [Terminology](terminology.qmd#term-diffuse-fraction) · [Six factors](design-pressures.qmd#sec-rg-resource)
+**Diffuse fraction** — the share of irradiance arriving as diffuse rather than direct-beam light; higher under cloud, non-directional, and most of what a ground layer lives on — [Terminology](terminology.qmd#term-diffuse-fraction) · [Six factors](in-depth.qmd#sec-rg-resource)
 
 **Dual Use** — production-based criterion: active agricultural production in the footprint across the project life (AFT's definition); S1–S2 — [Terminology](terminology.qmd#term-dual-use)
 
@@ -157,11 +157,11 @@ under **S**.
 
 ## R {.unnumbered}
 
-**Rangevoltaics** — grazing under and between the panels, S1 on ground that was already pasture and S2 on former cropland; the field's ecological-literature name for solar grazing, workable with sheep but not with goats, cattle, or horses; *syn.* solar grazing — [Terminology](terminology.qmd#term-rangevoltaics) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
+**Rangevoltaics** — grazing under and between the panels, S1 on ground that was already pasture and S2 on former cropland; the field's ecological-literature name for solar grazing, workable with sheep but not with goats, cattle, or horses; *syn.* solar grazing — [Terminology](terminology.qmd#term-rangevoltaics) · [Worked example: grazing](archetype-catalog.qmd#sec-grazing)
 
-**Regional calibration** — a restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open — [Terminology](terminology.qmd#term-regional-calibration) · [A worked calibration](design-pressures.qmd#sec-rg-us)
+**Regional calibration** — a restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open — [Terminology](terminology.qmd#term-regional-calibration) · [A worked calibration](in-depth.qmd#sec-rg-us)
 
-**Regional factors** — the six spatial factors a region is read by: resource, grid operator, aridity, latitude, cropping system, irrigation — [Terminology](terminology.qmd#term-regional-factors) · [Six factors](design-pressures.qmd#sec-rg-factors)
+**Regional factors** — the six spatial factors a region is read by: resource, grid operator, aridity, latitude, cropping system, irrigation — [Terminology](terminology.qmd#term-regional-factors) · [Six factors](in-depth.qmd#sec-rg-factors)
 
 **Regionality** — the claim that the design pressures resolve differently in different places, because the factors that weight them vary across space; the vocabulary is constant, the weights are not — [Terminology](terminology.qmd#term-regionality) · [The same pressures, weighted by place](design-pressures.qmd#sec-regionality)
 
@@ -205,7 +205,7 @@ under **S**.
 
 **Solar grazing** — *see* Rangevoltaics — [Terminology](terminology.qmd#term-rangevoltaics)
 
-**Stocking density** — instantaneous animals per unit area at a moment; diverges from carrying capacity — [Terminology](terminology.qmd#term-stocking-density) · [Worked example: grazing](scale-transect.qmd#sec-grazing)
+**Stocking density** — instantaneous animals per unit area at a moment; diverges from carrying capacity — [Terminology](terminology.qmd#term-stocking-density) · [Worked example: grazing](archetype-catalog.qmd#sec-grazing)
 
 **Structure-led** — restoration mode: array geometry is the instrument — clearance, row spacing, module transmissivity — [Terminology](terminology.qmd#term-structure-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
 
