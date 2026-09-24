@@ -150,3 +150,8 @@ release; Zenodo will mint a DOI and archive the snapshot.
 ## License
 
 Content is licensed CC BY 4.0. See `LICENSE.md`.
+
+The typefaces in `fonts/` are not CC BY. Source Sans 3 (Adobe) and Inter (The Inter Project
+Authors) are both under the SIL Open Font License 1.1, with their license texts beside them
+(`fonts/LICENSE-SourceSans3.md`, `fonts/LICENSE-Inter.txt`). The OFL covers the font files
+only; documents set in them, the PDF of this book included, are not affected by it.

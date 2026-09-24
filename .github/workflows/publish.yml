@@ -27,21 +27,20 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v7
 
-      - name: Install rsvg-convert (embeds the SVG figures into the PDF)
-        run: sudo apt-get update && sudo apt-get install -y librsvg2-bin
-
-      # GH_TOKEN authenticates the TinyTeX release lookup. Without it the
-      # installer queries the GitHub API anonymously and intermittently gets
-      # "403 - Forbidden / Unable to determine latest release for
-      # rstudio/tinytex-releases" when the runner's shared IP is rate-limited.
-      # That failure has nothing to do with the book, but it fails the build
-      # check that pull requests must pass.
+      # The PDF is built with Typst, which ships inside Quarto and reads the SVG
+      # figures directly, so there is no LaTeX distribution or SVG converter to
+      # install. The version is pinned to the one the book is written against:
+      # each Quarto release bundles its own Typst and orange-book, and the PDF
+      # template in typst/ is written against these.
+      #
+      # GH_TOKEN authenticates the release lookup, which an anonymous request
+      # from a shared runner IP can have rate-limited with a 403.
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tinytex: true   # LaTeX for the PDF download
+          version: 1.9.38
 
       - name: Render (HTML + PDF)
         run: quarto render
