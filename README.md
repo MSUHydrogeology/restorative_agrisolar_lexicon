@@ -104,9 +104,10 @@ and added these:
 - **Gloss a defined term; do not swap it for a near-synonym.** "Calibration points" means named
   places to stand, not boxes, and "reference sizes" quietly says boxes. Keep the lexicon's word and
   explain it in plain words beside it.
-- **Do not use a defined word in its everyday sense nearby.** *Mode*, *position*, *function*,
-  *axis*, and *pressure* all have fixed meanings here. "The one mode that is counterfactual" reads
-  as a claim about restoration modes, and "gains on one axis" as a claim about the farming axis.
+- **Do not use a defined word in its everyday sense nearby.** *Restorative work*, *position*,
+  *function*, *axis*, and *pressure* all have fixed meanings here. "The restorative work on the
+  farm next door" reads as a claim about a design lever, and "gains on one axis" as a claim about
+  the farming axis.
 - **The software rule holds for every trade.** Finance, construction, and research methods have
   their own shorthand that one audience reads and the rest cannot: *capex*, *hurdle rate*, *value
   engineering*, *offtaker*, *confound*, *adders*. Say what happens. Gloss an acronym (GHI, PPA,
@@ -120,6 +121,13 @@ and added these:
   chapters. Search link text too: a renamed term survives in the words of the links pointing at it.
 - **Say which way a percentage runs.** \$2.19 against \$1.38 is 59% more or 37% less, and "a
   penalty of 37%" is neither.
+- **Title a thing by what it is, not with a tagline.** A heading, box title, or table label names
+  its subject in the words a reader would search for. The tagline is a habit of machine-written
+  prose: a name, a colon or comma, and a short fragment with no verb, built for rhythm rather than
+  meaning. It leans on an idiom, a sweeping range, a count used as a hook, or a pair of balanced
+  phrases, and it usually describes how the text is built rather than the subject. "Rabbit Hills
+  Solar Farm: one array, all the way through" says the example recurs, and the reader has to work
+  that out. "Rabbit Hills Solar Farm: A Restorative Agrisolar Example" says what the box holds.
 
 A rough check for the first rule, run from the repository root:
 
@@ -136,10 +144,17 @@ US English includes the forms that slip through most often. A second check:
 grep -rnoE "judgement|metre|plough|travell|gravell|colour|behaviour|centre|organis[^m]" chapters/*.qmd index.qmd
 ```
 
+Taglines cannot be caught by pattern, but they cluster in headings, box titles, and the labels in
+tables. This lists the headings and titles that carry a colon or a comma, to read through by eye:
+
+```bash
+grep -nE '^#{1,4} [^{]*[,:]|title="[^"]*[,:]' index.qmd chapters/*.qmd
+```
+
 ## Contributing
 
 See `CONTRIBUTING.md`. Proposed terms, corrections, and counterexamples are all in scope —
-particularly counterexamples to the claim, in *Which positions scale allows* in the farming-axis
+particularly counterexamples to the claim, in *Which positions each scale allows* in the farming-axis
 chapter, that sparing is largely unavailable at A5.
 
 ## Citation
@@ -155,3 +170,5 @@ The typefaces in `fonts/` are not CC BY. Source Sans 3 (Adobe) and Inter (The In
 Authors) are both under the SIL Open Font License 1.1, with their license texts beside them
 (`fonts/LICENSE-SourceSans3.md`, `fonts/LICENSE-Inter.txt`). The OFL covers the font files
 only; documents set in them, the PDF of this book included, are not affected by it.
+
+Photographs by others keep their own credit and license, given in their captions. `figures/photo_rabbit_hills.jpg` is panel (b) of Fig. 1 in Adeh, Selker & Higgins (2018), *PLOS ONE* 13(9): e0203256, published under CC BY 4.0 and cropped from the published figure. Panel (a) of that figure is © Oregon State University and is not used.

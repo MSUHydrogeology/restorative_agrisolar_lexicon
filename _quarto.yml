@@ -29,7 +29,7 @@ book:
         - chapters/design-pressures.qmd
         - chapters/scale-transect.qmd
         - chapters/farming-axis.qmd
-        - chapters/restoration-modes.qmd
+        - chapters/restorative-work.qmd
         - chapters/restorative-functions.qmd
         - chapters/archetypal-forms.qmd
     - part: "Lexicon"

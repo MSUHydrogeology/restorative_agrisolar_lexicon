@@ -14,7 +14,7 @@ They shift together closely enough that knowing where a project sits on the rang
 
 ![**Scale Transect Zones.** A0 through A5, one panel each, from a barn roof to rows running to the horizon. Each panel is at its own scale: what grows across the set is the array's share of the frame and what else is still in view.](../figures/fig_scale_transect.svg){#fig-scale-transect}
 
-## Five zones on one gradient {#sec-zones}
+## The five zones {#sec-zones}
 
 The zones are calibration points on that range, in the sense urban planning's rural-to-urban transect uses the term: named places to stand, not boxes with walls. A 4 MW project and a 6 MW project differ by less than their labels suggest, and a project near a boundary should be read as sitting near one.
 
@@ -33,7 +33,7 @@ Capacity is how a project is filed. Acreage is how the people living with it exp
 
 ## Scale decides who holds the other levers {#sec-master-lever}
 
-Choosing five megawatts over eighty plants nothing and commits no one to anything. What it does is decide which of the other five levers a designer can still reach by the time the layout is drawn. **Scale is the master lever because it is settled before anyone reaches for the others**, and very little later in a project wins back what it closed off.
+Choosing five megawatts over eighty plants nothing and commits no one to anything. A small array does some restorative work of its own, at its edges (§-@sec-leads). The larger effect of the choice is deciding which of the other five levers a designer can still reach by the time the layout is drawn. **Scale is the master lever because it is settled before anyone reaches for the others**, and very little later in a project wins back what it closed off.
 
 The ground itself shows how. At the farmstead the operator holds the whole decision and has almost nothing to choose among, since one spot in the yard may be the only spot. At A3 a developer and a landowner can walk the field together and put the array on the wet low spot that never yields. By A4 the ground is chosen by whatever acreage could be assembled near a substation with a place in the queue (§-@sec-siting-latitude). The other levers travel the same way. Racking at A1 is whatever a local installer can find for one yard, and at A5 it is a catalog item bought by the megawatt. Ownership moves furthest: one person at the farmstead, and an investor, a landowner, and a township by A5. Every lever survives the trip. None stays in the same hands.
 

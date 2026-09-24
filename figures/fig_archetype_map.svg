@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="922" height="884" viewBox="0 0 922 884" role="img">
 <title>Where the archetypes sit, and which lever does their work</title>
-<desc>A grid with the five ground-taking zones of the scale transect across the top, A1 Farmstead to A5 Complex, and the six farming-axis positions down the side, S0 Created agriculture at the top through S5 Impaired-land siting at the bottom. Each of the thirteen archetypes is drawn as a bar spanning the zones it recurs at, in the row of its farming-axis position, colored by its restoration mode. Filled bars are the six featured archetypes, outlined bars the seven sketched ones, and dashed bars a position a form takes only in some cases. The primary-agriculture row runs from A1 to A5, carried at A1 by barnyard shelter and from A2 to A5 by grazing. Hatched cells mark combinations that rarely get built: sparing at A1, and impaired-land siting at A2, where the acreage spares almost nothing, and low-productivity siting at A5, where scattered remnants will not assemble and only brightfields reach. Every clear cell is possible, including created agriculture at any size. Ten of the thirteen forms reach A3. Read left to right, the colors shift from ownership and structure at the small end, through siting in the middle, to management and contracts at the large end.</desc>
+<desc>A grid with the five ground-taking zones of the scale transect across the top, A1 Farmstead to A5 Complex, and the six farming-axis positions down the side, S0 Created agriculture at the top through S5 Impaired-land siting at the bottom. Each of the thirteen archetypes is drawn as a bar spanning the zones it recurs at, in the row of its farming-axis position, colored by the lever that leads its restorative work. Filled bars are the six featured archetypes, outlined bars the seven sketched ones, and dashed bars a position a form takes only in some cases. The primary-agriculture row runs from A1 to A5, carried at A1 by barnyard shelter and from A2 to A5 by grazing. Hatched cells mark combinations that rarely get built: sparing at A1, and impaired-land siting at A2, where the acreage spares almost nothing, and low-productivity siting at A5, where scattered remnants will not assemble and only brightfields reach. Every clear cell is possible, including created agriculture at any size. Ten of the thirteen forms reach A3. Read left to right, the colors tend to shift from ownership and structure at the small end, through siting and scale in the middle, to management and contracts at the large end.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .zc{font-size:13px;font-weight:700;fill:#2c2c2a}.zn{font-size:12px;fill:#3d3d3a}
@@ -63,10 +63,10 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="bd" x="466.0" y="321.2" text-anchor="middle" fill="#4a4944">Marginal Land Solar, where stock stays on</text>
 <rect x="321" y="358.0" width="590" height="34" rx="4" fill="#4f3d1c"/>
 <text class="bl" x="616.0" y="379.2" text-anchor="middle" fill="#ffffff">Regenerative Solar Grazing</text>
-<rect x="472" y="401.0" width="138" height="32" rx="3.5" fill="#ffffff" fill-opacity="0.6" stroke="#4f3d1c" stroke-width="1.6" stroke-dasharray="5 3"/>
+<rect x="472" y="401.0" width="138" height="32" rx="3.5" fill="#ffffff" fill-opacity="0.6" stroke="#5e7d3a" stroke-width="1.6" stroke-dasharray="5 3"/>
 <text class="bd" x="541.0" y="414.4" text-anchor="middle" fill="#4a4944" style="font-size:11.5px"><tspan x="541.0">Pollinator Meadow,</tspan><tspan x="541.0" dy="13">where hives are kept</tspan></text>
 <rect x="471" y="458.0" width="140" height="34" rx="4" fill="#ffffff"/>
-<rect x="472" y="459.0" width="138" height="32" rx="3.5" fill="#4f3d1c" fill-opacity="0.14" stroke="#4f3d1c" stroke-width="2"/>
+<rect x="472" y="459.0" width="138" height="32" rx="3.5" fill="#5e7d3a" fill-opacity="0.14" stroke="#5e7d3a" stroke-width="2"/>
 <text class="bl" x="541.0" y="472.4" text-anchor="middle" fill="#2c2c2a" style="font-size:11.5px"><tspan x="541.0">Pollinator</tspan><tspan x="541.0" dy="13">Meadow Solar</tspan></text>
 <rect x="621" y="458.0" width="290" height="34" rx="4" fill="#ffffff"/>
 <rect x="622" y="459.0" width="288" height="32" rx="3.5" fill="#4f3d1c" fill-opacity="0.14" stroke="#4f3d1c" stroke-width="2"/>
@@ -89,12 +89,13 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="bl" x="541.0" y="756.4" text-anchor="middle" fill="#2c2c2a" style="font-size:11.5px"><tspan x="541.0">Solar Prairie</tspan><tspan x="541.0" dy="13">Strips</tspan></text>
 <rect x="621" y="742.0" width="290" height="34" rx="4" fill="#33506b"/>
 <text class="bl" x="766.0" y="763.2" text-anchor="middle" fill="#ffffff">Retired-Irrigation Solar</text>
-<text class="lk" x="10" y="822">restoration mode</text>
-<rect x="128" y="810" width="22" height="14" rx="3" fill="#b8934a"/><text class="lg" x="156" y="822">siting-led</text>
-<rect x="236" y="810" width="22" height="14" rx="3" fill="#836836"/><text class="lg" x="264" y="822">structure-led</text>
-<rect x="362" y="810" width="22" height="14" rx="3" fill="#4f3d1c"/><text class="lg" x="390" y="822">management-led</text>
-<rect x="506" y="810" width="22" height="14" rx="3" fill="#4a6d8c"/><text class="lg" x="534" y="822">ownership-led</text>
-<rect x="642" y="810" width="22" height="14" rx="3" fill="#33506b"/><text class="lg" x="670" y="822">contract-led</text>
+<text class="lk" x="10" y="822">restorative work</text>
+<rect x="128" y="810" width="22" height="14" rx="3" fill="#5e7d3a"/><text class="lg" x="156" y="822">scale-led</text>
+<rect x="230" y="810" width="22" height="14" rx="3" fill="#b8934a"/><text class="lg" x="258" y="822">siting-led</text>
+<rect x="338" y="810" width="22" height="14" rx="3" fill="#836836"/><text class="lg" x="366" y="822">structure-led</text>
+<rect x="464" y="810" width="22" height="14" rx="3" fill="#4f3d1c"/><text class="lg" x="492" y="822">management-led</text>
+<rect x="608" y="810" width="22" height="14" rx="3" fill="#4a6d8c"/><text class="lg" x="636" y="822">ownership-led</text>
+<rect x="744" y="810" width="22" height="14" rx="3" fill="#33506b"/><text class="lg" x="772" y="822">contract-led</text>
 <text class="lk" x="10" y="848">filled: featured archetype · outlined: sketched · dashed: a position the form takes only in some cases</text>
 <rect x="10" y="860" width="22" height="14" fill="url(#rare)" opacity="0.8" stroke="#c9c6bc" stroke-width="0.5"/>
 <text class="lk" x="38" y="872">hatched: rarely built. A clear cell with no bar is possible, with no recurring form yet.</text>

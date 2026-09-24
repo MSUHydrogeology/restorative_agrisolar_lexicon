@@ -7,6 +7,8 @@
 inferred, and what nobody has measured.
 :::
 
+![Rabbit Hills Solar Farm in Corvallis, Oregon, the array this primer follows through every chapter. The pasture between the rows is grazed by the university's sheep, and the instruments belong to the study that measured it. Photo from @adeh2018, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).](figures/photo_rabbit_hills.jpg){fig-alt="A grassy aisle runs between two long rows of solar panels mounted on steel posts, with a weather mast in the middle distance and oak trees and a hill beyond."}
+
 ::: {.welcome}
 Solar and farming want the same flat, open, well-drained ground. An array can sit on pollinator habitat or on gravel. It can slow the water leaving a field or send it somewhere new, shade a flock, end the pumping on an irrigated field, or keep a farm in business. Which of those happens is a design decision.
 
@@ -17,7 +19,7 @@ Where you draw the line decides what counts. Most accounting stops at the fence,
 [**Restorative agrisolar design**](chapters/terminology.qmd#term-restorative) is the idea that a solar project's goals should include the soil, the water, the wildlife, and the neighbors, alongside the power it makes. This lexicon gives that idea words precise enough to test on a real site.
 :::
 
-::: {.callout-tip .running-example icon=false title="Rabbit Hills Solar Farm: one array, all the way through"}
+::: {.callout-tip .running-example icon=false title="Rabbit Hills Solar Farm: A Restorative Agrisolar Example"}
 On the Oregon State University campus in Corvallis, 1.4 megawatts of solar stand on six acres of what was a non-irrigated sheep pasture, and the university's sheep still graze it. Two peer-reviewed studies have measured what the array did. Through a dry summer the ground under the panels stayed wetter than the open pasture, and lambs raised there grew as fast as lambs in the open [@adeh2018; @andrew2021]. Each chapter of the primer places Rabbit Hills on its own scheme, in a box like this one, so that by the last chapter the array has a full description. It illustrates the vocabulary, and it is not an audit of the project.
 :::
 
@@ -34,17 +36,17 @@ The lexicon comes in two parts. **Part I, the primer, is meant to be read straig
 | | The question | The chapter that answers it |
 |---|:--|:--|
 | **1** | What choices do designers have for shaping the array? | [Design Levers](chapters/design-levers.qmd): six kinds of choice |
-| **2** | What forces push on the array's design? | [Design Pressures](chapters/design-pressures.qmd): nine forces, each with advocates |
-| **3** | How large is the array? | [The Scale Transect](chapters/scale-transect.qmd): a barn roof to ten thousand acres |
-| **4** | What happens to farming on the ground the array takes? | [The Farming Axis](chapters/farming-axis.qmd): carried on, cut back, ended, or begun |
-| **5** | What are the paths toward restoration? | [Restoration Modes](chapters/restoration-modes.qmd): five paths, each carried by a lever |
+| **2** | What forces push on the array's design? | [Design Pressures](chapters/design-pressures.qmd): nine forces |
+| **3** | How large is the array? | [The Scale Transect](chapters/scale-transect.qmd): five size zones, A1 to A5 |
+| **4** | What happens to farming on the ground the array takes? | [The Farming Axis](chapters/farming-axis.qmd): six positions, S0 to S5 |
+| **5** | Which choices do the restorative work? | [Restorative Work](chapters/restorative-work.qmd): six leads, one per lever |
 | **6** | How does the array affect the landscape? | [Restorative Functions](chapters/restorative-functions.qmd): four functions, eight outcomes |
 | **7** | What does the practice look like on real ground? | [Archetypal Forms](chapters/archetypal-forms.qmd): thirteen recurring designs |
 : The seven questions of the primer, and the chapter that answers each. {#tbl-questions}
 
-The schemes fit together in one direction. The six [design levers](chapters/design-levers.qmd) are the choices designers have for shaping an array, and nine [design pressures](chapters/design-pressures.qmd) push on how each one gets set. Once the levers are set, any project can be described three ways: how big it is, what happened to the farming on its ground, and which path it took toward restoration. Those settings decide how the array affects the landscape around it, through its [restorative functions](chapters/restorative-functions.qmd). The designs that keep turning up on real ground are the [archetypes](chapters/archetypal-forms.qmd).
+The schemes fit together in one direction. The six [design levers](chapters/design-levers.qmd) are the choices designers have for shaping an array, and nine [design pressures](chapters/design-pressures.qmd) push on how each one gets set. Design levers do both design work, setting the form of the array, and restorative work, setting its impact. Once the levers are set, any project can be described three ways: how big it is, what happened to the farming on its ground, and which lever leads its restorative work. Those settings decide how the array affects the landscape around it, through its [restorative functions](chapters/restorative-functions.qmd). The designs that keep turning up on real ground are the [archetypes](chapters/archetypal-forms.qmd).
 
-![How the pieces fit. **Top row:** the nine design pressures, grouped by which way they push, acting on the six levers. Five of the levers are colored by the [restoration mode](chapters/restoration-modes.qmd) each can carry. **Bottom row:** what a set of choices produces: a place on the scale transect and on the farming axis, the restoration modes the project relies on, and a footprint across the four kinds of outcome.](figures/fig_language_structure.svg){#fig-language-structure}
+![How the pieces fit. **Top row:** the nine design pressures, grouped by which way they push, acting on the six levers. Each lever is colored by the [restorative work](chapters/restorative-work.qmd) it can lead. **Bottom row:** what a set of choices produces: a place on the scale transect and on the farming axis, the lever that leads the restorative work, and a footprint across the four kinds of outcome.](figures/fig_language_structure.svg){#fig-language-structure}
 
 
 ::: {#sec-aim-not-dimensions}
@@ -53,7 +55,7 @@ The schemes fit together in one direction. The six [design levers](chapters/desi
 
 ## How sure we are
 
-The claims in this lexicon rest on evidence of very different strength. Grassland birds are more abundant on planted solar sites than on the farmland around them, and that is known because people counted them [@walston2025]. That a seeded ground layer keeps sediment out of the creek below is the prairie-strip result from corn and soybean fields [@schulte2017], carried over onto ground nobody has sampled under an array. The sentences making those two claims look alike. The [evidence base](chapters/evidence-and-needs.qmd) says once which is which, so the chapters do not hedge every sentence. The largest open questions are whether several mid-sized arrays do more than one large one, how much soil construction costs a site, and whether a restorative planting outlasts routine maintenance.
+The claims in this lexicon rest on evidence of very different strength. Grassland birds are more abundant on planted solar sites than on the farmland around them, and that is known because people counted them [@walston2025]. That a seeded ground layer keeps sediment out of the creek below is the prairie-strip result from corn and soybean fields [@schulte2017], carried over onto ground nobody has sampled under an array. The sentences making those two claims look alike. The [evidence base](chapters/evidence-and-needs.qmd) says once which is which, so the chapters do not hedge every sentence. The largest open questions are whether several mid-sized arrays do more than one large one, which decides how much restorative work scale does, how much soil construction costs a site, and whether a restorative planting outlasts routine maintenance.
 
 ## Joining in {#sec-joining}
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="726" height="360" viewBox="60 18 726 360" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="726" height="502" viewBox="60 18 726 502" role="img">
 <title>Restoration potential across the scale transect</title>
-<desc>Two panels over the same five zones. The upper panel holds the three physical levers. Structure starts highest at A1, where an array can be built to fit one particular yard, and falls to commodity racking at A5. Siting is low at A1, peaks at A3, and falls away by A5 as land assembly and the interconnection queue take the choice. Management is nearly nothing at A1 and rises to carry everything at A4 and A5. Structure and management cross at A3, siting peaks there, and ownership and contracts cross there too. The lower panel holds the two levers that act institutional. Ownership starts highest at A1, where the operator owns both the array and the animals under it and no agreement is needed, and falls to almost nothing at A5, where the owner is absentee. Contracts run the opposite way, close to nothing at A1 because there is no counterparty to write to, and the main instrument by A5. Both hand-offs happen at the same place, A3. Scale is the axis and has no curve of its own.</desc>
+<desc>Three panels over the same five zones. The top panel holds scale's own restorative work, drawn dotted because it is the least tested of the six: low at A1, where an array is sized to the farm's load rather than chosen, highest at A2 and A3, where a developer or a program can choose to keep an array small, and falling to nothing by A5. The middle panel holds the three physical levers. Structure starts highest at A1, where an array can be built to fit one particular yard, and falls to commodity racking at A5. Siting is low at A1, peaks at A3, and falls away by A5 as land assembly and the interconnection queue take the choice. Management is nearly nothing at A1 and rises to carry everything at A4 and A5. Structure and management cross at A3, siting peaks there, and ownership and contracts cross there too. The bottom panel holds the two levers that act institutional. Ownership starts highest at A1, where the operator owns both the array and the animals under it and no agreement is needed, and falls to almost nothing at A5, where the owner is absentee. Contracts run the opposite way, close to nothing at A1 because there is no counterparty to write to, and the main instrument by A5. Both hand-offs happen at the same place, A3. Scale is the axis and has no curve of its own.</desc>
 <!-- Straight segments between the five zones, not smoothed. There are five
      calibration points and nothing measured in between, so a fitted curve would
      claim a resolution this figure does not have. -->
@@ -18,6 +18,25 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 .nt{font-size:11px;fill:#8a8880}
 .eb{font-size:11px;font-weight:700;fill:#7a7973;letter-spacing:.06em}
 </style>
+<!-- scale: its own restorative work, dotted as the least tested of the six -->
+<text class="eb" x="112" y="40">SCALE</text>
+<line x1="112" y1="150" x2="668" y2="150" stroke="#d3d1c7" stroke-width="1"/>
+<text class="ax" x="100" y="61" text-anchor="end">most</text>
+<text class="ax" x="100" y="154" text-anchor="end">least</text>
+<line x1="112" y1="50" x2="112" y2="150" stroke="#eceae3" stroke-width="1"/>
+<line x1="251" y1="50" x2="251" y2="150" stroke="#eceae3" stroke-width="1"/>
+<line x1="390" y1="50" x2="390" y2="150" stroke="#eceae3" stroke-width="1"/>
+<line x1="529" y1="50" x2="529" y2="150" stroke="#eceae3" stroke-width="1"/>
+<line x1="668" y1="50" x2="668" y2="150" stroke="#eceae3" stroke-width="1"/>
+<line x1="390" y1="50" x2="390" y2="150" stroke="#8a8880" stroke-width="1.3" stroke-dasharray="4 3"/>
+<path d="M112,119 L251,56 L390,56 L529,111 L668,140" fill="none" stroke="#5e7d3a" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.5 5.5"/>
+<circle cx="112" cy="119" r="3.2" fill="#5e7d3a"/>
+<circle cx="251" cy="56" r="3.2" fill="#5e7d3a"/>
+<circle cx="390" cy="56" r="3.2" fill="#5e7d3a"/>
+<circle cx="529" cy="111" r="3.2" fill="#5e7d3a"/>
+<circle cx="668" cy="140" r="3.2" fill="#5e7d3a"/>
+<text class="cl" x="680" y="144" fill="#5e7d3a">scale</text>
+<g transform="translate(0,142)">
 <text class="eb" x="112" y="40">PHYSICAL</text>
 <line x1="112" y1="180" x2="668" y2="180" stroke="#d3d1c7" stroke-width="1"/>
 <text class="ax" x="100" y="61" text-anchor="end">most</text>
@@ -78,4 +97,5 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="zl zl3" x="390" y="363" text-anchor="middle">A3</text>
 <text class="zl" x="529" y="362" text-anchor="middle" >A4</text>
 <text class="zl" x="668" y="362" text-anchor="middle" >A5</text>
+</g>
 </svg>

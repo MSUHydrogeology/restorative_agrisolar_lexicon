@@ -1,11 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img">
 <title>The six design levers</title>
-<desc>Six levers standing in a bank, drawn as faders on a rail. Scale sits alone at the left behind a rule, in gray, because it produces no restoration mode of its own and sets the frame the others work inside. Siting, structure and management follow as a group, in three deepening shades of tan and brown, bracketed as the levers that act on the ground and are bounded by how much ground there is. Ownership and contracts follow behind a second rule, in two shades of blue, bracketed as institutional levers that are not bounded by ground. Under each lever is what it decides and what it can deliver. The handles sit at different heights, because a lever is something set rather than a fixed label. The particular settings are arbitrary and describe no project.</desc>
+<desc>Six levers standing in a bank, drawn as faders on a rail. Scale sits alone at the left behind a rule, in green, because it sets the frame the others work inside as well as doing restorative work of its own at the array's edges. Siting, structure and management follow as a group, in three deepening shades of tan and brown, bracketed as the levers that act on the ground and are bounded by how much ground there is. Ownership and contracts follow behind a second rule, in two shades of blue, bracketed as institutional levers that are not bounded by ground. Under each lever is its design work, what it decides, and its restorative work, what it can deliver. The handles sit at different heights, because a lever is something set rather than a fixed label. The particular settings are arbitrary and describe no project.</desc>
 
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .nm{font-size:13px;font-weight:700;letter-spacing:.06em;fill:#3d3d3a}
-.nm0{font-size:13px;font-weight:700;letter-spacing:.06em;fill:#6f6d66}
 .de{font-size:12px;fill:#5f5e5a}
 .dl{font-size:12px;font-style:italic;fill:#7a7973}
 .br{font-size:11.5px;font-weight:700;letter-spacing:.06em;fill:#8a8880}
@@ -33,13 +32,13 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line x1="160" y1="56" x2="160" y2="170" stroke="#e0ddd4" stroke-width="1.2"/>
 <line x1="594" y1="56" x2="594" y2="170" stroke="#e0ddd4" stroke-width="1.2"/>
 
-<!-- ============ SCALE — gray, because it produces no mode of its own ============ -->
+<!-- ============ SCALE: green, the scale-led color; it also sets the frame for the other five ============ -->
 <use href="#lever" x="82" y="70"/>
-<rect x="77" y="105" width="10" height="65" rx="5" fill="#6f6d66"/>
-<rect x="64" y="98" width="36" height="14" rx="3" fill="#ffffff" stroke="#6f6d66" stroke-width="2"/>
-<text class="nm0" x="82" y="194" text-anchor="middle">SCALE</text>
+<rect x="77" y="105" width="10" height="65" rx="5" fill="#5e7d3a"/>
+<rect x="64" y="98" width="36" height="14" rx="3" fill="#ffffff" stroke="#5e7d3a" stroke-width="2"/>
+<text class="nm" x="82" y="194" text-anchor="middle">SCALE</text>
 <text class="de" x="82" y="213" text-anchor="middle">how much ground</text>
-<text class="dl" x="82" y="231" text-anchor="middle">the frame itself</text>
+<text class="dl" x="82" y="231" text-anchor="middle">reach, many hosts</text>
 
 <!-- ============ the three physical levers ============ -->
 <use href="#lever" x="238" y="70"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="912" height="578" viewBox="14 38 912 578" role="img">
 <title>How the design language fits together</title>
-<desc>Top row: nine design pressures, drawn as the four-wedge disc from the pressures chapter, push on a bank of six levers. Three pressures push toward restoration, three push away, and three go either way. The levers are scale, siting, structure, management, ownership, and contracts, and each carries the color of the restoration mode it produces. Scale is neutral because it produces no mode. Bottom row: what a lever setting produces. A position on the scale transect from A1 to A5, a position on the farming axis from S1 to S5, the restoration modes the setting leaves active, and the restorative functions, read as a footprint across Communities, Agriculture, Water, and Ecology that runs from causing harm at the center out to promoting benefit at the rim.</desc>
+<desc>Top row: nine design pressures, drawn as the four-wedge disc from the pressures chapter, push on a bank of six levers. Three pressures push toward restoration, three push away, and three go either way. The levers are scale, siting, structure, management, ownership, and contracts, and each carries the color of the restorative work it can lead, scale included. Bottom row: what a lever setting produces. A position on the scale transect from A1 to A5, a position on the farming axis from S0 to S5, the lever that leads the restorative work, and the restorative functions, read as a footprint across Communities, Agriculture, Water, and Ecology that runs from causing harm at the center out to promoting benefit at the rim.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .eb{font-size:12.5px;font-weight:700;fill:#7a7973;letter-spacing:.07em}
@@ -37,8 +37,8 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <rect x="360" y="76" width="552" height="256" rx="12" fill="#faf9f6" stroke="#e2e0d8"/>
 <text class="eb" x="360" y="60">B · SIX DESIGN LEVERS</text>
 <rect x="402" y="110" width="8" height="190" rx="4" fill="#eceae3"/>
-<rect x="402" y="152" width="8" height="148" rx="4" fill="#6f6d66" opacity="0.34"/>
-<rect x="394" y="144" width="24" height="16" rx="4" fill="#6f6d66"/>
+<rect x="402" y="152" width="8" height="148" rx="4" fill="#5e7d3a" opacity="0.34"/>
+<rect x="394" y="144" width="24" height="16" rx="4" fill="#5e7d3a"/>
 <text class="nm" x="406" y="322" text-anchor="middle">Scale</text>
 <rect x="494" y="110" width="8" height="190" rx="4" fill="#eceae3"/>
 <rect x="494" y="182" width="8" height="118" rx="4" fill="#b8934a" opacity="0.34"/>
@@ -65,7 +65,7 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <line x1="298" y1="242" x2="342" y2="242" stroke="#c2beb4" stroke-width="2.4" marker-end="url(#p)"/>
 <path d="M470,340 V362 H150 V384" fill="none" stroke="#a8a49a" stroke-width="2.4" stroke-linejoin="round" marker-end="url(#o)"/>
 <text class="eb" x="30" y="406">C · SCALE AND FARMING POSITION</text>
-<text class="eb" x="360" y="406">D · RESTORATION MODES, FUNCTIONS, AND OUTCOMES</text>
+<text class="eb" x="360" y="406">D · RESTORATIVE WORK, FUNCTIONS, AND OUTCOMES</text>
 <text class="ot" x="30" y="442">scale transect position</text>
 <rect x="30" y="456" width="42" height="30" rx="5" fill="#EAF3DE" stroke="#c9c6bc" stroke-width="0.5"/>
 <text class="cd" x="51.0" y="476" text-anchor="middle">A1</text>
@@ -78,28 +78,32 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <rect x="214" y="456" width="42" height="30" rx="5" fill="#97C459" stroke="#c9c6bc" stroke-width="0.5"/>
 <text class="cd" x="235.0" y="476" text-anchor="middle">A5</text>
 <text class="ot" x="30" y="528">farming axis position</text>
-<rect x="30" y="542" width="42" height="30" rx="5" fill="#7fb3d9" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="51.0" y="562" text-anchor="middle">S1</text>
-<rect x="76" y="542" width="42" height="30" rx="5" fill="#bfdaec" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="97.0" y="562" text-anchor="middle">S2</text>
-<rect x="122" y="542" width="42" height="30" rx="5" fill="#efeeea" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="143.0" y="562" text-anchor="middle">S3</text>
-<rect x="168" y="542" width="42" height="30" rx="5" fill="#d9cbe6" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="189.0" y="562" text-anchor="middle">S4</text>
-<rect x="214" y="542" width="42" height="30" rx="5" fill="#b69ed4" stroke="#c9c6bc" stroke-width="0.5"/>
-<text class="cd" x="235.0" y="562" text-anchor="middle">S5</text>
-<line x1="262" y1="512" x2="332" y2="512" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
-<text class="ot" x="360" y="442">restoration modes</text>
-<rect x="360" y="455" width="168" height="22" rx="5" fill="#b8934a"/>
-<text class="cw" x="444" y="470.5" text-anchor="middle">siting-led</text>
-<rect x="360" y="481" width="168" height="22" rx="5" fill="#97783f"/>
-<text class="cw" x="444" y="496.5" text-anchor="middle">structure-led</text>
-<rect x="360" y="507" width="168" height="22" rx="5" fill="#6f5730"/>
-<text class="cw" x="444" y="522.5" text-anchor="middle">management-led</text>
-<rect x="360" y="533" width="168" height="22" rx="5" fill="#4a6d8c"/>
-<text class="cw" x="444" y="548.5" text-anchor="middle">ownership-led</text>
-<rect x="360" y="559" width="168" height="22" rx="5" fill="#33506b"/>
-<text class="cw" x="444" y="574.5" text-anchor="middle">contract-led</text>
+<rect x="30" y="542" width="42" height="30" rx="5" fill="#6ba6d1" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="51.0" y="562" text-anchor="middle">S0</text>
+<rect x="76" y="542" width="42" height="30" rx="5" fill="#7fb3d9" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="97.0" y="562" text-anchor="middle">S1</text>
+<rect x="122" y="542" width="42" height="30" rx="5" fill="#bfdaec" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="143.0" y="562" text-anchor="middle">S2</text>
+<rect x="168" y="542" width="42" height="30" rx="5" fill="#efeeea" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="189.0" y="562" text-anchor="middle">S3</text>
+<rect x="214" y="542" width="42" height="30" rx="5" fill="#d9cbe6" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="235.0" y="562" text-anchor="middle">S4</text>
+<rect x="260" y="542" width="42" height="30" rx="5" fill="#b69ed4" stroke="#c9c6bc" stroke-width="0.5"/>
+<text class="cd" x="281.0" y="562" text-anchor="middle">S5</text>
+<line x1="306" y1="512" x2="340" y2="512" stroke="#a8a49a" stroke-width="2.4" marker-end="url(#o)"/>
+<text class="ot" x="360" y="442">restorative work, led by</text>
+<rect x="360" y="455" width="168" height="22" rx="5" fill="#5e7d3a"/>
+<text class="cw" x="444" y="470.5" text-anchor="middle">scale-led</text>
+<rect x="360" y="481" width="168" height="22" rx="5" fill="#b8934a"/>
+<text class="cw" x="444" y="496.5" text-anchor="middle">siting-led</text>
+<rect x="360" y="507" width="168" height="22" rx="5" fill="#97783f"/>
+<text class="cw" x="444" y="522.5" text-anchor="middle">structure-led</text>
+<rect x="360" y="533" width="168" height="22" rx="5" fill="#6f5730"/>
+<text class="cw" x="444" y="548.5" text-anchor="middle">management-led</text>
+<rect x="360" y="559" width="168" height="22" rx="5" fill="#4a6d8c"/>
+<text class="cw" x="444" y="574.5" text-anchor="middle">ownership-led</text>
+<rect x="360" y="585" width="168" height="22" rx="5" fill="#33506b"/>
+<text class="cw" x="444" y="600.5" text-anchor="middle">contract-led</text>
 <text class="ot" x="716" y="442" text-anchor="middle">restorative functions</text>
 <!-- the same four quadrants, colours, and neutral polygon as fig_outcomes_footprint.svg -->
 <path d="M716,530 L640,530 A76,76 0 0 1 716,454 Z" fill="#639922" fill-opacity="0.08"/>

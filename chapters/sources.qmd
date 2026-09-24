@@ -27,7 +27,7 @@ nocite: |
 
 **Design theory the lexicon borrows from**
 
-- Zha, E., He, J., Cao, A. & Shi, X. (2025). Selecting ecological restoration modes for watershed ecosystems: a case study in Loess Plateau. *Environmental Research Letters* 20(4):044049. DOI 10.1088/1748-9326/adc022. — *prior use of* **restoration mode** *in ecological restoration, where it means a package of restoration techniques matched to a site's degree of degradation rather than, as in §-@sec-modes, which design lever carries the work. Verified against Crossref; note the first author is Zha, not Wang.*
+- Zha, E., He, J., Cao, A. & Shi, X. (2025). Selecting ecological restoration modes for watershed ecosystems: a case study in Loess Plateau. *Environmental Research Letters* 20(4):044049. DOI 10.1088/1748-9326/adc022. — *prior use of* **restoration mode** *in ecological restoration, where it means a package of restoration techniques matched to a site's degree of degradation rather than, as in §-@sec-restorative-work, which design lever leads the restorative work. Cited in the Terminology to set the two uses apart. Verified against Crossref; note the first author is Zha, not Wang.*
 
 - Reed, B. (2007). Shifting from 'sustainability' to regeneration. *Building Research & Information* 35(6):674–680. DOI 10.1080/09613210701475753. — *source for the restorative/regenerative distinction behind* **Restorative** *(§-@sec-terminology); in Reed's trajectory restorative sits one rung below regenerative, which is the modesty the lexicon keeps deliberately. Verified against Crossref.*
 

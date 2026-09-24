@@ -68,18 +68,18 @@ under **S**.
 
 **Contract grazing** — grazing delivered as a contracted vegetation-management service by a party who does not live on site — [Terminology](terminology.qmd#term-contract-grazing) · [Worked example: grazing](archetype-catalog.qmd#sec-grazing)
 
-**Contract-led** — restoration mode: the work is done in the lease, the ordinance, or the benefit agreement rather than anywhere on the site; the mode the community and economic function runs on — [Terminology](terminology.qmd#term-contract-led) · [Community and economy](restorative-functions.qmd#sec-fn-community)
+**Contract-led** — restorative work led by the lease, the ordinance, or the benefit agreement rather than anything on the site; the usual lead for the community and economic function — [Terminology](terminology.qmd#term-contract-led) · [Community and economy](restorative-functions.qmd#sec-fn-community)
 
 **Cost and financing** — design pressure: minimize what the project costs to build and what it costs to finance — [Terminology](terminology.qmd#term-cost-financing) · [The pressures](design-pressures.qmd#sec-pressures)
 ## D {.unnumbered}
 
 **Decommissioning / Repowering / Reversibility** — end-of-life questions: removing and restoring, replacing modules, and how completely the prior land use can return — [Terminology](terminology.qmd#term-decommissioning)
 
-**Delivery by preservation** — the mode in which nothing moves and the benefit is ground nearby that stayed as it was; proximate, because development pressure is local, but counterfactual rather than observed — [Terminology](terminology.qmd#term-displaced-benefit) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
+**Delivery by preservation** — the route in which nothing moves and the benefit is ground nearby that stayed as it was; proximate, because development pressure is local, but counterfactual rather than observed — [Terminology](terminology.qmd#term-displaced-benefit) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
 
 **Design import** — the characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ; grid and market demands is the usual vehicle — [Terminology](terminology.qmd#term-design-import) · [What follows](in-depth.qmd#sec-rg-consequences)
 
-**Design levers** — the six kinds of choice designers have for shaping an array: scale, siting, structure, management, ownership, contracts — [Terminology](terminology.qmd#term-design-levers) · [Design Levers](design-levers.qmd)
+**Design levers** — the six kinds of choice designers have for shaping an array: scale, siting, structure, management, ownership, contracts; each does both design work, setting the form of the array, and restorative work, setting its impact — [Terminology](terminology.qmd#term-design-levers) · [Design Levers](design-levers.qmd)
 
 **Design pressures** — the competing forces every site must resolve; unlike axes they have direction, conflict, and advocates — [Terminology](terminology.qmd#term-design-pressures) · [Design Pressures](design-pressures.qmd)
 
@@ -133,7 +133,7 @@ under **S**.
 
 ## M {.unnumbered}
 
-**Management-led** — restoration mode: placement is a given; ground cover, grazing regime, and operational schedule carry everything — [Terminology](terminology.qmd#term-management-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
+**Management-led** — restorative work led by the ground cover, grazing regime, and operational schedule, with placement a given — [Terminology](terminology.qmd#term-management-led) · [The six leads](restorative-work.qmd#sec-leads)
 
 **Marginal / Previously Disturbed Land** — the low-value ground that low-productivity siting (S4) presupposes: low-yielding cropland, reclaimed mine land, landfills, brownfields ("brightfields") — [Terminology](terminology.qmd#term-marginal-land)
 
@@ -145,9 +145,11 @@ under **S**.
 
 **Operations and maintenance** — design pressure: minimize management burden across a 25–40 year asset life — [Terminology](terminology.qmd#term-operations-maintenance) · [The pressures](design-pressures.qmd#sec-pressures)
 
+**Outcomes footprint** — a whole-project reading across four domains (Communities, Agriculture, Water, Ecology), each running from causing harm at the center, through avoiding harm, out to promoting benefit at the rim; the ring is a zero point, not a pass mark — [Terminology](terminology.qmd#term-scale-footprint) · [The outcomes footprint](restorative-functions.qmd#sec-scale)
+
 **Overhead and interspace systems** — the engineering standards' hardware typology (DIN SPEC 91434; NREL/InSPIRE): modules above the working surface, or low with the crop between rows; classifies structure, where an archetype classifies the resolution of pressures — [Terminology](terminology.qmd#term-overhead-interspace) · [Archetypal Forms](archetypal-forms.qmd)
 
-**Ownership-led** — restoration mode: the work is done by who holds the asset, with no agreement needed because the parties were never opposed; strongest at A1–A2 and unavailable once the owner is absentee — [Terminology](terminology.qmd#term-ownership-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
+**Ownership-led** — restorative work led by who holds the asset, with no agreement needed because the parties were never opposed; strongest at A1–A2 and unavailable once the owner is absentee — [Terminology](terminology.qmd#term-ownership-led) · [The six leads](restorative-work.qmd#sec-leads)
 
 ## P {.unnumbered}
 
@@ -163,15 +165,17 @@ under **S**.
 
 **Regional factors** — the six spatial factors a region is read by: resource, grid operator, aridity, latitude, cropping system, irrigation — [Terminology](terminology.qmd#term-regional-factors) · [Six factors](in-depth.qmd#sec-rg-factors)
 
-**Regionality** — the claim that the design pressures resolve differently in different places, because the factors that weight them vary across space; the vocabulary is constant, the weights are not — [Terminology](terminology.qmd#term-regionality) · [The same pressures, weighted by place](design-pressures.qmd#sec-regionality)
+**Regionality** — the claim that the design pressures resolve differently in different places, because the factors that weight them vary across space; the vocabulary is constant, the weights are not — [Terminology](terminology.qmd#term-regionality) · [How the pressures vary by region](design-pressures.qmd#sec-regionality)
 
-**Restoration mode** — which design lever carried the restorative work — Siting-led, Structure-led, Management-led, Ownership-led, or Contract-led — [Terminology](terminology.qmd#term-restoration-mode) · [The five modes](restoration-modes.qmd#sec-lv-mode)
+**Restoration mode** — retired as the scheme's name; *see* Restorative work — [Terminology](terminology.qmd#term-restorative-work) · [The six leads](restorative-work.qmd#sec-leads)
 
 **Restorative** — the frame of the whole lexicon: ground-layer function as a design objective co-equal with generation — [Terminology](terminology.qmd#term-restorative)
 
 **Restorative goals** — design pressure: make ecological, hydrological, and economic resilience co-equal with generation — [Terminology](terminology.qmd#term-restorative-goals) · [The pressures](design-pressures.qmd#sec-pressures)
 
 **Restorative function** — a restorative capacity a project can be designed to deliver, reachable across many structural positions; two biophysical (water, ecology) plus one agricultural (agriculture and soils) and one socioeconomic (community and economy) — [Terminology](terminology.qmd#term-restorative-function) · [Restorative Functions](restorative-functions.qmd)
+
+**Restorative work** — what a design lever does for the ground and the people around an array, as against its design work, which sets the array's form; named by the lever that leads it — Scale-led, Siting-led, Structure-led, Management-led, Ownership-led, or Contract-led — [Terminology](terminology.qmd#term-restorative-work) · [Restorative Work](restorative-work.qmd)
 
 ## S {.unnumbered}
 
@@ -187,9 +191,9 @@ under **S**.
 
 **S5 — Impaired-land siting** — the array takes ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [Terminology](terminology.qmd#term-s5) · [The positions](farming-axis.qmd#sec-positions)
 
-**Outcomes footprint** — a whole-project reading across four domains (Communities, Agriculture, Water, Ecology), each running from causing harm at the center, through avoiding harm, out to promoting benefit at the rim; the ring is a zero point, not a pass mark — [Terminology](terminology.qmd#term-scale-footprint) · [The outcomes footprint](restorative-functions.qmd#sec-scale)
-
 **Scale Transect** — a single gradient from farmstead to complex that most other terms are read against; defined by covarying bundles, not capacity — [Terminology](terminology.qmd#term-scale-transect) · [The Scale Transect](scale-transect.qmd)
+
+**Scale-led** — restorative work led by the size of the array: small footprints whose planted edge reaches the fields around them and whose lease lands on many hosts; a comparison with the same capacity built as one block; strongest at A2–A3; the least tested lead — [Terminology](terminology.qmd#term-scale-led) · [The six leads](restorative-work.qmd#sec-leads)
 
 **Screening** — management of the array's outward visual presence (setbacks, buffers, berms, fencing, glint/glare); acts on the visual portion of the influence zone; dual-function — [Terminology](terminology.qmd#term-screening)
 
@@ -199,15 +203,15 @@ under **S**.
 
 **Farming Axis** — the scale-orthogonal dimension: whether the array shares land with production (*land sharing*), spares land by taking ground out of it (*land sparing*), or neither; five positions centered on S3 — [Terminology](terminology.qmd#term-farming-axis) · [The Farming Axis](farming-axis.qmd)
 
-**Siting latitude** — the designer's freedom over where the array goes; peaks at A2–A3, bounded by the parcel at A1 and by the land market and grid topology at A5 — [Terminology](terminology.qmd#term-siting-latitude) · [Scale constrains design leverage](restoration-modes.qmd#sec-siting-latitude)
+**Siting latitude** — the designer's freedom over where the array goes; peaks at A2–A3, bounded by the parcel at A1 and by the land market and grid topology at A5 — [Terminology](terminology.qmd#term-siting-latitude) · [Scale decides which levers can lead](restorative-work.qmd#sec-siting-latitude)
 
-**Siting-led** — restoration mode: the restorative work is done by the choice of ground; requires A2–A3 latitude — [Terminology](terminology.qmd#term-siting-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
+**Siting-led** — restorative work led by the choice of ground; requires A2–A3 latitude — [Terminology](terminology.qmd#term-siting-led) · [The six leads](restorative-work.qmd#sec-leads)
 
 **Solar grazing** — *see* Rangevoltaics — [Terminology](terminology.qmd#term-rangevoltaics)
 
 **Stocking density** — instantaneous animals per unit area at a moment; diverges from carrying capacity — [Terminology](terminology.qmd#term-stocking-density) · [Worked example: grazing](archetype-catalog.qmd#sec-grazing)
 
-**Structure-led** — restoration mode: array geometry is the instrument — clearance, row spacing, module transmissivity — [Terminology](terminology.qmd#term-structure-led) · [The five modes](restoration-modes.qmd#sec-lv-mode)
+**Structure-led** — restorative work led by the array's geometry: clearance, row spacing, module transmissivity — [Terminology](terminology.qmd#term-structure-led) · [The six leads](restorative-work.qmd#sec-leads)
 
 ## T {.unnumbered}
 

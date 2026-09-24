@@ -27,7 +27,7 @@ Three pressures push toward restoration, three push against it, and which way th
 
 Whatever a design leaves unresolved is its [design tension](terminology.qmd#term-design-tension). **No combination of lever settings brings it to zero**, because the nine cannot all be satisfied and the project still has to get built. What varies is how much tension is left, and who carries it. The hardest collision is between two pressures that both push toward restoration. Established habitat and rebuilt soil take years to create, and they do not come out cleanly when the array does, so a project designed to leave no trace and a project designed to heal the ground are not always the same project. The combinations that leave the least tension get built again and again, and those are the [archetypes](archetypal-forms.qmd) of Chapter 7.
 
-## The same pressures, weighted by place {#sec-regionality}
+## How the pressures vary by region {#sec-regionality}
 
 The same nine pressures act on every site, but they carry different weight in every region. Shade that relieves a water-stressed crop in Arizona can cut corn yields in Ohio. Across 367 paired observations, the turning point sits near 30 °C air temperature [@merheb2025]. Retiring irrigated ground above a depleted aquifer has no equivalent in a county whose crops run on rain. Six factors shift the weights: sun and cloud, the grid operator, aridity, latitude, the cropping system, and irrigation. The words travel between regions and the weights do not, which is why this lexicon argues for an aim and leaves the dimensions to the site.
 
