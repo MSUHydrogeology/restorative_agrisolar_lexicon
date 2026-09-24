@@ -17,14 +17,15 @@ One-time repository setting: **Settings → Pages → Build and deployment → S
 
 ## Local preview
 
-Requires [Quarto](https://quarto.org/docs/get-started/) and `rsvg-convert` (from `librsvg`, for
-embedding the SVG figures in the PDF). PDF output additionally needs a LaTeX install
-(`quarto install tinytex`).
+Requires [Quarto](https://quarto.org/docs/get-started/) 1.9.38, the version the GitHub Action
+pins, and nothing else. The PDF is built with Typst, which ships inside Quarto and reads the SVG
+figures directly, so there is no LaTeX distribution or SVG converter to install. Its typefaces are
+in `fonts/`, and Quarto finds them there.
 
 ```bash
 quarto preview        # live-reloading local site
 quarto render         # build _site/ (HTML + PDF)
-quarto render --to html   # HTML only (no LaTeX needed)
+quarto render --to html   # HTML only, faster
 ```
 
 ## Structure
@@ -38,6 +39,8 @@ quarto render --to html   # HTML only (no LaTeX needed)
 | `figures/` | Standalone SVG figures, reusable independently |
 | `references.bib` | Bibliography; cited inline with `@key`, formatted in the Sources chapter |
 | `_quarto.yml` | Book, format (HTML + PDF), and cross-reference configuration |
+| `typst/`, `filters/typst-lexicon.lua` | The PDF's page design and the filter that carries the site's table colors and boxes into it |
+| `fonts/` | Source Sans 3 and Inter for the PDF, under the SIL Open Font License (see License) |
 
 Cross-references between chapters use Quarto syntax: `@fig-transect` for figures and
 `[text](file.qmd#sec-id)` for sections, with explicit `{#sec-…}` / `{#term-…}` heading ids so the
