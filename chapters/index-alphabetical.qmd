@@ -36,9 +36,9 @@ under **S**.
 
 **Agrisolar** — agroenergy specific to photovoltaics; the lexicon's working umbrella (after NCAT's AgriSolar Clearinghouse usage), broadened to be neutral across the farming axis — [Terminology](terminology.qmd#term-agrisolar)
 
-**Agrivoltaics** — crop or livestock production within the array footprint (S1–S2); *cf.* agrophotovoltaics, photovoltaic agriculture — [Terminology](terminology.qmd#term-agrivoltaics)
+**Agrivoltaics** — crop or livestock production within the array footprint (S0–S2); *cf.* agrophotovoltaics, photovoltaic agriculture — [Terminology](terminology.qmd#term-agrivoltaics)
 
-**Agroenergy** — energy infrastructure designed to interact intentionally with agricultural or ecological land function; umbrella term — [Terminology](terminology.qmd#term-agroenergy)
+**Agroenergy** — energy infrastructure that occupies or interacts with agricultural land, whether or not the interaction was intended; the broadest umbrella term — [Terminology](terminology.qmd#term-agroenergy)
 
 **Archetype** — a way the design pressures have been resolved at a particular scale zone and sharing position —  [Terminology](terminology.qmd#term-archetype) · [Archetypal Forms](archetypal-forms.qmd)
 
@@ -193,7 +193,7 @@ under **S**.
 
 **Scale Transect** — a single gradient from farmstead to complex that most other terms are read against; defined by covarying bundles, not capacity — [Terminology](terminology.qmd#term-scale-transect) · [The Scale Transect](scale-transect.qmd)
 
-**Scale-led** — restorative work led by the size of the array: small footprints whose planted edge reaches the fields around them and whose lease lands on many hosts; a comparison with the same capacity built as one block; strongest at A2–A3; the least tested lead — [Terminology](terminology.qmd#term-scale-led) · [The six leads](restorative-work.qmd#sec-leads)
+**Scale-led** — restorative work led by the size of the array: small footprints whose planted edge sits close to the fields around them and whose lease lands on many hosts; a comparison with the same capacity built as one block; strongest at A2–A3; the least tested lead — [Terminology](terminology.qmd#term-scale-led) · [The six leads](restorative-work.qmd#sec-leads)
 
 **Screening** — management of the array's outward visual presence (setbacks, buffers, berms, fencing, glint/glare); acts on the visual portion of the influence zone; dual-function — [Terminology](terminology.qmd#term-screening)
 

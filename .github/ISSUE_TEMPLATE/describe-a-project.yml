@@ -1,0 +1,62 @@
+name: Describe a project
+description: Tell us about a solar array on or beside farmland, working or not, so the lexicon can be tested against it.
+title: "Project: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Any real project helps, including ones that did not work out. Answer what you can and leave the rest blank. Plain language is best.
+  - type: input
+    id: name
+    attributes:
+      label: Project name and location
+      placeholder: "Rabbit Hills Solar Farm, Corvallis, Oregon"
+    validations:
+      required: true
+  - type: input
+    id: size
+    attributes:
+      label: Size
+      description: Capacity, acres inside the fence, or both, if you know them.
+      placeholder: "1.4 MW on about 6 acres"
+  - type: textarea
+    id: before
+    attributes:
+      label: What the ground was before
+      description: Cropland, pasture, idle ground, a landfill? Irrigated or not?
+  - type: textarea
+    id: changed
+    attributes:
+      label: What changed
+      description: What grows under and around the panels now, and what happened to the farming.
+  - type: textarea
+    id: operators
+    attributes:
+      label: Who owns it, and who looks after the ground
+  - type: textarea
+    id: promised
+    attributes:
+      label: What was promised, and where it is written down
+      description: For example a lease, a permit condition, a benefit agreement, or a program's rules.
+  - type: textarea
+    id: measured
+    attributes:
+      label: What has been measured, and by whom
+      description: Say so if nothing has been measured. That is useful to know.
+  - type: textarea
+    id: failed
+    attributes:
+      label: What did not work
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Links, reports, or articles. If you can share photos, say who took them and whether they can be published.
+  - type: dropdown
+    id: citation
+    attributes:
+      label: May we cite this account in the lexicon?
+      options:
+        - Yes, with my name
+        - Yes, without my name
+        - No, background only

@@ -2,6 +2,11 @@
 
 This is a draft design language, not a finished standard. The most useful contributions are:
 
+**Project accounts.** A description of a real array, working or not, tests the vocabulary better
+than anything else. The [Describe a project](https://github.com/MSUHydrogeology/restorative_agrisolar_lexicon/issues/new?template=describe-a-project.yml)
+issue form asks what the ground was before, what changed, who runs it, what was promised, what was
+measured, and what did not work.
+
 **Counterexamples.** The document makes at least one falsifiable claim — that *idled-land sparing*
 (S4) is largely unavailable at utility scale (A5), because siting there is governed by contiguous
 land assembly. The sharp version: a utility-scale S4 project assembled from *scattered* marginal
@@ -29,5 +34,5 @@ criteria will be considered, but against that concern.
 ## Process
 
 Open an issue for discussion, or a pull request for text. Substantive changes to the three
-structural devices — the transect, the sharing–sparing axis, the pressure set — should start as
+structural devices — the transect, the farming axis, the pressure set — should start as
 issues.
