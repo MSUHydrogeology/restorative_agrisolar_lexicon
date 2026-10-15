@@ -18,7 +18,7 @@ The competing forces every site must resolve. Unlike axes they have direction, t
 
 What a resolution of the [design pressures](#term-design-pressures) leaves unresolved. It is never nil, because the nine cannot all be satisfied at once and the project gets built regardless, so the question is how much remains and who is carrying it. Low tension is not the same as agreement: a design can be quiet because the pressures accommodated each other, or quiet because a party with a real claim stopped pressing it. The settings that leave least are the ones that recur, which is what an [archetype](#term-archetype) is. See [§-@sec-conflicts](design-pressures.qmd#sec-conflicts).
 
-*Coined here, and it collides.* An engineer reading a racking specification will meet *design tension* as the tensile load a member is sized to carry. Nothing crosses over but the word: this one is a property of an argument, not of steel.
+Not the tensile load an engineer sizes a racking member for. This tension belongs to an argument, not to steel.
 
 ### Energy yield {#term-energy-yield}
 
@@ -60,8 +60,6 @@ Pressure: minimize the residual footprint left after a 25–40 year asset life a
 
 The six kinds of choice designers have for shaping an array. Design levers do both design work, setting the form of the array, and [restorative work](#term-restorative-work), setting its impact. They are **scale**, how much ground it takes; **siting**, which ground; **structure**, what gets built; **management**, what grows and how the place is run; **ownership**, who holds the asset; and **contracts**, what the parties signed. Scale sets the frame. The three below it act physically and are limited by how much ground there is. The last two are institutional and are not. The lever that leads a project's restorative work names it: scale-led, siting-led, and so on. See the [Design Levers](design-levers.qmd) chapter, and [§-@sec-siting-latitude](restorative-work.qmd#sec-siting-latitude) for the levers read against the transect.
 
-*Borrowed, and turned.* The six levers are the lexicon's own; the reason for sorting them this way is borrowed twice over from architecture. @brand1994, after Frank Duffy, reads a building as layers of differing longevity and holds that a design works when the fast layers can move without tearing the slow ones, which is why management sits apart from structure here rather than inside it. @habraken2002 adds that every level has a decision-maker of its own, which is the ownership lever stated as design theory. Neither author was writing about land, and neither has anything corresponding to siting.
-
 ## Regionality {#sec-terms-regionality}
 
 Developed in [§-@sec-regionality, Regionality](design-pressures.qmd#sec-regionality).
@@ -94,7 +92,7 @@ Developed in [§-@sec-transect, The Scale Transect](scale-transect.qmd).
 
 A single gradient from farmstead (A1) to complex (A5) that most other terms are read against, defined by sets of attributes that change together rather than by capacity cutoffs. The zones are named for the size of the development rather than for the land unit it sits on, so that no zone name is outgrown by the array it describes. See [The Scale Transect](scale-transect.qmd).
 
-*Borrowed, and turned.* The device is the rural-to-urban Transect of the New Urbanism [@dpz2014], which is where the lexicon takes its name and its method of calibration points. One thing changes in the borrowing, and it matters: that transect is a gradient across the ground, a line you could walk from wilderness to urban core, while this one is a gradient of project size. Two A2 projects can sit a mile apart, and an A5 can surround an A1.
+Not the planner's rural-to-urban transect [@dpz2014], which runs across the ground. This one is a gradient of project size, so two A2 projects can sit a mile apart and an A5 can surround an A1.
 
 ### A0 — Rooftop {#term-a0}
 
@@ -132,7 +130,7 @@ The number of animals on a given area at one moment. It drifts apart from carryi
 
 The season-long forage the land sustains over time, distinct from instantaneous [stocking density](#term-stocking-density). See [§-@sec-zones](archetype-catalog.qmd#sec-grazing).
 
-*Borrowed, and worth placing.* This is range science's carrying capacity: a stocking target set by the forage a management unit grew this season and by what the manager is trying to achieve with it, so it moves from year to year and can be argued about. It is not population ecology's *K*, the level a population settles at when nobody is managing it, which is what a reader coming to the same site from a habitat plan will assume. Both senses can turn up in one project file, so a number is worth labeling.
+This is range science's stocking target, set each season by the forage grown and what the manager wants from it. It is not population ecology's *K*, the level a population settles at when nobody manages it.
 
 ### Contract grazing {#term-contract-grazing}
 
@@ -145,8 +143,6 @@ Developed in [§-@sec-farming-axis, The Farming Axis](farming-axis.qmd).
 ### Farming Axis {#term-farming-axis}
 
 The second, largely scale-independent dimension: whether the array shares land with agricultural production (**land sharing**), spares land by taking ground out of it (**land sparing**), or neither. The pair is borrowed from conservation ecology [@green2005; @phalan2011]; the short form *sharing–sparing* is used for the axis, the full form in prose. Five positions, centered on S3, with a sixth past the sharing end for ground the array brings into agriculture rather than takes out of it. The position names follow two patterns, because the axis changes character at its middle: where farming continues the position is named for the **agriculture** left on the ground, and where it has stopped the position is named for the ground the array was **sited** on. See [The Farming Axis](farming-axis.qmd).
-
-*Borrowed, and turned.* In conservation ecology the sharing–sparing question asks how intensively to farm a landscape so that the remainder can be left to nature, argued at landscape scale against a fixed food target, with biodiversity the outcome that settles which way to go [@green2005; @phalan2011]. Three things change here. The thing being placed is a power plant rather than a farming regime, the unit is one project on one parcel, and the axis records what happened to production rather than scoring an outcome. That is why it has a middle: S3 is neither sharing nor sparing, and the ecology debate has no position for it.
 
 ### S0 — Created agriculture {#term-s0}
 
@@ -180,7 +176,7 @@ An array on ordinary ground (S3) that does no restorative work on any function: 
 
 The feasible region across scale and sharing, and it is not symmetric. The sharing edge runs flat across the whole transect, because farming carries on under panels at every size, from the operator's own yard at A1 to a contracted flock on former pasture at A5. It is the sparing edge that opens with scale, from almost nothing at A1 to the full range by A3. Only [S4](#term-s4) thins toward A5, because land assembly cannot collect scattered remnants. Each thinned corner has a documented exception. See [§-@sec-wedge](farming-axis.qmd#sec-wedge).
 
-*Coined here, and it collides.* A reader from energy or climate work will hear Pacala and Socolow's stabilization wedges [@pacala2004], where a wedge is a slice of avoided emissions widening to a gigaton of carbon a year and the point of the picture is that the slices add up. Nothing carries across but the shape word. This wedge is a region on the scale-by-sharing plane showing which positions are actually available, and it narrows toward both of its ends.
+Not Pacala and Socolow's stabilization wedge, a slice of avoided emissions [@pacala2004]. This wedge is the set of positions actually open at each scale, and it narrows toward both ends.
 
 ## Restorative work {#sec-terms-restorative-work}
 
@@ -197,8 +193,6 @@ What a [design lever](#term-design-levers) does for the ground and the people ar
 - []{#term-ownership-led}**Ownership-led** — the work is done by who holds the asset, and little has to be agreed because the parties' interests already line up. Strongest at A1–A2, where the operator owns both the array and what stands under it, and effectively unavailable once the owner is absentee.
 - []{#term-contract-led}**Contract-led** — the work is done in the lease, the ordinance, or the benefit agreement rather than anywhere on the site. The usual lead for the [community and economic function](#term-fn-community), and the one that decides whether the tenant is still farming in year twenty (§-@sec-fn-community).
 
-*Sorted by instrument, not technique.* Ecological restoration sorts its work by technique, and calls a package of techniques matched to how degraded a site is a restoration mode [@zha2025]. This lexicon sorts restorative work by which choice carries it, which is why two of the six leads are institutional and one is simply size. The nearest existing framework for sorting interventions by the instrument that delivers them is the IUCN and CMP conservation actions classification [@salafsky2008], whose top categories line up with four of these six and have no equivalent of structure-led or scale-led. Two collisions are worth naming for this audience. In the solar trade *site restoration* is a decommissioning obligation, what a lease owes when it ends, so restorative work here is chosen at design and done while the array runs, not at the end of its life. And *ownership-led* means the restorative work is carried by how the asset is held, not that the owner is running the project.
-
 See [the six leads](restorative-work.qmd#sec-leads) for how a claim under each is checked, and §-@sec-siting-latitude for which lever can lead at each zone.
 
 ## Restorative functions {#sec-terms-functions}
@@ -209,7 +203,7 @@ Developed in [§-@sec-functions, Restorative Functions](restorative-functions.qm
 
 A restorative capacity a project can be designed to deliver, reachable to varying degrees from many positions at once (§-@sec-functions). Two are biophysical, one agricultural, and one socioeconomic. See [Restorative Functions](restorative-functions.qmd).
 
-*Not ecosystem services renamed.* An ecologist will read the four as the Millennium Assessment's categories in new clothes, and the overlap is real, but the sorting principle is different: services are grouped by what an ecosystem supplies, and these by what a design can be built to deliver. One of the four is socioeconomic. Food production is read twice: on the [farming axis](#term-farming-axis), which records what happened to farming, and as one of the agriculture function's two outcomes, which records what the ground still grows. And a function here is an objective a project is held to rather than an account of what a place already does. Service classifications are plural and built for the purpose at hand [@costanza2008]; this is one more of them.
+Not ecosystem services renamed. Services are grouped by what an ecosystem supplies, and these four by what a design can be built to deliver, so one of them is about people.
 
 ### Hydrologic function {#term-fn-hydrologic}
 
@@ -223,7 +217,7 @@ What can live on the ground and what can move through it. Habitat is built from 
 
 Whether organisms can move into, through, and out of a site, as against whether the site can feed them once they arrive. It is designed at four scales at once: inside the array by fencing, roads, and mown strips; at the edge by whether the planting meets an existing corridor; across a landscape by the choice between a few large arrays and many small ones, which is [scale-led](#term-scale-led) work; and at regional range by whether a fleet of sites falls within dispersal distance of one another. Connectivity is a property of the arrangement rather than of any one patch, and the distance that matters is set by the animal doing the moving, so a connectivity claim means little until it names the animals it is for. See [§-@sec-fn-biodiversity](restorative-functions.qmd#sec-fn-biodiversity).
 
-*Borrowed unchanged, and it collides.* Landscape ecology's term, meaning the degree to which a landscape helps or hinders movement among resource patches, defined by the organism doing the moving rather than by the map [@taylor1993]. The lexicon takes that sense whole, including the demand that a claim name its species. What it declines is the structural reading in which connectivity is adjacency measured off a drawing, because a hedgerow can run unbroken on the plan and stop at a stock fence. On the electrical side of the same project the word means the connection to the grid, which is [interconnection](#term-interconnection) here.
+Landscape ecology's functional sense, defined by the animal moving rather than by adjacency on a plan [@taylor1993]. On the electrical side of a project the word means the grid connection, which is [interconnection](#term-interconnection) here.
 
 ### Agriculture and soils function {#term-fn-agricultural}
 
@@ -238,8 +232,6 @@ The one function about people rather than land: lasting local income, whether pe
 ### Benefit delivery {#term-benefit-delivery}
 
 How a function's benefit reaches whoever receives it. The useful question is not how far it goes but **which route it takes**, since nearly every function reaches from the panel to the region along some path. Three routes. **In place**, where provider and beneficiary are the same ground. **Along a connection**, where the benefit travels a network: water carries runoff, sediment, and recharge downslope; living things carry pollination, pest regulation, and dispersal; institutions carry lease, tax, and subscription along tenure, contract, and jurisdiction. And **[by preservation](#term-displaced-benefit)**, where nothing moves and the benefit is ground elsewhere that stayed as it was. The route decides who can verify a claim and who captures it. See [§-@sec-benefit-range](restorative-functions.qmd#sec-benefit-range).
-
-**Prior names.** The distinction is borrowed, not coined. Ecosystem-service research maps the area that provides a service separately from the area that benefits from it [@syrbe2012], and @hernandez2019 call an outcome that overlaps the generation site *sympatric* and one spatially separated from it *disjunct*, and assign each a *serviceshed*, the largest ecological scale at which it contributes goods and services. This lexicon sorts the disjunct side by route rather than by distance, and adds delivery by preservation, which a service-based scheme cannot express.
 
 ### Delivery by preservation {#term-displaced-benefit}
 
@@ -261,7 +253,7 @@ Developed in [§-@sec-archetypes, Archetypal Forms](archetypal-forms.qmd).
 
 A recurring way the [design pressures](#term-design-pressures) have been resolved at a particular scale zone and sharing position, carrying particular functions. Used in its plain sense, meaning a characteristic, transformable pattern rather than an exhaustive set. Each form is marked by how established it is: recurring, one documented project so far, or a pilot. See [Archetypes](archetypal-forms.qmd).
 
-*Plain sense, deliberately.* Sustainability research runs a formal method under this word, *archetype analysis*, which sorts many cases into recurrent configurations of causal factors and tests the groupings against data [@eisenack2021]. These archetypes are not that. They were assembled from practice rather than derived from a sample, they are not claimed to be exhaustive, and a real project can sit between two of them. The entry says "plain sense" to keep the stronger, methodological claim from being read into the word.
+Meant in the plain sense, not as the formal *archetype analysis* of sustainability research [@eisenack2021]. These forms were assembled from practice, and they are not claimed to be exhaustive.
 
 ### Overhead and interspace systems {#term-overhead-interspace}
 
@@ -275,18 +267,13 @@ The vocabulary the lexicon adopts from the wider field and pins down for use her
 
 Energy infrastructure that occupies or interacts with agricultural land functioning and operation, whether or not the interaction was intended. The broadest umbrella in this lexicon, non-solar-specific, and carries no requirement of design intent or outcome.
 
-*Term collision, flagged deliberately.* Elsewhere "agroenergy" (and *agro-energy*) most often means agriculture-*derived* **bioenergy**: energy crops, crop residue, biogas, and biomass, meaning farmland as a fuel source. This lexicon repurposes the word for the converse: energy *infrastructure* placed on and integrated with agricultural land. The reuse is intentional but worth naming, so a reader arriving from the bioenergy literature is not misled. The infrastructure sense is live in the peer-reviewed literature: @stid2025 define agrisolar as the integration and co-management of solar photovoltaics, agriculture and ecosystem services **within agroenergy landscapes**.
+Elsewhere *agroenergy* usually means bioenergy from farmland: energy crops, crop residue, and biogas. Here it means energy infrastructure placed on farmland.
 
 ### Agrisolar {#term-agrisolar}
 
 The central term of this lexicon: agroenergy specific to solar photovoltaics (PV), meaning solar PV that occupies or interacts with how agricultural land functions and is farmed. A neutral umbrella across the whole [farming axis](farming-axis.qmd) (S0–S5) that, like agroenergy, makes no assumption about intent or outcome, and includes any later form of agricultural [co-location](#term-colocation-integration).
 
-Agrisolar potential can be technically defined from siting and management alone, as one or more of:
-* **occupies:** an array whose footprint was predominantly agricultural land before installation
-* **adjacentTo:** an array sitting substantially within or adjacent to neighboring land that is currently agricultural
-* **managed:** an array containing land inside the footprint that is under active agricultural management
-
-An array meeting none, or that cannot be evaluated, is **noCurrent**. These record potential, not practice: attributing practice needs an array's direct contribution to a farm, which siting and management do not resolve alone.
+Agrisolar can also be classified from map data alone, as described in [Classifying agrisolar from map data](#sec-agrisolar-classes).
 
 **Syn.:** multi-use solar (narrower: excludes S3–S5 without an ecological ground layer).
 
@@ -295,8 +282,6 @@ An array meeting none, or that cannot be evaluated, is **noCurrent**. These reco
 ### Agrivoltaics {#term-agrivoltaics}
 
 Crop or livestock production within the array footprint (S0–S2). Crop response to shade is climate- and crop-dependent; a synthesis of 367 paired observations found yield response turning positive only in hotter conditions [@merheb2025].
-
-*The idea is older than the word.* @goetzberger1982 proposed running solar conversion and plant cultivation on one field and worked the geometry out, collectors about two meters up and rows spaced at roughly three times their height, which left about two-thirds of open-field radiation on the ground. That was decades before anyone built one at scale. The word itself arrived with @dupraz2011, whose modeling of crops under partial shade also brought the [land equivalent ratio](#term-ler) into the field. Neither the term nor the metric belongs to this lexicon.
 
 **Syn.:** agrophotovoltaics (German); photovoltaic agriculture (Chinese); solar sharing (Japanese); agri-PV; PV agriculture; aglectric.
 
@@ -330,7 +315,7 @@ The frame of this entire lexicon rather than a dimension within it. Applied when
 
 A restorative claim can rest on three different things, and they are worth keeping apart: what a project **intended**, what its design or agreements **secure**, and what monitoring has **measured**. A project can be restorative on one reading and unknown on the others, and naming it in this lexicon certifies none of them. Rabbit Hills shows the difference: two studies measured its water and forage, while nothing found so far says the grazing was meant as restoration or that any agreement requires it to continue.
 
-*Borrowed, and worth placing.* The word comes from restorative design [@reed2007], where it sits one rung below *regenerative*: restorative returns a system to health, regenerative leaves it able to keep renewing itself. The lexicon keeps that modesty deliberately and widens the scope, so the word covers hydrologic, agricultural, and community function and not ecology alone. It is not the solar trade's *site restoration*, which is what a decommissioning plan owes when a lease ends, and not restoration to a reference ecosystem in the sense ecological restoration uses. The compound *restorative agrisolar* is the lexicon's own.
+Not the solar trade's *site restoration*, which is what a decommissioning plan owes when a lease ends, and not restoration to a reference ecosystem in the ecological sense.
 
 ### Co-location vs. Integration {#term-colocation-integration}
 
@@ -344,7 +329,7 @@ Read against the axis, that is the whole set relation in one line: **integration
 
 Integration is also the line a design crosses to be restorative in the structural sense rather than in name only, though S3 is the reminder that a project can restore an enterprise without integrating anything.
 
-*Usage caution:* @stid2025 use "agrisolar" in two senses: broadly, for the superset covering both cases, and narrowly, where "agrisolar co-location" means the adjacent case alone. **This lexicon uses the broad sense throughout.**
+@stid2025 use "agrisolar" in two senses: broadly, for the superset covering both cases, and narrowly, where "agrisolar co-location" means the adjacent case alone. **This lexicon uses the broad sense throughout.**
 
 ### Footprint vs. Influence Zone {#term-footprint-influence}
 
@@ -388,7 +373,7 @@ The low-value ground that [low-productivity siting](farming-axis.qmd#sec-positio
 
 *(borrowed)* — The three-dimensional volume between modules and between modules and ground. Names the thing that "panel height" and "row spacing" only hint at, and treats it as habitat and working room rather than leftover gap.
 
-*One word, two spaces.* To an agronomist, a soil scientist, or a hydrologist, pore space is the void fraction of the soil, and this lexicon argues about soil on nearly every page. Toledo and Scognamiglio lifted the word up out of the ground and gave it to the volume between and under the modules [@toledo2021], and the lexicon keeps it there. Where both senses are live on one site, the compaction question belongs to the space below the surface and the habitat question to the space above it.
+Not the soil scientist's pore space, the void fraction of the soil. @toledo2021 moved the word up to the volume between and under the modules, and the lexicon keeps it there.
 
 **Source:** @toledo2021 — [Sources](sources.qmd). Toledo & Scognamiglio's "descriptive model towards a sustainable landscape vision" is a direct predecessor to this lexicon's own describe-the-landscape stance, reading array geometry through landscape-ecology's patch–matrix–corridor lens rather than as a yield problem alone.
 
@@ -408,7 +393,7 @@ Two [management levers](design-levers.qmd#sec-lv-physical). *Tracking schedule* 
 
 The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It measures combined *production* well but says nothing about ecological, hydrologic, or community function. It handles the non-production ground layers of [S3–S5](farming-axis.qmd#sec-positions) poorly, and it has no term for the [restorative functions](restorative-functions.qmd) or for the [outcomes footprint](restorative-functions.qmd#sec-scale) domains beyond food and energy. Its blind spots are given alongside it because it is the metric most likely to be taken as the measure of success by default. No single success metric is endorsed here (§-@sec-scale).
 
-*Borrowed twice, and the blind spots came from the first borrowing.* LER was defined for intercropping, to say how much sole-crop land two species grown together would otherwise have needed [@mead1980]. @dupraz2011 carried it into agrivoltaics by treating electricity as the second crop. Both moves keep the founding assumption, that the two outputs are yields, comparable per unit of the same ground. That is what fails at [S3–S5](farming-axis.qmd#sec-positions), where the second output is habitat, infiltration, or a lease payment, and it is why the metric's silences are structural rather than an oversight anyone can patch.
+LER treats both outputs as yields from the same ground, so it says nothing at [S3–S5](farming-axis.qmd#sec-positions), where the second output is habitat, infiltration, or a lease payment.
 
 ### Decommissioning / Repowering / Reversibility {#term-decommissioning}
 
@@ -468,6 +453,14 @@ Putting together enough contiguous acreage, often across several owners, to make
 
 ### Prime farmland {#term-prime-farmland}
 
-A USDA classification for land whose physical and chemical properties can sustain high yields under ordinary management. It is a property of the soil map unit rather than of the field's realized yield, which is why a parcel classed prime can still carry persistently unproductive ground (§-@sec-community-scale).
+A USDA classification for land whose physical and chemical properties can sustain high yields under ordinary management. It is a property of the soil map unit rather than of the field's realized yield, which is why a parcel classed prime can still carry persistently unproductive ground (§-@sec-eb-status). It is defined in federal regulation, at 7 CFR 657.5 [@cfr657], and it is the one term in this glossary that can stop a project by itself. The Farmland Protection Policy Act attaches review to federal actions that convert it, and county and township ordinances name it when deciding where an array may go.
 
-*Not a description. A rule.* Prime farmland is defined in federal regulation, at 7 CFR 657.5, and NRCS maps it onto soil map units [@cfr657]. That is what gives it force in a siting decision: the Farmland Protection Policy Act attaches review to federal actions that convert it, and township and county ordinances name the class directly when they decide where an array may go. It is the one term in this glossary that can by itself stop a project. The lexicon uses it in the regulatory sense and takes no position on the thresholds.
+## Classifying agrisolar from map data {#sec-agrisolar-classes .unnumbered}
+
+Agrisolar potential can be defined from siting and management alone, which makes it possible to classify arrays from map data. An array is agrisolar in potential if it meets one or more of these:
+
+* **occupies:** an array whose footprint was predominantly agricultural land before installation
+* **adjacentTo:** an array sitting substantially within or adjacent to neighboring land that is currently agricultural
+* **managed:** an array containing land inside the footprint that is under active agricultural management
+
+An array meeting none, or that cannot be evaluated, is **noCurrent**. These record potential, not practice: attributing practice needs an array's direct contribution to a farm, which siting and management do not resolve alone.

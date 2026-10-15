@@ -46,11 +46,15 @@ under **S**.
 
 **Bare conversion** — an S3 array that does no restorative work on any function: the farm operation ends, the rent leaves, and nothing is asked of the ground; the non-restorative baseline other projects are read against — [Terminology](terminology.qmd#term-bare-conversion) · [The positions](farming-axis.qmd#sec-positions)
 
+**Behind-the-meter** — generation serving a load on the customer's side of the utility meter, offsetting a bill rather than selling power — [Terminology](terminology.qmd#term-behind-the-meter)
+
 **Benefit delivery** — which route a function's benefit takes to whoever receives it: in place, along a connection (water, living things, or institutions), or by preservation; the route, not the distance, decides who can check the claim — [Terminology](terminology.qmd#term-benefit-delivery) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
 
 ## C {.unnumbered}
 
 **Carrying capacity** — season-long forage the land sustains over time; a grazing design variable — [Terminology](terminology.qmd#term-carrying-capacity) · [Worked example: grazing](archetype-catalog.qmd#sec-grazing)
+
+**Clearance** — the gap between the ground and a panel's lowest edge, which decides what can work underneath — [Terminology](terminology.qmd#term-clearance)
 
 **Coexistence** — retired as a position name; *see* S3 — Ordinary-land siting, the center of the farming axis, neither sharing nor sparing — [Terminology](terminology.qmd#term-s3) · [The positions](farming-axis.qmd#sec-positions)
 
@@ -64,6 +68,8 @@ under **S**.
 
 **Community Benefit** — instruments returning value to the host community (CBA/HCA, PILOT, good-neighbor payments, community-solar subscription, co-ownership, decommissioning bond); distinct from acceptance — [Terminology](terminology.qmd#term-community-benefit)
 
+**Community solar** — a distribution-connected array whose output is subscribed by households and businesses that cannot host panels of their own — [Terminology](terminology.qmd#term-community-solar)
+
 **Connectivity** — whether organisms can move into, through, and out of a site; designed at four scales, from fencing and mown strips to whether a regional fleet falls within dispersal distance — [Terminology](terminology.qmd#term-connectivity) · [Ecology](restorative-functions.qmd#sec-fn-biodiversity)
 
 **Contract grazing** — grazing delivered as a contracted vegetation-management service by a party who does not live on site — [Terminology](terminology.qmd#term-contract-grazing) · [Worked example: grazing](archetype-catalog.qmd#sec-grazing)
@@ -71,6 +77,7 @@ under **S**.
 **Contract-led** — restorative work led by the lease, the ordinance, or the benefit agreement rather than anything on the site; the usual lead for the community and economic function — [Terminology](terminology.qmd#term-contract-led) · [Community and economy](restorative-functions.qmd#sec-fn-community)
 
 **Cost and financing** — design pressure: minimize what the project costs to build and what it costs to finance — [Terminology](terminology.qmd#term-cost-financing) · [The pressures](design-pressures.qmd#sec-pressures)
+
 ## D {.unnumbered}
 
 **Decommissioning / Repowering / Reversibility** — end-of-life questions: removing and restoring, replacing modules, and how completely the prior land use can return — [Terminology](terminology.qmd#term-decommissioning)
@@ -123,7 +130,11 @@ under **S**.
 
 **Integration** — functional interdependence — panel height set by livestock clearance, spacing by forage light, tracking by photosynthetic timing — [Terminology](terminology.qmd#term-colocation-integration)
 
+**Interconnection** — the physical and legal connection between an array and the grid, including the utility's permission to energize — [Terminology](terminology.qmd#term-interconnection)
+
 ## L {.unnumbered}
+
+**Land assembly** — putting together enough contiguous acreage, often from several owners, to make a large project financeable — [Terminology](terminology.qmd#term-land-assembly)
 
 **Land Equivalent Ratio (LER)** — standard dual-use productivity metric; handles the non-production ground layers of S3–S5 poorly — [Terminology](terminology.qmd#term-ler)
 
@@ -137,11 +148,17 @@ under **S**.
 
 **Marginal / Previously Disturbed Land** — the low-value ground that low-productivity siting (S4) presupposes: low-yielding cropland, reclaimed mine land, landfills, brownfields ("brightfields") — [Terminology](terminology.qmd#term-marginal-land)
 
+**Mass grading** — reshaping a whole site with earthmoving equipment before construction, rather than setting foundations to the existing contour — [Terminology](terminology.qmd#term-mass-grading)
+
+**Microclimate** — the array's reshaping of conditions near the ground; a mechanism rather than a function — [Terminology](terminology.qmd#term-microclimate)
+
 **Module Technology** — the panel as a lever: monofacial/bifacial, vertical bifacial, semitransparent, spectrally selective — [Terminology](terminology.qmd#term-module-technology)
 
 **Multi-use solar** — the field's competing umbrella (Merheb et al. 2025), covering agrivoltaics, rangevoltaics, and ecovoltaics; narrower than *agrisolar* as used here, which also covers S3–S5 — [Terminology](terminology.qmd#term-agrisolar)
 
 ## O {.unnumbered}
+
+**Offtake** — the contract naming who buys the power and at what price — [Terminology](terminology.qmd#term-offtake)
 
 **Operations and maintenance** — design pressure: minimize management burden across a 25–40 year asset life — [Terminology](terminology.qmd#term-operations-maintenance) · [The pressures](design-pressures.qmd#sec-pressures)
 
@@ -157,7 +174,11 @@ under **S**.
 
 **Pore Space** — the three-dimensional volume between modules and between modules and ground; frames clearance as habitat and working space — [Terminology](terminology.qmd#term-pore-space)
 
+**Prime farmland** — a USDA classification for soil that can sustain high yields; defined in federal regulation, and able to stop a project by itself — [Terminology](terminology.qmd#term-prime-farmland)
+
 ## R {.unnumbered}
+
+**Racking** — the steel carrying the modules, and the foundations that decide how much soil is disturbed — [Terminology](terminology.qmd#term-racking)
 
 **Rangevoltaics** — grazing under and between the panels, S1 on ground that was already pasture and S2 on former cropland; the field's ecological-literature name for solar grazing, workable with sheep but not with goats, cattle, or horses; *syn.* solar grazing — [Terminology](terminology.qmd#term-rangevoltaics) · [Worked example: grazing](archetype-catalog.qmd#sec-grazing)
 
@@ -176,6 +197,8 @@ under **S**.
 **Restorative function** — a restorative capacity a project can be designed to deliver, reachable across many structural positions; two biophysical (water, ecology) plus one agricultural (agriculture and soils) and one socioeconomic (community and economy) — [Terminology](terminology.qmd#term-restorative-function) · [Restorative Functions](restorative-functions.qmd)
 
 **Restorative work** — what a design lever does for the ground and the people around an array, as against its design work, which sets the array's form; named by the lever that leads it — Scale-led, Siting-led, Structure-led, Management-led, Ownership-led, or Contract-led — [Terminology](terminology.qmd#term-restorative-work) · [Restorative Work](restorative-work.qmd)
+
+**Row spacing** — the distance from one row of panels to the next, centerline to centerline — [Terminology](terminology.qmd#term-row-spacing)
 
 ## S {.unnumbered}
 
@@ -213,9 +236,17 @@ under **S**.
 
 **Structure-led** — restorative work led by the array's geometry: clearance, row spacing, module transmissivity — [Terminology](terminology.qmd#term-structure-led) · [The six leads](restorative-work.qmd#sec-leads)
 
+**Substation** — where voltage steps between distribution and transmission; nearness to one pulls large arrays toward ground chosen for the grid — [Terminology](terminology.qmd#term-substation)
+
 ## T {.unnumbered}
 
+**Tracker** — racking that turns the modules through the day, usually about a north–south axis — [Terminology](terminology.qmd#term-tracker)
+
 **Tracking Schedule & Curtailment** — operational-regime levers: how the array is steered through the day, and deliberate output reduction — [Terminology](terminology.qmd#term-tracking-curtailment)
+
+## U {.unnumbered}
+
+**Utility-scale** — an array selling wholesale rather than serving a local load; no fixed threshold — [Terminology](terminology.qmd#term-utility-scale)
 
 ## V {.unnumbered}
 
