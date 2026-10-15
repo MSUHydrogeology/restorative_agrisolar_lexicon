@@ -1,22 +1,8 @@
 # Design Levers {#sec-levers-ch}
 
-Designing a solar array means making a long list of choices, and almost all of them fall into six groups: how much ground to take, which ground, what to build on it, what grows there and how the place is run, who owns it, and what everyone signs. These are the **[design levers](terminology.qmd#term-design-levers)**, the choices designers have for shaping an array. **Design levers do both design work, setting the form of the array, and restorative work, setting its impact.** This chapter reads them for their design work, and Chapter 5 for their restorative work. Every other scheme in this lexicon describes either what pushes on the levers or what their settings produce.
+Designing a solar array means making a long list of choices, and almost all of them fall into six groups: how much ground to take, which ground, what to build on it, what grows there and how the place is run, who owns it, and what everyone signs. These are the **[design levers](terminology.qmd#term-design-levers)**, the choices designers have for shaping an array. **Design levers do both design work, setting the form of the array, and restorative work, setting its impact.** This chapter reads them for their design work, and Chapter 5 for their restorative work. Every other scheme in this lexicon describes either what pushes on the levers or what their settings produce. @tbl-levers, at the end of the chapter, lists what each lever decides and what it can deliver.
 
 ![**The six design levers.** Six sliders on a rail, each with its design work, what it decides, and its restorative work, what it can deliver, underneath: scale on its own behind a rule, then siting, structure, and management, then ownership and contracts. The handles sit at different heights because a lever is something that gets set. Where each one sits here is arbitrary and describes no particular project.](../figures/fig_design_levers.svg){#fig-design-levers}
-
-## The six levers {#sec-levers}
-
-::: {.lever-table}
-| Lever | Design work: what it decides | Restorative work: what it can deliver |
-|:--|:--|:--|
-| **Scale** | how much ground the project takes · the capacity it is filed at, and the [zone](scale-transect.qmd#sec-zones) that follows · [interconnection](terminology.qmd#term-interconnection), from [behind-the-meter](terminology.qmd#term-behind-the-meter) to transmission · whether to build once or phase several arrays | reach past the fence, and a lease for more hosts, when the capacity is divided among small arrays |
-| **Siting** | which ground the array takes, and where on the parcel · whether it stands upslope or downslope of the problem it might fix · how near it is to the fields it might serve | water quality, habitat context, service to nearby fields |
-| **Structure** | mounting type and [clearance](terminology.qmd#term-clearance) · [row spacing](terminology.qmd#term-row-spacing) and [ground coverage](terminology.qmd#term-gcr) · [module technology](terminology.qmd#term-module-technology) · grading and site works · the built half of the edge: setback, berm, fence | microclimate, room to farm, light to the ground layer |
-| **Management** | the [ground layer](terminology.qmd#term-ground-layer) and how it is established · the mowing and grazing calendar · [stocking density](terminology.qmd#term-stocking-density) · construction sequencing and traffic lanes · the planted half of the edge: hedgerow, buffer, [screening](terminology.qmd#term-screening) | soil and carbon, habitat, most of the water balance |
-| **Ownership** | who holds the asset: owner-operator, landowner, developer, utility, cooperative, or shared · an equity stake in place of a rent | a share of the power revenue for the people on the ground |
-| **Contracts** | lease terms and duration · who buys the power ([offtake](terminology.qmd#term-offtake)) · the [community-benefit](terminology.qmd#term-community-benefit) instruments · the [decommissioning](terminology.qmd#term-decommissioning) bond | the community function, and durability for everything above |
-: The six design levers: the design work each does, and the restorative work it can do. Scale also sets the frame for the other five. The three below it are physical and limited by how much ground there is. The two institutional levers are not. {#tbl-levers}
-:::
 
 ## Three kinds of lever {#sec-lv-physical}
 
@@ -35,5 +21,20 @@ Two things look like levers and are not. What a project is aiming at is a goal, 
 ::: {.callout-tip .running-example icon=false title="At Rabbit Hills"}
 All six levers can be read from the public record. Scale is 1.4 megawatts on about six acres. Siting put the array on a pasture the university's sheep already grazed. Structure is an ordinary layout: panels 1.1 meters off the ground at their lowest edge, in rows 6 meters apart. Management kept the flock grazing underneath. Ownership sits with the developer that built the array, SolarCity, now part of Tesla, rather than with the university. Contracts carry the rest, since the university leases the ground to the array's owner and buys its power for less than the local utility charges.
 :::
+
+## The six levers in detail {#sec-levers}
+
+::: {.lever-table}
+| Lever | Design work: what it decides | Restorative work: what it can deliver |
+|:--|:--|:--|
+| **Scale** | how much ground the project takes · the capacity it is filed at, and the [zone](scale-transect.qmd#sec-zones) that follows · [interconnection](terminology.qmd#term-interconnection), from [behind-the-meter](terminology.qmd#term-behind-the-meter) to transmission · whether to build once or phase several arrays | reach past the fence, and a lease for more hosts, when the capacity is divided among small arrays |
+| **Siting** | which ground the array takes, and where on the parcel · whether it stands upslope or downslope of the problem it might fix · how near it is to the fields it might serve | water quality, habitat context, service to nearby fields |
+| **Structure** | mounting type and [clearance](terminology.qmd#term-clearance) · [row spacing](terminology.qmd#term-row-spacing) and [ground coverage](terminology.qmd#term-gcr) · [module technology](terminology.qmd#term-module-technology) · grading and site works · the built half of the edge: setback, berm, fence | microclimate, room to farm, light to the ground layer |
+| **Management** | the [ground layer](terminology.qmd#term-ground-layer) and how it is established · the mowing and grazing calendar · [stocking density](terminology.qmd#term-stocking-density) · construction sequencing and traffic lanes · the planted half of the edge: hedgerow, buffer, [screening](terminology.qmd#term-screening) | soil and carbon, habitat, most of the water balance |
+| **Ownership** | who holds the asset: owner-operator, landowner, developer, utility, cooperative, or shared · an equity stake in place of a rent | a share of the power revenue for the people on the ground |
+| **Contracts** | lease terms and duration · who buys the power ([offtake](terminology.qmd#term-offtake)) · the [community-benefit](terminology.qmd#term-community-benefit) instruments · the [decommissioning](terminology.qmd#term-decommissioning) bond | the community function, and durability for everything above |
+: The six design levers: the design work each does, and the restorative work it can do. Scale also sets the frame for the other five. The three below it are physical and limited by how much ground there is. The two institutional levers are not. {#tbl-levers}
+:::
+
 
 **Go deeper:** [design levers](terminology.qmd#term-design-levers) and each lever's terms in the [Terminology](terminology.qmd).

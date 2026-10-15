@@ -8,17 +8,7 @@ The axis is not a lever. It is what siting, structure, and management produce to
 
 ## The positions {#sec-positions}
 
-::: {.position-table}
-| Position | The ground beforehand | Production afterward | Typical ground layer | Where the benefit lands |
-|---|---|---|---|---|
-| **S0 — Created agriculture** | Developed, built, or otherwise carrying no agricultural use | Begins where there was none | Usually grazed | On the same ground, and on whoever farms it |
-| **S1 — Primary agriculture** | The use it already carried | Continues essentially unchanged | The crop, the vines, or the pasture itself | On the same ground |
-| **S2 — Secondary agriculture** | Usually cropland; any ground still farmed, but less intensively | Continues, as a less intensive use than before | Grazed, cut for forage or hay, or worked for hives | On the same ground, and on the farm working it |
-| **S3 — Ordinary-land siting** | Ordinary productive ground | Stops inside the footprint | Whatever is maintained; often mown | On the farm business, if the lease keeps it going |
-| **S4 — Low-productivity siting** | Already idle, marginal, or chronically low-yielding | Stops, where little or nothing was still produced | Often left to grow wild | On productive land elsewhere that went unbuilt |
-| **S5 — Impaired-land siting** | Carrying a measurable off-site burden | Stops, and the burden stops with it | Perennial cover chosen against the burden | On the ground taken, and downstream of it |
-: The six positions, and what changes across them. The first two columns settle the position and the last two say what follows from it. {#tbl-positions}
-:::
+@tbl-positions, at the end of the chapter, sets out each position: the ground beforehand, production afterward, the typical ground layer, and where the benefit lands.
 
 The two halves of the axis are named differently on purpose. Where farming continues, the position is named for the farming that survives, and it is judged against what the ground carried before. Sheep on land that was already pasture are S1. The same flock on land that was growing corn is S2, because one use continued and the other became less intensive. Less intensive means fewer passes, inputs, and harvests in a year. It says nothing about whether the new use earns less. Where farming stops, the position is named for the ground the array took: ordinary, idle, or impaired. **A position records the ground and the farming, and nothing about who benefits.** S3 says only that ordinary productive ground came out of farming. Whether a lease keeps the farm business going, or the rent leaves with an owner who does not farm, is read on the restorative functions in Chapter 6. An S3 site that does no restorative work on any of them is a [bare conversion](terminology.qmd#term-bare-conversion), the baseline the lexicon reads other projects against.
 
@@ -62,5 +52,20 @@ A position records a fact about the ground, not the quality of the project. A si
 ::: {.callout-tip .running-example icon=false title="At Rabbit Hills"}
 The ground was a non-irrigated sheep pasture before the array, and it is a sheep pasture under it, so the first question settles it: a farm still takes the same thing off the same ground. That is **S1**, primary agriculture, and it is the case this chapter uses to explain S1: sheep on land that was already pasture.
 :::
+
+## The six positions in detail {#sec-positions-detail}
+
+::: {.position-table}
+| Position | The ground beforehand | Production afterward | Typical ground layer | Where the benefit lands |
+|---|---|---|---|---|
+| **S0 — Created agriculture** | Developed, built, or otherwise carrying no agricultural use | Begins where there was none | Usually grazed | On the same ground, and on whoever farms it |
+| **S1 — Primary agriculture** | The use it already carried | Continues essentially unchanged | The crop, the vines, or the pasture itself | On the same ground |
+| **S2 — Secondary agriculture** | Usually cropland; any ground still farmed, but less intensively | Continues, as a less intensive use than before | Grazed, cut for forage or hay, or worked for hives | On the same ground, and on the farm working it |
+| **S3 — Ordinary-land siting** | Ordinary productive ground | Stops inside the footprint | Whatever is maintained; often mown | On the farm business, if the lease keeps it going |
+| **S4 — Low-productivity siting** | Already idle, marginal, or chronically low-yielding | Stops, where little or nothing was still produced | Often left to grow wild | On productive land elsewhere that went unbuilt |
+| **S5 — Impaired-land siting** | Carrying a measurable off-site burden | Stops, and the burden stops with it | Perennial cover chosen against the burden | On the ground taken, and downstream of it |
+: The six positions, and what changes across them. The first two columns settle the position and the last two say what follows from it. {#tbl-positions}
+:::
+
 
 **Go deeper:** the position entries [S0](terminology.qmd#term-s0) to [S5](terminology.qmd#term-s5) and the [feasible wedge](terminology.qmd#term-feasible-wedge) in the Terminology, including corn grown for ethanol as the large American S5 case · what [sparing](terminology.qmd#term-displaced-benefit) claims about the wider landscape · the [dual-use](terminology.qmd#term-dual-use) dispute.

@@ -307,7 +307,7 @@ Solar development that co-prioritizes ecosystem function with generation through
 
 ### Dual Use {#term-dual-use}
 
-A production-based term: co-location that keeps *active agricultural production* within the array footprint across the project's life, which is American Farmland Trust's criterion. Structurally a mandate for [S1–S2](farming-axis.qmd#sec-positions). Distinct from [ecovoltaics](#term-ecovoltaics), whose ecological ground layer is a function rather than production; the two are the poles of the definitional dispute the lexicon holds open rather than adjudicates (§-@sec-wedge).
+A production-based term: co-location that keeps *active agricultural production* within the array footprint across the project's life, which is American Farmland Trust's criterion. Structurally a mandate for [S1–S2](farming-axis.qmd#tbl-positions). Distinct from [ecovoltaics](#term-ecovoltaics), whose ecological ground layer is a function rather than production; the two are the poles of the definitional dispute the lexicon holds open rather than adjudicates (§-@sec-wedge).
 
 ### Restorative {#term-restorative}
 
@@ -325,7 +325,7 @@ The pair that makes [agrisolar](#term-agrisolar) the superset and [agrivoltaics]
 
 **Integration** — the two share the same ground and the same light: panel height set by livestock clearance, row spacing by forage light requirements, tracking schedule by photosynthetic timing. @stid2025 call this *vertical* or *coincident* co-location — agrivoltaics proper.
 
-Read against the axis, that is the whole set relation in one line: **integration is [S1–S2](farming-axis.qmd#sec-positions); co-location without integration is S3 and below.** Agrivoltaics is the integrated subset of agrisolar, which is why this lexicon needs the wider word.
+Read against the axis, that is the whole set relation in one line: **integration is [S1–S2](farming-axis.qmd#tbl-positions); co-location without integration is S3 and below.** Agrivoltaics is the integrated subset of agrisolar, which is why this lexicon needs the wider word.
 
 Integration is also the line a design crosses to be restorative in the structural sense rather than in name only, though S3 is the reminder that a project can restore an enterprise without integrating anything.
 
@@ -391,9 +391,9 @@ Two [management levers](design-levers.qmd#sec-lv-physical). *Tracking schedule* 
 
 ### Land Equivalent Ratio (LER) {#term-ler}
 
-The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It measures combined *production* well but says nothing about ecological, hydrologic, or community function. It handles the non-production ground layers of [S3–S5](farming-axis.qmd#sec-positions) poorly, and it has no term for the [restorative functions](restorative-functions.qmd) or for the [outcomes footprint](restorative-functions.qmd#sec-scale) domains beyond food and energy. Its blind spots are given alongside it because it is the metric most likely to be taken as the measure of success by default. No single success metric is endorsed here (§-@sec-scale).
+The standard dual-use productivity metric: the land a monoculture would need to match what the co-located system yields on one unit of ground (LER > 1 = a land-productivity gain). It measures combined *production* well but says nothing about ecological, hydrologic, or community function. It handles the non-production ground layers of [S3–S5](farming-axis.qmd#tbl-positions) poorly, and it has no term for the [restorative functions](restorative-functions.qmd) or for the [outcomes footprint](restorative-functions.qmd#sec-scale) domains beyond food and energy. Its blind spots are given alongside it because it is the metric most likely to be taken as the measure of success by default. No single success metric is endorsed here (§-@sec-scale).
 
-LER treats both outputs as yields from the same ground, so it says nothing at [S3–S5](farming-axis.qmd#sec-positions), where the second output is habitat, infiltration, or a lease payment.
+LER treats both outputs as yields from the same ground, so it says nothing at [S3–S5](farming-axis.qmd#tbl-positions), where the second output is habitat, infiltration, or a lease payment.
 
 ### Decommissioning / Repowering / Reversibility {#term-decommissioning}
 
