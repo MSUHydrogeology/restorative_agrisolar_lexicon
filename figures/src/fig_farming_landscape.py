@@ -10,7 +10,7 @@ rather than editing the SVGs; with no argument all three are drawn.
 World units: x east, y north, z up. One unit ~ 30 m horizontally; relief and
 panel sizes are exaggerated for legibility.
 """
-import math, os, random, sys
+import math, os, random, re, sys
 import numpy as np
 import contourpy
 
@@ -588,9 +588,19 @@ def draw_west():
     boxb(3.4, 12.8, 2.2, 1.2, 0.8, "#d9c27a", "#cdb46a", gable=False)
     for xx in np.arange(1.8, 11.2, 1.6): tree(xx, 15.8, 0.8, "#7c9a52", "#5d7a3c")
     # vineyard under a canopy of panels, carried above each vine row
-    for yy in np.arange(17.0, 43.4, 1.5):
-        add(f'<polyline points="{pts(drape_line([(1.9, yy + 0.95), (11.0, yy + 0.95)], 0.6, 0.05))}" fill="none" stroke="#5f7d36" stroke-width="2.2" stroke-linecap="round"/>')
-        panel_row(1.9, yy, 11.0, yy, w=0.40, h0=1.0, shadow=False)
+    for yy in np.arange(17.4, 40.0, 2.1):
+        # the vines: a trellised hedge, drawn as overlapping leaf clumps on the near side
+        leaves = ""
+        for xx in np.arange(2.0, 11.0, 0.42):
+            lx, ly, zc = P(xx, yy - 0.15, zf(xx, yy - 0.15) + 0.45)
+            rad = FOC * 0.36 / zc
+            leaves += f'<circle cx="{lx:.1f}" cy="{ly:.1f}" r="{rad:.1f}" fill="#6f9142" stroke="#557331" stroke-width="0.5"/>'
+        obj(6.5, yy - 0.2, leaves)
+        # the canopy carried above the row on posts
+        for xx in (2.2, 6.5, 10.8):
+            b = P(xx, yy + 0.25)[:2]; t = P(xx, yy + 0.25, zf(xx, yy + 0.25) + 1.15)[:2]
+            obj(xx, yy + 0.24, f'<line x1="{b[0]:.1f}" y1="{b[1]:.1f}" x2="{t[0]:.1f}" y2="{t[1]:.1f}" stroke="#6b6860" stroke-width="0.8"/>')
+        panel_row(1.9, yy + 0.25, 11.0, yy + 0.25, w=0.62, h0=1.15, shadow=False)
     # working pivot: arm, and arrays filling its two south corners
     pivot_arm(*pc, pr, math.radians(52))
     def outside(a, b, yy, c=pc, rad=pr):
@@ -839,7 +849,17 @@ def finish(add_lines, CHIP, title, desc, fname):
         add(f'<rect x="{x0:.1f}" y="{cy-12:.1f}" width="{w:.1f}" height="24" rx="3" fill="{SC[code]}" stroke="#ffffff" stroke-width="1.4"/>')
         add(f'<text x="{x0+9:.1f}" y="{cy+5.4:.1f}"><tspan class="chip">S{code}</tspan><tspan class="lab" x="{x0+36:.1f}">{label}</tspan></text>')
 
-    svg = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{SCENE_H}" viewBox="0 0 {W} {SCENE_H}" role="img">',
+    xs, ys_ = [], []
+    for frag in out:
+        for m in re.finditer(r'points="([^"]+)"', frag):
+            for p in m.group(1).split():
+                a, b = p.split(","); xs.append(float(a)); ys_.append(float(b))
+        for m in re.finditer(r'<rect x="([-\d.]+)" y="([-\d.]+)" width="([\d.]+)" height="([\d.]+)"', frag):
+            x, y, w_, h_ = map(float, m.groups()); xs += [x, x + w_]; ys_ += [y, y + h_]
+    M = 10
+    vx, vy = math.floor(min(xs)) - M, max(0, math.floor(min(ys_)) - M)
+    vw, vh = math.ceil(max(xs)) + M - vx, math.ceil(max(ys_)) + M - vy
+    svg = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{vw}" height="{vh}" viewBox="{vx} {vy} {vw} {vh}" role="img">',
            f'<title>{title}</title>',
            f'<desc>{desc}</desc>',
            '<style>',
@@ -847,7 +867,7 @@ def finish(add_lines, CHIP, title, desc, fname):
            '.chip{font-size:14px;font-weight:700;fill:#ffffff}',
            '.lab{font-size:13px;font-weight:600;fill:#ffffff}',
            '</style>',
-           f'<rect width="{W}" height="{SCENE_H}" fill="#ffffff"/>']
+           f'<rect x="{vx}" y="{vy}" width="{vw}" height="{vh}" fill="#ffffff"/>']
     svg += out + ['</svg>']
     open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", fname), "w").write("\n".join(svg))
     print(fname, len("\n".join(svg)) // 1024, "KB")

@@ -33,6 +33,8 @@ S4 and S5 differ in where the benefit goes. S5 does its good on the ground it to
 Ground that fits both S4 and S5, such as a wet corner that also leaks nitrate, is **S5**, because ending the burden is what the array does there. An array spread over more than one kind of ground takes the position of most of its footprint, with the rest noted beside it.
 :::
 
+Position follows the ground's history: a waterway newly seeded into a gullying swale is S5, and an old one still cut for hay is S1.
+
 Asked across a whole landscape, those two questions sort arrays by the ground each one went onto. One stretch of farmland can hold every position at once, often more than one on the same farm (@fig-farming-landscape). The same positions turn up in every region on different ground: the dry corners of a pivot in an irrigated western valley (@fig-farming-landscape-west), an old field gone to brush in an eastern dairy valley (@fig-farming-landscape-east).
 
 ::: {.panel-tabset}
