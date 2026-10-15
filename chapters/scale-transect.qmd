@@ -18,9 +18,9 @@ They shift together closely enough that knowing where a project sits on the rang
 
 The zones are calibration points on that range, in the sense urban planning's rural-to-urban transect uses the term: named places to stand, not boxes with walls. A 4 MW project and a 6 MW project differ by less than their labels suggest, and a project near a boundary should be read as sitting near one. @tbl-zones, at the end of the chapter, gives each zone's capacity, footprint, grid connection, decision-makers, and ground management.
 
-Capacity is how a project is filed. Acreage is how the people living with it experience it, and **when the two numbers disagree, acreage is the better guide**, because trackers and the extra [clearance](terminology.qmd#term-clearance) of agrivoltaic layouts use more land per megawatt [@gallaher2026]. Arrays on buildings are **[A0 — Rooftop](terminology.qmd#term-a0)**. They take no ground, so they sit at the starting point of the range rather than on it. At the other end, A5 has no upper limit.
+Capacity is how a project is filed. Acreage is how the people living with it experience it, and **when the two numbers disagree, acreage is the better guide**, because trackers and the extra [clearance](terminology.qmd#term-clearance) of agrivoltaic layouts use more land per megawatt [@koch2025]. Arrays on buildings are **[A0 — Rooftop](terminology.qmd#term-a0)**. They take no ground, so they sit at the starting point of the range rather than on it. At the other end, A5 has no upper limit.
 
-Not every zone exists everywhere. A3 is common where a state runs a community-solar program and rare where it does not, because the grid and the state, not the land, decide whether a mid-sized project can sell its power. Latitude moves the footprints too: farther north, rows sit wider apart against the low sun, so the same megawatts take more ground.
+Not every zone exists everywhere. A3 tends to be common where a state runs a community-solar program and rare where it does not, because the grid and the state, not the land, decide whether a mid-sized project can sell its power. Latitude moves the footprints too: farther north, rows sit wider apart against the low sun, so the same megawatts take more ground.
 
 ## Scale decides who holds the other levers {#sec-master-lever}
 

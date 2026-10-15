@@ -18,8 +18,8 @@ Unless it is noted otherwise on this page, every work in the reference list has 
 
 **Claims checked only in part.**
 
-- Vaverková et al. (2026): only the abstract could be read. The Solar Fencerows row spacing of about 8 m, and vertical bifacial arrays leaving room for machinery, are not in it. A corrigendum (DOI 10.1016/j.rser.2025.116496) also corrects the paper.
-- Gallaher et al. (2026): only the abstract could be read. It supports the New York figures. That trackers and agrivoltaic clearance take more land per megawatt (§-@sec-zones) is not yet checked.
+- Vaverková et al. (2026): only the abstract could be read, and the Terminology's point that vertical bifacial arrays leave room for machinery is not in it. A corrigendum (DOI 10.1016/j.rser.2025.116496) also corrects the paper.
+- Gallaher et al. (2026) and Koch et al. (2025): checked against their abstracts.
 - Zwickle et al. (2021): the paper itself could not be read, and its Kansas result was checked through a co-author's dissertation.
 - Mayrhofer & Gupta (2016): the abstract supports the term's unsettled meaning. That the word *co-benefit* demotes what it names is this lexicon's own reading.
 - Walston et al. (2018): checked against the abstract only.
