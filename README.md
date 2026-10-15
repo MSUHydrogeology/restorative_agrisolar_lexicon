@@ -34,7 +34,7 @@ quarto render --to html   # HTML only, faster
 |---|---|
 | `index.qmd` | Preface and landing page; introduces the running example, Rabbit Hills |
 | `chapters/design-levers.qmd` … `archetypal-forms.qmd` | Part I, the Primer: seven short chapters, one per scheme, read straight through |
-| `chapters/terminology.qmd` … `in-depth.qmd` | Part II, the Lexicon, for looking things up: Terminology, Archetype Catalog, Evidence Base and Research Needs, Sources, and In Depth (the pre-primer chapters, staged until each section is kept, trimmed, or cut) |
+| `chapters/terminology.qmd` … `sources.qmd` | Part II, the Lexicon, for looking things up: Terminology, Archetype Catalog, Evidence Base and Research Needs, and Sources |
 | `chapters/index-alphabetical.qmd` | Alphabetical index of defined terms (appendix) |
 | `figures/` | Standalone SVG figures, reusable independently |
 | `references.bib` | Bibliography; cited inline with `@key`, formatted in the Sources chapter |

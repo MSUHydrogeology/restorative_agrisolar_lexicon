@@ -77,7 +77,7 @@ under **S**.
 
 **Delivery by preservation** — the route in which nothing moves and the benefit is ground nearby that stayed as it was; proximate, because development pressure is local, but counterfactual rather than observed — [Terminology](terminology.qmd#term-displaced-benefit) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
 
-**Design import** — the characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ; grid and market demands is the usual vehicle — [Terminology](terminology.qmd#term-design-import) · [What follows](in-depth.qmd#sec-rg-consequences)
+**Design import** — the characteristic regional failure: carrying a resolution from the region where it was demonstrated into one whose factors differ; grid and market demands is the usual vehicle — [Terminology](terminology.qmd#term-design-import)
 
 **Design levers** — the six kinds of choice designers have for shaping an array: scale, siting, structure, management, ownership, contracts; each does both design work, setting the form of the array, and restorative work, setting its impact — [Terminology](terminology.qmd#term-design-levers) · [Design Levers](design-levers.qmd)
 
@@ -85,7 +85,7 @@ under **S**.
 
 **Design tension** — what a resolution of the design pressures leaves unresolved; never nil, so the question is how much remains and who carries it, and the settings that leave least are the ones that recur — [Terminology](terminology.qmd#term-design-tension) · [Where the pressures collide](design-pressures.qmd#sec-conflicts)
 
-**Diffuse fraction** — the share of irradiance arriving as diffuse rather than direct-beam light; higher under cloud, non-directional, and most of what a ground layer lives on — [Terminology](terminology.qmd#term-diffuse-fraction) · [Six factors](in-depth.qmd#sec-rg-resource)
+**Diffuse fraction** — the share of irradiance arriving as diffuse rather than direct-beam light; higher under cloud, non-directional, and most of what a ground layer lives on — [Terminology](terminology.qmd#term-diffuse-fraction)
 
 **Dual Use** — production-based criterion: active agricultural production in the footprint across the project life (AFT's definition); S1–S2 — [Terminology](terminology.qmd#term-dual-use)
 
@@ -161,9 +161,9 @@ under **S**.
 
 **Rangevoltaics** — grazing under and between the panels, S1 on ground that was already pasture and S2 on former cropland; the field's ecological-literature name for solar grazing, workable with sheep but not with goats, cattle, or horses; *syn.* solar grazing — [Terminology](terminology.qmd#term-rangevoltaics) · [Worked example: grazing](archetype-catalog.qmd#sec-grazing)
 
-**Regional calibration** — a restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open — [Terminology](terminology.qmd#term-regional-calibration) · [A worked calibration](in-depth.qmd#sec-rg-us)
+**Regional calibration** — a restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open — [Terminology](terminology.qmd#term-regional-calibration) · [Archetypes by region](archetype-catalog.qmd#sec-rg-us)
 
-**Regional factors** — the six spatial factors a region is read by: resource, grid operator, aridity, latitude, cropping system, irrigation — [Terminology](terminology.qmd#term-regional-factors) · [Six factors](in-depth.qmd#sec-rg-factors)
+**Regional factors** — the six spatial factors a region is read by: resource, grid operator, aridity, latitude, cropping system, irrigation — [Terminology](terminology.qmd#term-regional-factors) · [How the pressures vary by region](design-pressures.qmd#sec-regionality)
 
 **Regionality** — the claim that the design pressures resolve differently in different places, because the factors that weight them vary across space; the vocabulary is constant, the weights are not — [Terminology](terminology.qmd#term-regionality) · [How the pressures vary by region](design-pressures.qmd#sec-regionality)
 

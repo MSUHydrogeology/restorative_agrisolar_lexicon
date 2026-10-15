@@ -19,8 +19,7 @@ book:
   sidebar:
     style: docked
     collapse-level: 1
-  # Part I is read straight through; Part II is looked up. In Depth is a staging
-  # area holding the pre-primer chapters until each section is kept, trimmed, or cut.
+  # Part I is read straight through; Part II is looked up.
   chapters:
     - index.qmd
     - part: "Primer"
@@ -38,7 +37,6 @@ book:
         - chapters/archetype-catalog.qmd
         - chapters/evidence-and-needs.qmd
         - chapters/sources.qmd
-        - chapters/in-depth.qmd
   appendices:
     - chapters/index-alphabetical.qmd
   downloads: [pdf]

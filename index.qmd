@@ -25,7 +25,7 @@ On the Oregon State University campus in Corvallis, 1.4 megawatts of solar stand
 
 ## A shared language
 
-Put a [solar grazier](chapters/terminology.qmd#term-rangevoltaics), a township planner, a hydrologist, and a developer on the same eighty acres and you will get four descriptions that barely overlap. Those descriptions are being argued over right now, mostly without good information. Townships write ordinances with no comparable projects to learn from, and several states have taken permitting decisions away from the communities that host the arrays [@susskind2022; @bessette2024]. Shared words will not settle those arguments. They can help people find out what they are actually arguing about.
+Put a [solar grazier](chapters/terminology.qmd#term-rangevoltaics), a county planner, a hydrologist, and a developer on the same eighty acres and you will get four descriptions that barely overlap. Those descriptions are being argued over right now, mostly without good information. Townships and counties write ordinances with no comparable projects to learn from, and several states have taken permitting decisions away from the communities that host the arrays [@susskind2022; @bessette2024]. Shared words will not settle those arguments. They can help people find out what they are actually arguing about.
 
 None of this is hypothetical. Around 15,000 ground-mounted arrays already cover some 3,000 km² of the United States. Roughly half of that ground was cropland before the panels went up, and another third was pasture or other farm grassland [@stid2022; @sturchio2025croplands]. A net-zero grid by 2050 could put solar on 60,000–90,000 km², about 1% of the lower 48 [@larson2021]. Most of that will be farmland too.
 
@@ -50,7 +50,7 @@ The schemes fit together in one direction. The six [design levers](chapters/desi
 
 
 ::: {#sec-aim-not-dimensions}
-**This lexicon argues for an aim and leaves the dimensions to the site.** It takes a clear position on what agrisolar is *for*. It does not say how high to raise the panels or how far apart to set the rows, because the same choices that restore ground in one region can wear it down in another.
+**This lexicon argues for an aim and leaves the dimensions to the site.** It takes a clear position on what agrisolar is *for*. It does not say how high to raise the panels or how far apart to set the rows, because the same choices that restore ground in one region can wear it down in another. The same nine pressures act everywhere, but six regional factors shift their weight: sun and cloud, the grid operator, aridity, latitude, the cropping system, and irrigation. Each chapter says where its scheme bends with them. The words are meant to travel, and the right answers often do not.
 :::
 
 ## How sure we are

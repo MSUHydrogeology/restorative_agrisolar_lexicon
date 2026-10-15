@@ -207,3 +207,18 @@ A brightfield puts an array on reclaimed mine land, a closed landfill, or a brow
 - **Sunnyside**, Houston, Texas. A 50-megawatt project on a 240-acre landfill closed for decades, planned with sheep grazing under the panels ([AgriSolar Clearinghouse](https://www.agrisolarclearinghouse.org/houstons-50-megawatt-solar-project-to-be-built-on-former-landfill/)).
 - **Across the country**, EPA's RE-Powering America's Land initiative counts over 600 renewable energy projects on contaminated land ([EPA](https://www.epa.gov/re-powering/benefits-matrix)).
 
+## Archetypes by region {#sec-rg-us}
+
+Which forms a region tends toward follows from how its [regional factors](terminology.qmd#term-regional-factors) weight the pressures. The table is one [calibration](terminology.qmd#term-regional-calibration) of the United States, offered as hypotheses rather than findings. Its regions loosely follow the USDA's farm resource regions. GHI (global horizontal irradiance) is the total sunlight reaching flat ground, and the market column names the regional grid operators. A region doing something its row says it should not is worth reporting, and calibrations of other regions add to this one rather than correct it.
+
+::: {.region-table}
+| Region | Sun and light | Water | Cropping | Market | Tends toward |
+|---|---|---|---|---|---|
+| **Desert Southwest** | Highest GHI, little diffuse light | Arid; groundwater-limited | Irrigated specialty crops, rangeland | CAISO and WECC, large-scale | Shade as a benefit to crops; irrigation retired where water binds |
+| **Central Valley and irrigated West** | High GHI | Arid, and governed under SGMA, California's groundwater law | High-value specialty crops, heavily irrigated | CAISO, strong buyers | [Retired-irrigation solar](#arch-water) at scale |
+| **High Plains** | High GHI | Ogallala overdraft; declining wells | Grain, cotton, beef | SPP and ERCOT, curtailment risk | Irrigation retired where the aquifer binds; [pivot-corner recharge](#arch-recharge); grazing on large arrays |
+| **Corn Belt** | Moderate GHI and diffuse light | Rain-fed; runoff and nutrient export | Corn and soybeans | MISO and PJM, long queues | Leases and grazing; runoff caught by [prairie strips](#arch-prairie-strips) and pollinator ground layers |
+| **Great Lakes and Northeast** | Lowest GHI, most diffuse light | Humid; drainage, not scarcity | Dairy, forage, vegetables | Community-solar programs, so mid-sized projects get built | Crops and stock kept at small and community scale; [vegetable agrivoltaics](#arch-vegetable), [barnyard shelter](#arch-barnyard) |
+| **Southeast** | Moderate to high GHI, humid and cloudy | Humid; intense rainfall | Row crops, pasture, poultry | Mostly utility-led, outside regional markets | Grazing at scale, and leases with managed ground layers |
+: One calibration of the United States. Each row is a starting hypothesis about where the regional factors push. {#tbl-us-calibration}
+:::

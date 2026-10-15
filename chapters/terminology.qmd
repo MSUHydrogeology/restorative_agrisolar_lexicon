@@ -72,19 +72,19 @@ The claim that the [design pressures](#term-design-pressures) resolve differentl
 
 ### Regional factors {#term-regional-factors}
 
-The six spatial factors the lexicon reads a region by: the **resource** (sun and cloud, including diffuse fraction), the **grid operator** (queue, curtailment, and the state programs that decide whether A3 exists), **aridity** (which flips the sign of the shade effect), **latitude** (which sets tilt, row spacing, and the inter-row light budget), the **cropping system** (which decides whether sharing is conceivable), and **irrigation** (which makes retirement at scale available or unavailable). See [§-@sec-rg-factors](in-depth.qmd#sec-rg-factors).
+The six spatial factors the lexicon reads a region by: the **resource** (sun and cloud, including diffuse fraction), the **grid operator** (queue, curtailment, and the state programs that decide whether A3 exists), **aridity** (which flips the sign of the shade effect), **latitude** (which sets tilt, row spacing, and the inter-row light budget), the **cropping system** (which decides whether sharing is conceivable), and **irrigation** (which makes retirement at scale available or unavailable). See [§-@sec-regionality](design-pressures.qmd#sec-regionality).
 
 ### Regional calibration {#term-regional-calibration}
 
-A restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open. The US calibration in §-@sec-rg-us is one such, not the general case; calibrations from other regions are additions rather than corrections. See [§-@sec-rg-us](in-depth.qmd#sec-rg-us).
+A restatement of the lexicon's indicative values for a particular region: capacity bands, absent zones, the binding constraint, the positions realistically open. The US calibration in the Archetype Catalog (§-@sec-rg-us) is one such, not the general case; calibrations from other regions are additions rather than corrections.
 
 ### Design import {#term-design-import}
 
-The typical regional mistake: carrying a solution from the region where it was shown to work into one where the factors differ, For example, a shade benefit shown in the Southwest gets assumed in the Midwest, or a habitat specification worked out for one establishment cost gets written into a contract for another. [Grid and market demands](#term-grid-market) is the usual vehicle, since a buyer's requirement travels farther and faster than the evidence behind it. See [§-@sec-rg-consequences](in-depth.qmd#sec-rg-consequences).
+The typical regional mistake: carrying a solution from the region where it was shown to work into one where the factors differ, For example, a shade benefit shown in the Southwest gets assumed in the Midwest, or a habitat specification worked out for one establishment cost gets written into a contract for another. [Grid and market demands](#term-grid-market) is the usual vehicle, since a buyer's requirement travels farther and faster than the evidence behind it. See [§-@sec-regionality](design-pressures.qmd#sec-regionality).
 
 ### Diffuse fraction {#term-diffuse-fraction}
 
-The share of irradiance arriving as diffuse rather than direct-beam light. Clouds block direct sun but still let scattered light through, so humid and cloudy regions get a larger share of diffuse light. That light comes from every direction, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§-@sec-rg-factors](in-depth.qmd#sec-rg-resource).
+The share of irradiance arriving as diffuse rather than direct-beam light. Clouds block direct sun but still let scattered light through, so humid and cloudy regions get a larger share of diffuse light. That light comes from every direction, reaches under and between panels, and is most of what a [ground layer](#term-ground-layer) lives on. It also weakens the case for tracking. See [§-@sec-regionality](design-pressures.qmd#sec-regionality).
 
 ## Scale {#sec-terms-scale}
 
@@ -170,7 +170,7 @@ The array takes ground that was already idle, marginal, or chronically low-yield
 
 ### S5 — Impaired-land siting {#term-s5}
 
-The array takes ground that carried a measurable off-site burden such as high runoff, nutrient or pesticide export, or irrigation draw beyond the aquifer's budget, or ground positioned where such a burden can be intercepted. Unlike S4, the act works on the ground taken itself: production ends and the burden ends with it. See [§-@sec-positions](farming-axis.qmd#sec-positions).
+The array takes ground that carried a measurable off-site burden such as high runoff, nutrient or pesticide export, or irrigation draw beyond the aquifer's budget, or ground positioned where such a burden can be intercepted. Unlike S4, the act works on the ground taken itself: production ends and the burden ends with it. The largest American case is corn grown for ethanol, about 12 million hectares that already grow energy rather than food. A hectare of utility-scale solar yields the energy of roughly 31 hectares of that corn, and retiring the fields that lose the most nutrients would cut an estimated 54.8 million kg of nitrogen applied each year [@sturchio2025croplands]. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### Bare conversion {#term-bare-conversion}
 
@@ -213,7 +213,7 @@ A restorative capacity a project can be designed to deliver, reachable to varyin
 
 ### Hydrologic function {#term-fn-hydrologic}
 
-Water quantity and quality as design objectives. On **quantity**: infiltration and recharge raised, soil moisture buffered, and at scale consumptive use retired from a basin's budget. On **quality**, two routes needing opposite ground: **avoided loading**, siting on the ground that is doing the leaching, which the water-quality literature calls a critical source area, so the fertilizer and pesticide programs stop with the cropping, and **interception**, siting on the flow path below it so runoff gives up its nutrients and sediment before reaching a channel. See [§-@sec-fn-hydrologic](restorative-functions.qmd#sec-fn-hydrologic).
+Water quantity and quality as design objectives. On **quantity**: infiltration and recharge raised, soil moisture buffered, and at scale consumptive use retired from a basin's budget. On **quality**, two routes needing opposite ground: **avoided loading**, siting on the ground that is doing the leaching, which the water-quality literature calls a critical source area, so the fertilizer and pesticide programs stop with the cropping, and **interception**, siting on the flow path below it so runoff gives up its nutrients and sediment before reaching a channel. What a stream notices is less the size of the array than how much of the ground draining past that point it covers: twenty acres in a creek's watershed of several thousand barely register, while the same twenty acres draining one hollow do. Size changes the shape of the flow too, since a large block delivers its runoff to a few culverts, faster, where a few rows let it leave along the whole field edge as before. See [§-@sec-fn-hydrologic](restorative-functions.qmd#sec-fn-hydrologic).
 
 ### Ecological function {#term-fn-biodiversity}
 
@@ -233,13 +233,13 @@ What the array does *for* farming, on its own ground and on the fields around it
 
 ### Community and economic function {#term-fn-community}
 
-The one function about people rather than land: lasting local income, whether people can live alongside the array, and whether the costs and the benefits land on the same people. It is the [outcomes footprint's](#term-scale-footprint) Communities domain read as an outcome, and it is distinct from the [community-acceptance](#term-community-acceptance) pressure and the [community-benefit](#term-community-benefit) lever that both aim at it. It can only be judged once the people receiving it are named separately. See [§-@sec-fn-community](restorative-functions.qmd#sec-fn-community).
+The one function about people rather than land: lasting local income, whether people can live alongside the array, and whether the costs and the benefits land on the same people. It is the [outcomes footprint's](#term-scale-footprint) Communities domain read as an outcome, and it is distinct from the [community-acceptance](#term-community-acceptance) pressure and the [community-benefit](#term-community-benefit) lever that both aim at it. It can only be judged once the people receiving it are named separately: the landowner who collects the lease, the tenant farmer who often loses the field, the neighbors who live with the view and the construction traffic, the local government weighing tax revenue against road costs, Tribal nations whose treaty rights and consultation standing do not reduce to a payment, and the workers and ratepayers whose wages and savings may land in another county. See [§-@sec-fn-community](restorative-functions.qmd#sec-fn-community).
 
 ### Benefit delivery {#term-benefit-delivery}
 
 How a function's benefit reaches whoever receives it. The useful question is not how far it goes but **which route it takes**, since nearly every function reaches from the panel to the region along some path. Three routes. **In place**, where provider and beneficiary are the same ground. **Along a connection**, where the benefit travels a network: water carries runoff, sediment, and recharge downslope; living things carry pollination, pest regulation, and dispersal; institutions carry lease, tax, and subscription along tenure, contract, and jurisdiction. And **[by preservation](#term-displaced-benefit)**, where nothing moves and the benefit is ground elsewhere that stayed as it was. The route decides who can verify a claim and who captures it. See [§-@sec-benefit-range](restorative-functions.qmd#sec-benefit-range).
 
-**Prior names.** The distinction is borrowed, not coined. @hernandez2019 call an outcome that overlaps the generation site *sympatric* and one spatially separated from it *disjunct*, and assign each a *serviceshed*, the largest ecological scale at which it contributes goods and services. This lexicon sorts the disjunct side by route rather than by distance, and adds delivery by preservation, which a service-based scheme cannot express.
+**Prior names.** The distinction is borrowed, not coined. Ecosystem-service research maps the area that provides a service separately from the area that benefits from it [@syrbe2012], and @hernandez2019 call an outcome that overlaps the generation site *sympatric* and one spatially separated from it *disjunct*, and assign each a *serviceshed*, the largest ecological scale at which it contributes goods and services. This lexicon sorts the disjunct side by route rather than by distance, and adds delivery by preservation, which a service-based scheme cannot express.
 
 ### Delivery by preservation {#term-displaced-benefit}
 
@@ -440,7 +440,7 @@ Not a fixed threshold. In ordinary use it means an array selling wholesale rathe
 
 ### Community solar {#term-community-solar}
 
-A distribution-connected array whose output is subscribed by households and businesses that cannot host panels of their own. Program caps commonly sit at 5 MW, which is one reason [A3](#term-a3) tops out where it does. The phrase carries at least four distinct meanings in current circulation (§-@sec-community-scale).
+A distribution-connected array whose output is subscribed by households and businesses that cannot host panels of their own. Program caps commonly sit at 5 MW, which is one reason [A3](#term-a3) tops out where it does. The phrase *community-scale* carries at least four meanings: solar sized to a community's own use, solar built where people already live, solar whose benefits are arranged to reach a community, and solar that makes a community more resilient. The restorative case for [A3](#term-a3) (§-@sec-community-scale) is a fifth.
 
 ### Clearance {#term-clearance}
 

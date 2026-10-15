@@ -26,7 +26,7 @@ Each physical lever works on a different clock. Siting is the most powerful of t
 
 ## Ownership and contracts {#sec-lv-institutional}
 
-Ownership and contracts are the institutional levers, and ground does not limit them. Ownership settles who keeps what the array earns. A lease pays for the use of the ground, not a share of the power sold, so a landowner earning three to four times what the crop used to return per acre is still being paid for land [@sturchio2025croplands]. **Whether a project is restorative depends partly on who owns it, and a generous lease does not settle that question.**
+Ownership and contracts are the institutional levers, and ground does not limit them. Ownership settles who keeps what the array earns. A lease pays for the use of the ground, not a share of the power sold, so a landowner earning three to four times what the crop used to return per acre is still being paid for land [@sturchio2025croplands]. The gap depends on the crop, and it is widest where the crop is worth least. **Whether a project is restorative depends partly on who owns it, and a generous lease does not settle that question.**
 
 Contracts are what make the other levers last, because the levers are fixed at different times. Scale and siting are settled once. Structure is fixed at construction, ownership changes hands over decades, and management can change next season. Stewart @brand1994 argues that a building works when its fast-changing layers can move without tearing the slow ones. Here management is the fast layer, and so the fragile one. Choosing a seed mix is a management decision. Whether that planting survives to year twenty is a lease question.
 
@@ -36,4 +36,4 @@ Two things look like levers and are not. What a project is aiming at is a goal, 
 All six levers can be read from the public record. Scale is 1.4 megawatts on about six acres. Siting put the array on a pasture the university's sheep already grazed. Structure is an ordinary layout: panels 1.1 meters off the ground at their lowest edge, in rows 6 meters apart. Management kept the flock grazing underneath. Ownership sits with the developer that built the array, SolarCity, now part of Tesla, rather than with the university. Contracts carry the rest, since the university leases the ground to the array's owner and buys its power for less than the local utility charges.
 :::
 
-**Go deeper:** [design levers](terminology.qmd#term-design-levers) and each lever's terms in the [Terminology](terminology.qmd) · the fuller treatment of each lever in [In Depth](in-depth.qmd#sec-deep-levers).
+**Go deeper:** [design levers](terminology.qmd#term-design-levers) and each lever's terms in the [Terminology](terminology.qmd).
