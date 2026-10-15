@@ -44,7 +44,7 @@ under **S**.
 
 ## B {.unnumbered}
 
-**Bare conversion** — ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it — [Terminology](terminology.qmd#term-bare-conversion) · [The positions](farming-axis.qmd#sec-positions)
+**Bare conversion** — an S3 array that does no restorative work on any function: the farm operation ends, the rent leaves, and nothing is asked of the ground; the non-restorative baseline other projects are read against — [Terminology](terminology.qmd#term-bare-conversion) · [The positions](farming-axis.qmd#sec-positions)
 
 **Benefit delivery** — which route a function's benefit takes to whoever receives it: in place, along a connection (water, living things, or institutions), or by preservation; the route, not the distance, decides who can check the claim — [Terminology](terminology.qmd#term-benefit-delivery) · [Where benefits are delivered](restorative-functions.qmd#sec-benefit-range)
 
@@ -169,7 +169,7 @@ under **S**.
 
 **Restoration mode** — retired as the scheme's name; *see* Restorative work — [Terminology](terminology.qmd#term-restorative-work) · [The six leads](restorative-work.qmd#sec-leads)
 
-**Restorative** — the frame of the whole lexicon: ground-layer function as a design objective co-equal with generation — [Terminology](terminology.qmd#term-restorative)
+**Restorative** — the frame of the whole lexicon: ground-layer function as a design objective co-equal with generation; a claim can rest on what a project intended, what it secures, or what has been measured, and the three are kept apart — [Terminology](terminology.qmd#term-restorative)
 
 **Restorative goals** — design pressure: make ecological, hydrological, and economic resilience co-equal with generation — [Terminology](terminology.qmd#term-restorative-goals) · [The pressures](design-pressures.qmd#sec-pressures)
 
@@ -183,13 +183,13 @@ under **S**.
 
 **S1 — Primary agriculture** — the agricultural use continues essentially as it was, with the array added over or between it — [Terminology](terminology.qmd#term-s1) · [The positions](farming-axis.qmd#sec-positions)
 
-**S2 — Secondary agriculture** — a farm still works the ground, at a lower value than it carried before; grazing on former cropland, forage, hay, hives — [Terminology](terminology.qmd#term-s2) · [The positions](farming-axis.qmd#sec-positions)
+**S2 — Secondary agriculture** — a farm still works the ground, but less intensively than before; grazing on former cropland, forage, hay, hives — [Terminology](terminology.qmd#term-s2) · [The positions](farming-axis.qmd#sec-positions)
 
-**S3 — Ordinary-land siting** — neither sharing nor sparing: the array takes ordinary ground outright and the revenue sustains the farm enterprise holding it, so the restoration is socioeconomic rather than biophysical; the center of the axis — [Terminology](terminology.qmd#term-s3) · [The positions](farming-axis.qmd#sec-positions)
+**S3 — Ordinary-land siting** — neither sharing nor sparing: the array takes ordinary productive ground out of farming; who benefits is read on the functions, not the position; the center of the axis — [Terminology](terminology.qmd#term-s3) · [The positions](farming-axis.qmd#sec-positions)
 
-**S4 — Low-productivity siting** — the array takes ground already idle, marginal, or chronically low-yielding, so nothing in production was displaced to build it; arrays on buildings take no ground and hold no position (A0) — [Terminology](terminology.qmd#term-s4) · [The positions](farming-axis.qmd#sec-positions)
+**S4 — Low-productivity siting** — the array takes ground already idle, marginal, or chronically low-yielding, so little or nothing in production was displaced to build it; arrays on buildings take no ground and hold no position (A0) — [Terminology](terminology.qmd#term-s4) · [The positions](farming-axis.qmd#sec-positions)
 
-**S5 — Impaired-land siting** — the array takes ground that carried a measurable off-site burden (low yields, high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [Terminology](terminology.qmd#term-s5) · [The positions](farming-axis.qmd#sec-positions)
+**S5 — Impaired-land siting** — the array takes ground that carried a measurable off-site burden (high runoff, nutrient export, irrigation draw beyond the aquifer's budget), or that sits where such a burden can be intercepted — [Terminology](terminology.qmd#term-s5) · [The positions](farming-axis.qmd#sec-positions)
 
 **Scale Transect** — a single gradient from farmstead to complex that most other terms are read against; defined by covarying bundles, not capacity — [Terminology](terminology.qmd#term-scale-transect) · [The Scale Transect](scale-transect.qmd)
 

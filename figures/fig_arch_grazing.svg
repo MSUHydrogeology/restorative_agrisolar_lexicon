@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" role="img">
 <title>Regenerative Solar Grazing</title>
-<desc>Section through a utility-scale array, drawn at five SVG units to the meter so that twelve rows fit and the array runs off both edges of the frame. The panels sit low, which is what limits the stock to sheep, and a contracted flock grazes the forage beneath under a planned rotation set by fences and water points. Sunlight falls from the upper left and the rows throw spaced bands of shade. Held cover builds a thick, dark topsoil and deeper roots than a row crop. Its outcomes footprint sits at the right: Water furthest out, Ecology and Agriculture mid-scale, Communities pulled in toward the center.</desc>
+<desc>Section through a utility-scale array, drawn at five SVG units to the meter so that twelve rows fit and the array runs off both edges of the frame. The panels sit low, which is what limits the stock to sheep, and a contracted flock grazes the forage beneath under a planned rotation set by fences and water points. Sunlight falls from the upper left and the rows throw spaced bands of shade. Held cover builds a thick, dark topsoil and deeper roots than a row crop. Its outcomes footprint sits at the right: Water furthest out, Ecology and Agriculture mid-scale, Communities pulled in toward the center. The footprint is hypothetical, not yet measured.</desc>
 
 <defs>
   <!-- Shared glyphs. The module is one 3.0 m table, drawn at each figure's own
@@ -28,7 +28,7 @@
 
 <rect y="14" width="820" height="254" rx="10" fill="#ffffff" stroke="#e6e1d6"/>
 
-<text x="26" y="32" fill="#6f6d66" font-size="12.5">A4–A5 scale · S1–S2 farming · management-led restoration</text>
+<text x="26" y="32" fill="#6f6d66" font-size="12.5">A2–A5 scale · S1–S2 farming · management-led restoration</text>
 
 <!-- sun: fixed position and 45 degree rays in every archetype card -->
 <g stroke="#c08a12" stroke-linecap="round">
@@ -163,6 +163,7 @@
 <circle cx="692.0" cy="116.0" r="2.6" fill="#6f6d66"/>
 <circle cx="694.9" cy="166.9" r="2.6" fill="#6f6d66"/>
 <circle cx="636.9" cy="171.1" r="2.6" fill="#6f6d66"/>
+<text x="668" y="72" fill="#7a7973" font-size="12" font-style="italic" text-anchor="middle">hypothetical, not yet measured</text>
 <text x="620" y="96" fill="#639922" font-size="12.5" font-weight="700" text-anchor="end">Ecology</text>
 <text x="716" y="96" fill="#2f7f70" font-size="12.5" font-weight="700" text-anchor="start">Communities</text>
 <text x="716" y="194" fill="#a8894f" font-size="12.5" font-weight="700" text-anchor="start">Agriculture</text>

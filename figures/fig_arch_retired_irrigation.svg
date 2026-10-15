@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" role="img">
 <title>Retired-Irrigation Solar</title>
-<desc>Section through a field taken out of irrigated production, drawn at five SVG units to the meter, so the array runs off both edges of the frame. The center pivot stands derelict over its own capped well, and low-water cover carries the ground beneath panels that need no irrigation. Below, the solid line is the water table today, carrying only the regional gradient; the dashed line is where it would sit had pumping continued. The gap between them is widest at the retired well and narrows outward, because that gap is the drawdown the retirement avoided. It holds only where governance keeps the saved water from being pumped somewhere else. Its outcomes footprint sits at the right: Water almost at the rim, Agriculture in toward the center, deliberately given up.</desc>
+<desc>Section through a field taken out of irrigated production, drawn at five SVG units to the meter, so the array runs off both edges of the frame. The center pivot stands derelict over its own capped well, and low-water cover carries the ground beneath panels that need no irrigation. Below, the solid line is the water table today, carrying only the regional gradient; the dashed line is where it would sit had pumping continued. The gap between them is widest at the retired well and narrows outward, because that gap is the drawdown the retirement avoided. It holds only where governance keeps the saved water from being pumped somewhere else. Its outcomes footprint sits at the right: Water almost at the rim, Agriculture in toward the center, deliberately given up. The footprint is hypothetical, not yet measured.</desc>
 
 <defs>
   <!-- Shared glyphs. The module is one 3.0 m table, drawn at each figure's own
@@ -139,6 +139,7 @@
 <circle cx="699.1" cy="108.9" r="2.6" fill="#6f6d66"/>
 <circle cx="687.8" cy="159.8" r="2.6" fill="#6f6d66"/>
 <circle cx="631.2" cy="176.8" r="2.6" fill="#6f6d66"/>
+<text x="668" y="72" fill="#7a7973" font-size="12" font-style="italic" text-anchor="middle">hypothetical, not yet measured</text>
 <text x="620" y="96" fill="#639922" font-size="12.5" font-weight="700" text-anchor="end">Ecology</text>
 <text x="716" y="96" fill="#2f7f70" font-size="12.5" font-weight="700" text-anchor="start">Communities</text>
 <text x="716" y="194" fill="#a8894f" font-size="12.5" font-weight="700" text-anchor="start">Agriculture</text>

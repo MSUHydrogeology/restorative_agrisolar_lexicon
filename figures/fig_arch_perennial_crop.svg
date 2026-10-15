@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" role="img">
 <title>Perennial Crop Canopy</title>
-<desc>Section through a perennial fruit planting, drawn at twelve and a half SVG units to the meter. Six crop rows stand on their own trellis, each with one row of panels carried above it rather than between, high enough to clear the canopy and the machinery. The roots run deep and unbroken beneath, because the planting is never lifted between harvests, and the trellis that holds the crop was already there before the array. Sunlight falls from the upper left, so the shade bands land in the alleys rather than under the panels that cast them. Its outcomes footprint sits at the right: Agriculture nearest the rim, Water and Communities outside the ring, Ecology just inside it.</desc>
+<desc>Section through a perennial fruit planting, drawn at twelve and a half SVG units to the meter. Six crop rows stand on their own trellis, each with one row of panels carried above it rather than between, high enough to clear the canopy and the machinery. The roots run deep and unbroken beneath, because the planting is never lifted between harvests, and the trellis that holds the crop was already there before the array. Sunlight falls from the upper left, so the shade bands land in the alleys rather than under the panels that cast them. Its outcomes footprint sits at the right: Agriculture nearest the rim, Water and Communities outside the ring, Ecology just inside it. The footprint is hypothetical, not yet measured.</desc>
 <defs>
   <!-- Shared glyphs. The module is one 3.0 m table, drawn at each figure's own
        scale via transform="... scale(k)". Post height is per instance, because
@@ -114,6 +114,7 @@
 <circle cx="694.9" cy="113.1" r="2.6" fill="#6f6d66"/>
 <circle cx="703.4" cy="175.4" r="2.6" fill="#6f6d66"/>
 <circle cx="638.3" cy="169.7" r="2.6" fill="#6f6d66"/>
+<text x="668" y="72" fill="#7a7973" font-size="12" font-style="italic" text-anchor="middle">hypothetical, not yet measured</text>
 <text x="620" y="96" fill="#639922" font-size="12.5" font-weight="700" text-anchor="end">Ecology</text>
 <text x="716" y="96" fill="#2f7f70" font-size="12.5" font-weight="700" text-anchor="start">Communities</text>
 <text x="716" y="194" fill="#a8894f" font-size="12.5" font-weight="700" text-anchor="start">Agriculture</text>

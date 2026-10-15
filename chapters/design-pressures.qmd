@@ -2,14 +2,14 @@
 
 Every solar design is pushed from several directions at once. The price a developer bid pushes toward a simple rectangle of panels. A tractor that has to fit underneath pushes the panels up and the rows apart. A neighbor's view pushes for a screen along the road, a buyer's scorecard pushes for the credits it counts, and a county ordinance pushes for its setbacks. This lexicon calls these forces the **[design pressures](terminology.qmd#term-design-pressures)**: nine of them, each pushing the design in its own direction, and each with someone arguing for it in good faith.
 
-![Nine pressures bearing on one site at once, arranged by the direction each pushes. The two colored groups never meet, because the three whose direction is decided by the site, the buyer, or the county sit in the gray wedges between them.](../figures/fig_design_pressures.svg){#fig-design-pressures}
+![Nine pressures bearing on one site at once, arranged by the direction each usually pushes. The two colored groups never meet, because the three whose direction is decided by the site, the buyer, or the county sit in the gray wedges between them.](../figures/fig_design_pressures.svg){#fig-design-pressures}
 
 ## The nine pressures {#sec-pressures}
 
-Three pressures push toward restoration, three push against it, and which way the remaining three push depends on the site, the buyer, or the county. Restorative goals is the pressure this lexicon exists to advance, but it is still one force among nine, and it loses to the other eight more often than not.
+In the usual case, a ground-mounted project bid into a US market today, three pressures push toward restoration, three push against it, and which way the remaining three push depends on the site, the buyer, or the county. The usual case is not every case, and the table says where a pressure often changes sides. Restorative goals is the pressure this lexicon exists to advance, but it is still one force among nine, and it loses to the other eight more often than not.
 
 ::: {.pressure-table}
-| Pressure | What it asks for | Which way it pushes |
+| Pressure | What it asks for | Which way it usually pushes |
 |:--|:--|:--|
 | **[Restorative goals](terminology.qmd#term-restorative-goals)** | Wider rows, mixed ground cover, and a plan covering all thirty years | **Toward.** The one this lexicon argues for |
 | **[Community acceptance and benefit](terminology.qmd#term-community-acceptance)** | A say early enough to change the design, and something paid back: tax revenue, subscriptions, local hiring, part-ownership | **Toward,** mostly. Paying people without asking them first buys resentment, not consent [@crawford2022] |
@@ -19,8 +19,8 @@ Three pressures push toward restoration, three push against it, and which way th
 | **[Policy and permission](terminology.qmd#term-policy-permission)** | The permitting path, prime-farmland and setback rules, and the subsidies that decide what pays | **Both.** California's groundwater law pays a grower to retire irrigated ground. Iowa's ethanol mandate pays a grower to keep planting it |
 | **[Operations and maintenance](terminology.qmd#term-operations-maintenance)** | Cover that is simple to mow, or gravel that never grows, for thirty years | **Away, then toward.** Natives cost more for three years and less every year after |
 | **[Energy yield](terminology.qmd#term-energy-yield)** | Panels packed close, tilted to the sun, low, and edge to edge | **Away,** though plants underneath keep modules cooler and cool modules make more power [@merheb2025] |
-| **[Cost and financing](terminology.qmd#term-cost-financing)** | Standard racking, simple rectangles, and a project big enough to raise money against | **Away.** Anything unusual costs more, and the paperwork does not shrink with the project |
-: The nine pressures and the direction each one pushes. The third column is a direction, not a verdict on anyone advocating it. {#tbl-pressures}
+| **[Cost and financing](terminology.qmd#term-cost-financing)** | Standard racking, simple rectangles, and a project big enough to raise money against | **Away.** Anything unusual costs more, and the paperwork does not shrink with the project. It changes sides where the restorative choice is also the cheap one, such as moving less earth |
+: The nine pressures and the direction each one usually pushes, for a ground-mounted project in a US market today. The third column is a direction, not a verdict on anyone advocating it. {#tbl-pressures}
 :::
 
 ## Where the pressures collide {#sec-conflicts}

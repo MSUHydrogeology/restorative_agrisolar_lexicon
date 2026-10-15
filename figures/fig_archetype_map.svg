@@ -59,8 +59,8 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <rect x="321" y="258.0" width="290" height="34" rx="4" fill="#ffffff"/>
 <rect x="322" y="259.0" width="288" height="32" rx="3.5" fill="#836836" fill-opacity="0.14" stroke="#836836" stroke-width="2"/>
 <text class="bl" x="466.0" y="279.2" text-anchor="middle" fill="#2c2c2a">Vegetable Agrivoltaics</text>
-<rect x="322" y="301.0" width="288" height="32" rx="3.5" fill="#ffffff" fill-opacity="0.6" stroke="#b8934a" stroke-width="1.6" stroke-dasharray="5 3"/>
-<text class="bd" x="466.0" y="321.2" text-anchor="middle" fill="#4a4944">Marginal Land Solar, where stock stays on</text>
+<rect x="172" y="301.0" width="438" height="32" rx="3.5" fill="#ffffff" fill-opacity="0.6" stroke="#b8934a" stroke-width="1.6" stroke-dasharray="5 3"/>
+<text class="bd" x="391.0" y="321.2" text-anchor="middle" fill="#4a4944">Marginal Land Solar, where stock stays on</text>
 <rect x="321" y="358.0" width="590" height="34" rx="4" fill="#4f3d1c"/>
 <text class="bl" x="616.0" y="379.2" text-anchor="middle" fill="#ffffff">Regenerative Solar Grazing</text>
 <rect x="472" y="401.0" width="138" height="32" rx="3.5" fill="#ffffff" fill-opacity="0.6" stroke="#5e7d3a" stroke-width="1.6" stroke-dasharray="5 3"/>

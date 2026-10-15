@@ -18,7 +18,7 @@ What the form gives up is generating power at scale, since the array is sized to
 
 The worked example is a University of Minnesota dairy, the West Central Research and Outreach Center at Morris, Minnesota. There, in 2018, a 30-kilowatt array was raised over the pasture to shade thirty to forty grazing cows and power the milking equipment. The shaded cows ran about a degree cooler and panted less while the same panels powered the parlor, a working demonstration that shelter and power can share one small farm.
 
-**Built examples.**
+**Built examples: one so far.**
 
 - **West Central Research and Outreach Center dairy**, Morris, Minnesota (described above). A 30-kilowatt array raised 8 to 10 feet over pasture shaded cows that stayed cooler through the afternoon, with no change in milk, fat, or protein [@sharpe2021]. The University of Minnesota has since grown the site to about 500 kilowatts, which it calls the largest agrivoltaic pasture in the Midwest ([Agweek](https://www.agweek.com/livestock/umn-morris-mixes-cows-and-solar-on-midwests-largest-agrivoltaic-pasture)). At that size the form has moved from A1 into A2.
 
@@ -36,7 +36,7 @@ The same permanence sets the form's sharpest risk. A perennial stand cannot be r
 
 Maine shows that risk at **Maces Pond** in Rockport, where 4.2 megawatts stand on about ten acres of wild blueberry. BlueWave built it in 2021 and Navisun owns it, and five of those acres hold a University of Maine study comparing three ways of building side by side. The construction methods made no significant difference, and the blueberry cover had filled back in within two years. The shade did make a difference. The panels cut the light reaching the plants by more than 90%, and the field has not been commercially harvested since the array went in, because of reduced yield and the difficulty of harvesting under the panels [@calderwood2025]. By the placement test, a field that no farm harvests sits at S3, not S1. *This is the low-growing end of the form, where the geometry barely departs from a conventional array, and it shows why that end is the harder one: a layout built for the power plant can shade a low crop out of production. The tall canopy over vines and tree fruit is the other end, and Colorado has working examples of it over chardonnay and over peaches.*
 
-**Built examples.**
+**Built examples: recurring.**
 
 - **Piet Albers fruit farm**, Babberich, the Netherlands. GroenLeven and BayWa r.e. put 2.67 megawatts of glass-glass panels over 3.2 hectares of raspberries in place of plastic tunnels. With light transmission set at 40%, the berries matched tunnel-grown fruit for size, flavor, and shelf life ([BayWa r.e.](https://www.baywa-re.com/en/case-studies/solar-installations-bear-fruit-for-netherlands-agri-pv)).
 - **Domaine de Nidolères**, Pyrénées-Orientales, France. Sun'Agri's steerable panels over vines, in trial since 2024, are reported to have raised Chardonnay yields by 60%, Marselan by 30%, and Grenache blanc by 20% ([The Drinks Business](https://www.thedrinksbusiness.com/2026/09/solar-panels-boost-chardonnay-yields-by-60-in-french-trial/)). The figures are the company's.
@@ -45,19 +45,19 @@ Maine shows that risk at **Maces Pond** in Rockport, where 4.2 megawatts stand o
 
 ### Marginal Land Solar {#arch-marginal}
 
-[A2–A3](scale-transect.qmd#sec-zones) scale · **[S4](farming-axis.qmd#sec-positions)**, or **[S1](farming-axis.qmd#sec-positions)** where stock stays on · *[siting-led](restorative-work.qmd#sec-leads)* restoration
+[A1–A3](scale-transect.qmd#sec-zones) scale · **[S4](farming-axis.qmd#sec-positions)**, or **[S1](farming-axis.qmd#sec-positions)** where stock stays on · *[siting-led](restorative-work.qmd#sec-leads)* restoration
 
 Drawn in section in @fig-arch-marginal, with its outcomes footprint.
 
-[Marginal land](terminology.qmd#term-marginal-land) solar takes the flood-prone corners, rocky headlands, and wet remnants that no longer pay their way, and leaves the better fields to farm. Arrays run from about 100 kilowatts to 3 megawatts on roughly 1 to 20 acres, sized by what the odd parcel will hold. The ground keeps whatever it will support: rough grazing where it drains, and wild or pollinator cover where it does not. Where stock still walk beneath the panels, the form sits on the sharing side rather than at S4. It is [S1](farming-axis.qmd#sec-positions) where the ground was already rough grazing, and S2 where it was cropped before. The layout follows the shape of the ground rather than the ideal, and the power goes behind the meter or onto the local grid.
+[Marginal land](terminology.qmd#term-marginal-land) solar takes the flood-prone corners, rocky headlands, and wet remnants that no longer pay their way, and leaves the better fields to farm. Arrays run from tens of kilowatts to 3 megawatts on under an acre to roughly 20 acres, sized by what the odd parcel will hold. The ground keeps whatever it will support: rough grazing where it drains, and wild or pollinator cover where it does not. Where stock still walk beneath the panels, the form sits on the sharing side rather than at S4. It is [S1](farming-axis.qmd#sec-positions) where the ground was already rough grazing, and S2 where it was cropped before. The layout follows the shape of the ground rather than the ideal, and the power goes behind the meter or onto the local grid.
 
 Whatever made a parcel poor for farming often makes it poor for solar too: weighted footings on rock, an array raised above a floodplain, extra cable along a long run to reach the line. That is exactly why [cost and financing](terminology.qmd#term-cost-financing) is the dominant pressure, and generation is what gets given up, since ground shaped by water and stone is rarely shaped for output. The form exists for the [community and economic function](restorative-functions.qmd#sec-fn-community): income from acres that were not paying. That income has to cover the added cost before the array is worth building.
 
 At Cozy Cove Farm in Gurley, Alabama, a llama and alpaca farm put a 50-kilowatt array on a flood-prone corner of riverside pasture. It is raised about seven feet so the herd can graze and shelter beneath it, and the farm sells the power to the TVA while the pasture keeps working. *This particular site counts as [S1](farming-axis.qmd#sec-positions), not S4. The array went on the marginal corner, but that ground was riverside pasture before the array and is riverside pasture under it, so the use it had is the use it kept. It is the sharing version of the archetype, and the placement rule in §-@sec-positions settles it.*
 
-**Built examples.**
+**Built examples: one so far.**
 
-- **Cozy Cove Farm**, Gurley, Alabama (described above). It is the one documented example the lexicon has found so far, and at 50 kilowatts it falls in A1, below the form's usual A2–A3 range. Reports of others are especially welcome.
+- **Cozy Cove Farm**, Gurley, Alabama (described above). It is the one documented example the lexicon has found so far, and reports of others are especially welcome.
 
 ### Solar Prairie Strips {#arch-prairie-strips}
 
@@ -71,9 +71,9 @@ The pressure behind the form is [restorative goals](terminology.qmd#term-restora
 
 Minnesota has a built example in **Ramsey Renewable Station**, where 3.4 megawatts of solar and storage sit on a native [ground layer](terminology.qmd#term-ground-layer) that serves as the stormwater system itself. On that sandy soil, DOE's PV-SMaRT modeling found the planting absorbed the 2-, 10-, and 100-year design storms with no detention basins at all. The sand did much of that work. On a tighter soil, or across a block large enough to drain to a few outlets, the same planting has a harder storm to absorb.
 
-**Built examples.**
+**Built examples: one so far.**
 
-- **Ramsey Renewable Station**, Ramsey, Minnesota (described above), the one documented example so far. The same stormwater study measured a second site that bears on the form's hardest case: at Pine Gate Renewables' Eagle Point array near Medford, Oregon, on the densest clay of the study's five sites, deep-rooted cover let more water soak in than expected ([Great Plains Institute](https://betterenergy.org/blog/pv-smart-solar-site-demonstrates-national-implications-for-stormwater-management-medford-or/)).
+- **Ramsey Renewable Station**, Ramsey, Minnesota (described above), the one documented example so far. It shows the planting holding the array's own storm water, not yet a strip catching runoff from the fields above it. The same stormwater study measured a second site that bears on the form's hardest case: at Pine Gate Renewables' Eagle Point array near Medford, Oregon, on the densest clay of the study's five sites, deep-rooted cover let more water soak in than expected ([Great Plains Institute](https://betterenergy.org/blog/pv-smart-solar-site-demonstrates-national-implications-for-stormwater-management-medford-or/)).
 
 ### Regenerative Solar Grazing {#arch-grazing}
 
@@ -106,7 +106,7 @@ Getting a planting established is the cost that catches people out. Task for tas
 So “solar grazing” on its own names three different practices, and which one a person means is usually settled by the size of the project they last worked on.
 ::::
 
-**Built examples.**
+**Built examples: recurring.**
 
 - **Aurora Solar**, sixteen sites across Minnesota (described above).
 - **Silicon Ranch and White Oak Pastures**, Georgia. Under Silicon Ranch's Regenerative Energy program, White Oak Pastures runs planned rotational grazing of sheep, and now cattle, across about 2,400 acres of solar farms ([Silicon Ranch](https://www.siliconranch.com/regenerative-energy-agrivoltaics/)).
@@ -124,7 +124,7 @@ The design answers to a target for water saved, and to cost and financing. It gi
 
 In California's San Joaquin Valley, **Westlands Solar Park** is part of a plan to convert up to ~136,000 acres of poorly drained, formerly irrigated land to solar and storage under the state's Sustainable Groundwater Management Act. Because the panels use no water, retiring the fields eases the overpumping that irrigated farming had caused [@stid2022]. *Figures are developer- and program-reported; see [Sources](sources.qmd).*
 
-**Built examples.**
+**Built examples: recurring.**
 
 - **Westlands Water District**, San Joaquin Valley, California (described above). About 7,700 acres of the district's formerly irrigated land had already gone to solar by the Public Policy Institute of California's count ([PPIC](https://www.ppic.org/publication/solar-energy-and-groundwater-in-the-san-joaquin-valley/)).
 
@@ -138,7 +138,7 @@ Seven more forms follow, sketched rather than worked through, applying the same 
 
 Solar fencerows stand two-sided (bifacial) panels upright in rows facing east and west, catching morning and evening sun and leaving the ground between them in crops. The rows run wide, around 8 m apart, because the farm machinery sets the spacing and the crop's need for light does not [@vaverkova2026]. That layout gives the clean case of annual field crops at [S1](farming-axis.qmd#sec-positions) that overhead arrays miss. Frameless double-glass panels and more posts per watt raise the build cost and lower the power per acre, and whether a field-crop rotation can pay for that on its own is still unknown.
 
-**Built examples.**
+**Built examples: recurring.**
 
 - **Donaueschingen-Aasen**, Baden-Württemberg, Germany. Next2Sun's 4.1 megawatts of vertical two-sided panels, built in 2020 on about 14 hectares, stand in rows 10 meters apart, and the ground between them is still cut for hay and silage ([pv magazine](https://www.pv-magazine.com/2020/10/08/agrivoltaic-project-with-vertically-mounted-bifacial-panels-goes-online-in-germany/)).
 - **South Burlington**, Vermont. The first vertical system of this kind in the United States, from iSun and Next2Sun: about 50 kilowatts on 3.7 acres, in rows 30 feet apart, with carrots, beets, and saffron planted between them ([Solar Power World](https://www.solarpowerworldonline.com/2023/12/isun-to-install-vertical-agrivoltaic-system-from-next2sun-in-vermont/)).
@@ -149,7 +149,7 @@ Solar fencerows stand two-sided (bifacial) panels upright in rows facing east an
 
 Pollinator meadow solar seeds the whole site to a native [ground layer](terminology.qmd#term-ground-layer) and times mowing or grazing around bloom [@blaydes2022]. What makes the form scale-led is its size. A community-solar garden of one to five megawatts is small enough that its whole meadow lies within the 1.5 kilometers a national analysis took as a pollinator's foraging range [@walston2018]. At two Minnesota solar sites of 4 and 5.5 megawatts, bees visited soybean flowers within fifteen meters of the planted habitat at about two and a half times the rate a hundred meters or more into the field [@walston2024]. The meadow is management's work, and reaching the neighbors is scale's. What holds the form together is the buyers: community-solar subscribers and pollinator-habitat certification give the planting a way to get paid for [@epri2021]. Getting it established takes several years and costs more to manage during that time than mowed turf. How much of the habitat value lasts once the site settles into routine maintenance is something nobody has followed long enough to say.
 
-**Built examples.**
+**Built examples: recurring.**
 
 - **Connexus Energy's SolarWise garden**, Ramsey, Minnesota. Bolton Bees set hives among its native grasses and wildflowers in 2017, the first commercial bee operation at a US solar site, and the honey is sold in grocery stores ([Modern Farmer](https://modernfarmer.com/2017/09/solar-honey-in-minnesota/)). With the hives, it is the S2 case.
 
@@ -159,7 +159,7 @@ Pollinator meadow solar seeds the whole site to a native [ground layer](terminol
 
 Restored-grassland solar puts a native seed mix under a large array and manages it with delayed or rotational mowing, treating the site as grassland restoration that happens to generate power [@walston2025]. Row cropping ends, and the soil-carbon claim depends on the perennial cover that replaces it [@krasner2025; @carvalho2024]. It is the typical large-scale [convergence case](farming-axis.qmd#sec-wedge) (§-@sec-wedge). The open question is how many years a seeding needs to reach the condition the studies report.
 
-**Built examples.**
+**Built examples: recurring.**
 
 - **Two Enel Green Power sites in southern Minnesota**, built on retired farmland and planted to native grasses and forbs. Over a five-year acoustic survey, 10 of 13 grassland bird species were more likely to turn up on the solar sites than on comparison ground [@walston2025].
 
@@ -169,7 +169,7 @@ Restored-grassland solar puts a native seed mix under a large array and manages 
 
 Pivot-corner recharge takes the dry corners a center pivot never reaches, ground already out of production, and shapes them to send rainfall down into the ground instead of off it [@yavari2022]. The corners are small and awkward, so the power output is minor, and what pays is a lease on ground that earned nothing. It is the supply-side partner to [retired-irrigation solar](#arch-water). That form cuts pumping across a whole district, while this one adds recharge on a few acres, and the pivot circle keeps farming right beside it. Researchers at the Kansas Geological Survey, Kansas State, and Michigan State are testing it over the Ogallala aquifer. The open question is how much of that water actually reaches the aquifer.
 
-**Built examples.**
+**Built examples: a pilot so far.**
 
 - **A Kansas Geological Survey demonstration**, with Kansas State University, Michigan State University, and Wheatland Electric Cooperative, is fitting pivot-corner arrays with gutters that send rainwater down toward the aquifer, under a Foundation for Food and Agriculture Research grant ([KU News](https://news.ku.edu/news/article/kgs-to-explore-on-farm-integration-of-solar-energy-water-management)). It is still being tested, and no built example has reported results yet.
 
@@ -179,7 +179,7 @@ Pivot-corner recharge takes the dry corners a center pivot never reaches, ground
 
 A farm-load microgrid is built next to a heavy on-farm power user, such as grain drying, cold storage, a feedlot, or a processing plant, with batteries sized to shave demand peaks, keep things running through outages, or store cheap power for when rates are high. The farm's own use is the [offtake](terminology.qmd#term-offtake), the buyer of the power, which makes this the one form here organized around *when* power is used instead of what the ground does. The [community and economic function](restorative-functions.qmd#sec-fn-community) shows up as resilience rather than rent. The ground layer is rarely the point at an industrial yard, and the battery economics depend on electricity rates that can be rewritten.
 
-**Built examples.**
+**Built examples: one so far.**
 
 - **Producers Rice Mill**, Stuttgart, Arkansas. Twenty megawatts of solar and 41.2 megawatt-hours of batteries supply two-thirds of the mill's power and keep it running when the utility cuts supply. The mill is a cooperative owned by more than 2,000 rice farmers ([Solar Builder](https://solarbuildermag.com/projects/new-solar-storage-microgrid-to-aid-producers-rice-mill-in-arkansas/)).
 - **K&MH Martens Farms**, New York. A 300-kilowatt array funded by NYSERDA in 2025 is to run a microgrid for the farm's grain processing and shade its grazing dairy cattle ([NYSERDA](https://www.nyserda.ny.gov/About/Newsroom/2025-Announcements/2025-11-05-NYSERDA-Announces-Over-7-Million-Awarded-To-Co-Locate-Solar-And-Agricultural-Ops)). It is planned, not yet built.
@@ -190,7 +190,7 @@ A farm-load microgrid is built next to a heavy on-farm power user, such as grain
 
 Vegetable [agrivoltaics](terminology.qmd#term-agrivoltaics) keeps shade-tolerant food crops growing beneath raised, widely spaced panels: greens, tomatoes, peppers, the things a market garden already sells. The clearance is set by hand work and small equipment, and the row spacing by how much light the crop needs rather than by how tightly the parcel could be packed. It takes more engineering than any other form in this chapter, and it is the most sensitive to climate. Shade beyond what the crop can tolerate cuts yield, while in hot, dry places the same shade eases heat and water stress [@barrongafford2019]. It is also the most studied. Jack's Solar Garden in Colorado runs 1.2 megawatts of [tracking](terminology.qmd#term-tracking-curtailment) panels over four acres as a research site for NREL, Colorado State, and University of Arizona researchers. The open question is whether the form will keep being built once research funding is not part of the budget. An annual rotation has to pay back permanent structure every season, a trade a [perennial planting](#arch-permanent-crop) is never asked to make.
 
-**Built examples.**
+**Built examples: recurring.**
 
 - **Jack's Solar Garden**, Longmont, Colorado (described above).
 - **University of Massachusetts Amherst**, South Deerfield, Massachusetts. The Crop and Animal Research and Education Farm has run a dual-use research array since 2010, raised high enough to farm beneath. The university now studies working dual-use farms across the state, with lettuce and squash in Grafton and broccoli, spinach, and sweet corn in Hadley ([UMass Amherst](https://www.umass.edu/agriculture-food-environment/clean-energy/research-initiatives/agrivoltaics)).
@@ -201,8 +201,9 @@ Vegetable [agrivoltaics](terminology.qmd#term-agrivoltaics) keeps shade-tolerant
 
 A brightfield puts an array on reclaimed mine land, a closed landfill, or a brownfield [@hernandez2019]. That ground is cheap because nothing else will take it, and welcome because the neighbors have watched it sit idle. Where the cleanup leaves a ground layer a flock can graze, the site counts as [S0](farming-axis.qmd#sec-positions) rather than S4, because the array brought a use to ground that had none. The cleanup drives the engineering, limiting what foundations can go in and what the ground layer can be, and constrained sites like these give up some generation. It is the standing [exception where S4 reaches A5](farming-axis.qmd#sec-wedge) (§-@sec-wedge). Whether enough of this ground sits close enough to a grid connection ([interconnection](terminology.qmd#term-interconnection)) to matter at regional scale is still unresolved.
 
-**Built examples.**
+**Built examples: recurring.**
 
 - **Shrewsbury Electric & Cable Operations**, Shrewsbury, Massachusetts. A 3-megawatt array on a capped landfill, with 11.5 acres kept by a flock of Katahdin sheep: the S0 case, a farm use begun on ground that had none ([American Public Power Association](https://www.publicpower.org/periodical/article/sheep-return-selco-solar-array-massachusetts-landfill-grazing)).
 - **Sunnyside**, Houston, Texas. A 50-megawatt project on a 240-acre landfill closed for decades, planned with sheep grazing under the panels ([AgriSolar Clearinghouse](https://www.agrisolarclearinghouse.org/houstons-50-megawatt-solar-project-to-be-built-on-former-landfill/)).
+- **Across the country**, EPA's RE-Powering America's Land initiative counts over 600 renewable energy projects on contaminated land ([EPA](https://www.epa.gov/re-powering/benefits-matrix)).
 

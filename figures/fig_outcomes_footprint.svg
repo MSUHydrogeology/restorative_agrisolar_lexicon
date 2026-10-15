@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="592" height="444" viewBox="124 68 592 444" role="img">
 <title>The outcomes footprint: a project read across four domains and eight outcomes</title>
-<desc>A radial plot with four domains, one for each restorative function, and two outcomes inside each. Communities carries financial security and livability. Agriculture carries food production and soil quality. Water carries quantity and quality. Ecology carries diversity and connectivity. Every spoke runs from causing harm at the center, through a dashed ring where the domain is left no worse than it was found, out to promoting benefit at the rim, so a bigger footprint is a better project. The ring marks where the sign changes rather than a standard a project is expected to clear. The shaded polygon is a worked example rather than a measurement.</desc>
+<desc>A radial plot with four domains, one for each restorative function, and two outcomes inside each. Communities carries financial security and livability. Agriculture carries food production and soil quality. Water carries quantity and quality. Ecology carries diversity and connectivity. Every spoke runs from causing harm at the center, through a dashed ring where the domain is left no worse than it was found, out to promoting benefit at the rim, so a bigger footprint is a better project. The ring marks where the sign changes rather than a standard a project is expected to clear. The shaded polygon is a worked example rather than a measurement. The shape is a hypothetical example, not a measurement.</desc>
 <style>
 text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 .dm{font-size:14px;font-weight:700;letter-spacing:.03em}
@@ -51,4 +51,5 @@ text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Aria
 <text class="rg" x="408" y="278">harm</text>
 <text class="rg" x="530" y="278">no worse</text>
 <text class="rg" x="604" y="278">benefit</text>
+<text x="710" y="505" fill="#7a7973" font-size="12" font-style="italic" text-anchor="end">hypothetical example</text>
 </svg>

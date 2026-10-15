@@ -150,7 +150,7 @@ The second, largely scale-independent dimension: whether the array shares land w
 
 ### S0 — Created agriculture {#term-s0}
 
-A farm takes something off ground that carried no agricultural use before the array: a capped landfill or a decommissioned industrial parcel grazed under panels, previously developed urban and peri-urban ground put back to stock. It is the only position that records a use beginning rather than one kept, stepped down, or lost. That puts it past the sharing end, and on the [starting a benefit](restorative-functions.qmd#sec-harm-benefit) side of the split rather than the harm-reduction side the other five share. Uncommon, and no claim about quality. See [§-@sec-positions](farming-axis.qmd#sec-positions).
+A farm takes something off ground that carried no agricultural use before the array: a capped landfill or a decommissioned industrial parcel grazed under panels, previously developed urban and peri-urban ground put back to stock. It is the only position that records a use beginning rather than one kept, made less intensive, or lost. That puts it past the sharing end, and on the [starting a benefit](restorative-functions.qmd#sec-harm-benefit) side of the split rather than the harm-reduction side the other five share. Uncommon, and no claim about quality. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S1 — Primary agriculture {#term-s1}
 
@@ -158,15 +158,15 @@ The agricultural use continues essentially as it was, with the array added over 
 
 ### S2 — Secondary agriculture {#term-s2}
 
-The ground still carries an agricultural use, but a lesser one than it carried before: cropland grazed instead of cropped, or a sown layer worked for forage, hay, or hives. Agriculture continues; its value is stepped down. Available at every scale, and with [S1](#term-s1) and [S3](#term-s3) the spine of the [feasible wedge](#term-feasible-wedge), since grazing splits across S1 and S2 by what the ground carried before. See [§-@sec-positions](farming-axis.qmd#sec-positions).
+The ground still carries an agricultural use, but a less intensive one than it carried before: cropland grazed instead of cropped, or a sown layer worked for forage, hay, or hives. Less intensive means fewer passes, inputs, and harvests a year; it says nothing about whether the new use earns less. Available at every scale, and with [S1](#term-s1) and [S3](#term-s3) the spine of the [feasible wedge](#term-feasible-wedge), since grazing splits across S1 and S2 by what the ground carried before. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S3 — Ordinary-land siting {#term-s3}
 
-Neither sharing nor sparing: the array takes ordinary productive ground outright and the revenue sustains the farm enterprise holding it, so the restoration is about people and money before it is about soil and water. Where the rent reaches a non-farming owner and the operation ends, the site is [bare conversion](#term-bare-conversion) instead. The center of the axis, and where most projects sit. See [§-@sec-positions](farming-axis.qmd#sec-positions).
+Neither sharing nor sparing: the array takes ordinary productive ground out of farming. The position records only that. Whether a lease keeps the farm business going, or the rent leaves with an owner who does not farm, is read on the [restorative functions](#term-restorative-function), not here. An S3 site that does no restorative work on any function is a [bare conversion](#term-bare-conversion). The center of the axis, and where most projects sit. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S4 — Low-productivity siting {#term-s4}
 
-The array takes ground that was already idle, marginal, or chronically low-yielding, so nothing in production was displaced to build it. The name records the ground taken, which can be checked on site. The benefit, that productive land elsewhere went unbuilt, is a [landscape claim](#term-displaced-benefit). It is carried by the definition rather than the name, because it cannot be seen at the site. See [§-@sec-positions](farming-axis.qmd#sec-positions).
+The array takes ground that was already idle, marginal, or chronically low-yielding, so little or nothing in production was displaced to build it. Ground that also carries a measurable burden is [S5](#term-s5) instead. The name records the ground taken, which can be checked on site. The benefit, that productive land elsewhere went unbuilt, is a [landscape claim](#term-displaced-benefit). It is carried by the definition rather than the name, because it cannot be seen at the site. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### S5 — Impaired-land siting {#term-s5}
 
@@ -174,7 +174,7 @@ The array takes ground that carried a measurable off-site burden such as high ru
 
 ### Bare conversion {#term-bare-conversion}
 
-Ordinary ground converted with the farm operation ended: the same ground fact as S3 without the restorative one. The non-restorative baseline the axis is read against, not a position on it. See [§-@sec-positions](farming-axis.qmd#sec-positions).
+An array on ordinary ground (S3) that does no restorative work on any function: the farm operation ends, the rent leaves, and nothing is asked of the ground. It sits at S3 on the axis; what makes it bare is the functions reading, which is empty. The non-restorative baseline other projects are read against. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### Feasible wedge {#term-feasible-wedge}
 
@@ -259,7 +259,7 @@ Developed in [§-@sec-archetypes, Archetypal Forms](archetypal-forms.qmd).
 
 ### Archetype {#term-archetype}
 
-A recurring way the [design pressures](#term-design-pressures) have been resolved at a particular scale zone and sharing position, carrying particular functions. Used in its plain sense, meaning a characteristic, transformable pattern rather than an exhaustive set. See [Archetypes](archetypal-forms.qmd).
+A recurring way the [design pressures](#term-design-pressures) have been resolved at a particular scale zone and sharing position, carrying particular functions. Used in its plain sense, meaning a characteristic, transformable pattern rather than an exhaustive set. Each form is marked by how established it is: recurring, one documented project so far, or a pilot. See [Archetypes](archetypal-forms.qmd).
 
 *Plain sense, deliberately.* Sustainability research runs a formal method under this word, *archetype analysis*, which sorts many cases into recurrent configurations of causal factors and tests the groupings against data [@eisenack2021]. These archetypes are not that. They were assembled from practice rather than derived from a sample, they are not claimed to be exhaustive, and a real project can sit between two of them. The entry says "plain sense" to keep the stronger, methodological claim from being read into the word.
 
@@ -327,6 +327,8 @@ A production-based term: co-location that keeps *active agricultural production*
 ### Restorative {#term-restorative}
 
 The frame of this entire lexicon rather than a dimension within it. Applied when ecological, hydrological, or economic ground-layer function is a design objective co-equal with generation, not an incidental byproduct. US arrays are designed primarily to maximize output and minimize cost; co-benefits arrive incidentally or through a patchwork of state and local policy [@hernandez2014; @mccall2023]. *Restorative* names the deliberate alternative.
+
+A restorative claim can rest on three different things, and they are worth keeping apart: what a project **intended**, what its design or agreements **secure**, and what monitoring has **measured**. A project can be restorative on one reading and unknown on the others, and naming it in this lexicon certifies none of them. Rabbit Hills shows the difference: two studies measured its water and forage, while nothing found so far says the grazing was meant as restoration or that any agreement requires it to continue.
 
 *Borrowed, and worth placing.* The word comes from restorative design [@reed2007], where it sits one rung below *regenerative*: restorative returns a system to health, regenerative leaves it able to keep renewing itself. The lexicon keeps that modesty deliberately and widens the scope, so the word covers hydrologic, agricultural, and community function and not ecology alone. It is not the solar trade's *site restoration*, which is what a decommissioning plan owes when a lease ends, and not restoration to a reference ecosystem in the sense ecological restoration uses. The compound *restorative agrisolar* is the lexicon's own.
 

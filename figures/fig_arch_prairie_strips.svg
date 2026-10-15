@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 14 820 254" width="820" height="254" font-family="ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" role="img">
 <title>Solar Prairie Strips</title>
-<desc>Section through a sloping crop field, drawn at eight SVG units to the meter. Five rows stand mid-slope on a contour band of deep-rooted native prairie, raised clear of the standing vegetation. The band intercepts runoff coming down the hill, traps sediment at its upslope edge, and carries roots far below the crop rooting depth so water moves downward instead of across. Flow leaving the strip is reduced. Sunlight falls from the upper left, and the rows throw bands of shade that run downslope. Its outcomes footprint sits at the right: Ecology and Water almost at the rim, Agriculture pulled in toward the center, which is the trade this form makes on purpose.</desc>
+<desc>Section through a sloping crop field, drawn at eight SVG units to the meter. Five rows stand mid-slope on a contour band of deep-rooted native prairie, raised clear of the standing vegetation. The band intercepts runoff coming down the hill, traps sediment at its upslope edge, and carries roots far below the crop rooting depth so water moves downward instead of across. Flow leaving the strip is reduced. Sunlight falls from the upper left, and the rows throw bands of shade that run downslope. Its outcomes footprint sits at the right: Ecology and Water almost at the rim, Agriculture pulled in toward the center, which is the trade this form makes on purpose. The footprint is hypothetical, not yet measured.</desc>
 
 <defs>
   <!-- Shared glyphs. The module is one 3.0 m table, drawn at each figure's own
@@ -155,6 +155,7 @@
 <circle cx="694.9" cy="113.1" r="2.6" fill="#6f6d66"/>
 <circle cx="689.2" cy="161.2" r="2.6" fill="#6f6d66"/>
 <circle cx="632.6" cy="175.4" r="2.6" fill="#6f6d66"/>
+<text x="668" y="72" fill="#7a7973" font-size="12" font-style="italic" text-anchor="middle">hypothetical, not yet measured</text>
 <text x="620" y="96" fill="#639922" font-size="12.5" font-weight="700" text-anchor="end">Ecology</text>
 <text x="716" y="96" fill="#2f7f70" font-size="12.5" font-weight="700" text-anchor="start">Communities</text>
 <text x="716" y="194" fill="#a8894f" font-size="12.5" font-weight="700" text-anchor="start">Agriculture</text>
