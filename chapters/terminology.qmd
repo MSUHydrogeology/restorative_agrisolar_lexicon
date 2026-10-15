@@ -166,7 +166,7 @@ The array takes ground that was already idle, marginal, or chronically low-yield
 
 ### S5 — Impaired-land siting {#term-s5}
 
-The array takes ground that carried a measurable off-site burden such as high runoff, nutrient or pesticide export, or irrigation draw beyond the aquifer's budget, or ground positioned where such a burden can be intercepted. Unlike S4, the act works on the ground taken itself: production ends and the burden ends with it. The largest American case is corn grown for ethanol, about 12 million hectares that already grow energy rather than food. A hectare of utility-scale solar yields the energy of roughly 31 hectares of that corn, and retiring the fields that lose the most nutrients would cut an estimated 54.8 million kg of nitrogen applied each year [@sturchio2025croplands]. See [§-@sec-positions](farming-axis.qmd#sec-positions).
+The array takes ground that carried a measurable off-site burden such as high runoff, nutrient or pesticide export, or irrigation draw beyond the aquifer's budget, or ground positioned where such a burden can be intercepted. Unlike S4, the act works on the ground taken itself: production ends and the burden ends with it. The largest American case is corn grown for ethanol, about 12 million hectares that already grow energy rather than food. A hectare of utility-scale solar yields the energy of roughly 31 hectares of that corn, and putting the roughly 391,000 hectares of corn that solar would need to match the ethanol's energy under unfertilized perennial cover would cut nitrogen applied by an estimated 54.8 million kg [@sturchio2025croplands]. See [§-@sec-positions](farming-axis.qmd#sec-positions).
 
 ### Bare conversion {#term-bare-conversion}
 
@@ -239,7 +239,7 @@ The kind of delivery in which the benefit is ground nearby that stayed as it was
 
 ### Co-benefit {#term-cobenefit}
 
-The field's usual word for what this lexicon calls a [restorative function](#term-restorative-function). Recorded here because it is what practitioners will say, and used here only to describe how others frame the same ground. The term's meaning is admittedly unsettled, and the word itself demotes what it names, since a *co-*benefit comes along with the real goal [@mayrhofer2016]. This lexicon argues that these are goals in their own right, so it does not use the word. *Cf.* **techno-ecological synergy**, the literature's own attempt at a framing that does not subordinate them [@hernandez2019].
+The field's usual word for what this lexicon calls a [restorative function](#term-restorative-function). Recorded here because it is what practitioners will say, and used here only to describe how others frame the same ground. The term's meaning is unsettled [@mayrhofer2016], and the word itself demotes what it names, since a *co-*benefit comes along with the real goal. This lexicon argues that these are goals in their own right, so it does not use the word. *Cf.* **techno-ecological synergy**, the literature's own attempt at a framing that does not subordinate them [@hernandez2019].
 
 ### Outcomes footprint {#term-scale-footprint}
 
@@ -281,7 +281,7 @@ Agrisolar can also be classified from map data alone, as described in [Classifyi
 
 ### Agrivoltaics {#term-agrivoltaics}
 
-Crop or livestock production within the array footprint (S0–S2). Crop response to shade is climate- and crop-dependent; a synthesis of 367 paired observations found yield response turning positive only in hotter conditions [@merheb2025].
+Crop or livestock production within the array footprint (S0–S2). Crop response to shade is climate- and crop-dependent; a review pooling 367 shade-versus-sun comparisons found agrivoltaic yield response turning positive only above about 30 °C [@merheb2025].
 
 **Syn.:** agrophotovoltaics (German); photovoltaic agriculture (Chinese); solar sharing (Japanese); agri-PV; PV agriculture; aglectric.
 
@@ -311,7 +311,7 @@ A production-based term: co-location that keeps *active agricultural production*
 
 ### Restorative {#term-restorative}
 
-The frame of this entire lexicon rather than a dimension within it. Applied when ecological, hydrological, or economic ground-layer function is a design objective co-equal with generation, not an incidental byproduct. US arrays are designed primarily to maximize output and minimize cost; co-benefits arrive incidentally or through a patchwork of state and local policy [@hernandez2014; @mccall2023]. *Restorative* names the deliberate alternative.
+The frame of this entire lexicon rather than a dimension within it. Applied when ecological, hydrological, or economic ground-layer function is a design objective co-equal with generation, not an incidental byproduct. US arrays are designed primarily to maximize output and minimize cost (§-@sec-pressures); co-benefits arrive incidentally or through a patchwork of state and local policy [@hernandez2014]. *Restorative* names the deliberate alternative.
 
 A restorative claim can rest on three different things, and they are worth keeping apart: what a project **intended**, what its design or agreements **secure**, and what monitoring has **measured**. A project can be restorative on one reading and unknown on the others, and naming it in this lexicon certifies none of them. Rabbit Hills shows the difference: two studies measured its water and forage, while nothing found so far says the grazing was meant as restoration or that any agreement requires it to continue.
 
@@ -357,7 +357,7 @@ The instruments through which a project returns value to its host community: com
 
 ### Microclimate {#term-microclimate}
 
-The array's reshaping of the near-surface energy balance: shade lowers daytime soil and plant temperatures and the vapor-pressure deficit under the panels, while the panels hold in heat and keep nights warmer, so conditions underneath swing less across the day [@sturchio2023; @pinos2026; @barrongafford2019]. It is a **mechanism rather than a [function](#term-restorative-function)**. The lexicon stopped listing it as a function because its results are already counted elsewhere: retained moisture is the water function, thermal refuge is ecology, and relief for a shade-tolerant crop, shelter for stock, and shade for the people working there are agriculture. Its sign flips with climate and crop, and it is carried by the [structure](#term-design-levers) lever throughout. See [§-@sec-functions](restorative-functions.qmd#sec-functions).
+The array's reshaping of the near-surface energy balance: shade lowers daytime air temperature and the vapor-pressure deficit under the panels, while the panels hold in heat and keep nights warmer, so conditions underneath swing less across the day [@barrongafford2019]. Not every site follows that pattern: between the rows of one desert array, air ran warmer by day and cooler at night [@pinos2026]. It is a **mechanism rather than a [function](#term-restorative-function)**. The lexicon stopped listing it as a function because its results are already counted elsewhere: retained moisture is the water function, thermal refuge is ecology, and relief for a shade-tolerant crop, shelter for stock, and shade for the people working there are agriculture. Its sign flips with climate and crop, and it is carried by the [structure](#term-design-levers) lever throughout. See [§-@sec-functions](restorative-functions.qmd#sec-functions).
 
 ### Ground Layer {#term-ground-layer}
 
