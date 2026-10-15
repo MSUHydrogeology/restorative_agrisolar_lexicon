@@ -2,7 +2,7 @@
 <title>Where the spatial vocabulary lives</title>
 <desc>Two panels. Above, a parcel in plan: a block of array rows labeled the footprint, spanning two holdings whose shared boundary is labeled land assembly; a hedgerow along the near edge labeled screening, running out to a woodlot labeled connectivity; a larger and lopsided dashed outline reaching past the parcel toward a watercourse, labeled the influence zone; a hatched patch of poor ground in one corner labeled marginal land; and a line from the array to a substation off the parcel, labeled interconnection. Below, five rows of one array in section standing on a ground layer over soil, with a dashed original ground surface beneath labeled mass grading, and labels for the clearance under the lowest panel edge, the flock under the first row, the spacing between rows, the tracking that turns the second, the ground the third covers, the pore space the fourth leaves beneath it, the racking that carries them, and a fifth row standing vertically to show module technology.</desc>
 <style>
-text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,sans-serif}
 .hd{font-size:14px;font-weight:700;letter-spacing:.14em;fill:#6f6d66}
 .tt{font-size:14.5px;font-weight:600;fill:#3d3d3a;paint-order:stroke;stroke:#f0eee8;stroke-width:4px;stroke-linejoin:round}
 /* each label is haloed in the color it sits on, so a line passing behind it breaks cleanly */

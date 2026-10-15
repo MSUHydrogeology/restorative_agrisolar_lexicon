@@ -2,7 +2,7 @@
 <title>The farming axis, drawn</title>
 <desc>Six panels side by side, one per position, all drawn at the same scale because the axis does not depend on how big a project is. S0 Created agriculture: ground that was built on, its old foundations still showing through the sward, carrying a flock under the rows that no farm worked before. S1 Primary agriculture: the use the ground already carried, continued under wide rows. S2 Secondary agriculture: a farm still works it, less intensively than before, as grazing. S3 Ordinary-land siting: an ordinary field taken, with the farmstead beyond the fence. S4 Low-productivity siting: the poor remnant taken and the good ground left working. S5 Impaired-land siting: ground carrying a burden, taken and planted against it. The tint runs deep blue at the sharing end through neutral at S3 to purple at the sparing end.</desc>
 <style>
-text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,sans-serif}
 .hd{font-size:14px;font-weight:700;letter-spacing:.14em;fill:#6f6d66}
 .cd{font-size:21px;font-weight:700;fill:#ffffff}
 .nm{font-size:13px;font-weight:700;letter-spacing:.02em;fill:#ffffff}

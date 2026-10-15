@@ -6,7 +6,7 @@
 <pattern id="hatchD" width="3.5" height="3.5" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="3.5" stroke="#8f8d84" stroke-width="1"/></pattern>
 </defs>
 <style>
-text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,sans-serif}
 .ts{font-size:13.5px;fill:#5f5e5a}.rl{font-size:13.5px;font-weight:600;fill:#3d3d3a}
 .s1{fill:#1c4c73}.s2{fill:#2f6b96}.s3{fill:#6f6d66}.s4{fill:#6a4a91}.s5{fill:#46295f}
 .an{font-size:12px;fill:#7a7973}

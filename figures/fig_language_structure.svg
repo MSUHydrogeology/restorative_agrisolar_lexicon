@@ -2,7 +2,7 @@
 <title>How the design language fits together</title>
 <desc>Top row: nine design pressures, drawn as the four-wedge disc from the pressures chapter, push on a bank of six levers. Three pressures push toward restoration, three push away, and three go either way. The levers are scale, siting, structure, management, ownership, and contracts, and each carries the color of the restorative work it can lead, scale included. Bottom row: what a lever setting produces. A position on the scale transect from A1 to A5, a position on the farming axis from S0 to S5, the lever that leads the restorative work, and the restorative functions, read as a footprint across Communities, Agriculture, Water, and Ecology that runs from causing harm at the center out to promoting benefit at the rim.</desc>
 <style>
-text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,sans-serif}
 .eb{font-size:12.5px;font-weight:700;fill:#7a7973;letter-spacing:.07em}
 .nm{font-size:12px;font-weight:600;fill:#2c2c2a}
 .ot{font-size:14px;font-weight:600;fill:#2c2c2a}

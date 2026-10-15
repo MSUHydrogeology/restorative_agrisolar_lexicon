@@ -3,7 +3,7 @@
 <desc>Six levers standing in a bank, drawn as faders on a rail. Scale sits alone at the left behind a rule, in green, because it sets the frame the others work inside as well as doing restorative work of its own at the array's edges. Siting, structure and management follow as a group, in three deepening shades of tan and brown, bracketed as the levers that act on the ground and are bounded by how much ground there is. Ownership and contracts follow behind a second rule, in two shades of blue, bracketed as institutional levers that are not bounded by ground. Under each lever is its design work, what it decides, and its restorative work, what it can deliver. The handles sit at different heights, because a lever is something set rather than a fixed label. The particular settings are arbitrary and describe no project.</desc>
 
 <style>
-text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,sans-serif}
 .nm{font-size:13px;font-weight:700;letter-spacing:.06em;fill:#3d3d3a}
 .de{font-size:12px;fill:#5f5e5a}
 .dl{font-size:12px;font-style:italic;fill:#7a7973}

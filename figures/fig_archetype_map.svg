@@ -2,7 +2,7 @@
 <title>Where the archetypes sit, and which lever does their work</title>
 <desc>A grid with the five ground-taking zones of the scale transect across the top, A1 Farmstead to A5 Complex, and the six farming-axis positions down the side, S0 Created agriculture at the top through S5 Impaired-land siting at the bottom. Each of the thirteen archetypes is drawn as a bar spanning the zones it recurs at, in the row of its farming-axis position, colored by the lever that leads its restorative work. Filled bars are the six featured archetypes, outlined bars the seven sketched ones, and dashed bars a position a form takes only in some cases. The primary-agriculture row runs from A1 to A5, carried at A1 by barnyard shelter and from A2 to A5 by grazing. Hatched cells mark combinations that rarely get built: sparing at A1, and impaired-land siting at A2, where the acreage spares almost nothing, and low-productivity siting at A5, where scattered remnants will not assemble and only brightfields reach. Every clear cell is possible, including created agriculture at any size. Ten of the thirteen forms reach A3. Read left to right, the colors tend to shift from ownership and structure at the small end, through siting and scale in the middle, to management and contracts at the large end.</desc>
 <style>
-text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,sans-serif}
 .zc{font-size:13px;font-weight:700;fill:#2c2c2a}.zn{font-size:12px;fill:#3d3d3a}
 .rc{font-size:15px;font-weight:700}.rn{font-size:11.5px;fill:#5f5e5a}
 .bl{font-size:12px;font-weight:600}.bd{font-size:12px;font-style:italic;fill:#4a4944}

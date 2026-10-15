@@ -2,7 +2,7 @@
 <title>Nine design pressures converging on one site, grouped by which way they push on restoration</title>
 <desc>Nine design pressures drawn as arrows converging on a central disc labeled one site's resolution. The disc is divided into four wedges. A teal wedge on the right holds the three pressures that push toward restoration: community acceptance and benefit, restorative goals, and end-of-life responsibility. A terracotta wedge on the left holds the three that push away: energy yield, cost and financing, and operations and maintenance. Two gray wedges hold the three that go both ways: agricultural production and grid and market demands at the top, and policy and permission alone at the bottom. Because gray sits at both boundaries between the colored wedges, the toward and away groups never touch. Arrows are evenly spaced forty degrees apart and all the same length; the figure claims a direction, not a magnitude.</desc>
 <style>
-text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,sans-serif}
 .nm{font-size:13px;font-weight:600;fill:#3d3d3a}
 .fn{font-size:11.5px;fill:#7a7973}
 .ct{font-size:12.5px;font-style:italic;fill:#5f5e5a}

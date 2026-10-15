@@ -3,7 +3,7 @@
 <desc>Six panels side by side, one per zone, each drawn at its own scale so the array grows while the frame stays the same size. A0 Rooftop is a close view of a hip-roofed barn carrying panels on its roof and taking no ground, on a gray band because it sits at the origin of the gradient rather than on it. A1 Farmstead is a farmyard where three rows sit beside the barn and the cattle keep the yard. A2 Commercial is a small array in an awkward field corner with the crop still working the rest. A3 Community is a mid-sized array filling one field, bordered by a sown strip, with houses and a distribution line nearby. A4 Utility is rows across assembled ground with a substation and a contract flock. A5 Complex is array to the horizon under transmission, with a gap where the assembly did not get the ground. The ground color deepens from A1 to A5 and fills each panel, with no sky above it.</desc>
 
 <style>
-text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,sans-serif}
 .hd{font-size:14px;font-weight:700;letter-spacing:.14em;fill:#6f6d66}
 .cd{font-size:21px;font-weight:700;fill:#ffffff}
 .cd0{font-size:21px;font-weight:700;fill:#f2f1ec}

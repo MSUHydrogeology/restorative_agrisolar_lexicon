@@ -10,7 +10,7 @@
      by value, at 150 / 106 / 63, which is what lets them be told apart on a pane
      where all three cross. A slider bank needs no such spread; a line chart does. -->
 <style>
-text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,sans-serif}
 .ax{font-size:11.5px;fill:#7a7973}
 .zl{font-size:12.5px;font-weight:600;fill:#173404}
 .zl3{font-size:14.5px}

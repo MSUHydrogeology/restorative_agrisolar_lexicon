@@ -2,7 +2,7 @@
 <title>The outcomes footprint: a project read across four domains and eight outcomes</title>
 <desc>A radial plot with four domains, one for each restorative function, and two outcomes inside each. Communities carries financial security and livability. Agriculture carries food production and soil quality. Water carries quantity and quality. Ecology carries diversity and connectivity. Every spoke runs from causing harm at the center, through a dashed ring where the domain is left no worse than it was found, out to promoting benefit at the rim, so a bigger footprint is a better project. The ring marks where the sign changes rather than a standard a project is expected to clear. The shaded polygon is a worked example rather than a measurement. The shape is a hypothetical example, not a measurement.</desc>
 <style>
-text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,sans-serif}
 .dm{font-size:14px;font-weight:700;letter-spacing:.03em}
 .ax{font-size:11.5px;fill:#5f5e5a}
 .rg{font-size:10.5px;fill:#8a8880}

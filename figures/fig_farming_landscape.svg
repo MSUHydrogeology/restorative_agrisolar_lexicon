@@ -2,7 +2,7 @@
 <title>The farming axis across a working landscape</title>
 <desc>A block diagram of rolling farmland cut by a stream, with three farmsteads, a section-road grid, a substation, and a small town with a water tower. Arrays sit in eight places, each outlined in the color of its farming-axis position. S0: a closed landfill cap at the town edge, grazed under the array. S1: a sheep pasture that stays a pasture under the rows. S2: a corn field turned to grazing under an array. S3: a whole ordinary field taken beside the substation and mown. S4: two rows along a road edge, and a small array on an eroded knoll. S5: rows on the shoulders of a grassed waterway in a soybean field, and rows set in a prairie strip on the contour above the stream.</desc>
 <style>
-text{font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+text{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,sans-serif}
 .chip{font-size:14px;font-weight:700;fill:#ffffff}
 .cd{font-size:21px;font-weight:700;fill:#ffffff}
 .nm{font-size:13px;font-weight:700;letter-spacing:.02em;fill:#ffffff}
