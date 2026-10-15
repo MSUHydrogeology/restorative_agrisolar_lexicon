@@ -69,4 +69,6 @@ format:
     template-partials:
       - typst/typst-show.typ
     filters:
+      - path: filters/typst-tabs.lua
+        at: pre-ast
       - filters/typst-lexicon.lua

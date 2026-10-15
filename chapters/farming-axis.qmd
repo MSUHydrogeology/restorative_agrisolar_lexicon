@@ -33,9 +33,23 @@ S4 and S5 differ in where the benefit goes. S5 does its good on the ground it to
 Ground that fits both S4 and S5, such as a wet corner that also leaks nitrate, is **S5**, because ending the burden is what the array does there. An array spread over more than one kind of ground takes the position of most of its footprint, with the rest noted beside it.
 :::
 
-Asked across a whole landscape, those two questions sort arrays by the ground each one went onto. One stretch of farmland can hold every position at once, often more than one on the same farm (@fig-farming-landscape).
+Asked across a whole landscape, those two questions sort arrays by the ground each one went onto. One stretch of farmland can hold every position at once, often more than one on the same farm (@fig-farming-landscape). The same positions turn up in every region on different ground: the dry corners of a pivot in an irrigated western valley (@fig-farming-landscape-west), an old field gone to brush in an eastern dairy valley (@fig-farming-landscape-east).
 
-![**The Axis Across a Landscape.** Eight arrays on three farms and a town edge, each outlined in the color of its position. The arrays themselves are much alike; what sets their positions apart is the ground each one went onto. Both S5 sites end a burden of moving water: one runs along the shoulders of a grassed waterway seeded into a gullying swale, and one sits in a prairie strip on the contour. Panel rows and relief are exaggerated so they read at this scale.](../figures/fig_farming_landscape.svg){#fig-farming-landscape}
+::: {.panel-tabset}
+
+### Midwest
+
+![**The Axis Across a Midwestern Landscape.** Eight arrays on three farms and a town edge, each outlined in the color of its position. The arrays themselves are much alike; what sets their positions apart is the ground each one went onto. Both S5 sites end a burden of moving water: one runs along the shoulders of a grassed waterway seeded into a gullying swale, and one sits in a prairie strip on the contour. Panel rows and relief are exaggerated so they read at this scale.](../figures/fig_farming_landscape.svg){#fig-farming-landscape}
+
+### West
+
+![**The Axis Across a Western Valley.** Eight arrays on an irrigated valley floor and the dry foothills above it, each outlined in the color of its position. The two S4 arrays fill the dry corners a center pivot never reaches. The S5 field sits where pumping from an overdrawn aquifer was retired, its old pivot tracks still faint under the panels. Panel rows and relief are exaggerated so they read at this scale.](../figures/fig_farming_landscape_west.svg){#fig-farming-landscape-west}
+
+### East
+
+![**The Axis Across an Eastern Dairy Valley.** Seven arrays among small fields, hedgerows, and a village, each outlined in the color of its position. The hill pasture and the heifer yard keep their stock. The creekside field, which used to wash into the creek, now sits in perennial meadow under the panels. Panel rows and relief are exaggerated so they read at this scale.](../figures/fig_farming_landscape_east.svg){#fig-farming-landscape-east}
+
+:::
 
 ## Which positions each scale allows {#sec-wedge}
 
