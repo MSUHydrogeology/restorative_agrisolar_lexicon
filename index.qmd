@@ -59,10 +59,12 @@ The claims in this lexicon rest on evidence of very different strength. Grasslan
 
 ## Joining in {#sec-joining}
 
-The most useful thing anyone can send is an account of a real project, working or not. The
-[Describe a project](https://github.com/MSUHydrogeology/restorative_agrisolar_lexicon/issues/new?template=describe-a-project.yml) form asks what the ground was
-before, what changed, who runs it, what was promised, what was measured, and what did not work.
-Corrections, counterexamples, and proposed terms are welcome as issues or pull requests on
+The most useful thing anyone can send is a description of a real project, working or not. The
+[Describe a project](https://github.com/MSUHydrogeology/restorative_agrisolar_lexicon/issues/new?template=describe-a-project.yml) form on GitHub asks what the ground
+was before, what changed, who runs it, what was promised, what was measured, and what did not work.
+Without a GitHub account, send the same by email to Anthony Kendall at
+[kendal30@msu.edu](mailto:kendal30@msu.edu). Corrections, counterexamples, and proposed terms are
+welcome by email too, or as issues or pull requests on
 [GitHub](https://github.com/MSUHydrogeology/restorative_agrisolar_lexicon). Especially useful: an archetype
 that recurs in your region and is missing here, a term that lands badly with the people who have
 to use it, or a citation you can trace further than we have.
