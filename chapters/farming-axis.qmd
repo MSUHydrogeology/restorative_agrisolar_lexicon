@@ -31,6 +31,10 @@ S4 and S5 differ in where the benefit goes. S5 does its good on the ground it to
 2. **If nothing is taken, what was the ground before?** Ordinary productive land gives **S3**, ground already idle or chronically low-yielding gives **S4**, and ground carrying a measurable burden gives **S5**.
 :::
 
+Asked across a whole landscape, those two questions sort arrays by the ground each one went onto. One stretch of farmland can hold every position at once, often more than one on the same farm (@fig-farming-landscape).
+
+![**The Axis Across a Landscape.** Eight arrays on three farms and a town edge, each outlined in the color of its position. The arrays themselves are much alike; what sets their positions apart is the ground each one went onto. Both S5 sites end a burden of moving water: one runs along the shoulders of a grassed waterway seeded into a gullying swale, and one sits in a prairie strip on the contour. Panel rows and relief are exaggerated so they read at this scale.](../figures/fig_farming_landscape.svg){#fig-farming-landscape}
+
 ## Which positions each scale allows {#sec-wedge}
 
 Farming carries on under panels at every size. At A1 it is the farmer's own yard, and at A5 it is a hired flock on ground that was already pasture. Sparing is what is scarce at the small end, because an acre or two spares almost nothing. The one combination that thins out toward the large end is S4, because a developer assembling one large block near a substation cannot collect scattered remnants of poor ground. S5 does not thin the same way, since a depleted aquifer covers a whole district. S0 has no size limit at all: a closed landfill grazed under a utility array is S0, and so is a pollinator garden kept with hives inside a small municipal array. Chapter 7 draws this form by form (@fig-archetype-map).
