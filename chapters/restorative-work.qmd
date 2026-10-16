@@ -59,4 +59,15 @@ Its restorative work is **management-led**. The panels are an ordinary layout, n
 :::
 
 
-**Go deeper:** the six leads, from [scale-led](terminology.qmd#term-scale-led) to [contract-led](terminology.qmd#term-contract-led), in the Terminology · what chooses the ground at the large end, under [land assembly](terminology.qmd#term-land-assembly) · the meanings of [community solar](terminology.qmd#term-community-solar) · why the community scale's one-third assumption is [untested](evidence-and-needs.qmd#sec-rn-counterexamples).
+::: {.go-deeper}
+**Go deeper**
+
+- [**The A3 ceiling**](evidence-and-needs.qmd#sec-rn-counterexamples)\
+  The 5 MW limit rests on an untested assumption that an array covers at most a third of its parcel.
+- [**Low-yielding ground in prime fields**](evidence-and-needs.qmd#eb-prime-farmland)\
+  In 338 Midwest fields, 32% of the ground yielded poorly year after year.
+- [**Siting costs**](evidence-and-needs.qmd#eb-siting-studies)\
+  In the eastern US, prime farmland is the cheapest ground for solar, and contaminated land costs 14 to 33% more.
+- [**Incentive bonuses**](evidence-and-needs.qmd#eb-community-scale)\
+  No one has checked whether state bonuses for farming or pollinator habitat changed what got built.
+:::

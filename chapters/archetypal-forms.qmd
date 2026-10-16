@@ -89,4 +89,15 @@ Irrigated fields above an overdrawn aquifer come out of production under a large
 The primer's thread ends in a full description: `A3 scale · S1 farming · management-led restoration`. Each part of that code came from a different chapter. The scale transect placed it in the community zone. The farming axis placed it at S1, because the sheep pasture is still a sheep pasture. And management leads its restorative work: a flock kept on the ground. Among the archetypes it is Regenerative Solar Grazing, with the university's own flock doing the grazing.
 :::
 
-**Go deeper:** every archetype in full, including the seven sketched forms, in the [Archetype Catalog](archetype-catalog.qmd) · [archetype](terminology.qmd#term-archetype) and [design tension](terminology.qmd#term-design-tension) in the Terminology.
+::: {.go-deeper}
+**Go deeper**
+
+- [**Perennial Crop Canopy**](archetype-catalog.qmd#arch-permanent-crop)\
+  Steerable panels over vines in southern France, reported to have raised Chardonnay yields by 60%.
+- [**Regenerative Solar Grazing**](archetype-catalog.qmd#arch-grazing)\
+  Sheep, and now cattle, rotated across about 2,400 acres of solar farms in Georgia.
+- [**Overhead and interspace systems**](terminology.qmd#term-overhead-interspace)\
+  The engineers' hardware typology, and how it differs from an archetype.
+- [**Archetypes by region**](archetype-catalog.qmd#sec-rg-us)\
+  What each US region tends to build, offered as hypotheses to test.
+:::

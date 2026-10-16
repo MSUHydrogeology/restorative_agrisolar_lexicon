@@ -37,4 +37,15 @@ All six levers can be read from the public record. Scale is 1.4 megawatts on abo
 :::
 
 
-**Go deeper:** [design levers](terminology.qmd#term-design-levers) and each lever's terms in the [Terminology](terminology.qmd).
+::: {.go-deeper}
+**Go deeper**
+
+- [**Module technology**](terminology.qmd#term-module-technology)\
+  Bifacial, vertical, and light-tuned panels, and how much light each lets reach the ground.
+- [**Tracking schedule and curtailment**](terminology.qmd#term-tracking-curtailment)\
+  How an array can be steered for the ground under it as well as for power.
+- [**The construction debt**](evidence-and-needs.qmd#sec-rn-measurements)\
+  How much soil carbon mass grading costs a site, which no one has measured.
+- [**Testing the six levers**](evidence-and-needs.qmd#sec-rn-counterexamples)\
+  A decision that fits none of the six would mean the list is short.
+:::

@@ -270,6 +270,64 @@ figure img,
 .how-to > ul:last-child { margin-bottom: 0; }
 .how-to li { margin-bottom: 0.35rem; }
 
+// ===== Go deeper =====
+// Each primer chapter ends by pointing into the Lexicon. Slate, the color of
+// the chapter panels, so a chapter closes the way it opens. Each card names
+// an entry and says what is waiting there, and the whole card is the link.
+.go-deeper {
+  background-color: #f1f4f7;
+  border-top: 3px solid #33506b;
+  border-radius: 0 0 4px 4px;
+  padding: 0.9rem 1.1rem 1.1rem;
+  margin: 2.5rem 0 1.5rem;
+}
+.go-deeper > p:first-child {
+  margin: 0 0 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #33506b;
+}
+.go-deeper > ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  // two columns where the text column allows, one where it does not
+  grid-template-columns: repeat(auto-fit, minmax(max(250px, calc(50% - 0.75rem)), 1fr));
+  gap: 0.75rem;
+}
+.go-deeper > ul > li {
+  position: relative;
+  margin: 0;
+  padding: 0.7rem 0.9rem 0.8rem;
+  background-color: #ffffff;
+  border: 1px solid #d9e0e7;
+  border-radius: 4px;
+  font-size: 0.93rem;
+  line-height: 1.45;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+}
+.go-deeper > ul > li:last-child:nth-child(odd) { grid-column: 1 / -1; }
+.go-deeper > ul > li > a:first-child {
+  color: #33506b;
+  text-decoration: none;
+  font-size: 1rem;
+}
+.go-deeper > ul > li > a:first-child::after {   // the whole card follows its title
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+.go-deeper > ul > li > a:not(:first-child) { position: relative; z-index: 1; }
+.go-deeper > ul > li:hover {
+  border-color: #33506b;
+  box-shadow: 0 2px 8px rgba(51, 80, 107, 0.15);
+  transform: translateY(-1px);
+}
+.go-deeper > ul > li:hover > a:first-child { text-decoration: underline; }
+
 
 
 

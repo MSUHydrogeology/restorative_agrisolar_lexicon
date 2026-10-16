@@ -38,4 +38,15 @@ Energy yield set the array's shape: low panels in close rows, the layout a devel
 :::
 
 
-**Go deeper:** each pressure's entry in the [Terminology](terminology.qmd#term-design-pressures) · the six [regional factors](terminology.qmd#term-regional-factors) · which archetypes each US region tends toward, in the [Archetype Catalog](archetype-catalog.qmd#sec-rg-us).
+::: {.go-deeper}
+**Go deeper**
+
+- [**Design import**](terminology.qmd#term-design-import)\
+  Carrying a solution into a region where it was never shown to work, like Southwest shade into the Midwest.
+- [**Diffuse fraction**](terminology.qmd#term-diffuse-fraction)\
+  Why cloudy regions send more light under the panels, and why that weakens the case for tracking.
+- [**A misquoted grazing cost**](evidence-and-needs.qmd#sec-rn-tracing)\
+  A sheep-grazing cost now in circulation is really a mowing cost. Grazing itself ran about $50 an acre a year.
+- [**Prime farmland**](terminology.qmd#term-prime-farmland)\
+  A USDA soil class, and the one term in this glossary that can stop a project by itself.
+:::

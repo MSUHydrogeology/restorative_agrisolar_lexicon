@@ -50,4 +50,15 @@ Each outcome runs from causing harm at the center of the footprint to promoting 
 Two studies measured what the array did. Corvallis gets little rain from July through September, so the shade did its work when water was scarcest. Where summers are wet, the same effect would likely matter less. Through that dry summer, the soil under the panels stayed wetter than the open pasture, the shaded ground grew 90% more late-season forage, and it used water 328% more efficiently [@adeh2018]. Across two spring grazing seasons, the pastures under the panels grew 38% less forage than the open ones, but of higher quality, and lambs grazing them gained 120 grams a day against 119 in the open. Growing lamb and power on the same ground was about twice as productive as splitting it between a pasture and a solar farm [@andrew2021]. Those results are for water and agriculture. Nobody has measured ecology or the community side at this site.
 :::
 
-**Go deeper:** the four function entries, from [water](terminology.qmd#term-fn-hydrologic) to [community and economy](terminology.qmd#term-fn-community), in the Terminology, including each recipient of the community function named separately · why [microclimate](terminology.qmd#term-microclimate) is a mechanism rather than a function.
+::: {.go-deeper}
+**Go deeper**
+
+- [**What the evidence supports**](evidence-and-needs.qmd#sec-eb-status)\
+  Which claims about each function are verified, which are thin, and which rest on arithmetic.
+- [**Measurements nobody has made**](evidence-and-needs.qmd#sec-rn-measurements)\
+  Ten measurements that would settle these claims, starting with nutrient capture under an array.
+- [**Land equivalent ratio**](terminology.qmd#term-ler)\
+  The standard dual-use metric, and why it says nothing about water, wildlife, or people.
+- [**Footprint and influence zone**](terminology.qmd#term-footprint-influence)\
+  The ground an array covers, and the larger area it affects.
+:::

@@ -68,4 +68,15 @@ The ground was a non-irrigated sheep pasture before the array, and it is a sheep
 :::
 
 
-**Go deeper:** the position entries [S0](terminology.qmd#term-s0) to [S5](terminology.qmd#term-s5) and the [feasible wedge](terminology.qmd#term-feasible-wedge) in the Terminology, including corn grown for ethanol as the large American S5 case · what [sparing](terminology.qmd#term-displaced-benefit) claims about the wider landscape · the [dual-use](terminology.qmd#term-dual-use) dispute.
+::: {.go-deeper}
+**Go deeper**
+
+- [**Sparing at scale**](evidence-and-needs.qmd#sec-rn-counterexamples)\
+  A large project built on scattered marginal remnants would reopen the corner the wedge closes. None is documented.
+- [**Marginal land**](terminology.qmd#term-marginal-land)\
+  Marginality is partly the ground and partly the market, so check how much of a footprint really is marginal.
+- [**Agrivoltaics**](terminology.qmd#term-agrivoltaics)\
+  In 367 shade-versus-sun comparisons, crops did better under panels only above about 30 °C.
+- [**Classifying agrisolar from map data**](terminology.qmd#sec-agrisolar-classes)\
+  How arrays can be sorted from maps alone, before anyone visits the site.
+:::

@@ -58,7 +58,8 @@ end
 -- 3. Styled boxes and banded tables. Quarto hands Typst a bare block and
 -- drops the class, so tag each one with the kind the site styles it as.
 local BOXES = { ["how-to"] = true, example = true, caution = true,
-                welcome = true, ["draft-note"] = true, evidence = true }
+                welcome = true, ["draft-note"] = true, evidence = true,
+                ["go-deeper"] = true }
 local TABLES = { ["zone-table"] = true, ["position-table"] = true,
                  ["function-table"] = true, ["lever-table"] = true,
                  ["region-table"] = true, ["pressure-table"] = true,
@@ -120,6 +121,11 @@ end
 
 function Div(el)
   for _, c in ipairs(el.classes) do
+    if c == "go-deeper" and el.content[1] and el.content[1].t == "Para" then
+      -- the panel's label, set as the small slate capitals the site uses
+      el.content[1] = pandoc.RawBlock("typst",
+        "#lexicon-eyebrow[" .. pandoc.utils.stringify(el.content[1]) .. "]")
+    end
     if BOXES[c] then
       return wrap('#lexicon-box("' .. c .. '")', el)
     elseif TABLES[c] then

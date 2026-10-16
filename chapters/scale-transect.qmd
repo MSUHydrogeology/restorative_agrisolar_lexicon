@@ -46,4 +46,15 @@ Its 1.4 megawatts on about six acres put Rabbit Hills in A3, the community zone,
 :::
 
 
-**Go deeper:** the zone entries [A0](terminology.qmd#term-a0) to [A5](terminology.qmd#term-a5) in the Terminology, including the possible break inside [A4](terminology.qmd#term-a4) · grazing across the transect in the [Archetype Catalog](archetype-catalog.qmd#sec-grazing).
+::: {.go-deeper}
+**Go deeper**
+
+- [**A4 — Utility**](terminology.qmd#term-a4)\
+  The widest zone. It may split at 20 to 25 MW, where several states take siting away from local boards.
+- [**A5 — Complex**](terminology.qmd#term-a5)\
+  No upper limit. Often several arrays on separate parcels, run as one project.
+- [**The prime-farmland argument**](evidence-and-needs.qmd#eb-prime-farmland)\
+  Towns grew up on good soil, so arrays built near where power is used end up on it.
+- [**Grazing across the transect**](archetype-catalog.qmd#sec-grazing)\
+  Who grazes at each zone and what it costs, from a farm's own flock to contract graziers.
+:::

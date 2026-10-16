@@ -242,12 +242,18 @@ $endif$
   "caution": (fill: rgb("#faf6ee"), bar: rgb("#b5843a")),
   "evidence": (fill: rgb("#f4f6f8"), bar: rgb("#8fa9bd")),
   "draft-note": (fill: lex.wash, bar: rgb("#d3d1c7")),
+  "go-deeper": (fill: rgb("#f1f4f7"), bar: lex.slate),
 )
+
+// The label at the head of a Go deeper panel: small slate capitals.
+#let lexicon-eyebrow(body) = block(below: 0.7em, text(
+  font: display, size: 8pt, weight: "semibold", tracking: 0.14em, fill: lex.slate, upper(body)))
 
 #let lexicon-box(kind, body) = {
   // A table or figure inside a box belongs to it. Left free to float, it
   // escaped the box and landed a page later without it.
   show figure: set figure(placement: none)
+  set list(spacing: 0.9em) if kind == "go-deeper"
   if kind == "welcome" {
     block(width: 100%, below: 1.4em, text(size: 1.12em, body))
   } else {
@@ -261,7 +267,8 @@ $endif$
       radius: (right: 2pt),
       above: 1.2em,
       below: 1.2em,
-      breakable: true,
+      // a Go deeper panel is short and closes its chapter: keep it on one page
+      breakable: kind != "go-deeper",
       text(size: if small { 0.93em } else { 1em }, body),
     )
   }
