@@ -4,7 +4,7 @@ From the road, one array looks much like another. The differences are underneath
 
 The axis is not a lever. It is what siting, structure, and management produce together. Much of the public argument about solar on farmland turns on whether the ground should stay in farming [@moore2022], and this axis gives that argument names. About 70% of the solar farms built in rural US areas through 2020 went onto agricultural land [@maguire2024]. What an array replaces depends on the region. In New York, a least-cost buildout would land mostly on pasture and hay, and steering it off farmland would put over 41,000 hectares of forest at risk [@gallaher2026], so the argument there is about grassland birds and woodland as much as row crops. A position means the same thing in every state. What the array displaced does not. The axis borrows its two poles from the land-sharing and land-sparing debate in conservation ecology [@green2005; @phalan2011], but unlike that debate it does not rank the positions against each other.
 
-![**Farming Axis Positions.** What happened to the farming on the ground the array took, drawn six ways at a single scale. The tint runs blue at the sharing end through neutral at S3 to purple at the sparing end.](../figures/fig_farming_positions.svg){#fig-farming-positions}
+![**Farming Axis Positions.** What happened to the farming on the ground the array took, drawn six ways. Each view is at its own scale, given at its top left. The tint runs blue at the sharing end through neutral at S3 to purple at the sparing end.](../figures/fig_farming_positions.svg){#fig-farming-positions}
 
 ## The positions {#sec-positions}
 

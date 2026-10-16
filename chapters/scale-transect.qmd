@@ -12,7 +12,7 @@ Scale gets a chapter because so much changes along with it. As projects get bigg
 
 They shift together closely enough that knowing where a project sits on the range tells you a great deal about it at once. That range is the **[scale transect](terminology.qmd#term-scale-transect)**.
 
-![**Scale Transect Zones.** A0 through A5, one panel each, from a barn roof to rows running to the horizon. Each panel is at its own scale: what grows across the set is the array's share of the frame and what else is still in view.](../figures/fig_scale_transect.svg){#fig-scale-transect}
+![**Scale Transect Zones.** A0 through A5, one view each, from a barn roof to quarter section after quarter section. Each view is at its own scale, given at its top left. What grows across the set is the ground in view, while the same farm, with its red barn, shrinks from the foreground to a speck.](../figures/fig_scale_transect.svg){#fig-scale-transect}
 
 ## The five zones {#sec-zones}
 
